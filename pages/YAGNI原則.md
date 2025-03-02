@@ -1,0 +1,3 @@
+
+[[YAGNI]]
+[[YAGNI principle]]

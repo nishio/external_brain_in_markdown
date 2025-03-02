@@ -1,0 +1,55 @@
+
+- [Ising formulations of many NP problems](https://arxiv.org/abs/1302.5843)
+- Number Partitioning
+    - N個の数がある。これを二つに分けて、それぞれの和が同じになるようにしたい。
+    - $H= \left(\sum_i^N n_i s_i \right)^2$
+    - sはどちらのグループになるかを表す+1/-1の値
+    - かっこの中身が0になるのが期待していること
+    - なお、念のため展開すると
+    - $H= \left(\sum_i^N n_i s_i \right)^2 = \sum_i^N\sum_j^N n_in_js_is_j$
+    - よってJは$n_i n_j$
+
+- グラフ分割
+- クリーク
+- スピンをlog(N)に削減する方法
+- 4.1 Exact Cover
+    - あるサイズnの集合Uの部分集合の集合Vが与えられる。Vの部分集合で、どの2要素もdisjointで、かつ全部unionしたらUになるようなものはあるか？
+    - $H_A = A \sum_{\alpha=1}^n \left( 1 - \sum_{i: \alpha \in V_i } x_i  \right)^2$
+    - αはUの頂点を走る。
+    - 2つ目のsumは、「Viが頂点αを含んでいるようなiについてxiを足し合わせる」
+    - つまり(1-sum)^2までで「頂点αを含んでいるViのうち選択されている(xi=1な)ものがただ1つ」を表現
+- 4.2 Set Packing
+    - disjointである条件で、Vの部分集合のサイズを大きくするには？
+    - maximal independent set (MIS)
+        - [Adiabatic Quantum Algorithms for the NP-Complete Maximum-Weight Independent Set, Exact Cover and 3SAT Problems](https://arxiv.org/abs/1004.2226)で定義されている
+        - ![image](https://gyazo.com/e3937c51ed22ebe2f0376768263820e2/thumb/1000)
+        - ハイライトしたV(G)はSの間違いだろう
+        - V(G)のサブセットSで、Sに含まれる相異なる頂点i, jの間に辺がないもののうち、重みの和が最大のものを返す
+    - Set Packing
+        - ViとVjがdisjointでない時に、辺集合Eに辺(i, j)があるとする
+        - 選ばれたVi (xi=1) と Vj の間に辺があると良くない
+        - $H_A = A \sum_{ij\in E} x_i x_j$
+        - これに加えて、数が増えた方がいい効果を入れる
+        - $H_B = -B \sum_i x_i$
+        - MISの「全長点の重みが1」のケースと解釈できる
+- 4.3 Vertex Cover
+    - グラフが与えられる
+    - 最小の個数の頂点に色を塗って、どの辺も少なくともどちらかの頂点の色が塗られているようにする
+    - $H_A = A\sum_{ij\in E} (1 - x_i)(1 - x_j)$
+    - これは2頂点のorである
+- 4.4 充足可能性
+    - 任意のSATは3SATで書ける
+    - $\Psi = C_1 \wedge \ldots \wedge C_m$
+    - $C_i = y_{i1} \vee y_{i2} \vee y_{i3}$
+    - 3SATはMISに帰着できる
+    - > For each clause Ci, we add 3 nodes to the graph, and connect each node to the other 3.
+        - "the other 2"じゃないのという気がするが、まあ、3つの頂点で三角形を作るということ
+        - ハミルトニアンはVertex Coverのものを入れれば、3つの項のorになる。
+        - だったら「MISに帰着できる」と書くのはおかしいのでは？
+        - でも元論文では確かにMISに帰着するって書いてある
+            - ![image](https://gyazo.com/608683db0729b4618efa58529b798285/thumb/1000)
+    - > Since the graph is made up of m connected triangles, the only way to color m vertices if each vertex is in a distinct triangle, so there must be an element of each clause Ci which is true
+        - ここの説明が全然わからない
+        - 1-in-3SATなのではないか？
+        - (x1, x2, x3)は(not(x1), a, b), (x2, b, c), (not(x3), c, d)を加えて1-in-3SATにしたものと等価である。
+            - これは8通りを書き下してみれば(x1, x2, x3) = (0, 0, 0)の時だけ矛盾が起きるのでわかる

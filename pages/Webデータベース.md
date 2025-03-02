@@ -1,0 +1,4 @@
+
+[[デヂエ]]
+[[Notion]]
+[[Airtable]]

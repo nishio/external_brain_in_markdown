@@ -1,0 +1,2 @@
+
+`obj.SetActive(false)`

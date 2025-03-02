@@ -1,0 +1,33 @@
+
+- 1: 単なるURL
+    - [http://amzn.to/2sjPTJV](http://amzn.to/2sjPTJV)
+- 2: リンク記法で書く
+    - [コーディングを支える技術](http://amzn.to/2sjPTJV)
+- 3: カバー画像を使いたい
+    - カバー画像を貼ると、それをクリックしたときにGyazoに飛んでしまう。
+    - これはユーザにとって予期しない挙動ではないか？
+    - ![image](https://gyazo.com/10a71acdc7c3ca43913f013be2d7e667/thumb/1000)
+        - こんなに大きくなくていいんだけど…
+        - 肝心の書籍のページに飛べないから結局リンクを書くことになる
+- 4: 書籍のページを作る
+    - [[コーディングを支える技術]]
+    - 下のLinksに画像は出るけど、ここに出るわけではない。
+    - それでいいケースも多そう。
+    - その本の読書メモとかもそのページに置くとよい
+    - 良さそうだけど作るコストが高い(めんどくさい）
+        - 突き詰めると画像を貼るのがめんどくさいのではないか
+        - カバー画像を諦めればよい？
+- 何かいい方法がある？
+    - Chrome拡張とか作ってる人がいそう
+        - Amazonのモバイル版でブックマークレットを発動 [http://hokoxjouhou.blog105.fc2.com/blog-entry-844.html?sp](http://hokoxjouhou.blog105.fc2.com/blog-entry-844.html?sp)
+        - 試してみたけど説明の通りに動かない
+        - ![image](https://images-fe.ssl-images-amazon.com/images/I/51nXP3TKXVL._SL160_.jpg)
+            - サイズは程よい
+        - モバイル版はカタカナが半角になるので気持ち悪い
+        - そもそもPCから見てる時にモバイル版にリンクされてると不快
+    - とりあえずAmazonアソシエイトバーを入れてれば
+        - $("#amzn-ss-text-shortlink-textarea").value
+        - "[http://amzn.to/2skOmD9"](http://amzn.to/2skOmD9")
+        - $("#imgBlkFront").src
+        - [https://images-na.ssl-images-amazon.com/images/I/51nXP3TKXVL._SX351_BO1,204,203,200_.jpg](https://images-na.ssl-images-amazon.com/images/I/51nXP3TKXVL._SX351_BO1,204,203,200_.jpg)
+        - 画像URL リンク先URLの順に並べて置けば画像でリンクは張れるようだ

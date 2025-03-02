@@ -1,0 +1,7 @@
+
+> We propose a design for philanthropic or publicly-funded seeding to allow (near) optimal provision of a decentralized, self-organizing ecosystem of public goods. The concept extends ideas from [[Quadratic Voting]] to a funding mechanism for endogenous community formation. Individuals make public goods contributions to projects of value to them. The amount received by the project is (proportional to) the square of the sum of the square roots of contributions received. Under the "standard model" this yields first best public goods provision. Variations can limit the cost, help protect against collusion and aid coordination. We discuss applications to campaign finance, open source software ecosystems, news media finance and urban public projects. More broadly, we offer a resolution to the classic liberal-communitarian debate in political philosophy by providing neutral and non-authoritarian rules that nonetheless support collective organization.
+[https://arxiv.org/abs/1809.06421](https://arxiv.org/abs/1809.06421)
+(DeepL)
+- 我々は、[[公共財]]の分散化された自己組織化エコシステムを（ほぼ）最適に提供するための、慈善事業または公的資金によるシーディングの設計を提案する。このコンセプトは、[[二次投票]]からのアイデアを、内発的なコミュニティ形成のための[[資金調達メカニズム]]に拡張したものである。個人は、自分にとって価値のあるプロジェクトに対して公共財の寄付を行う。プロジェクトが受け取る金額は、受け取った貢献の平方根の合計の二乗に（比例して）なる。標準モデルのもとでは、これが公共財の提供の最良化をもたらす。バリエーションは、コストを制限し、談合から保護し、協調を助けることができる。選挙資金、オープンソースソフトウェアのエコシステム、ニュースメディアの資金調達、都市の公共事業への応用について議論する。より広くは、政治哲学における古典的な[[リベラル]]と[[コミュニタリアン]]の論争に対して、中立的で[[非権威的]]なルールを提供し、それにもかかわらず集団組織をサポートすることで解決策を提供する。
+
+[[Quadratic Funding]]

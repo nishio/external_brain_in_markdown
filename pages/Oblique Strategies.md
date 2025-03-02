@@ -1,0 +1,334 @@
+
+> [[ブライアン・イーノ]]作品の中でも興味深いプロジェクトが、1970年代中期に作曲家ピーター・シュミックとコラボレーションした「オブリーク・ストラテジーズ」。1セット115枚の白いカードにそれぞれ文章やフレーズが書き込まれており、創作活動中に壁にぶち当たったとき、よく切ったカードの束から1枚を引くことで古い思考から離れたアイデアや着想を得られるというものです。
+[アンビエントの先駆者ブライアン・イーノの創作戦略「オブリーク・ストラテジーズ」とは？ - GIGAZINE](https://gigazine.net/news/20150210-oblique-strategies/)
+
+![image](https://gyazo.com/6df3e11f1f03413a2db0ee9b7d6cf2ac/thumb/1000)
+[https://www.makoism.com/p/oblique-strategies-99e9bd223650?s=r](https://www.makoism.com/p/oblique-strategies-99e9bd223650?s=r)
+> The goal of the cards (per Brian Eno) is “not final, as new ideas will present themselves, and others will become self-evident”; personally I find it best used to “trust” the card even if it is unclear. Let it drive you down a different path that wasn’t initially evident.
+(DeepL) カードのゴールは（ブライアン・イーノによれば）「最終的なものではなく、新しいアイデアが提示されたり、他のものが自明になったりする」ことです。個人的には、カードが不明瞭でも「信じる」ことが最も良い使い方だと思っています。最初は明らかでなかった別の道を、カードが教えてくれるのです。
+> “honor thy error as a hidden intention”
+>  “only a part, not the whole”
+>  “lost in useless territory”
+>  “idiot glee”
+>  “take a break”
+"あなたの誤りを隠れた意図として尊重する"
+"一部だけで、全体ではない"
+"無駄な領域で迷う"
+"馬鹿騒ぎする"
+"休憩を取る"
+
+[Wikipedia](https://ja.wikipedia.org/wiki/ブライアン%E3%83%BBイーノ#.E3.82.AA.E3.83.96.E3.83.AA.E3.83.BC.E3.82.AF.E3.83.BB.E3.82.B9.E3.83.88.E3.83.A9.E3.83.86.E3.82.B8.E3.83.BC.E3.82.BA)
+- 問題をできる限り明確に文字で述べよ（State the problem in words as clearly as possible. ）。
+- 君の最も身近な親友ならどうするだろう？（What would your closest friend do?）
+- 何を増やすべきか？何を減らすべきか？（What to increase? What to reduce?）
+- 誤りを隠れた意図として賞賛せよ。（Honour thy error as a hidden intention.）
+
+[https://github.com/ceejbot/oblique-strategies/blob/master/index.js](https://github.com/ceejbot/oblique-strategies/blob/master/index.js)
+[https://monoskop.org/images/8/8c/Eno_Brian_Schmidt_Peter_Oblique_Strategies.pdf](https://monoskop.org/images/8/8c/Eno_Brian_Schmidt_Peter_Oblique_Strategies.pdf)
+
+ざっくりDeepLにかけてみた<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+- 一旦離れてみろ、休んでみろ、というもの
+- 小さい単位でやれ、というもの
+- 音楽的なもの
+- 固着から抜け出すために捨てさせる系
+- DeepLがうまく訳せてないものもある
+
+- '(Organic) machinery',
+    - （有機）機械
+- 'A line has two sides',
+    - '線は2つの側面を持つ'
+- 'A very small object         Its center',
+    - '非常に小さな物体 その中心'
+- 'Abandon desire',
+    - '欲望を捨てる'
+- 'Abandon normal instructions',
+    - '正常な指示を放棄する'
+- 'Abandon normal instruments',
+    - '正常な器具を捨てる'
+- 'Accept advice',
+    - '忠告を受け入れる'
+- 'Accretion',
+    - '降着'
+- 'Adding on',
+    - 付け足す
+- 'Allow an easement (an easement is the abandonment of a stricture)',
+    - '地役権を認める(地役権とは厳格さを放棄すること)'
+- 'Always first steps',
+    - '常に最初の一歩を踏み出す'
+- 'Always give yourself credit for having more than personality (given by Arto Lindsay)',
+    - '常に人格以上のものを持つことを自分に認めさせる（アルト・リンゼイより授かる）'
+- 'Are there sections?  Consider transitions',
+    - 'セクションがあるか？ トランジションを考える』。
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>面白い、区切られたセクションがあるなら、そのセクションの間のトランジションがある。
+- 'Ask people to work against their better judgement',
+    - 自分の良識に反して働くよう人に求める』。
+- 'Ask your body',
+    - 自分の体に聞く』。
+- 'Assemble some of the elements in a group and treat the group',
+    - 'グループの要素のいくつかを組み立て、グループを扱う'。
+- 'Balance the consistency principle with the inconsistency principle',
+    - '一貫性の原則と矛盾の原則のバランスをとる'。
+- 'Be dirty',
+    - '汚くあれ'。
+- 'Be extravagant',
+    - 贅沢であれ』。
+- 'Be less critical',
+    - 批判的でないこと
+- 'Breathe more deeply',
+- 'Bridges\n--build\n--burn',
+- 'Cascades',
+    - 'Cascades'（カスケード）。
+- 'Change ambiguities to specifics',
+    - 'Change ambiguities to specifics' （曖昧さを具体的に変える）。
+- 'Change instrument roles',
+    - 'Change instrument roles' （楽器の役割を変える）。
+- 'Change nothing and continue with immaculate consistency',
+    - Change nothing and continue with immaculate consistency' (何も変えずに無傷で続ける)
+- 'Change specifics to ambiguities',
+    - 'Change specifics to ambiguities', '曖昧さを具体的に変更する',
+- 'Children\n--speaking\n--singing',
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>子供たち、話す、歌う
+- 'Cluster analysis',
+    - 'クラスター分析'。
+- 'Consider different fading systems',
+    - 'Consider different fading systems', '異なるフェージングシステムを検討する',
+- 'Consider transitions',
+- 'Consult other sources\n--promising\n--unpromising',
+    - Consult other sources (他のソースを参照する), 'Promising, Unpromising',
+- 'Convert a melodic element into a rhythmic element',
+- 'Courage!',
+- 'Cut a vital connection',
+- 'Decorate, decorate',
+- 'Define an area as `safe\' and use it as an anchor',
+    - Define an area as `safe' and use it as an anchor' (ある領域をセーフと定義し、それをアンカーとして使う)
+- 'Destroy\n-nothing\n-the most important thing',
+- 'Discard an axiom',
+    - 'Discard an axiom' （公理を捨てる）。
+- 'Disciplined self-indulgence',
+    - 'Disciplined self-indulgence'（規律ある自己放任）。
+- 'Destroy﹑the most important thing',
+- 'Disconnect from desire',
+    - 'Disconnect from desire' （欲求を断ち切る）。
+- 'Discover the recipes you are using and abandon them',
+    - 使っているレシピを発見して捨てる」、「レシピを捨てる」。
+- 'Display your talent',
+    - '才能を発揮する'。
+- 'Distort time',
+    - '時間を歪める'。
+- 'Do nothing for as long as possible',
+    - できるだけ長い間、何もしない』。
+- 'Do something boring',
+    - つまらないことをする』。
+- 'Do the last thing first',
+    - '最後のことを先にする'。
+- 'Do the washing up',
+    - '洗い物をする'。
+- 'Do the words need changing?',
+- 'Do we need holes?',
+- 'Don\'t avoid what is easy',
+- 'Don\'t be frightened of cliches',
+- 'Don\'t break the silence',
+- 'Don\'t stress one thing more than another',
+- 'Dont be afraid of things because they\'re easy to do',
+- 'Dont be frightened to display your talents',
+    - Dont be frightened to display your talents' （自分の才能を発揮することを恐れるな）。
+- 'Go outside. ドアを閉めろ』。
+- 'Go slowly all the way round the outside',
+- 極限まで行って、途中まで戻ってくる』(Go to a extreme, come part way back)
+- 汝の過ちを隠れた意図として尊重せよ』。
+- '他の人ならどうするか'。
+- あなたならどうするだろうか』。
+- '間違いのないものを人間らしく'。
+- 'アホな歓喜（？）
+- 作品を断絶された出来事の集合として想像する』。
+- 真っ暗闇で、あるいはとても大きな部屋で、とても静かに』。
+- 'Infinitesimal gradations'（無限小のグラデーション）。
+- 'Emphasize differences',
+- 'Emphasize repetitions',
+- 'Emphasize the flaws',
+    - 'Emphasize the flaws' （欠点を強調せよ）。
+- 'Faced with a choice, do both (given by Dieter Rot)',
+    - '選択に直面したら、両方やれ（ディーター・ロットより授かる）'。
+- 'Feed the recording back out of the medium',
+    - 録音を媒体からフィードバックする』。
+- 'Fill every beat with something',
+    - すべてのビートを何かで埋め尽くせ』。
+- 'Find a safe part and use it as an anchor',
+    - 安全なパートを見つけ、それをアンカーとして使う」。
+- 'Get your neck massaged',
+    - 首をマッサージしてもらう』。
+- 'Ghost echoes',
+    - ゴースト・エコー』。
+- 'Give the game away',
+    - 'Give the game away' （ゲームを放棄しなさい
+- 'Give way to your worst impulse',
+    - '最悪の衝動に道を譲れ'。
+
+- 'Go outside. Shut the door.',
+- 'Go slowly all the way round the outside',
+- 'Go to an extreme, come part way back',
+- 'Honor thy mistake as a hidden intention',
+- 'How would someone else do it?',
+- 'How would you have done it?',
+- 'Humanize something free of error',
+- 'Idiot glee (?)',
+- 'Imagine the piece as a set of disconnected events',
+- 'In total darkness, or in a very large room, very quietly',
+- 'Infinitesimal gradations',
+- 'Intentions\n--nobility of\n--humility of\n--credibility of',
+- 'Into the impossible',
+- 'Is it finished?',
+- 'Is something missing?',
+- 'Is the information correct?',
+- 'Is the style right?',
+- 'Is there something missing',
+    - '何か足りないものはないか'
+- 'It is quite possible (after all)',
+    - (結局のところ)可能性は十分にある』。
+- 'It is simply a matter of work',
+    - 単に仕事の問題だ』。
+- 'Just carry on',
+    - 続けていけばいい』。
+- 'Left channel, right channel, center channel',
+    - '左チャンネル、右チャンネル、センターチャンネル'。
+- 'Listen to the quiet voice',
+    - '静かな声に耳を傾ける'。
+- 'Look at the order in which you do things',
+    - '物事を行う順序を見よ'
+- 'Look closely at the most embarrassing details & amplify them',
+    - 最も恥ずかしい細部をよく見る＆増幅する』。
+- 'Lost in useless territory',
+    - 無駄な領域に迷い込む』。
+- 'Lowest common denominator',
+    - '最小公倍数'。
+- 'Magnify the most difficult details',
+    - 最も難しいディテールを拡大する』。
+- 'Make a blank valuable by putting it in an exquisite frame',
+    - 絶妙なフレームに入れることで、空白を価値あるものにする』。
+- 'Make a sudden, destructive unpredictable action; incorporate',
+    - '突発的、破壊的な予測不可能な行動をする；取り入れる'。
+- 'Make an exhaustive list of everything you might do & do the last thing on the list',
+    - 'やりそうなことをすべて網羅したリストを作る＆リストの最後のことをやる',
+- 'Make it more sensual',
+- 'Make what\'s perfect more human',
+- 'Mechanicalize something idiosyncratic',
+    - '特有なものを機械化する'。
+- 'Move towards the unimportant',
+- 'Mute and continue',
+    - 'Mute and continue'（無言で続ける）。
+- 'Not building a wall but making a brick',
+    - 'Not building a wall but making a brick' （壁を作るのではなく、レンガを作る）。
+- 'Once the search has begun, something will be found',
+    - '探索が始まれば、何かが見つかる'。
+- 'Only a part, not the whole',
+    - 全体でなく一部だけ』。
+- 'Only one element of each kind',
+    - 各種1つの要素だけ』。
+- 'Overtly resist change',
+- 'Pae White\'s non-blank graphic metacard',
+- 'Put in earplugs',
+- 'Question the heroic',
+- 'Reevaluation (a warm feeling)',
+    - 再評価（温かい気持ち）』。
+- 'Remember those quiet evenings',
+    - 'Remember those quiet evening' （静かな夜を思い出せ）。
+- 'Remove a restriction',
+    - '制限を取り除く'。
+- 'Remove ambiguities and convert to specifics',
+    - '曖昧さを取り除き、具体的な内容に変換する'。
+- 'Remove specifics and convert to ambiguities',
+    - '具体的なことを削除して曖昧なことに変換する'。
+- 'Repetition is a form of change',
+    - 繰り返しは変化の一形態である』。
+- 'Retrace your steps',
+- 'Reverse',
+    - 'リバース'。
+- 'Short circuit (example; a man eating peas with the idea that they will improve  his virility shovels them straight into his lap)',
+    - 短絡的に考える（例；豆を食べると精力がつくと思い込んでいる男が、そのまま膝にかきこむ）』。
+- 'Simple subtraction',
+    - '単純な引き算'。
+- 'Simply a matter of work',
+    - 単純に仕事の問題』。
+- 'Slow preparation, fast execution',
+    - 準備はゆっくり、実行は素早く』。
+- 'Spectrum analysis',
+    - 'スペクトル分析'。
+- 'State the problem as clearly as possible',
+    - 問題をできるだけ明確に述べよ』。
+- 'Take a break',
+    - '休憩をとる'。
+- 'Take away the elements in order of apparent non-importance',
+    - 見かけ上重要でない要素から順に取り上げる』。
+- 'Take away the important parts',
+    - '重要な部分を取り去る'。
+- 'Tape your mouth (given by Ritva Saarikko)',
+    - 口にテープを貼る（リトヴァ・サーリッコが与えた）」。
+- '矛盾の原則'。
+    - 'The inconsistency principle',
+- 最も重要なことは、最も忘れやすいことである」。
+    - 'The most important thing is the thing most easily forgotten',
+- テープが音楽になる」。
+    - 'The tape is now the music',
+- 'Think\n--inside the work\n--outside the work',
+- 'Think of the radio',
+    - ラジオを考えよう」。
+- 'Tidy up',
+
+- 'Towards the insignificant',
+- 'Trust in the you of now',
+- 'Try faking it (from Stewart Brand)',
+- 'Turn it upside down',
+    - '逆さまにする'。
+- 'Twist the spine',
+    - '背骨をひねる'。
+- 'Use \'unqualified\' people',
+- 'Use an old idea',
+    - Use an old idea', '古いアイデアを使う',
+- 'Use an unacceptable color',
+    - Use an unacceptable color' (許容できない色を使う)。
+- 'Use cliches',
+    - Use cliches' (決まり文句を使う)
+- 'Use fewer notes',
+    - Use fewer notes' （少ない音符を使う）。
+- Use \'unqualified' people',
+- 'Use filters',
+    - Use filters' （フィルターを使う）。
+- 'Use something nearby as a model',
+    - '近くにあるものを手本にする'。
+- 'Use your own ideas',
+    - 自分の考えを使う』。
+- 'Voice your suspicions',
+    - '疑惑を声に出す'。
+- 'Water',
+    - '水'を使う。
+- 'What are the sections sections of?    Imagine a caterpillar moving',
+    - '断面図は何の断面図か？   イモムシが動いているところを想像してみよう』。
+- 'What are you really thinking about just now?',
+    - 今、本当に考えていることは何だろう』。
+- 'What context would look right?',
+    - どんな文脈なら正しく見えるか』。
+
+- 'What is the reality of the situation?',
+    - '現実はどうなっているのだろう？
+- 'What is the simplest solution?',
+    - 一番シンプルな解決策は何だろう』。
+- 'What mistakes did you make last time?',
+    - '前回はどんな失敗をしたのか?
+- 'What to increase? What to reduce? What to maintain?',
+    - '何を増やすか？何を減らすか？何を維持するか』。
+- 'What would your closest friend do?',
+- 'What wouldn\'t you do?',
+- 'When is it for?',
+- 'Where is the edge?',
+- 'Which parts can be grouped?',
+- 'Work at a different speed',
+- 'Would anyone want it?
+- 'You are an engineer',
+    - 'あなたはエンジニアです'。
+- 'You can only make one dot at a time',
+- 'You don\'t have to be ashamed of using your own ideas',
+    - 自分のアイデアを使うことを恥じる必要はない」。
+- 'blank white card',
+
+関連
+- [[タロット]]

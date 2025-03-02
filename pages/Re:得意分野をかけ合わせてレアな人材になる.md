@@ -1,0 +1,20 @@
+
+from [/villagepump/得意分野をかけ合わせてレアな人材になる](https://scrapbox.io/villagepump/得意分野をかけ合わせてレアな人材になる)
+Aに加えBをマスターしたとして、やる仕事の幅は広くなるのか？狭くなるのか？<img src='https://scrapbox.io/api/pages/villagepump/はるひ/icon' alt='/villagepump/はるひ.icon' height="19.5"/>
+- 仕事の需要と周囲の人のスキルによって決まる<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
+    - ![image](https://gyazo.com/eff232a298de20384241c9ebe71e7271/thumb/1000)
+    - 1: Aの力が100の人Pがそばにいるとする
+    - Aの力が40の人Qが
+        - 2: Aを80に伸ばしてもPの[[劣化コピー]]に過ぎない
+        - 3: A40 B40になればそのチームの中で代わりのいない役割を発揮できる
+    - QがPの劣化コピー[[下位互換]]である間、Pが取りたいタスクを取った残りのタスクからQは仕事を選ぶことになる
+- 関連
+    - [[知識交換の必要条件]]
+        - [[憧れの人の下位互換にならない]]
+
+[[分野かけ合わせで価値を生む方法の例]]
+[[分野かけ合わせで価値を生む能力]]
+
+関連
+- [[π型人材]]
+- [[掛け合わせニッチトップ戦略]]

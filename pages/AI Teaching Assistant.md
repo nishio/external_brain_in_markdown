@@ -1,0 +1,21 @@
+
+[[AIティーチングアシスタント]]
+東京都立の大学院で24時間対応の Teaching Assistant (ChatGPT) を用意して分かったこと
+[https://speakerdeck.com/yasslab/learn-to-code-with-chatgpt](https://speakerdeck.com/yasslab/learn-to-code-with-chatgpt)
+
+学生からの質問がとても増える
+- 自分ごとわからないところを言語化するのは良い学びの機会になりそう<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+- ![image](https://gyazo.com/6c1eaf73220305a28dff3220b9efa7ac/thumb/1000)
+> [@katzueno](https://twitter.com/katzueno/status/1651901131130552320?s=20): AI だと気兼ねなく質問できるってのは自分自身でも感じてる。
+> 恥ずかしいと思う質問も気兼ねなくできる。
+> [@dokeitaDev](https://twitter.com/dokeitaDev/status/1651901348844273664?s=20): Googleにしていた質問を収集して講義を改善することができるっていうのは面白い
+- [[質問を収集して改善する]]することができる
+    - 講義に対してどういう「わからなさ」を学生が感じているのかを講師がよりよく収集して講義マテリアルの改善につながることができる
+    - ここが重要そう
+    - [[アジャイル開発]]っぽさがある
+        - Webサービス開発で言えば、ユーザがつまずいてるところがどこなのかAnalyticsを見て改善するようなもの
+        - ↔商品を作ってから販売するメンタルモデル
+
+[[安川 要平]]
+[[AI-TA]]
+[[AIによる教育の変化]]

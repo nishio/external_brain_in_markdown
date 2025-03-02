@@ -1,0 +1,3 @@
+
+[[CLIP]]
+[[ViT]]とはVisual [[Transformer]]

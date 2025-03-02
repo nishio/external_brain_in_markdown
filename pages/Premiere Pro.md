@@ -1,0 +1,2 @@
+
+[[Premire Pro]]はtypo

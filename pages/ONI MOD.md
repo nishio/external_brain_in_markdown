@@ -1,0 +1,111 @@
+
+- Falling Sand
+    - 崩れた砂も掘削対象になる
+- Build Over Plants
+    - 植物の生えているところに建設指示できる、植物は抜かれる
+- Bigger Capacity
+    - 格納庫などの容量調整
+    - 格納庫を作る資材はすぐ潤沢になる
+    - たくさん並べて解決するよりMODで解決したい
+- Aquatic Farm
+    - 周囲の水を吸うファームタイル
+    - 今はあまり活用してない
+    - 温度調整した池で栽培
+- GasOverlay
+    - 見やすい
+- Blueprints
+    - 建設したものをもう一つ作りたい時に建設指示をコピペできる
+    - 名前をつけて保存再利用できる
+- DGSM - Duplicants Generation Settings Manager // by @Ony 👾
+    - 初期デュプリカントやプリントポッドの挙動に干渉できる
+- Favorite Resources // by @Ony 👾
+    - リソースの表示を改善
+- Self-sealing Airlocks
+    - エアロックが開いてる時にも気密になる
+    - openにすると気密解除
+    - 液体エアロックが面倒なので
+- Bigger Camera Zoom Out
+    - いっぱいズーム
+- Longer Bridges
+    - 2つのパイプをまたぐ長いブリッジ
+- Buildable AETN
+    - 反エントロピー装置を建設可能に
+- Travel tube crossing wall and ladder
+    - チューブがはしごと交差可能に
+- No Drop // by @Ony 👾
+    - 物を落とさない
+- ChainedDeconstruction
+    - 連続した物をまとめて解体
+- Bigger Building Menu
+    - メニューを大きくしてスクロールの手間を減らす
+- Speed Control
+    - いつも10倍速でプレイしてる
+- Half Door
+    - 1マスのドア
+- Deconstructable POI Props
+    - 遺跡とかを解体する
+    - 邪魔
+- Fluid Shipping
+    - 液体タンクを運んだ後、直接パイプに入れられる装置
+- Smart Mop // by @Ony 👾
+    - モップ掛けを範囲選択するの面倒
+    - ワンクリックで連続する液体をモップ対象にする
+- Advanced Electrolyzer
+    - パイプに水素と酸素が分かれて入る
+    - フィルタなしで分離する仕組みがソラで作れるようになって、作るのが面倒になった
+        - [/OxygenNotIncluded/SPOM](https://scrapbox.io/OxygenNotIncluded/SPOM)
+    - なおPH2OをPO2にすることもできる、蒸発装置の置き換えにもなる
+- Buildable Natural Tile
+    - 土ブロックなどを設置できる
+    - アルガエを焼くの面倒
+    - なお同量の資源が必要なので資源を増やしたりはできない
+- Butcher & Fishing Stations
+    - 余剰の生物を肉にする装置
+- Double Sweeper Range
+    - 範囲を伸ばして自動化の余地を増やす
+- Compact Info Cards
+    - 表示改善
+- Efficient Supply
+    - なんだっけな
+- Crack Reacher
+    - 建設などの範囲を伸ばす
+- Cooling Element
+    - まだ試してない、電力を使って冷却(熱破壊)する装置
+    - ボイラーを使ったアクティブクーリングをできるようになったし、いくつも建設してて面倒になってきた
+- Pliers
+    - パイプをチョキンとできる
+    - 解体指示して待つ代わりに、即座にパイプを非接続にできる
+- Black Hole Garbage Disposal
+    - いらない物を捨てる(まだ使ってない)
+    - 天然ガス蒸留とかし始めて、用途ゼロの硫黄とかができたら、捨てたくなる
+    - レゴリス捨てたらマシンの動作が軽くなるのかな？
+    - なお無限液体タンクはエアロックドアやエアフロータイル、無限気体タンクはサウナ、という解決策がある
+    - 無限気体タンクはベントに液体って解決がよく知られてるけど面倒なので最近はサウナしか使ってない
+- Piped output
+    - 最近入れた
+    - 環境放出型の設備をすべてパイプ出力型にする
+        - Advanced Electrolyzerの上位互換とも言える
+    - 設備を密閉してポンプで吸えば解決する、その手間が面倒な時に。
+- Thermal Isolation Door
+    - 断熱するドア
+    - ドアを3つ重ねて真ん中だけあげれば真空になって断熱できるんだけど、それが面倒な時に。
+- Advanced Generators 2
+    - 「周囲の熱を吸って発電する発電機」
+    - 稼働温度が10度から55度なのでボイラーの代替にはならない
+    - 居住エリアをコンパクトに冷やすのにはいい
+    - 10度が適温なタイプの農場ならこれを置くだけで適温維持されるのも楽チン
+- Simpler Pip Plant Rule
+    - ピップの種まきルールをシンプルにする
+    - 放置してもまあまあいい感じに植える
+    - ハシゴとかで頑張れば制御できるわけだがめんどくさい
+- Power Tweaks
+    - 電力関係のバランス調整
+    - これはもういらないかな
+- Claustrophobia - Stuck Duplicant Alert
+    - 閉じ込められた時にアラートが出る
+    - 不慮の死を避けるために
+
+今欲しいもの
+SCPS PowerGridの配電装置がひとかたまりになってる装置が欲しい、毎回作るのめんどくさい
+
+振り返ってみると「やり方を試行錯誤する段階」は楽しいのだが、安定してくると「やり方のわかってる作業をやるのは嫌だ」ってなるのだな、自分

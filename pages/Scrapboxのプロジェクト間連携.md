@@ -1,0 +1,21 @@
+
+- 個人が一人で編集しているScrapboxプロジェクトの間の連携をどうすると、より良い知的生産ツールになるのか
+- コメントを付ける機能、フィードバックを送る機能についての議論
+    - [[Scrapboxにコメント機能を付ける案]]
+    - [/rashitamemo/コメントを送る機能的な何か](https://scrapbox.io/rashitamemo/コメントを送る機能的な何か)
+    - [/shokai/記事毎にSNS最適化すると虚無が集まる](https://scrapbox.io/shokai/記事毎にSNS最適化すると虚無が集まる)
+- 実験的に複数のプロジェクトをマージしてみたが、イマイチだった
+    - [/test-scb-interlink](https://scrapbox.io/test-scb-interlink)
+    - タグの使い方が人によって意外と異なっているので、タグを介したつながりがあまりない
+    - そもそも「機械的に投稿させない」「人間が頭を使って1ページずつ追加して行くべき」というScrapboxの思想を考えると、「機械的にマージ」のアプローチは筋が悪い
+    - プロジェクト間リンクも人間が頭を使って1つずつ生み出して行くべき
+- 現時点で存在しているプロジェクト間リンクに関しては、一応検索でわかる
+    - [https://scrapbox.io/rashitamemo/search/page?q=%5B%2Fnishio](https://scrapbox.io/rashitamemo/search/page?q=%5B%2Fnishio)
+    - [https://scrapbox.io/shokai/search/page?q=%5B%2Fnishio](https://scrapbox.io/shokai/search/page?q=%5B%2Fnishio)
+    - この方法でN個のプロジェクトから自分のプロジェクトへの言及を見つけようと思うとN回検索しないといけない
+    - 1日1回くらい自動で検索して教えてくれるシステムを作ることは可能ではある
+- しかしこの「言及」は、「読む、気づく、それに言及する」という流れ
+    - Scrapboxの中の自分のページを書いているときに自分の他のページがサジェストされる仕組みは、過去に書いたことに対する気づきを支援する
+        - ![image](https://gyazo.com/279b913e15efc9759f977ab88bbb213d/thumb/1000)
+        - このサジェスト対象に「あらかじめ指定した他のプロジェクト」のページも追加できると良いのではないか
+        - 一人で複数プロジェクトを使っているときにも便利

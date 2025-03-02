@@ -1,0 +1,81 @@
+
+from [[Planet Minecraft]]
+WheatSeedsSystem開発メモ
+- ✅[[Cactus Arm and Flowers]]
+    - サボテンな花をテクスチャ違いでユーザが作れるようにしたい
+- ✅[[Laptop, Desktop and Keyboard]]
+    - フットペダル、キネシス、トラックボール、三つレンズのあるスマホ、などもあるといいかな
+    - INFOBAR
+        - [https://www.au.com/mobile/product/featurephone/infobarxv/](https://www.au.com/mobile/product/featurephone/infobarxv/)
+    - AirPodsとATのヘッドホン
+    - メガネ
+    - マグカップ
+        - マグカップは色違い&カスタマ可能テクスチャで独立パックで出した方がいい
+    - Chairsのスレで「机はないの？」と聞かれた、少しあるけど...
+- ✅[[Colorful Chairs]]
+- ✅[[複数のリソースパックを組み合わせる仕組み]]
+- ✅[[Umbrella Pack]]
+- ✅Lights
+    - 壁のライト
+        - これは他のライトをいくつか追加してライトシリーズにする
+    - ライトシリーズ、割と作るのが楽しいのでパッケージ化を先にしてもいいかも
+    - なぜかフリッカーが起きてる、原理がわからん
+- ✅[[Diagonal Blocks]]
+- ✅[[Customizable books]]
+    - ✅今は表紙しかケアしてないが背表紙裏表紙もケアしたい
+    - サイズ違い、厚み違いも欲しい
+    - 本棚も作れるといいなぁ
+        - 3冊くらい積んだモデルとか
+- Desks
+    - ✅ガラスの机
+    - 木の机もあるが…✅
+- 枯山水
+    - パネルを水平にしたらカーペットにできるじゃんと考えていた
+    - シャイニング床を作ってもそれにしか使えなぁ
+    - 枯山水のユニットを作ると面白い
+    - ✅床だけ作った、石はない
+    - [https://twitter.com/nishio/status/1475668057096097792](https://twitter.com/nishio/status/1475668057096097792)
+- Invisible Holes
+    - ✅当たり判定のない土と石
+- ✅✅✅✅✅✅✅✅✅✅
+- [[Customizable panels]]
+    - 白と縁のあるもの
+    - 縁はテクスチャのUVマップの改善が必要
+    - 斜めにレンガブロックのテクスチャを出すと屋根っぽいぞ
+        - 側面と交差が問題だが
+        - 斜めパネルはエクスペリメンタルで出すか
+    - サンプルに矢印
+        - [http://hinodeart.jp/ピクトグラム例/](http://hinodeart.jp/ピクトグラム例/)
+        - [https://commons.wikimedia.org/wiki/File:JR-East_Tokyo_Sta_Signboard_3.JPG](https://commons.wikimedia.org/wiki/File:JR-East_Tokyo_Sta_Signboard_3.JPG)
+
+- [[Customizable monitors]]
+    - ラップトップもテクスチャ切り替え可能にする
+        - それはいまあるのをリリースしてから
+    - 低解像度のテクスチャを添付？
+    - 最小限でリリースを終わらせよう
+        - 黒、青、マイクラ
+    - 机のモニター、会議室のモニター、壁のモニター
+- ここまでに含まれてないものは？
+    - 受付モニターとビデオ会議システムのモニター
+        - これもディスプレイシリーズか？
+        - 画面カスタマイズできるように変える気がないからLaptopパックに混ぜるか
+    - 葉っぱ
+    - 打ち合わせブース
+        - イマイチだからいらないかな
+    - miscパックを作ってある
+- Snowfrake
+    - [https://www.google.co.jp/search?q=スノーフレーク%E3%80%80ウィンドウ&tbm=isch&ved=2ahUKEwji3tGp1sz0AhWPAqYKHQScCcEQ2-cCegQIABAC&oq=スノーフレーク%E3%80%80ウィンドウ&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzoHCCMQ7wMQJzoFCAAQgAQ6BggAEAQQGDoFCAAQzQJQ8QlYjjhgzTtoBHAAeAGAAaUCiAGKDpIBBjEyLjMuMZgBAKABAcABAQ&sclient=mobile-gws-wiz-img&ei=Z7KsYaKPAY-FmAWEuKaIDA&bih=719&biw=414&client=safari&prmd=insxv&hl=ja-jp](https://www.google.co.jp/search?q=スノーフレーク%E3%80%80ウィンドウ&tbm=isch&ved=2ahUKEwji3tGp1sz0AhWPAqYKHQScCcEQ2-cCegQIABAC&oq=スノーフレーク%E3%80%80ウィンドウ&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzoHCCMQ7wMQJzoFCAAQgAQ6BggAEAQQGDoFCAAQzQJQ8QlYjjhgzTtoBHAAeAGAAaUCiAGKDpIBBjEyLjMuMZgBAKABAcABAQ&sclient=mobile-gws-wiz-img&ei=Z7KsYaKPAY-FmAWEuKaIDA&bih=719&biw=414&client=safari&prmd=insxv&hl=ja-jp)
+    - とりあえずmisc
+    - クリスマスウィンドウステッカーとか呼ぶらしい
+        - [https://images.app.goo.gl/7vFQ6qEeuLV1mpc86](https://images.app.goo.gl/7vFQ6qEeuLV1mpc86)
+- Yijing Symbols
+    - [https://ja.wikipedia.org/wiki/易経記号](https://ja.wikipedia.org/wiki/易経記号)
+    - sample mind palace
+- Recipe
+- Bedrock version
+- ニキシー管
+    - [https://twitter.com/nod_y/status/1382332621863022596?s=21](https://twitter.com/nod_y/status/1382332621863022596?s=21)
+- 多面体
+    - 22.5度単位での回転しかできないので12と20は近似になる
+- [https://twitter.com/tubuakiotoko/status/1462513761734979584?s=21](https://twitter.com/tubuakiotoko/status/1462513761734979584?s=21)
+    - [https://twitter.com/yuna_digick/status/1376187549941706758?s=2](https://twitter.com/yuna_digick/status/1376187549941706758?s=2)
