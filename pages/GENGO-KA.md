@@ -1,3 +1,6 @@
+---
+title: "GENGO-KA"
+---
 
 言語化
 - [[GENGO]]: 言語, [[language]]

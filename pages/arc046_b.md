@@ -1,3 +1,6 @@
+---
+title: "arc046_b"
+---
 
 [B - 石取り大作戦](https://atcoder.jp/contests/arc046/tasks/arc046_b)
 ![image](https://gyazo.com/d9db142ea9bb9d964a6454189f0dacea/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "Principles of the small start"
+---
 
 - [[small start]]
 

@@ -1,6 +1,9 @@
+---
+title: "NAM原理"
+---
 
 ![image](https://gyazo.com/e36737b123defed3bafa7aacbdbb5d9e/thumb/1000)
-- NAM原理
+- NAM原理(2000)
 - [[柄谷 行人]]
 - [Amazon](https://amzn.to/3ONOare)
 

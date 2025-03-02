@@ -1,3 +1,6 @@
+---
+title: "残像マシマシRoboMasterS1暗闇走行動画"
+---
 
 [https://youtu.be/KeFs8z0oW4M](https://youtu.be/KeFs8z0oW4M)
 - 昔、ルンバにLEDをつけて長時間露光で撮影した作品を見た

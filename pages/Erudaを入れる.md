@@ -1,3 +1,6 @@
+---
+title: "Erudaを入れる"
+---
 
 [liriliri/eruda: Console for mobile browsers](https://github.com/liriliri/eruda)
 - `$ npm install eruda --save`

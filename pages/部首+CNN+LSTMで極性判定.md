@@ -1,3 +1,6 @@
+---
+title: "部首+CNN+LSTMで極性判定"
+---
 
 [漢字の部首を特徴量として用いたCNN+LSTMによる文書分類 | 人工知能研究開発エンジニア集団 - 株式会社Nextremer](https://www.nextremer.com/blog/5636/)
 漢字の[[部首]]を特徴量として用いた[[CNN]]+[[LSTM]]による[[極性判定]]

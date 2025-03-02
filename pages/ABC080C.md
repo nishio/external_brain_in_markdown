@@ -1,3 +1,6 @@
+---
+title: "ABC080C"
+---
 
 [C - Shopping Street](https://atcoder.jp/contests/abc080/tasks/abc080_c)
 - ![image](https://gyazo.com/24f7bc06a85f410b32b34fc2ddae9048/thumb/1000)

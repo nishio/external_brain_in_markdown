@@ -1,3 +1,6 @@
+---
+title: "SM-2 algorithm"
+---
 
 - [https://www.supermemo.com/english/ol/sm2.htm](https://www.supermemo.com/english/ol/sm2.htm)
 

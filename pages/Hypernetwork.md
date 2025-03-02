@@ -1,3 +1,6 @@
+---
+title: "Hypernetwork"
+---
 
 [Diffusion Model Hypernetworksのレイヤー構造を変えた際の変化を比較する](https://zenn.dev/discus0434/articles/14e1d7c9baf8b5)
 - 提案が為されたブログ

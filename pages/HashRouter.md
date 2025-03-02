@@ -1,3 +1,6 @@
+---
+title: "HashRouter"
+---
 
 [[react-router-dom]]
 

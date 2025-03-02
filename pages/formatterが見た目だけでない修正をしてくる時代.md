@@ -1,3 +1,6 @@
+---
+title: "formatterが見た目だけでない修正をしてくる時代"
+---
 
 > [nishio](https://twitter.com/nishio/status/1722807117579788694/quick_promote_web/intro) AI「この人間の書くソースコード、訛りがキツくてわかりにくいな、コミット前に標準語的な書き方に揃えとこ」
 >  中年「AIがわしのコードをわやくちゃにしよった！」

@@ -1,3 +1,6 @@
+---
+title: "RoboMasterS1 初電源ON！"
+---
 
 [https://youtu.be/yZGKt1_ZXqI](https://youtu.be/yZGKt1_ZXqI)
 

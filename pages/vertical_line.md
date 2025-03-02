@@ -1,3 +1,6 @@
+---
+title: "vertical_line"
+---
 
 ![image](https://gyazo.com/26952d1cdf9f34029c045761889f31d0/thumb/1000)
 画像を並べて表示するときに、間に縦線が入ってほしいと思ったときに使う

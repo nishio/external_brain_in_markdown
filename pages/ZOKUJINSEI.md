@@ -1,3 +1,6 @@
+---
+title: "ZOKUJINSEI"
+---
 
 ZOKUJINSEI(属人性) is a Japanese word which means "dependency on individual skills/expertise."
 - 属: belong

@@ -1,3 +1,6 @@
+---
+title: "at least three technologies heading toward Plurality"
+---
 
 from [[Broad Listening and Large Language Model]]
 at least three technologies heading toward Plurality
@@ -20,3 +23,5 @@ at least three technologies heading toward Plurality
 > 🖖
 > ![image](https://pbs.twimg.com/media/FunR7HoacAIWGd0.jpg)
 - > [[4 step process for deliberation]].  [https://youtu.be/ukna6wZg-8A?t=697](https://youtu.be/ukna6wZg-8A?t=697)
+
+<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/>

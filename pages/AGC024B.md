@@ -1,3 +1,6 @@
+---
+title: "AGC024B"
+---
 
 [B - Backfront](https://atcoder.jp/contests/agc024/tasks/agc024_b)
 ![image](https://gyazo.com/c45a7bf6e5e9f8696fb1c193eb80eaa5/thumb/1000)

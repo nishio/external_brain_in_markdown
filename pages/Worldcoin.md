@@ -1,3 +1,6 @@
+---
+title: "Worldcoin"
+---
 
 > [Introducing Worldcoin](https://worldcoin.org/)
 > More than three years ago we founded Worldcoin with the ambition of creating a new identity and financial network owned by everyone; the rollout begins today. If successful, we believe Worldcoin could drastically increase economic opportunity, scale a reliable solution for distinguishing humans from AI online while preserving privacy, enable global democratic processes, and eventually show a potential path to AI-funded UBI.

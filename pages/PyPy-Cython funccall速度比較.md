@@ -1,3 +1,6 @@
+---
+title: "PyPy/Cython funccall速度比較"
+---
 
 2020-08-05
 - Python3: 960 ms

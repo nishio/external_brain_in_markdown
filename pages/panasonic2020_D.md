@@ -1,3 +1,6 @@
+---
+title: "panasonic2020_D"
+---
 
 [D - String Equivalence](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_d)
 - ![image](https://gyazo.com/a8b4b439b08c41341e3abcb3d0b259b3/thumb/1000)

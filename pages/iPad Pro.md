@@ -1,3 +1,6 @@
+---
+title: "iPad Pro"
+---
 
 2018-07-28
 - [/shiology/05065-180309 神エクセルこそiPad Proで〈写真は中目黒VOWSのアボカドチーズバーガーをSIGMA sd Quattro H + 14mm F1.8 DG HSM〉](https://scrapbox.io/shiology/05065-180309 神エクセルこそiPad Proで〈写真は中目黒VOWSのアボカドチーズバーガーをSIGMA sd Quattro H + 14mm F1.8 DG HSM〉)

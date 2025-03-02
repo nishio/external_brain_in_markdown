@@ -1,3 +1,6 @@
+---
+title: "useRef"
+---
 
 > This works because useRef() creates a plain JavaScript object. The only difference between useRef() and creating a {current: ...} object yourself is that useRef will give you the same ref object on every render.
 >

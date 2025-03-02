@@ -1,3 +1,6 @@
+---
+title: "Erudaを開発画面でかつiPadの時だけONにする"
+---
 
 [[pRegroup-done-2019]]
 Erudaを開発画面でかつiPadの時だけONにする

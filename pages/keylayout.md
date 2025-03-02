@@ -1,3 +1,6 @@
+---
+title: "keylayout"
+---
 
 [[親指シフト]]のような2種類のシフトがあるキーボードのレイアウトを綺麗に表示するアプリ
 ![image](https://gyazo.com/2470327d9b76bf315d2b9da536fd5073/thumb/1000)

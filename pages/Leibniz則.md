@@ -1,3 +1,6 @@
+---
+title: "Leibniz則"
+---
 
 $(FG)' = F'G + FG'$
 

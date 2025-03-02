@@ -1,3 +1,6 @@
+---
+title: "Toolformer"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>簡潔にToolformerについて箇条書きで説明します。
 - Toolformerは、言語モデルが外部ツール（検索エンジン、計算機、カレンダーなど）を使えるようにするモデルです。

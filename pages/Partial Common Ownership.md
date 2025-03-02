@@ -1,3 +1,6 @@
+---
+title: "Partial Common Ownership"
+---
 
 Partial Common Ownership
 

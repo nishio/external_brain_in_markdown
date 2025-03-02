@@ -1,3 +1,6 @@
+---
+title: "Two Snuke"
+---
 
 [F - Two Snuke](https://atcoder.jp/contests/aising2020/tasks/aising2020_f)
 - [[エイシング プログラミング コンテスト 2020]]

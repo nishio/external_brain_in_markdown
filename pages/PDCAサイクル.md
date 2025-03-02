@@ -1,3 +1,6 @@
+---
+title: "PDCAサイクル"
+---
 
 デミング・シューハートサイクル。1986。
 ![image](https://gyazo.com/06c74a2cb9ea2d725636e2b9a39327c1/thumb/1000)

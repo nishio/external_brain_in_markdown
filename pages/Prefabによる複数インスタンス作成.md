@@ -1,3 +1,6 @@
+---
+title: "Prefabによる複数インスタンス作成"
+---
 
 Prefabから[[インスタンス]]を作成した場合、親のPrefabを編集すると、インスタンスが変化に追従するらしい([[オーバーライド]]している場合を除く)
 [https://unity3d.com/jp/learn/tutorials/projects/hajiuni/creating-collectible-objects?playlist=45986](https://unity3d.com/jp/learn/tutorials/projects/hajiuni/creating-collectible-objects?playlist=45986)

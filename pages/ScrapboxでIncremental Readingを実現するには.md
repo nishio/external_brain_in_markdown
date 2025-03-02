@@ -1,3 +1,6 @@
+---
+title: "ScrapboxでIncremental Readingを実現するには"
+---
 
 Scrapboxで[[Incremental Reading]]を実現するには何が必要か？
 - 外部のページをScrapboxにクリップする

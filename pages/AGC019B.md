@@ -1,3 +1,6 @@
+---
+title: "AGC019B"
+---
 
 [B - Reverse and Compare](https://atcoder.jp/contests/agc019/tasks/agc019_b)
 - ![image](https://gyazo.com/0f9d4abc0da3abe12d279a7e8d78c384/thumb/1000)

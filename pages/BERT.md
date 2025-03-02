@@ -1,3 +1,6 @@
+---
+title: "BERT"
+---
 
 BERT: Pre-training of Deep Bidirectional [[Transformer]]s for Language Understanding
 [https://arxiv.org/abs/1810.04805](https://arxiv.org/abs/1810.04805)

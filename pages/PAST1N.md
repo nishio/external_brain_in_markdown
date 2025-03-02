@@ -1,3 +1,6 @@
+---
+title: "PAST1N"
+---
 
 [N - 整地](https://atcoder.jp/contests/past201912-open/tasks/past201912_n)
 ![image](https://gyazo.com/8b99c6809b86f9fe2fee2cd6710f2b46/thumb/1000)

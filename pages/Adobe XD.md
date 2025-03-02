@@ -1,3 +1,6 @@
+---
+title: "Adobe XD"
+---
 
 - [XDことはじめStep1：まずはここから！「ワイヤーフレームを作ってみよう」 | Adobe XD チュートリアル](https://helpx.adobe.com/jp/xd/how-to/beginners-tutorial-1.html)
     - Step1-4. 描画ツールでかんたんなアイコンを作成

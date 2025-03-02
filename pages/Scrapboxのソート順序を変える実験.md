@@ -1,3 +1,6 @@
+---
+title: "Scrapboxのソート順序を変える実験"
+---
 
 - Scrapboxは過去の自分との対話
 - Scrapboxは時を超えるツール

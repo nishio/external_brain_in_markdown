@@ -1,3 +1,6 @@
+---
+title: "JISSEN/RENSHU"
+---
 
 [[実践]]([[JISSEN]])
 - [https://en.wiktionary.org/wiki/実践](https://en.wiktionary.org/wiki/実践)

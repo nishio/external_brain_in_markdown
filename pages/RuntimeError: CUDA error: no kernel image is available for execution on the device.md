@@ -1,3 +1,6 @@
+---
+title: "RuntimeError: CUDA error: no kernel image is available for execution on the device"
+---
 
 
 diffuserを試していた時に発生した。CUDAのバージョン違いではないかと確認したらその通りだった。

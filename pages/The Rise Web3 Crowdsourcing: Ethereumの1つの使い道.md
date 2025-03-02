@@ -1,3 +1,6 @@
+---
+title: "The Rise Web3 Crowdsourcing: Ethereumの1つの使い道"
+---
 
 > [@0xtkgshn](https://twitter.com/0xtkgshn/status/1688831243226595328): The Rise Web3 Crowdsourcing: Ethereumの1つの使い道
 >

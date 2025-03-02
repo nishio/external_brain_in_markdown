@@ -1,3 +1,6 @@
+---
+title: "search"
+---
 
 Footnote of [[(4.5) Design task of reading]]
 

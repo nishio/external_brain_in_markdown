@@ -1,3 +1,6 @@
+---
+title: "abc106_d"
+---
 
 [https://atcoder.jp/contests/abc106/tasks/abc106_d](https://atcoder.jp/contests/abc106/tasks/abc106_d)
 - 考えたこと

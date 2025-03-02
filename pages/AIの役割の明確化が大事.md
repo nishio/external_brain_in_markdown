@@ -1,3 +1,6 @@
+---
+title: "AIの役割の明確化が大事"
+---
 
 > 一般論としては「[[AIボット]]に与える『[[役割]]』や『[[目的]]』が重要」という気持ちがしている<img src='https://scrapbox.io/api/pages/enchi/nishio/icon' alt='/enchi/nishio.icon' height="19.5"/>
 

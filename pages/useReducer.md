@@ -1,3 +1,6 @@
+---
+title: "useReducer"
+---
 
 [[React Hooks]] [Hooks API Reference – React](https://reactjs.org/docs/hooks-reference.html#usereducer)
 js

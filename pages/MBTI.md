@@ -1,3 +1,6 @@
+---
+title: "MBTI"
+---
 
 [https://ja.wikipedia.org/wiki/MBTI](https://ja.wikipedia.org/wiki/MBTI)
 

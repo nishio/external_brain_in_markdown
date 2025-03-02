@@ -1,3 +1,6 @@
+---
+title: "ChatGPTに忘れてた単語を思い出させてもらった"
+---
 
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>物事の誕生のプロセスとか生まれたタイミングでの姿を意味する、ルネサンスみたいな発音の単語ってなんでしたっけ

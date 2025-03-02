@@ -1,3 +1,6 @@
+---
+title: "T字パイプ"
+---
 
 ![image](https://gyazo.com/6de8b640c52f4ac642575af0ac58cb9d/thumb/1000)
 

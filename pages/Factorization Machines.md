@@ -1,3 +1,6 @@
+---
+title: "Factorization Machines"
+---
 
 - `[S. Rendle, 2010]` [PDF](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 - 二次の組み合わせ特徴量を素朴に扱うと特徴量の数をDとしてD^2のパラメータが生まれてしまう

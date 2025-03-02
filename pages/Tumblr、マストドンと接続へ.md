@@ -1,3 +1,6 @@
+---
+title: "Tumblr、マストドンと接続へ"
+---
 
 [[Tumblr]]、[[マストドン]]と接続へ。分散型SNS標準プロトコルを採用し、[[Twitter]]からの脱出受け入れ強化（CloseBox） | テクノエッジ TechnoEdge
 [https://www.techno-edge.net/article/2022/11/22/522.html](https://www.techno-edge.net/article/2022/11/22/522.html)

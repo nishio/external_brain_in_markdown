@@ -1,3 +1,6 @@
+---
+title: "Torch"
+---
 
 - Torch
     - [http://torch.ch/docs/getting-started.html](http://torch.ch/docs/getting-started.html)

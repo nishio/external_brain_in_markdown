@@ -1,3 +1,6 @@
+---
+title: "写真撮影OK講義"
+---
 
 > カメラのシャッター音を１いいねと解釈します
 [https://twitter.com/ogatti21/status/1425744373661138946?s=21](https://twitter.com/ogatti21/status/1425744373661138946?s=21)

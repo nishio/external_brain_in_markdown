@@ -1,3 +1,6 @@
+---
+title: "Gyazo ProのOCR結果をAPIで取得"
+---
 
 python
 

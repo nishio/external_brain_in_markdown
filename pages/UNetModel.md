@@ -1,3 +1,6 @@
+---
+title: "UNetModel"
+---
 
 `class UNetModel(nn.Module)`
 - The full UNet model with attention and timestep embedding.

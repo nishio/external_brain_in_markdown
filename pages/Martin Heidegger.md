@@ -1,3 +1,6 @@
+---
+title: "Martin Heidegger"
+---
 
 [[ハイデッガー]]の[[dwell]]の概念、僕が考えたいことに関連しそうな気がしたので調べた
 - とりあえず「Bauen Wohnen Denken」なのはわかった

@@ -1,3 +1,6 @@
+---
+title: "Scrapboxで目次を作るのと第四版反映と組版の中でどれが優先か決まるとよい"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/kei/icon' alt='/nishio/kei.icon' height="19.5"/>あなたはこの会話で何がどうなるとよいのでしょう？
 <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='/nishio/human.icon' height="19.5"/>Scrapboxで目次を作るのと第四版反映と組版の中でどれが優先か決まるとよい

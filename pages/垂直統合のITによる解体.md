@@ -1,3 +1,6 @@
+---
+title: "垂直統合のITによる解体"
+---
 
 [https://www.slideshare.net/atsnakada/ss-80520040](https://www.slideshare.net/atsnakada/ss-80520040)
 - 巨大企業が「[[垂直統合]]」で支配する市場にスタートアップが参入

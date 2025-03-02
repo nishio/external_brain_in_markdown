@@ -1,3 +1,6 @@
+---
+title: "ScrapboxでKeichoを使う拡張"
+---
 
 Scrapboxで[[Keicho]]を使う拡張
 

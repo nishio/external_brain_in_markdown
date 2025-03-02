@@ -1,3 +1,6 @@
+---
+title: "NLP2023 緊急パネル：ChatGPTで自然言語処理は終わるのか？"
+---
 
 2023-03-14
 [https://www.youtube.com/watch?v=TXgOrYUPs_s](https://www.youtube.com/watch?v=TXgOrYUPs_s)

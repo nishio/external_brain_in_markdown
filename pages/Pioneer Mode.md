@@ -1,3 +1,6 @@
+---
+title: "Pioneer Mode"
+---
 
 2023-09-04
 開拓者モード (Pioneer Mode) とは、「[[AIによる赤リンクの延伸]]」の発展形

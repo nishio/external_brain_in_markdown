@@ -1,3 +1,6 @@
+---
+title: "to write all out"
+---
 
 In original Japanese, I use "[[書き出し法]]"(KAKI-DASHI-HOU) as a noun, a name of method.
 

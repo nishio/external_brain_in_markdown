@@ -1,3 +1,6 @@
+---
+title: "KL距離からのFisher行列の導出"
+---
 
 
 - [[Kullback-Leibler divergence]]([[KL距離]])の定義:

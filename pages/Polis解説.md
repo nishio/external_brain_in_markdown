@@ -1,3 +1,6 @@
+---
+title: "Polis解説"
+---
 
 ワークショップ: [/omoikane/第27回コミュニティ工学ワークショップ「AIに短編SFを書かせて未来を考えてみよう！～ChatGPT×SFプロトタイピング～」](https://scrapbox.io/omoikane/第27回コミュニティ工学ワークショップ「AIに短編SFを書かせて未来を考えてみよう！～ChatGPT×SFプロトタイピング～」) での解説資料
 - old version: [[Polis解説動画]]

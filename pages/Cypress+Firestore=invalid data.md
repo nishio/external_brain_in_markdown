@@ -1,3 +1,6 @@
+---
+title: "Cypress+Firestore=invalid data"
+---
 
 `Function DocumentReference.set() called with invalid data. Data must be an object, but it was: a custom Object object`
 

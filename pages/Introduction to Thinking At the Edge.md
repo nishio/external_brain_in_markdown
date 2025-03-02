@@ -1,3 +1,6 @@
+---
+title: "Introduction to Thinking At the Edge"
+---
 
 Introduction to [[Thinking At the Edge]]
 By [[Eugene T. Gendlin]], Ph.D.

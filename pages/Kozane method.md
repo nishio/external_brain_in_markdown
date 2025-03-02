@@ -1,3 +1,6 @@
+---
+title: "Kozane method"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/jaen/icon' alt='jaen.icon' height="19.5"/>Machine Translation from [[こざね法]]
 - Methods of [[organizing thought]] introduced by [[Tadao Umesao]] in [[The Art of Intellectual Production]]. p.202

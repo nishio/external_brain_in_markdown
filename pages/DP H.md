@@ -1,3 +1,6 @@
+---
+title: "DP H"
+---
 
 [H - Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h)
 - グリッドに障害物が置かれている、右または下に移動することで左上から右下に至る経路はいくつあるか、という問題

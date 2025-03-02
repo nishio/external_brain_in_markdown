@@ -1,3 +1,6 @@
+---
+title: "Scrapbox上で発表を聞きながら議論"
+---
 
 > [増井 俊之 Facebook](https://www.facebook.com/707202497/posts/10158791780527498/?d=n) 2020/9/7の情報処理学会ヒューマンインタラクション研究会はZoomでオンラインで開催されたのだが、Scrapbox上に資料を貼ってその上で議論を行なうことにすると大変効果的だった。
 >  [http://www.sighci.jp/events/view/72](http://www.sighci.jp/events/view/72)

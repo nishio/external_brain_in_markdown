@@ -1,3 +1,6 @@
+---
+title: "Grundy数"
+---
 
 - 負け状態のGrundy数は0
 - ある状態のGrundy数はそこから遷移可能な状態のGrundy数以外の最小の非負整数

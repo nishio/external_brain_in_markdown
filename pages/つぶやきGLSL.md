@@ -1,3 +1,6 @@
+---
+title: "つぶやきGLSL"
+---
 
 - [[つぶやきGLSL理解したい]]
     - [OpenGL 4.x Reference Pages](https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/indexflat.php)

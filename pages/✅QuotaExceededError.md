@@ -1,3 +1,6 @@
+---
+title: "✅QuotaExceededError"
+---
 
 - [Dexie.QuotaExceededError](https://dexie.org/docs/DexieErrors/Dexie.QuotaExceededError)
 - 高々IDと日時と最初の発言を記録してる程度のことでクォータを使い切るのは謎

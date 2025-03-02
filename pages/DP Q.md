@@ -1,3 +1,6 @@
+---
+title: "DP Q"
+---
 
 [Q - Flowers](https://atcoder.jp/contests/dp/tasks/dp_q)
 - 二つの数列が与えられて、片方の数列の単調増加列になるような部分列すべての中で、もう一つの数列で与えられたスコアの合計が最大になるものを選ぶ問題

@@ -1,3 +1,6 @@
+---
+title: "自作電子的KJ法ツールgrouping"
+---
 
 ![image](https://gyazo.com/48d4e95e3be528f6df0e715a39b1c902/thumb/1000)
 

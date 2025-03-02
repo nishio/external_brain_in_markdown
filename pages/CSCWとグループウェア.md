@@ -1,3 +1,6 @@
+---
+title: "CSCWとグループウェア"
+---
 
 ![image](https://gyazo.com/48aad61fe44061315743ae7f98ffaef8/thumb/1000)
 

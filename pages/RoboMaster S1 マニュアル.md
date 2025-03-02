@@ -1,3 +1,6 @@
+---
+title: "RoboMaster S1 マニュアル"
+---
 
 [https://dl.djicdn.com/downloads/robomaster-s1/20190612/RoboMaster_S1_User_Manual_v1.0_EN.pdf](https://dl.djicdn.com/downloads/robomaster-s1/20190612/RoboMaster_S1_User_Manual_v1.0_EN.pdf)
 

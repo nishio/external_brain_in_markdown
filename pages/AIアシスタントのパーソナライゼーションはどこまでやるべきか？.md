@@ -1,3 +1,6 @@
+---
+title: "AIアシスタントのパーソナライゼーションはどこまでやるべきか？"
+---
 
 [[Democratic Inputs to AI]]の議題について[[三人会議メソッド]]した
 - log: [https://chat.openai.com/share/ac6a18c9-5cd0-4bb1-a36e-175b32e659f1](https://chat.openai.com/share/ac6a18c9-5cd0-4bb1-a36e-175b32e659f1)

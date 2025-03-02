@@ -1,3 +1,6 @@
+---
+title: "WorldIDを持ってない人"
+---
 
 > [nishio](https://twitter.com/nishio/status/1722634501661282488) 「僕はイーロンマスクのお金配りよりサムアルトマンのお金配りの方が面白いと思う」っていって始めた[[Worldcoin]]、淡々と時々送られてくるのを受け取ってるだけなのでいちいちツイートとかしてないんだけど聞かれたので今これくらいってのを貼っときますね
 >  ![image](https://pbs.twimg.com/media/F-gG8wXbQAAI6uY?format=jpg&name=medium#.png)

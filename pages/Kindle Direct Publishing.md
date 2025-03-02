@@ -1,3 +1,6 @@
+---
+title: "Kindle Direct Publishing"
+---
 
 [Self Publishing | Amazon Kindle Direct Publishing](https://kdp.amazon.com/en_US/)
 

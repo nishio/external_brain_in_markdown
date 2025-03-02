@@ -1,3 +1,6 @@
+---
+title: "Computational Thinkingは君主論"
+---
 
 [Twitter](https://twitter.com/tokoroten/status/1081154259008184321)
 - [[中山 心太]]による講義準備のためのブレストの一部
@@ -16,3 +19,57 @@
 だから「[[Computational Thinking]]は[[君主論]]」となる。
 
 関連: [君主論 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%90%9B%E4%B8%BB%E8%AB%96)
+
+archive
+> [tokoroten](https://twitter.com/tokoroten/status/1081144024595980288) メモ
+>  お金持ちになる方法
+>
+>  人間をslaveにする
+>  コンピューターをslaveにする
+>  資本をslaveにする
+>  配偶者をslaveにする
+>
+>  で、君はどれがやりたい？
+
+> [tokoroten](https://twitter.com/tokoroten/status/1081148955499552769) ちなみに、今度の大学の講義の講義資料予定
+
+> [tokoroten](https://twitter.com/tokoroten/status/1081151598233939974) [[老害]]が人間をslaveにしたり、資本をslaveにしている間に、君たちはコンピューターをslaveにすればいい。
+>
+>  AIとは、コンピューターがslaveできる範囲を広げる技術である。
+>  したがって、手札が何もない君たちにとって、一番レバレッジが利くのがコンピューターをslaveにすることである。
+
+> [tokoroten](https://twitter.com/tokoroten/status/1081154259008184321) computational thinkingは君主論である。だから学ぶ必要がある。
+
+> [tokoroten](https://twitter.com/tokoroten/status/1081154957410066433) ソシャゲは、コンピューターというslaveを経由にして、人間と配偶者をslaveにする産業
+
+> [tokoroten](https://twitter.com/tokoroten/status/1081157695825035264) こういうヤバイ講義をしてほしい大学の先生がいたら、お声がけください。ヤバイ講義をしますんで。
+
+> [tokoroten](https://twitter.com/tokoroten/status/1081161692917030913) 講義のタイトルは「[[21世紀の君主論]]」で良さそう。
+
+> [tokoroten](https://twitter.com/tokoroten/status/1081239398220320768) 配偶者はイマイチ勘違いされそうなので、何か変えたい。
+>  愛とか可処分時間ハッカーとかの、人間の感情を操る能力なんだよなぁ。
+>  なんて言葉を使うといいかなー
+- [[恋愛感情その他の好意の感情]]
+
+> [tokoroten](https://twitter.com/tokoroten/status/1081351744808923136) slaveも過激な言葉だから、コントロールに変えるか。
+>
+>  お金持ちになる方法
+>  ・組織をコントロールする
+>  ・感情をコントロールする
+>  ・資本をコントロールする
+>  ・計算機をコントロールする
+>
+>  うーん、駄目だな、コンピュータは現代の奴隷制であり、
+>  奴隷制による[[ダンピング]]が既存産業を食ってる感が無い
+
+> [tokoroten](https://twitter.com/tokoroten/status/1081352956136452096) コントロールも自制に見えるからよくないなぁ。他制なのよね。
+>  支配とかかなー。それぞれで動詞を変えてみるか
+>
+>  お金持ちになるには
+>  ・組織を構築して搾取する
+>  ・人の感情を支配して搾取する
+>  ・資本を元に資本を搾取する
+>  ・計算機を奴隷労働させてダンピングし搾取する
+>
+>  こんな感じかなー？
+

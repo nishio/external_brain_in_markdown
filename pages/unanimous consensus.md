@@ -1,3 +1,6 @@
+---
+title: "unanimous consensus"
+---
 
 [[全会一致]]
 > Unanimous Consensus means affirmative votes on a voting item of all then-current Directors, excluding any Director/Alternate who is required to abstain from voting on such item pursuant to the Conflict of Interest Policy, regardless of any quorum requirement hereunder.

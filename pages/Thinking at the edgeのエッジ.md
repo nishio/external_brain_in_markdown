@@ -1,3 +1,6 @@
+---
+title: "Thinking at the edgeのエッジ"
+---
 
 from [[「体験過程と意味の創造」勉強会1]]
 [[Thinking at the edge]]のエッジのイメージを解説

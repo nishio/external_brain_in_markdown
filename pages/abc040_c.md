@@ -1,3 +1,6 @@
+---
+title: "abc040_c"
+---
 
 [[DP A]]で見た問題。同じ解き方をしても面白くないので「動的計画法なのに配列を確保しない」を試して列の長さが短い時にREした
 [C - 柱柱柱柱柱](https://atcoder.jp/contests/abc040/tasks/abc040_c)

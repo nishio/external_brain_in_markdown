@@ -1,3 +1,6 @@
+---
+title: "Dominion Card Categories"
+---
 
 Attacks
 - Attack immunity

@@ -1,3 +1,6 @@
+---
+title: "aising2019C"
+---
 
 [C - Alternating Path](https://atcoder.jp/contests/aising2019/tasks/aising2019_c)
 ![image](https://gyazo.com/6eb7e020e386120d4b5fa5a5331e74af/thumb/1000)

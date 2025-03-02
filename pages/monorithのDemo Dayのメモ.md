@@ -1,5 +1,8 @@
+---
+title: "monorithのDemo Dayのメモ"
+---
 
-[MITOU2019 Demo Day](https://www.facebook.com/groups/2933888119990947/permalink/2933947946651631/?refid=18&__tn__=*s*s-R)
+[MITOU2019 Demo Day](https://www.facebook.com/groups/2933888119990947/permalink/2933947946651631/?refid=18&__tn__=*s*s-R) / [[MITOU Demo Day]]
 - 検索は毎日してて効率にも直結してるのに学ぶ機会がない
 - たくさん気になることがある時に、一つを調べてるうちに、他の「気になったこと」を忘れちゃう
 - そこで

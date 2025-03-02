@@ -1,3 +1,6 @@
+---
+title: "WHAT UTILITARIANISM IS"
+---
 
 ![image](https://gyazo.com/6dce6b0b3a81916e96fdad6aaed81cc1/thumb/1000)
 

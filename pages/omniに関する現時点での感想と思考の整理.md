@@ -1,3 +1,6 @@
+---
+title: "omniに関する現時点での感想と思考の整理"
+---
 
 Kozaneba
 - ![image](https://gyazo.com/7d6eed9b756f95558259b3ba75fa9f85/thumb/1000)

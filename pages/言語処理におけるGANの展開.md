@@ -1,3 +1,6 @@
+---
+title: "言語処理におけるGANの展開"
+---
 
 ![image](https://gyazo.com/89f4af857610ae486f09b7f2598cd5dd/thumb/1000)
 - [Slideshare](https://www.slideshare.net/mamoruk/jsai2018gan4nlp)

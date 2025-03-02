@@ -1,3 +1,6 @@
+---
+title: "MintRally UX Upgrade Sprint"
+---
 
 2023-05-25
 > [hal_sk](https://twitter.com/hal_sk/status/1661530239703605249) web3 でシビックテックを盛り上げるコントリビューター募集

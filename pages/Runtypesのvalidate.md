@@ -1,3 +1,6 @@
+---
+title: "Runtypesのvalidate"
+---
 
 今までユーザがJSONファイルをインポートしようとした時に、インポートされるアイテムごとに「isTItemがfalseだったらinvalid itemと表示する」ぐらいのことしかできてなかった
 - [[Runtypes]]に移行したら「何がミスマッチなせいでfalseなのか」がdetailsの中に入ってた

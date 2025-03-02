@@ -1,3 +1,6 @@
+---
+title: "Red Link Extension and Blue Link Intersections"
+---
 
 In the [[Red Link Extension]], I consider a state where the linked page is empty, and LLM generates that page.
 

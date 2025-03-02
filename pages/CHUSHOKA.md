@@ -1,3 +1,6 @@
+---
+title: "CHUSHOKA"
+---
 
 - [[抽象化]]
     - [[抽象]] = [[Abstract]]

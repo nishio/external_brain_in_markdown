@@ -1,3 +1,6 @@
+---
+title: "GPT4にKJ法的ペアを提案させる"
+---
 
 prompt
 

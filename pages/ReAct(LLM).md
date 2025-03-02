@@ -1,3 +1,6 @@
+---
+title: "ReAct(LLM)"
+---
 
 REACT: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS
 [https://arxiv.org/pdf/2210.03629.pdf](https://arxiv.org/pdf/2210.03629.pdf)

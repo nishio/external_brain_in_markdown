@@ -1,3 +1,6 @@
+---
+title: "Quadratic Votingと組織票"
+---
 
 [[Quadratic Voting]]と[[組織票]]
 

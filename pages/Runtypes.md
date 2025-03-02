@@ -1,3 +1,6 @@
+---
+title: "Runtypes"
+---
 
 [https://twitter.com/nishio/status/1441231714106232837](https://twitter.com/nishio/status/1441231714106232837)
 

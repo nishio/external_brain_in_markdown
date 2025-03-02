@@ -1,3 +1,6 @@
+---
+title: "ジェルコートF"
+---
 
 [https://www.weltecnet.co.jp/products/concool/gelcoatf/](https://www.weltecnet.co.jp/products/concool/gelcoatf/)
 

@@ -1,3 +1,6 @@
+---
+title: "Solid-state drive"
+---
 
 - [Solid-state drive - Wikipedia](https://en.wikipedia.org/wiki/Solid-state_drive)
 - [Floating-gate MOSFET - Wikipedia](https://en.wikipedia.org/wiki/Floating-gate_MOSFET)

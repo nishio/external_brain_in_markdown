@@ -1,3 +1,6 @@
+---
+title: "s-curve"
+---
 
 - Foster, R. N. Innovation: The Attacker's Advantage, 1986. New York: Summit.
 

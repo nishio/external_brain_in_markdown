@@ -1,3 +1,6 @@
+---
+title: "dig"
+---
 
 - In Japanese "[[掘り下げる]]"
 - dig in deeper

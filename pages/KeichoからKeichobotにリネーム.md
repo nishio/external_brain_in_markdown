@@ -1,3 +1,6 @@
+---
+title: "KeichoからKeichobotにリネーム"
+---
 
 from [[pKeichobot]]
 KeichoからKeichobotにリネーム

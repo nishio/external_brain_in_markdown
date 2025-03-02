@@ -1,3 +1,6 @@
+---
+title: "overall picture"
+---
 
 [[grasp the overall picture]]
 

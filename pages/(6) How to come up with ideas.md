@@ -1,3 +1,6 @@
+---
+title: "(6) How to come up with ideas"
+---
 
 So far, we have learned how to learn, task management to maintain motivation, how to input and remember information, and how to organize information. In this chapter, I explain how to create new ideas.
 

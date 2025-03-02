@@ -1,3 +1,6 @@
+---
+title: "PCAを使わないでPCAを実装"
+---
 
 python
 

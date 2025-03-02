@@ -1,3 +1,6 @@
+---
+title: "RubyKaigi名札"
+---
 
 [名札には名前を大きく書きましょう, Why not preparing your nametag in advance? - RubyKaigi Nikki(2010-08-15)](https://rubykaigi.tdiary.net/20100815.html)
 > [[RubyKaigi]]では、毎年ハガキ大の[[名札]]を使っています。名前を大きく書いてもらい、遠くからでも認識してもらいやすくするためです。

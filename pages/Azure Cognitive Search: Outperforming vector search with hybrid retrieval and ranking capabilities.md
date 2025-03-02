@@ -1,3 +1,6 @@
+---
+title: "Azure Cognitive Search: Outperforming vector search with hybrid retrieval and ranking capabilities"
+---
 
 ![image](https://gyazo.com/8e2fa02e91d9ee1566bd48aeb6008048/thumb/1000)
 [https://techcommunity.microsoft.com/t5/azure-ai-services-blog/azure-cognitive-search-outperforming-vector-search-with-hybrid/ba-p/3929167](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/azure-cognitive-search-outperforming-vector-search-with-hybrid/ba-p/3929167)

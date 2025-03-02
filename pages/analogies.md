@@ -1,2 +1,5 @@
+---
+title: "analogies"
+---
 
 see [[analogy]]

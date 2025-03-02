@@ -1,3 +1,6 @@
+---
+title: "スライドRange Argminを優先度キューで"
+---
 
 ![image](https://gyazo.com/daf92a2b122d491eedaa4ea8299587a2/thumb/1000)
 範囲が一方向にスライドしていく[[Range min]]/[[Range argmin]]は[[優先度キュー]]で実現できる

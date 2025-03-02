@@ -1,3 +1,6 @@
+---
+title: "pRegroup2019振り返り"
+---
 
 from [[pRegroup2020]]
 pRegroup2019振り返り

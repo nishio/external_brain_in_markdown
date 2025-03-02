@@ -1,3 +1,6 @@
+---
+title: "年功序列とIT革命"
+---
 
 [[年功序列]]と[[IT革命]]
 - ![image](https://gyazo.com/9c476cc77728d501b6627b7c0cd42a1b/thumb/1000)

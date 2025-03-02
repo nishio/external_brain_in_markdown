@@ -1,3 +1,6 @@
+---
+title: "GPT4さんが日本語に苦労する事例"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>タックス型の知識：これは経験的知識や直感的な知識を指し、これを言語で表現するのは困難であることが多いです。例としては、自転車の乗り方や泳ぎ方などの身体的なスキルや、ある文化の「空気を読む」能力などがあります。
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>タックス型の知識？

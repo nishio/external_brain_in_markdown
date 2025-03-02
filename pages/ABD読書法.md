@@ -1,3 +1,6 @@
+---
+title: "ABD読書法"
+---
 
 ABD[[読書法]]
 - Active Book Dialog

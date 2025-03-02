@@ -1,3 +1,6 @@
+---
+title: "Ferrofluid and water colors"
+---
 
 ![image](https://gyazo.com/1a90c4198f2a0759faf796e8caf0256b/thumb/1000)![image](https://gyazo.com/aefe6d6b91f8c69913c7fe995a3e88ac/thumb/1000)
 

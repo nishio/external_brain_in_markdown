@@ -1,3 +1,6 @@
+---
+title: "Just because you're rightの出典調査"
+---
 
 Twitterで流れてきたこの画像について
 ![image](https://gyazo.com/bae77a6fecfc8c8a238e5c4152e49786/thumb/1000)

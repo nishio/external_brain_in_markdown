@@ -1,3 +1,6 @@
+---
+title: "Adaptive Boostingの図の書き直し"
+---
 
 from [[pIntEn]]
 Adaptive Boostingの図の書き直し

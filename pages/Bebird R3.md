@@ -1,3 +1,6 @@
+---
+title: "Bebird R3"
+---
 
 ![image](https://gyazo.com/6b18ec16fc03ab441aa0d5cc87469623/thumb/1000)
 - [Amazon](https://amzn.to/3Ln69SI)

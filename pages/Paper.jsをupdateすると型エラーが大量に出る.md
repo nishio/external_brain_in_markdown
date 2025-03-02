@@ -1,3 +1,6 @@
+---
+title: "Paper.jsをupdateすると型エラーが大量に出る"
+---
 
 from [[pRegroup2020]]
 Paper.jsをupdateすると型エラーが大量に出る

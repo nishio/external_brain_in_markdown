@@ -1,3 +1,6 @@
+---
+title: "ai_museum誕生の記録"
+---
 
 from [[ai_museum]]
 ai_museum誕生の記録

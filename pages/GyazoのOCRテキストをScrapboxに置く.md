@@ -1,3 +1,6 @@
+---
+title: "GyazoのOCRテキストをScrapboxに置く"
+---
 
 - [[書籍スキャンPDFをScrapboxに置く2019]]
 - [[Gyazo ProのOCR結果をAPIで取得]]

@@ -1,3 +1,6 @@
+---
+title: "Pinata"
+---
 
 [Pinata | Powering the Future of Media Distribution](https://www.pinata.cloud/)
 

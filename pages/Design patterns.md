@@ -1,3 +1,6 @@
+---
+title: "Design patterns"
+---
 
 from [[pIntEn]]
 Design patterns

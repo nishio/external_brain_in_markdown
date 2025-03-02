@@ -1,3 +1,6 @@
+---
+title: "Ban of ChatGPT in Italy"
+---
 
 from [[English Lesson 2023-05-02]]
 Ban of ChatGPT in Italy

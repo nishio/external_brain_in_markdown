@@ -1,3 +1,6 @@
+---
+title: "(2019/6)Keicho学習"
+---
 
 from [[pKeicho]]
 (2019/6)Keicho学習

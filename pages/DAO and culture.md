@@ -1,3 +1,6 @@
+---
+title: "DAO and culture"
+---
 
 > [@mashbean](https://twitter.com/mashbean/status/1654148076179783681?s=20): 中國人營運DAO是為了初嚐民主；
 > 香港人營運DAO是為了留住民主；

@@ -1,3 +1,6 @@
+---
+title: "GPT-4でPythonに移植"
+---
 
 GPT-4での移植がどの程度現実的なのか試す
 - 関連 GPT-4に書かせました[/villagepump/Twitter to Scrapbox GPT](https://scrapbox.io/villagepump/Twitter to Scrapbox GPT)

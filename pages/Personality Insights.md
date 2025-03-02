@@ -1,3 +1,6 @@
+---
+title: "Personality Insights"
+---
 
 [https://personality-insights-demo.ng.bluemix.net/](https://personality-insights-demo.ng.bluemix.net/)
 ![image](https://gyazo.com/2d2c9860c441fb39479fac4ac1cefca6/thumb/1000)

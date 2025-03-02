@@ -1,3 +1,6 @@
+---
+title: "頭の中身を書き出し動かして考えを整理する思考の支援ツールRegroup 発表資料"
+---
 
 頭の中身を書き出し動かして考えを整理する思考の支援ツールRegroup 発表資料
 ![image](https://gyazo.com/b10cd56fea740d96570e5dfa4b90fd5f/thumb/1000)

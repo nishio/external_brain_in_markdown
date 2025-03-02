@@ -1,3 +1,6 @@
+---
+title: "DP G bad"
+---
 
 from [[DP G]]
 DP_G bad

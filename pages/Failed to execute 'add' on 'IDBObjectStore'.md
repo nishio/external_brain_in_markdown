@@ -1,3 +1,6 @@
+---
+title: "Failed to execute 'add' on 'IDBObjectStore'"
+---
 
 Unhandled Rejection (DataError): Failed to execute 'add' on 'IDBObjectStore': Evaluating the object store's key path did not yield a value.
 

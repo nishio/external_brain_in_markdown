@@ -1,3 +1,6 @@
+---
+title: "ChatGPTに聞きながら作る"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>Vercelの環境、どう作るんだっけ
 <img src='https://scrapbox.io/api/pages/nishio/ChatGPT/icon' alt='ChatGPT.icon' height="19.5"/>...プロジェクトを作成する

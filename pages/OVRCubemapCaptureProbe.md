@@ -1,3 +1,6 @@
+---
+title: "OVRCubemapCaptureProbe"
+---
 
 - [[360度画像]]を取る機能があるらしい
 - [https://developer.oculus.com/documentation/unity/latest/concepts/unity-utilities-overview/](https://developer.oculus.com/documentation/unity/latest/concepts/unity-utilities-overview/)

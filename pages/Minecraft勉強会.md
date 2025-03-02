@@ -1,3 +1,6 @@
+---
+title: "Minecraft勉強会"
+---
 
 「Minecraftは、ボクセルのWebになる」 [PDF](https://github.com/kengonakajima/blog/blob/master/articles/minecraft_web.pdf)
 - 2021-09-08 「オンラインゲームを支える技術」の中嶋 謙互さんによるスライド

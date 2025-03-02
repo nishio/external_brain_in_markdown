@@ -1,3 +1,6 @@
+---
+title: "private/public分断"
+---
 
 ![image](https://gyazo.com/dddfcdd9d1c94ddc9aa1f28acac3bc85/thumb/1000)
 

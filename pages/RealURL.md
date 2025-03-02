@@ -1,3 +1,6 @@
+---
+title: "RealURL"
+---
 
 本家: [/RealURL](https://scrapbox.io/RealURL)
 - リンク先が404 Not Foundの場合に、あらかじめブラウザに登録しておいたパスワードによってURLを変換してリダイレクトするChrome拡張

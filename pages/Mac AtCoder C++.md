@@ -1,3 +1,6 @@
+---
+title: "Mac AtCoder C++"
+---
 
 `$ brew install gcc`
 - -> g++-10

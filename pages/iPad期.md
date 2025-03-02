@@ -1,3 +1,6 @@
+---
+title: "iPad期"
+---
 
 ペン状入力デバイスに関しては、外付けタブレットを除けば [Thnkpad X41 Tablet](https://pc.watch.impress.co.jp/docs/2005/0608/lenovo.htm)(2005年発売)が最初だった。しかしあまり活用してなかった。
 2014-01-04にiPad初代からiPad Airに変えて、反応速度が上がったのでスタイラスを試してみている。

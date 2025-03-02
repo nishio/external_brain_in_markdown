@@ -1,3 +1,6 @@
+---
+title: "DP T"
+---
 
 [T - Permutation](https://atcoder.jp/contests/dp/tasks/dp_t)
 - 与えられた大小関係を満たすように数を並べる方法が何通りあるかを数え上げる問題

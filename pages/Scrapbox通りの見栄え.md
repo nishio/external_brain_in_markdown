@@ -1,3 +1,6 @@
+---
+title: "Scrapbox通りの見栄え"
+---
 
 ![image](https://gyazo.com/18cd54dd6a838012d41fb11c9b5c57b6/thumb/1000)
 - こういう見栄え

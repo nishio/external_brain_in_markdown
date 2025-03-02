@@ -1,3 +1,6 @@
+---
+title: "LSTMをスタックに"
+---
 
 ![image](https://gyazo.com/2e4a4ecde1703132006989229411a55a/thumb/1000)
 

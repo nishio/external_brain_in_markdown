@@ -1,3 +1,6 @@
+---
+title: "(Column) excerpt from civil code map"
+---
 
 Here I would like to introduce the actual civil code map. However, the map is on the large paper which joined several sheets of A4 paper. So, I introduce the excerpt version I used to explain the concept of the [[claim]] for engineers.
 

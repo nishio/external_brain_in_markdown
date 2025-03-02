@@ -1,3 +1,6 @@
+---
+title: "ACLPC L"
+---
 
 from [[AtCoder Library Practice Contest]]
 ACLPC_L

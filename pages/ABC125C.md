@@ -1,3 +1,6 @@
+---
+title: "ABC125C"
+---
 
 [C - GCD on Blackboard](https://atcoder.jp/contests/abc125/tasks/abc125_c)
 - ![image](https://gyazo.com/be7a37e747fc2d81355ee27815fa105a/thumb/1000)

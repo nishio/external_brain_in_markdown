@@ -1,3 +1,6 @@
+---
+title: "AIにページを発展させさせる"
+---
 
 about [[#inajob の試しに録音してみた talk16: 自分のWikiを読むAIアシスタント#6501d590aff09e0000eb90c8]]
 - > チャットでの会話を置いてAIで発展させたら何年か前の人狼をやってる時の行動の雑談を文字起こししたものをひっぱりだしてきたりした<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>

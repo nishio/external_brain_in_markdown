@@ -1,3 +1,6 @@
+---
+title: "AIの住んでるScrapbox"
+---
 
 from [[日記2023-08-12]]
 AIの住んでるScrapbox、いま

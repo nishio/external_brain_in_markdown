@@ -1,3 +1,6 @@
+---
+title: "convexity of indifference curves"
+---
 
 [[convexity]] of [[indifference curves]], [[無差別曲線]]の[[凸方向]]について
 - [https://www.sciencedirect.com/science/article/pii/0167268192900176](https://www.sciencedirect.com/science/article/pii/0167268192900176)

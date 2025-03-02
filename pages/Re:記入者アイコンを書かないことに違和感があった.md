@@ -1,3 +1,6 @@
+---
+title: "Re:記入者アイコンを書かないことに違和感があった"
+---
 
 from [/unnamedcamp/記入者アイコンを書かないことに違和感があった](https://scrapbox.io/unnamedcamp/記入者アイコンを書かないことに違和感があった)
 <img src='https://scrapbox.io/api/pages/unnamedcamp/nishio/icon' alt='/unnamedcamp/nishio.icon' height="19.5"/>

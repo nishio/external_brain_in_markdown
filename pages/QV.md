@@ -1,2 +1,5 @@
+---
+title: "QV"
+---
 
 →[[Quadratic Voting]]

@@ -1,3 +1,6 @@
+---
+title: "BrightID"
+---
 
 > Bright ID is a social identity network that allows you to prove that you’re only using one account. Creating your digital identity is as simple as installing an app and verifying your identity by joining a connection party. You can enjoy the benefit of your unique identity straight from the app. Learn more about BrightID.
 [🤔 How Decentralized Identity Can Take Crypto to the Next Level](https://thedefiant.io/-how-decentralized-identity-can-take)

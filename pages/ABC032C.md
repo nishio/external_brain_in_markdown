@@ -1,3 +1,6 @@
+---
+title: "ABC032C"
+---
 
 [C - 列](https://atcoder.jp/contests/abc032/tasks/abc032_c)
 - ![image](https://gyazo.com/47719be25ce60aaeff7678ae9cd28aae/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "'Generative CI' through Collective Response Systems"
+---
 
 > How can many people (who may disagree) come together to answer a question or make a decision? "Collective response systems" are a type of generative collective intelligence (CI) facilitation process meant to address this challenge. They enable a form of "generative voting", where both the votes, and the choices of what to vote on, are provided by the group. Such systems overcome the traditional limitations of polling, town halls, standard voting, referendums, etc. The generative CI outputs of collective response systems can also be chained together into iterative "collective dialogues", analogously to some kinds of generative AI.
 >  Technical advances across domains including recommender systems, language models, and human-computer interaction have led to the development of innovative and scalable collective response systems. For example, Polis has been used around the world to support policy-making at different levels of government, and Remesh has been used by the UN to understand the challenges and needs of ordinary people across war-torn countries. This paper aims to develop a shared language by defining the structure, processes, properties, and principles of such systems.

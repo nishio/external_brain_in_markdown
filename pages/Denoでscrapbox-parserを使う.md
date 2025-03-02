@@ -1,3 +1,6 @@
+---
+title: "Denoでscrapbox-parserを使う"
+---
 
 [[Deno]] [[scrabox-parser]]
 hello.ts

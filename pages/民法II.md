@@ -1,3 +1,6 @@
+---
+title: "民法II"
+---
 
 [https://portal.seikei.ac.jp/up/faces/up/km/pKms0804A.jsp?sanshoTblFlg=1&nendo=2018&jugyoCd=127121100](https://portal.seikei.ac.jp/up/faces/up/km/pKms0804A.jsp?sanshoTblFlg=1&nendo=2018&jugyoCd=127121100)
 第 1 時限. 9:00 ～ 10:30. 第 2 時限. 10:45 ～ 12:15

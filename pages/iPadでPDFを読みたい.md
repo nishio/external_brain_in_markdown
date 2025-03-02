@@ -1,3 +1,6 @@
+---
+title: "iPadでPDFを読みたい"
+---
 
 - GoodReader
     - 見開き表示できる

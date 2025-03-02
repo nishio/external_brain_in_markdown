@@ -1,3 +1,6 @@
+---
+title: "self ask with search"
+---
 
 [[self-ask]] [https://ofir.io/self-ask.pdf](https://ofir.io/self-ask.pdf)
 MEASURING AND NARROWING THE COMPOSITIONALITY GAP IN LANGUAGE MODELS

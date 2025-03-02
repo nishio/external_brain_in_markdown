@@ -1,3 +1,6 @@
+---
+title: "機械がScrapboxを読む"
+---
 
 from [[scbot]]
 機械がScrapboxを読む

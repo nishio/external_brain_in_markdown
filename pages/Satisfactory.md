@@ -1,3 +1,6 @@
+---
+title: "Satisfactory"
+---
 
 生産自動化系[[経営ゲーム]]
 
@@ -13,3 +16,13 @@ from [/villagepump/Satisfactory](https://scrapbox.io/villagepump/Satisfactory)
 崖下の炭鉱からベルトコンベアで資源を引っ張ってきたりする。
 
 [[Satisfactory]]
+
+2024-09-17
+- 最近正式リリースされたらしい
+
+2024-11-09
+書いてなかったけどクリアしていました
+![image](https://gyazo.com/90f75e4c5b8f097f3d047b7e348c873b/thumb/1000)
+
+2024-11-30
+[[Satisfactoryマルチプレイ]]

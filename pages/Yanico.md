@@ -1,3 +1,6 @@
+---
+title: "Yanico"
+---
 
 from [[熊野古道2023]]
 [[Yanico]]

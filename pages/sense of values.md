@@ -1,3 +1,6 @@
+---
+title: "sense of values"
+---
 
 [[価値観]] in Japanese
 

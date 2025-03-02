@@ -1,3 +1,6 @@
+---
+title: "KJ読書実験"
+---
 
 5年前に「実録KJ法の流れ」で書籍の抜き書きを構造化していく流れをスライドで紹介した。
 [https://www.slideshare.net/nishio/03-1-kj](https://www.slideshare.net/nishio/03-1-kj)

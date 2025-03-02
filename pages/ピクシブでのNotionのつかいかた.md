@@ -1,3 +1,6 @@
+---
+title: "ピクシブでのNotionのつかいかた"
+---
 
 [ピクシブでのNotionのつかいかた - pixiv inside](https://inside.pixiv.blog/2021/05/20/120000)
 - > ドキュメント置き場を集約する

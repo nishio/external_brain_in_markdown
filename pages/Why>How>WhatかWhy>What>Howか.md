@@ -1,7 +1,10 @@
+---
+title: "Why>How>WhatかWhy>What>Howか"
+---
 
 [[Why>How>What]]か[[Why>What>How]]か
 - [[Simon Sinek]]の[[ゴールデンサークル]]では[[Why>How>What]]
-    - > hrjn: このHowは戦略的な要素で、いかにして目標に到達するかや社会的インパクトを出すかを考えてて、それによって成果物Whatを規定する。
+    - > [[hrjn]]: このHowは戦略的な要素で、いかにして目標に到達するかや社会的インパクトを出すかを考えてて、それによって成果物Whatを規定する。
 - [[Why>What>How]]は今のところ「[[プロダクトマネジメントのすべて]]」という和書以外の記述が見つかっていない
     - この構図だとHowは「作るもの(What)が決まった後で、それをどう作るか」になる
 - この2つのHowはまったくの別物なので注意が必要
@@ -49,13 +52,16 @@
 - ![image](https://gyazo.com/5d22336f48c3840cb088a09218e6d31f/thumb/1000)
     - [Amazon](https://amzn.to/32jLWeU)
     - プロダクトマネジメントのすべて 事業戦略・IT開発・UXデザイン・マーケティングからチーム・組織運営まで
-        - 及川 卓也  (著), 小城 久美子 (著), 曽根原 春樹
+        - [[及川 卓也]]  (著), 小城 久美子 (著), 曽根原 春樹
 - [2020年にしたプロダクト系図解まとめ｜小城久美子 / ozyozyo｜note](https://note.com/ozyozyo/n/nc4a35eed9f37)
 - > [hrjn](https://twitter.com/hrjn/status/1484508758126772227): なるほどー！ありがとうございます。
 
 > [nishio](https://twitter.com/nishio/status/1484502736062545920): howなんていう短い変数名を使うから名前が衝突してしまうんだぞ人類、スコープ分けずに短い変数名を使う人間を討ち滅ぼせ！(違う
 - > [nishio](https://twitter.com/nishio/status/1484503021103251457): AIさん「やーい、脳みそグローバルスコープやーい」
-- > [nishio](https://twitter.com/nishio/status/1484503428542119936): スコープの違う変数名を混同する人類にグローバル変数をDISることはできない！お前がグローバル変数だ！
+- > [nishio](https://twitter.com/nishio/status/1484503428542119936): スコープの違う変数名を混同する人類に[[グローバル変数]]をDISることはできない！お前がグローバル変数だ！
 
 [https://www.scrum.org/resources/blog/why-what-how-sprint-planning](https://www.scrum.org/resources/blog/why-what-how-sprint-planning)
 - これは3つの質問をたまたまこの順番で並べてるだけで層状になってるわけではない
+
+
+[[howとwhat]]

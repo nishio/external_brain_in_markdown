@@ -1,3 +1,6 @@
+---
+title: "ScrapboxをOculus Goのブラウザで全画面表示"
+---
 
 ![image](https://gyazo.com/cc5ddd452d0bb457c94b1a47a6e40111/thumb/1000)
 [動画](https://www.facebook.com/nishiohirokazu/videos/10215545450485911/?notif_id=1528744657189025&notif_t=feedback_reaction_generic) [シェア先での議論](https://www.facebook.com/ohkubo.kohei/posts/10155752048016476) まとめ: [/nishio/大きい壁が欲しい](https://scrapbox.io/nishio/大きい壁が欲しい)

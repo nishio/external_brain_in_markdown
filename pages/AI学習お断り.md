@@ -1,3 +1,6 @@
+---
+title: "AI学習お断り"
+---
 
 > [@nishio](https://twitter.com/nishio/status/1564418355825876997?s=20&t=FjONfgaGIHTfaL-djUsxUA): 「AI学習お断り」と言い出す人が出てきたのを、なんだか既視感があるなぁ〜と思ってたんだが、「無断リンクお断り」だな
 

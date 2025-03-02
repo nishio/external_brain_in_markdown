@@ -1,3 +1,6 @@
+---
+title: "✅Scrapboxで書影を機械的に表示したい"
+---
 
 ASINから書影画像URLを作ることはできる
 `http://images-jp.amazon.com/images/P/{ASIN}.09.LZZZZZZZ.jpg`

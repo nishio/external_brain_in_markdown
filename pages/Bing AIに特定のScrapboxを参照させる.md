@@ -1,3 +1,6 @@
+---
+title: "Bing AIに特定のScrapboxを参照させる"
+---
 
 from [/villagepump/Bing AIで特定のScrapboxの内容を元に質問に回答](https://scrapbox.io/villagepump/Bing AIで特定のScrapboxの内容を元に質問に回答)
 試してみた<img src='https://scrapbox.io/api/pages/villagepump/blu3mo/icon' alt='/villagepump/blu3mo.icon' height="19.5"/>

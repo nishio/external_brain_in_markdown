@@ -1,3 +1,6 @@
+---
+title: "Eariest Testable Product"
+---
 
 ![image](https://gyazo.com/adf1f8274339bdc90982c388916e027a/thumb/1000)
 [https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)

@@ -1,3 +1,6 @@
+---
+title: "Fusion in Decoder"
+---
 
 [[Fusion-In-Decoder]]
 

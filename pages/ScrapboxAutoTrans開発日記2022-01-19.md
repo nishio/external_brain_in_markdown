@@ -1,3 +1,6 @@
+---
+title: "ScrapboxAutoTrans開発日記2022-01-19"
+---
 
 prev [[ScrapboxAutoTrans開発日記2022-01-17]]
 

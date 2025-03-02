@@ -1,3 +1,6 @@
+---
+title: "starry sky tree"
+---
 
 [https://gist.github.com/qnighy/512745](https://gist.github.com/qnighy/512745)
 > (a) この呼称は日本情報オリンピック参加者の一部による呼称であり、日本情報オリンピック2009年の春合宿の問題「Starry Sky」で必要なデータ構造であったことに由来する。

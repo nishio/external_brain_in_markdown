@@ -1,3 +1,6 @@
+---
+title: "Educational DP Contest"
+---
 
 DP ([[動的計画法]]) の練習を目的とした有志コンテスト
 - [[DP_A]]

@@ -1,3 +1,6 @@
+---
+title: "np.dot, np.tensordot, np.matmulの違い"
+---
 
 [[np.einsum]]という表現力の高いメソッドを知ったので、np.dot, np.tensordot, np.matmulをそれぞれnp.einsumで表現することで違いを確認してみる。
 

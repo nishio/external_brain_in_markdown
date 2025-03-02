@@ -1,3 +1,6 @@
+---
+title: "KozanebaのUserScript"
+---
 
 [[Kozaneba]]
 script.js

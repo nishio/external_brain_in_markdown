@@ -1,3 +1,6 @@
+---
+title: "スクリプトからTextを更新"
+---
 
 ![image](https://gyazo.com/ecfc18d06bb92fd64db60ba69102ee49/thumb/1000)
 

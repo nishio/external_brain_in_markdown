@@ -1,3 +1,6 @@
+---
+title: "KENZAN"
+---
 
 ![image](https://gyazo.com/859e4d28997ff68df17f6ca41c2261a7/thumb/1000)
 [Amazon](https://amzn.to/3sMaTrr)

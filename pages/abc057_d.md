@@ -1,3 +1,6 @@
+---
+title: "abc057_d"
+---
 
 [D - Maximum Average Sets](https://atcoder.jp/contests/abc057/tasks/abc057_d)
 ![image](https://gyazo.com/9ee13215fbf4593c34a2ae8317907ae2/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "Scrapboxにインポート"
+---
 
 from [[pKakidashi-done]]
 Scrapboxにインポート

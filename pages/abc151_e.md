@@ -1,3 +1,6 @@
+---
+title: "abc151_e"
+---
 
 [https://atcoder.jp/contests/abc151/tasks/abc151_e](https://atcoder.jp/contests/abc151/tasks/abc151_e)
 - 考えたこと

@@ -1,3 +1,10 @@
+---
+title: "Mandarin"
+---
+
+[[華文]]
+- (Redirected from 華語)[Standard Chinese - Wikipedia](https://en.wikipedia.org/wiki/Standard_Chinese)
+- [Taiwanese Mandarin - Wikipedia](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)
 
 日本人の僕は「mandarin」という言葉にはあまり馴染みがなく、オレンジの一種[[satsuma mandarin]]を連想した。
 [[Audrey Tang]]が自分の書いている原稿の言語を"traditional-mandarin"と呼んでいる([Github](https://github.com/pluralitybook/plurality/tree/main/contents/traditional-mandarin))のでどういう意味か調べてみた。
@@ -22,7 +29,8 @@
 - 公式の観点からは、中国本土と台湾の政府はそれぞれ異なる名称で標準語の独自の形式を維持している。PǔtōnghuàとGuóyǔの両標準語は、北京アクセントを音韻の基礎とし、他の情報源からいくつかの要素を取り入れ、語彙、文法、語用論において北京方言から逸脱している。両地域で作成された辞書を比較すれば、実質的な違いはほとんどないことがわかるだろう。しかし、どちらの「学校標準」中国語も、地域の習慣に従って話されている標準中国語とはかなり異なっていることが多く、北京方言と完全に同じというわけではありません。
 - 中国本土とシンガポールでは簡体字が使用されているが、台湾、香港、マカオでは繁体字が使用されている。
 
-なるほどなー。異国の僕が台湾の状況を完全に理解することは難しいけど雰囲気は下記のような感じかなと思った:
+なるほどなー<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+異国の僕が台湾の状況を完全に理解することは難しいけど雰囲気は下記のような感じかなと思った:
 - 日本においては江戸幕府が東にあったことの影響で東の方言が「標準語」とされるようになった。
     - 東にある「東京」(東の京)はなんとなく日本の首都であるとみなされているが、実は法律上の明確な規定はない。
     - 西にある「京都」の人は「天皇は長い旅行をしているだけ、日本の首都は京都である」と考えている。

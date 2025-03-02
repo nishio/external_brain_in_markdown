@@ -1,3 +1,6 @@
+---
+title: "「部品的ではなく関数的」はMVPかも"
+---
 
 from [/unnamedcamp/「部品的ではなく関数的」はMVPかも](https://scrapbox.io/unnamedcamp/「部品的ではなく関数的」はMVPかも)
 [[「部品的に書く」ではない]]

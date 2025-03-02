@@ -1,3 +1,6 @@
+---
+title: "regroup split"
+---
 
 文章をRegroupの付箋単位に刻むことの支援ツール
 

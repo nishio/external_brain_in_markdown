@@ -1,3 +1,6 @@
+---
+title: "Deliberation Technology: Generative CI through 'Collective Response Systems'"
+---
 
 [[Deliberation]] Technology: [[Generative CI]] through '[[Collective Response Systems]]'
 ![image](https://gyazo.com/c324fabfd1ace1b3a205a534cf00d435/thumb/1000)

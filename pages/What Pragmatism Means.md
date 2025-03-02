@@ -1,3 +1,6 @@
+---
+title: "What Pragmatism Means"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁What Pragmatism Means

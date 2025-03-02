@@ -1,3 +1,6 @@
+---
+title: "このプロジェクトにおけるAIの役割は何か"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # このプロジェクトにおけるAIの役割は何か

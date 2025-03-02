@@ -1,3 +1,6 @@
+---
+title: "divide"
+---
 
 
 - Related: divide and conquer

@@ -1,3 +1,6 @@
+---
+title: "abc027_c"
+---
 
 [https://atcoder.jp/contests/abc027/tasks/abc027_c](https://atcoder.jp/contests/abc027/tasks/abc027_c)
 - 考えたこと

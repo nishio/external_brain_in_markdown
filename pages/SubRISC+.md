@@ -1,3 +1,6 @@
+---
+title: "SubRISC+"
+---
 
 [東工大、IoT向けCPUアーキテクチャ「SubRISC+」。エネルギー効率3.8倍 - PC Watch](https://pc.watch.impress.co.jp/docs/news/1307882.html)
 > 命令数を4つに限定することで小型/低消費電力化を図った。

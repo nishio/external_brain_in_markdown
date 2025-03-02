@@ -1,3 +1,6 @@
+---
+title: "DIE WITH ZERO"
+---
 
 ![image](https://gyazo.com/399921003b0c36f106c9a25d8b4a4514/thumb/1000)
 - [Amazon](https://amzn.to/3phlKK5)

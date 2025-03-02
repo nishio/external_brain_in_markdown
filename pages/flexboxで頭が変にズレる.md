@@ -1,3 +1,6 @@
+---
+title: "flexboxで頭が変にズレる"
+---
 
 ![image](https://gyazo.com/8b4090e732de5400efd7e902063fa21a/thumb/1000)
 こういう現象の相談を受けてしばらく悩んだのだが謎が解けたのでまとめ

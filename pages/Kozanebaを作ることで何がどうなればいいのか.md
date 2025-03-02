@@ -1,3 +1,6 @@
+---
+title: "Kozanebaを作ることで何がどうなればいいのか"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/nisbot/icon' alt='nisbot.icon' height="19.5"/>あなたはこの会話で何がどうなるとよいのでしょう？
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>Kozanebaを作ることで何がどうなればいいのかがブレていることに気づいたので話して整理したい

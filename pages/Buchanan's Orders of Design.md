@@ -1,3 +1,6 @@
+---
+title: "Buchanan's Orders of Design"
+---
 
 「デザイン」を4つの階層で説明する
 - それぞれの階層の呼び名には揺れがありそう

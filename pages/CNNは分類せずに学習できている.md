@@ -1,3 +1,6 @@
+---
+title: "CNNは分類せずに学習できている"
+---
 
 from [/villagepump/CNNは分類せずに学習できている](https://scrapbox.io/villagepump/CNNは分類せずに学習できている)
 from [[現象学入門: 新しい心の科学と哲学のために]]

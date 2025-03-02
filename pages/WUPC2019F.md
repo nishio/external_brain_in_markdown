@@ -1,3 +1,6 @@
+---
+title: "WUPC2019F"
+---
 
 [F - RPG](https://atcoder.jp/contests/wupc2019/tasks/wupc2019_f)
 ![image](https://gyazo.com/b7d9e87ab5927f6a16affa0feaadd2e2/thumb/1000)

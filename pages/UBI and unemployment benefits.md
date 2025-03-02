@@ -1,3 +1,6 @@
+---
+title: "UBI and unemployment benefits"
+---
 
 from [[English Lesson 2023-05-02]]
 

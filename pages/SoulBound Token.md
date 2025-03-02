@@ -1,3 +1,6 @@
+---
+title: "SoulBound Token"
+---
 
 [What is a SoulBound Token? | Ledger](https://www.ledger.com/academy/topics/blockchain/what-is-a-soulbound-token)
 

@@ -1,3 +1,6 @@
+---
+title: "CCが付いているメールにはReply Allが必要"
+---
 
 ![image](https://gyazo.com/1b3a21d571b1cb0cfcfe81c3fe8969ec/thumb/1000)
 - AさんからBさんにメールを送る際に、CさんにCCされているとする

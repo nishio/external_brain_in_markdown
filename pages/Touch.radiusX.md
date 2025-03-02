@@ -1,3 +1,6 @@
+---
+title: "Touch.radiusX"
+---
 
 - [[パームリジェクション]]
 - [Touch.radiusX - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Touch/radiusX)

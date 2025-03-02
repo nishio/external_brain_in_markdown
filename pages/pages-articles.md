@@ -1,3 +1,6 @@
+---
+title: "pages-articles"
+---
 
 [[Wikipedia]] dump pages-articles
 

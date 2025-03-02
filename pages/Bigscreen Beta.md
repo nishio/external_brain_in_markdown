@@ -1,3 +1,6 @@
+---
+title: "Bigscreen Beta"
+---
 
 - PC画面を複数人にシェアできる
 - Steamで無料で入手できる

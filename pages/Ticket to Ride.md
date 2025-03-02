@@ -1,3 +1,6 @@
+---
+title: "Ticket to Ride"
+---
 
 2022-03-12
 ![image](https://gyazo.com/f2ea0682c9194aaef62ceb422f5ed9f5/thumb/1000)

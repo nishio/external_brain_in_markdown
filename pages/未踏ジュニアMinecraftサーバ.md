@@ -1,3 +1,6 @@
+---
+title: "未踏ジュニアMinecraftサーバ"
+---
 
 主に未踏関係者を中心とするJava版[[マインクラフト]]の限定公開サーバ
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>任意画像が貼れて外部サーバのWebhookを叩けて外部サーバからコマンドを実行できる、めちゃくちゃ自由度の高いメタバースになってきています！

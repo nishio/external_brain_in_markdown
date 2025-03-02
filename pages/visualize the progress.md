@@ -1,3 +1,6 @@
+---
+title: "visualize the progress"
+---
 
 [[progress]]
 [[measure progress]]

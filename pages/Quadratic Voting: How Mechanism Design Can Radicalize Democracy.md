@@ -1,9 +1,18 @@
+---
+title: "Quadratic Voting: How Mechanism Design Can Radicalize Democracy"
+---
 
-[[Steven Lalley]], [[E. Glen Weyl]]
+[[Steven Lalley]], [[E. Glen Weyl]] (2018)
 > Can mechanism design save democracy? We propose a simple design that offers a chance: individuals pay for as many votes as they wish using a number of "voice credits" quadratic in the votes they buy. Only quadratic cost induces marginal costs linear in votes purchased and thus welfare optimality if individuals' valuation of votes is proportional to their value of changing the outcome. A variety of analysis and evidence suggests that this still-nascent mechanism has significant promise to robustly correct the failure of existing democracies to incorporate intensity of preference and knowledge.
 >
 >  The online appendix for "Quadratic Voting: How Mechanism Design Can Radicalize Democracy" may be found here: [http://ssrn.com/abstract=2790624.](http://ssrn.com/abstract=2790624.)
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531)
+American Economic Association Papers and Proceedings, Vol. 1, No. 1, 2018
+なのだけどpreprintは2012に公開されてる
+
+2024-01-30
+- 下記は 2023-07-20〜 の「なんだこれは？」と思いながら読んでた時のメモ、あまり整理されてない
+- 理解が進むにつれて重要な概念だなという思いが強くなった
 
 from [[Quadratic Voting]]
 Quadratic Voting: How [[Mechanism Design]] Can Radicalize Democracy
@@ -12,7 +21,7 @@ Quadratic Voting: How [[Mechanism Design]] Can Radicalize Democracy
 (DeepL+nishio)[[メカニズムデザイン]]は[[民主主義]]を救うことができるのか？我々は、その可能性を提供する単純なデザインを提案する。個人が購入する票の中にある「voiceクレジット」の数を用いて、望むだけの票を支払うのである。個人の投票に対する評価が、結果を変えることに対する価値に比例するのであれば、quadraticコストのみが、購入した投票数に線形な限界費用をもたらし、その結果、厚生最適となる。様々な分析と証拠から、このまだ発展途上のメカニズムが、既存の民主主義が嗜好の強さや知識を取り入れることに失敗したことを強固に修正する大きな可能性を秘めていることが示唆される。
 
 - quadraticを「二次」って訳すのはsecondary的ニュアンスを感じるから嫌だな<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
-    - 台湾では「平方投票」らしい、こちらの方が好き [Discord](https://discord.com/channels/1087587764691808316/1093884258231267499/1114087516870561912)
+    - 台湾では「[[平方投票]]」らしい、こちらの方が好き [Discord](https://discord.com/channels/1087587764691808316/1093884258231267499/1114087516870561912)
 
 - [[直接民主制]]を前提として、その実現方法を改善するものというイメージ？
     - 多くの人が投票という言葉で連想するような「市長を誰にするか複数の候補から選ぶ」的なものは議題が一つしかない？

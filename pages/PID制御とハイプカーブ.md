@@ -1,3 +1,6 @@
+---
+title: "PID制御とハイプカーブ"
+---
 
 ![image](https://gyazo.com/e4e4db0ca4bed89bbdc8196e049bd0b1/thumb/1000)
 出典 [http://ch.ce.nihon-u.ac.jp/kako/PC_HTML/Lect/pt10/10_9_cmt.html](http://ch.ce.nihon-u.ac.jp/kako/PC_HTML/Lect/pt10/10_9_cmt.html)

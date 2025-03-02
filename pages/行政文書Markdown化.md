@@ -1,3 +1,6 @@
+---
+title: "行政文書Markdown化"
+---
 
 [行政文書はMarkdownで管理できるか｜Hal Seki｜note](https://note.com/hal_sk/n/n916a422caafd)
 > １）外向けに公開する行政文書を可読性や相互編集性が高いフォーマットにし、フィードバックを得やすくしたい

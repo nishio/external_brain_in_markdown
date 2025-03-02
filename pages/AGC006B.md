@@ -1,3 +1,6 @@
+---
+title: "AGC006B"
+---
 
 [B - Median Pyramid Easy](https://atcoder.jp/contests/agc006/tasks/agc006_b)
 - ![image](https://gyazo.com/f9fa97d6fe4f90d6b2757f42bbf6c3f3/thumb/1000)

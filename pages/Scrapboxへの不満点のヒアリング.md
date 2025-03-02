@@ -1,3 +1,6 @@
+---
+title: "Scrapboxへの不満点のヒアリング"
+---
 
 - 妻の「[[整理]]をしたい」という発言に関して掘り下げる
     - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>Scrapboxは「[[混沌をして語らしめる]]」ってところがあるので、その[[混沌]]をなくしたい人には気持ちが悪いようだ

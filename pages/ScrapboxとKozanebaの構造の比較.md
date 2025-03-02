@@ -1,3 +1,6 @@
+---
+title: "ScrapboxとKozanebaの構造の比較"
+---
 
 from [[日記2023-11-03]]
 [[Scrapbox]]と[[Kozaneba]]の構造の比較

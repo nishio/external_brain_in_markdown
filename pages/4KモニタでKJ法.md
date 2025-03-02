@@ -1,3 +1,6 @@
+---
+title: "4KモニタでKJ法"
+---
 
 ![image](https://gyazo.com/eceaa0918f1b7118c23be544622a4952/thumb/1000)
 ![image](https://gyazo.com/ada505c39a405c1848cd7bfafa8d479c/thumb/1000)

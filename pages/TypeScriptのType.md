@@ -1,3 +1,6 @@
+---
+title: "TypeScriptのType"
+---
 
 structual subtyping
 

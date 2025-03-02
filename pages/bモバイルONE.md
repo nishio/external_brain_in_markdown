@@ -1,3 +1,6 @@
+---
+title: "bモバイルONE"
+---
 
 ![image](https://gyazo.com/f122a2748efa3842f021e1570040a428/thumb/1000)
 [2010-05のWebArchive](http://web.archive.org/web/20100505063636/http://www.bmobile.ne.jp/personal/one/index.html)

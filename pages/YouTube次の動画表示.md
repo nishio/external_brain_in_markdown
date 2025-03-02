@@ -1,3 +1,6 @@
+---
+title: "YouTube次の動画表示"
+---
 
 ![image](https://gyazo.com/f23309e0e2b35d971e0ce292f451d9e5/thumb/1000)
 YouTube側でEnd screenの編集を行う

@@ -1,3 +1,6 @@
+---
+title: "TPU"
+---
 
 - [Google ColaboratoryのTPUを試してみる - Qiita](https://qiita.com/koshian2/items/25a6341c035e8a260a01)
 - [Google ColabでKerasからTPUを使う方法とGPUとの速度差 - モーグルとカバとパウダーの日記](https://stealthinu.hatenadiary.jp/entry/20181006/p1)

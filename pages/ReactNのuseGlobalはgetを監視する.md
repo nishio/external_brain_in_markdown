@@ -1,3 +1,6 @@
+---
+title: "ReactNのuseGlobalはgetを監視する"
+---
 
 ReactNのuseGlobalにおいて、`useGlobal("foo")` とプロパティを明示するのではなく `useGlobal()` と省略して呼び出した場合、ReactNは返したグローバル値に対するgetのアクセスを監視して`addPropertyListener`する。
 

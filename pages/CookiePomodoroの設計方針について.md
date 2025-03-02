@@ -1,3 +1,6 @@
+---
+title: "CookiePomodoroの設計方針について"
+---
 
 - [[CookiePomodoro]]の設計方針について
     - 作ることができる実績を何も考えなしに作ってはいけない

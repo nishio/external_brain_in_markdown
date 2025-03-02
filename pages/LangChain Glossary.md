@@ -1,3 +1,6 @@
+---
+title: "LangChain Glossary"
+---
 
 [[LangChain]] Glossary
 [Glossary — 🦜🔗 LangChain 0.0.120](https://langchain.readthedocs.io/en/latest/glossary.html)

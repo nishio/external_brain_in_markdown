@@ -1,3 +1,6 @@
+---
+title: "HASSOU-HOU"
+---
 
 see [[Way of thinking]]
 

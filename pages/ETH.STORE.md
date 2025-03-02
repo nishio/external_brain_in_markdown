@@ -1,3 +1,6 @@
+---
+title: "ETH.STORE"
+---
 
 from [[ETHのステーキング]]
 ETH.STORE

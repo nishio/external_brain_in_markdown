@@ -1,3 +1,6 @@
+---
+title: "The Fatiguing Effects of Camera Use in Virtual Meetings: A Within-Person Field Experiment"
+---
 
 [[ビデオ会議]]においてカメラをオンにすることは疲労を増やす
 - 特に女性を疲労させる

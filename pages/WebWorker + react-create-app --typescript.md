@@ -1,3 +1,6 @@
+---
+title: "WebWorker + react-create-app --typescript"
+---
 
 see Github
 [https://github.com/nishio/tutorial-webworker-with-react/blob/master/README.md](https://github.com/nishio/tutorial-webworker-with-react/blob/master/README.md)

@@ -1,3 +1,6 @@
+---
+title: "The AI for Good Neural Network"
+---
 
 > The AI for Good Neural Network is designed to help users build connections with innovators and experts, link innovative ideas with social impact opportunities, and bring the community together to advance the SDGs using AI.
 >

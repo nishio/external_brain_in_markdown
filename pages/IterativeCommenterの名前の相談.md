@@ -1,3 +1,6 @@
+---
+title: "IterativeCommenterの名前の相談"
+---
 
 from [[日記2023-09-04]]
 IterativeCommenterの名前の相談

@@ -1,3 +1,6 @@
+---
+title: "pRegroup2020"
+---
 
 [[Regroup]]に関する断片的なタスクなどにつけるタグ(pieces for Regroup project)
 - 2021/01/04にpRegroupからpRegroup2020にリネームした

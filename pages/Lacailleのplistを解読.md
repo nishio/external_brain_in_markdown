@@ -1,3 +1,6 @@
+---
+title: "Lacailleのplistを解読"
+---
 
 `$ plutil -p ~/Downloads/org.jpn.lacaille.Lacaille.plist`
 :

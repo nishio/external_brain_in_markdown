@@ -1,3 +1,6 @@
+---
+title: "virtualを仮想と訳することのまとめ"
+---
 
 「virtualを仮想と最初に訳したのは日本IBM」はFalse。「IBMがvirtual memoryの訳語として仮想記憶を当てた」はTrue。
 

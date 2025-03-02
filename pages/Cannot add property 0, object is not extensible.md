@@ -1,3 +1,6 @@
+---
+title: "Cannot add property 0, object is not extensible"
+---
 
 js
 

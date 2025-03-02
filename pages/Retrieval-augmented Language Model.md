@@ -1,3 +1,6 @@
+---
+title: "Retrieval-augmented Language Model"
+---
 
 言語モデルが検索によって強化されている、という認識を反映した表現
 - [[Retrieval-Augmented Generation]]([[RAG]])という言葉の方が今時点ではバズっている

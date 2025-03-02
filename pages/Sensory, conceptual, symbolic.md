@@ -1,3 +1,6 @@
+---
+title: "Sensory, conceptual, symbolic"
+---
 
 [[主観的]]な[[体験]]をどのように分類するかの話。
 - see [[抽象概念、身体感覚、メタファ]]

@@ -1,3 +1,6 @@
+---
+title: "Reconsilerを差し替えてiPadでの画像点滅が止まるか検証"
+---
 
 from [[pRegroup-done-2019]]
 [[Reconciler]]を差し替えてiPadで画像が点滅しないようにできるのか検証

@@ -1,3 +1,6 @@
+---
+title: "Regroupでボドゲのテストプレイ"
+---
 
 ![image](https://gyazo.com/cbb8a5075f0e18f2b399d7b0e57d0623/thumb/1000)
 readonly: [https://regroup.netlify.com/#/key=rUbCZKBwCyxrml2dCIPJ&cx=-493&cy=-31&top=-816&left=-2103](https://regroup.netlify.com/#/key=rUbCZKBwCyxrml2dCIPJ&cx=-493&cy=-31&top=-816&left=-2103)

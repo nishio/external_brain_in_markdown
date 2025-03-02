@@ -1,3 +1,6 @@
+---
+title: "Contract Secured Revenue"
+---
 
 > [@owocki](https://twitter.com/owocki/status/1653081117837398017?s=20): Contract Secured Revenue (CSR) allows you to claim a percentage of all transaction fees paid by users when interacting with your smart contracts.
 > Is anyone working on an L2 that does this? I'm considering writing an EIP outlining how CSR would work on an EVM L2.

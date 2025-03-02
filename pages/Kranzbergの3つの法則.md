@@ -1,5 +1,10 @@
+---
+title: "Kranzbergの3つの法則"
+---
 
 > [@rkmt](https://twitter.com/rkmt/status/1642526460438257664?s=20): chatGPT, 今後来るであろうAGIが善か悪かについてはKranzberg(技術史家)の3つの法則が全てを尽くしている気がする。Technology is neither good nor bad; nor is it neutral.技術は善でも悪でもなく、その中間でもない。 Invention is the mother of necessity. 発明は必要の母Technology comes in…
+- [[rkmt]]
+
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>どう言う意味？
 <img src='https://scrapbox.io/api/pages/nishio/gpt-4/icon' alt='gpt-4.icon' height="19.5"/>
 - 最初の法則は、「[[技術は善でも悪でもなく、その中間でもない]]」ということです。つまり、技術自体に価値判断を与えることはできないということです。技術は、どのように使用されるかによって、善か悪かになります。

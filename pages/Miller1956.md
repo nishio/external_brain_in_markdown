@@ -1,3 +1,6 @@
+---
+title: "Miller1956"
+---
 
 - 「ワーキングメモリー 7個」論の出典
 - Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological review, 63(2), 81.

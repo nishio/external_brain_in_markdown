@@ -1,3 +1,6 @@
+---
+title: "PDFMinerの座標系解析"
+---
 
 from [[PDFからのテキスト抽出]]
 PDFMinerの座標系解析

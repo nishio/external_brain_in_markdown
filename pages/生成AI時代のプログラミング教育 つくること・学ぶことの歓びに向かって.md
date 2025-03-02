@@ -1,3 +1,6 @@
+---
+title: "生成AI時代のプログラミング教育 つくること・学ぶことの歓びに向かって"
+---
 
 [https://speakerdeck.com/kiriem/proggrammingeducationongenaiera](https://speakerdeck.com/kiriem/proggrammingeducationongenaiera)
 

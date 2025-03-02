@@ -1,3 +1,6 @@
+---
+title: '(Column) Example of "to write all out" method'
+---
 
 I used the method described in this chapter for years. I use the method for preparing lectures. I also used the method to write this book.
 

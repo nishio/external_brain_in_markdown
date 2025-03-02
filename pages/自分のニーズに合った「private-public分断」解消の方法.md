@@ -1,3 +1,6 @@
+---
+title: "自分のニーズに合った「private/public分断」解消の方法"
+---
 
 
 <img src='https://scrapbox.io/api/pages/nishio/nisbot/icon' alt='nisbot.icon' height="19.5"/>あなたはこの会話で何がどうなるとよいのでしょう？

@@ -1,3 +1,6 @@
+---
+title: "The Evolution Of The Employee"
+---
 
 > [t_shinden](https://twitter.com/t_shinden/status/1436114309638090761): 一目で分かるこれからの働き方！
 > うちの会社はほぼ右側になっている。

@@ -1,3 +1,6 @@
+---
+title: "PluralityとPolis勉強会"
+---
 
 [[Plurality]]と[[Polis]]勉強会
 - [[サイボウズラボ勉強会]] 2023-05-12

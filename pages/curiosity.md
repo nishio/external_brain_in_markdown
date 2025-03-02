@@ -1,3 +1,6 @@
+---
+title: "curiosity"
+---
 
 Originally in Japanese:
 - [[「知りたい」という気持ち]]

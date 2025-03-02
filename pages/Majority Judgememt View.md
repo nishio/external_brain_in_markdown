@@ -1,4 +1,8 @@
+---
+title: "Majority Judgememt View"
+---
 
+2023-06-15
 ![image](https://gyazo.com/b9452150080b9a16346e1333b7bfe96d/thumb/1000)
 こういうの作るといいんじゃなかろうか
 - [[Polis]]を細かく分解して[[SNS sharability]]を高める

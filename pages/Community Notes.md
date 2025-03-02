@@ -1,3 +1,6 @@
+---
+title: "Community Notes"
+---
 
 Twitterのおかしなツイートに時々他の人の書いた訂正がくっついているのを見るようになった。どういう仕組みなのかあまり気にしていなかったが、面白い仕組みっぽい 2023-05-25
 - アルゴリズムについて: [[Birdwatch]]
@@ -36,6 +39,8 @@ Twitterのおかしなツイートに時々他の人の書いた訂正がくっ�
 > 意外に鳩山氏は潔い笑
 > ![image](https://pbs.twimg.com/media/F1o3JpmacAAM43R.jpg)![image](https://pbs.twimg.com/media/F1o3J1faYAUaRU7.jpg)![image](https://pbs.twimg.com/media/F1o3KACaEAAf-7P.jpg)![image](https://pbs.twimg.com/media/F1o3KLXaIAArElt.jpg)
 
+日本語での体験談
+- [/motoso/community notes(Twitter)](https://scrapbox.io/motoso/community notes(Twitter))
 
 関連
 - [[Polisにファクトを出典付きで投稿できる機能をつける]]

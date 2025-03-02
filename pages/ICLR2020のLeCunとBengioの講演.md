@@ -1,3 +1,6 @@
+---
+title: "ICLR2020のLeCunとBengioの講演"
+---
 
 ICLR: Reflections from the Turing Award Winners
 [https://iclr.cc/virtual_2020/speaker_7.html](https://iclr.cc/virtual_2020/speaker_7.html)

@@ -1,3 +1,6 @@
+---
+title: "KJ法とKozanebaの関係は？"
+---
 
 by [[Perplexity Ask]]
 > KJ法とKozanebaは同じ人物である西尾泰和氏が関係しています。KJ法はグループ編成をするための手法で、Kozanebaはデジタル文房具であり、KJ法的な手法をデジタル化したものです。

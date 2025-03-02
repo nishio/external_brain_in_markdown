@@ -1,3 +1,6 @@
+---
+title: "🌀KJ法"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁KJ法

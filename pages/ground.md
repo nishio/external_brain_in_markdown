@@ -1,3 +1,6 @@
+---
+title: "ground"
+---
 
 from [[pIntEn]]
 ground

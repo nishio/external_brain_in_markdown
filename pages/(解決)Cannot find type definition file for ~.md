@@ -1,3 +1,6 @@
+---
+title: "(解決)Cannot find type definition file for ~"
+---
 
 ![image](https://gyazo.com/dfa7da2134b74fe47ed0b6fe0154b640/thumb/1000)
 - `@types/...`をyarn addしてもダメだった

@@ -1,3 +1,6 @@
+---
+title: "🤖「公開Scrapbox期」の終焉か？？"
+---
 
 AIのScrapbox利用は知識活用に有効だが、読みにくさがある。
 - [[読みやすさは必要か？→No]]<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>

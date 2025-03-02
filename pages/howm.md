@@ -1,3 +1,6 @@
+---
+title: "howm"
+---
 
 hitori otegaru wiki mode
 [https://howm.osdn.jp/index-j.html](https://howm.osdn.jp/index-j.html)

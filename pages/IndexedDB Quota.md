@@ -1,3 +1,6 @@
+---
+title: "IndexedDB Quota"
+---
 
 [ChromeのIndexedDB(2.0)に、限界までデータを登録してみました - Skyway Walkers](https://iwatendo.hateblo.jp/entry/2018/02/15/215811)
 

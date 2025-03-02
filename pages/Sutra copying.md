@@ -1,3 +1,6 @@
+---
+title: "Sutra copying"
+---
 
 = [[写経]], [[Skakyo]]
 

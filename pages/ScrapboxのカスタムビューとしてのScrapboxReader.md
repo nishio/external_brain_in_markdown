@@ -1,3 +1,6 @@
+---
+title: "ScrapboxのカスタムビューとしてのScrapboxReader"
+---
 
 from [/villagepump/ScrapboxのカスタムビューとしてのScrapboxReader](https://scrapbox.io/villagepump/ScrapboxのカスタムビューとしてのScrapboxReader)
 ![image](https://gyazo.com/7ae3f64d6fd65a1aa62cab01dcd53806/thumb/1000)

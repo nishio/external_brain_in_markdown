@@ -1,3 +1,6 @@
+---
+title: "ABC070D"
+---
 
 [D - Transit Tree Path](https://atcoder.jp/contests/abc070/tasks/abc070_d)
 - ![image](https://gyazo.com/7747dc17e290d49629796ab6d7387f3a/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "Scrapboxの画像詰め込み"
+---
 
 UserCSSを使わなくても詰め込まれるようになった！やった！と思ったがスマホで見たら酷いことになってたのでまだしばらくUserCSSで制御することに…
 ![image](https://gyazo.com/a1df9df8d2023e1de55aafdeea63d86f/thumb/1000)

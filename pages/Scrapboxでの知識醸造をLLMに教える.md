@@ -1,3 +1,6 @@
+---
+title: "Scrapboxでの知識醸造をLLMに教える"
+---
 
 2023-10-03
 > [nishio](https://twitter.com/nishio/status/1709153603955609657/quick_promote_web/intro) AIに[[RAG]]で知識を与えるアプローチ、与える知識のチャンクをどうすると良いのかに関してはオープンクエッションなのだけども、Scrapboxがとても良い可能性を感じてる

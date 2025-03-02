@@ -1,3 +1,6 @@
+---
+title: "書籍をScrapboxに入れる話"
+---
 
 from [/villagepump/2023/09/13](https://scrapbox.io/villagepump/2023/09/13)
 - やっちゃうか？やめとくか？

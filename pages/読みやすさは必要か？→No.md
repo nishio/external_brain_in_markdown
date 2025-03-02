@@ -1,3 +1,6 @@
+---
+title: "読みやすさは必要か？→No"
+---
 
 
 > AIのScrapbox利用は知識活用に有効だが、読みにくさがある。<img src='https://scrapbox.io/api/pages/nishio/omni/icon' alt='omni.icon' height="19.5"/>

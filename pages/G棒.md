@@ -1,3 +1,6 @@
+---
+title: "G棒"
+---
 
 ![image](https://gyazo.com/fdb4267021a62456f1c10523ab06ca70/thumb/1000)
 - [Amazon](https://amzn.to/42frGnR)

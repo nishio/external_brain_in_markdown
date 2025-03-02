@@ -1,3 +1,6 @@
+---
+title: "AutoSleep"
+---
 
 Day 1
 ![image](https://gyazo.com/7a6cd4c491045a6e6609d082770a154c/thumb/1000)![image](https://gyazo.com/56314b0131ec30165c1d9f2fd319cd72/thumb/1000)

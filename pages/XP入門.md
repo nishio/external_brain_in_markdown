@@ -1,3 +1,6 @@
+---
+title: "XP入門"
+---
 
 ![image](https://gyazo.com/680c5cb3c85d93f0242d8f1222a7afcd/thumb/1000)
 - [[XP]][[エクストリーム・プログラミング]]入門―変化を受け入れる

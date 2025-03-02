@@ -1,3 +1,6 @@
+---
+title: "選挙は4年に一度5bit送信する遅い通信だ"
+---
 
 [https://youtu.be/781GHvtEzFQ?t=576](https://youtu.be/781GHvtEzFQ?t=576)
 [[Audrey Tang]]

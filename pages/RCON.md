@@ -1,3 +1,6 @@
+---
+title: "RCON"
+---
 
 > RCON is a protocol that allows server administrators to remotely execute Minecraft commands.
 [https://wiki.vg/RCON](https://wiki.vg/RCON)

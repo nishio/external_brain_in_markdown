@@ -1,3 +1,6 @@
+---
+title: "階層 Pitman-Yor 過程に基づく可変長 n-gram 言語モデル"
+---
 
 - [[階層 Pitman-Yor 過程]]に基づく[[可変長 n-gram 言語モデル]]
     - [[Pitman-Yor 過程]]

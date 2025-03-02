@@ -1,3 +1,6 @@
+---
+title: "NHK「100分de名著」ブックス ブッダ 真理のことば"
+---
 
 ![image](https://gyazo.com/d5f1e0e13221971f8fa3a009c6147f0f/thumb/1000)
 - [Amazon](https://amzn.to/3Pmkyl1)

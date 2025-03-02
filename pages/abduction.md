@@ -1,3 +1,6 @@
+---
+title: "abduction"
+---
 
 from [[pIntEn]]
 abduction

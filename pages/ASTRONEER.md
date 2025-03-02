@@ -1,3 +1,6 @@
+---
+title: "ASTRONEER"
+---
 
 from [/villagepump/ASTRONEER](https://scrapbox.io/villagepump/ASTRONEER)
 ![image](https://gyazo.com/6a40a992ac0f62634e27adfad5da9e0e/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "YouTubeに適したフォーマット"
+---
 
 [[Premiere Pro]]
 

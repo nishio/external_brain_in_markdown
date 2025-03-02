@@ -1,3 +1,6 @@
+---
+title: "The One and the Many"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁The One and the Many

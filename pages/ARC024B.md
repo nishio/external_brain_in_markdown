@@ -1,3 +1,6 @@
+---
+title: "ARC024B"
+---
 
 [B - 赤と黒の木](https://atcoder.jp/contests/arc024/tasks/arc024_2)
 ![image](https://gyazo.com/e73d8c072d7dfda777607da4d3d09e65/thumb/1000)

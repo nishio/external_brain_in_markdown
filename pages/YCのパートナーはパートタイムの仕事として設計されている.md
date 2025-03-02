@@ -1,3 +1,6 @@
+---
+title: "YCのパートナーはパートタイムの仕事として設計されている"
+---
 
 > [@sama](https://twitter.com/sama/status/1655255320569188352?s=20): being a VC is so easy, so high-status, the money is so great, and the lifestyle is so fun.
 > very dangerous trap that many super talented builders never escape from, until they eventually look back on it all and say “damn i’m so unfulfilled”.

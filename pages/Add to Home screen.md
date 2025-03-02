@@ -1,3 +1,6 @@
+---
+title: "Add to Home screen"
+---
 
 [[ホーム画面に追加]]、[[A2HS]]と略すこともある
 - [Add to Home screen - Progressive web apps (PWAs) | MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen)

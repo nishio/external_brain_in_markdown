@@ -1,3 +1,6 @@
+---
+title: "ARC092A"
+---
 
 [C - 2D Plane 2N Points](https://atcoder.jp/contests/arc092/tasks/arc092_a)
 - ![image](https://gyazo.com/8624dbe1a26b4a3709830321e704326f/thumb/1000)

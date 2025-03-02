@@ -1,3 +1,6 @@
+---
+title: "TypeScriptの型の練習"
+---
 
 [[TypeScriptの型]]
 typescript

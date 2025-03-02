@@ -1,3 +1,6 @@
+---
+title: "なぜ4T遅延だとダメで5T遅延だとOKなのか？"
+---
 
 final answer
 - ![image](https://gyazo.com/fc3a742e76230062f9cd5d3905635191/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "paper.jsでの拡大縮小テスト"
+---
 
 from [[pRegroup-done-2019]]
 paper.jsでの拡大縮小テスト

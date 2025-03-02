@@ -1,3 +1,6 @@
+---
+title: "Debug.Log"
+---
 
 Debug.Log(foo)はオブジェクトが存在していても"null"と表示されるっぽい
 

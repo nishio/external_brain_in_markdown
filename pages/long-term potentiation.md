@@ -1,3 +1,6 @@
+---
+title: "long-term potentiation"
+---
 
 - [Long-term potentiation - Wikipedia](https://en.wikipedia.org/wiki/Long-term_potentiation)
 

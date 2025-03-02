@@ -1,3 +1,6 @@
+---
+title: "Plurality(2022)"
+---
 
 from [[Plurality]]
 Plurality(2022)

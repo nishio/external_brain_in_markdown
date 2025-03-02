@@ -1,3 +1,6 @@
+---
+title: "TeX on Scrapbox"
+---
 
 NG(Error)
 - mbox$\mbox{aaa}$

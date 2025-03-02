@@ -1,3 +1,6 @@
+---
+title: "Information gathering is an endlessly expanding task"
+---
 
 [[Information Gathering]] is [[An Infinitely Expanding Task]]
 - [[Probabilistic Rewards]] often lead to its overestimation
@@ -14,5 +17,5 @@ This is said as a [[Self-Reminder]]
 - [[Calmness]] is necessary
 - [[Restlessness]] and [[Aimless Information Gathering]] won't bring [[Peace]], [[Confidence]], or [[Calmness]]
 
-<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/bashi/icon' alt='bashi.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/Bashi/icon' alt='Bashi.icon' height="19.5"/>
 translated from [[情報収集は無限に広がるタスク]]

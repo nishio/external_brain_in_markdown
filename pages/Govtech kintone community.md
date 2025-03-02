@@ -1,3 +1,6 @@
+---
+title: "Govtech kintone community"
+---
 
 > [[行政職員]]のためのkintoneユーザーコミュニティ
 >  「[[GovTech]] kintone Community」通称「ガブキン」は、 [[サイボウズ]]株式会社が提供する、行政職員のための、[[kintone]]の公式[[ユーザーコミュニティ]]です。

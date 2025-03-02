@@ -1,3 +1,6 @@
+---
+title: "neologd"
+---
 
 - いい形態素解析用の辞書
 - [neologd/mecab-ipadic-neologd: Neologism dictionary based on the language resources on the Web for mecab-ipadic](https://github.com/neologd/mecab-ipadic-neologd)

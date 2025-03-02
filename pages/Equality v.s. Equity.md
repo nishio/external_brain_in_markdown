@@ -1,3 +1,6 @@
+---
+title: "Equality v.s. Equity"
+---
 
 翻訳は難しいけど[[平等と公平]]としておこう。 #平等 #公平 #公正 [[Equality]], [[Equity]]
 
@@ -40,4 +43,5 @@
 
 関連
 - [https://twitter.com/stalin_bot_jp/status/1456886726610206725?s=21](https://twitter.com/stalin_bot_jp/status/1456886726610206725?s=21)
+    - ![image](https://gyazo.com/a36a6d46263fecf4dfa1990149f80bce/thumb/1000)
     - そもそも彼らはきちんと入場料を払って席に座るべきだ、という話

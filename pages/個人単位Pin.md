@@ -1,3 +1,6 @@
+---
+title: "個人単位Pin"
+---
 
 [[Notion]]
 - ![image](https://gyazo.com/8f0efc3eb0a7c6b5955c875e66d19231/thumb/1000)

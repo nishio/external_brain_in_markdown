@@ -1,3 +1,6 @@
+---
+title: "React Hooksでgetter"
+---
 
 こういうの作ったらどうだろう。(思いつきなのでまだしっかり検証していない)
 typescript

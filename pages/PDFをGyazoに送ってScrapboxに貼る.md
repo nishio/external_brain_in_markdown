@@ -1,3 +1,6 @@
+---
+title: "PDFをGyazoに送ってScrapboxに貼る"
+---
 
 see [[PDFからScrapboxへ]]
 

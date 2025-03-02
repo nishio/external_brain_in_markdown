@@ -1,3 +1,6 @@
+---
+title: "intro-heuristics"
+---
 
 [A - AtCoder Contest Scheduling](https://atcoder.jp/contests/intro-heuristics/tasks/intro_heuristics_a)
 - 2時間は短く感じたが、長くなっても疲れるのでこれでいい気がする

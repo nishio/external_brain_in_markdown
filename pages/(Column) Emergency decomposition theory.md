@@ -1,3 +1,6 @@
+---
+title: "(Column) Emergency decomposition theory"
+---
 
 In a book "Intellectual Productivity Improvement System: DIPS" Kobayashi Tadahito proposed the following checklist on how to deal with an [[emergency]] which we have to do more than we can do today. *1
 

@@ -1,4 +1,55 @@
+---
+title: "Cursor"
+---
 
+[Cursor - The AI-first Code Editor](https://cursor.sh/)
+- [[The AI-first Code Editor]]
+- [[AI+IDE]]
+- [https://github.com/getcursor/cursor](https://github.com/getcursor/cursor)
+
+試した(初回):
+- 2024-01-17
+- [/villagepump/Cursor試す](https://scrapbox.io/villagepump/Cursor試す)
+
+慣れたころの体験談の投稿 2024-02-05
+> [nishio](https://twitter.com/nishio/status/1754181219263373647) 使ってみればすぐわかることだし、何がCursorでしかできなくて何が[[Github Copilot]]でもできることなのか知らないので「Cursorでこんなことができる！」という投稿はしてなかったんだが、先日のエンジニア飲み会で話した相手がCursor自体を知らなかったので投稿してみようと思う
+
+> [nishio](https://twitter.com/nishio/status/1754181657597550818) ReactのJSX(ほぼHTML)で書かれてるサービスの説明をREADME.mdに貼って「マークダウンにして」と指示するとおおよそ正しくマークダウンになった
+>  ![image](https://pbs.twimg.com/media/GFga66za4AA1Q1n?format=jpg&name=medium#.png)
+
+> [nishio](https://twitter.com/nishio/status/1754181967086833831) Scrapbox記法で書かれてるリンク集を貼って「ulのなかのaにして」でそうなった
+>  ![image](https://pbs.twimg.com/media/GFgbM5PbMAA3eBp?format=jpg&name=medium#.png)
+
+> [nishio](https://twitter.com/nishio/status/1754182638099956081) サンプルデータをtsxに直書きしてたのを、データファイルに括りだそうとした。最初の一つだけ自分でやってから「このファイルを参考にして埋めて」で残りが埋まった。なお最初にやった時にやり忘れた&quotを元に戻す作業もやってくれた
+>  ![image](https://pbs.twimg.com/media/GFgbz_fbMAAgU-p?format=jpg&name=medium#.png)
+
+> [nishio](https://twitter.com/nishio/status/1754183439845294237) これを見て「横幅が足りない時は>の次で改行して欲しいなぁ」と言ったらそうなった
+>  ![image](https://pbs.twimg.com/media/GFgcUkvbgAANf0n?format=png&name=900x900#.png) ![image](https://pbs.twimg.com/media/GFgcWlLbsAALDLv?format=jpg&name=small#.png) ![image](https://pbs.twimg.com/media/GFgcYEXa8AA-N6k?format=png&name=900x900#.png)
+
+> [nishio](https://twitter.com/nishio/status/1754183737586467251) よくみたら「>の前で」って言ってるのに後で改行されてるな、気づいてなかった。つまり重要ではなかった。
+
+> [nishio](https://twitter.com/nishio/status/1754184180588781763) 「3カラムにして」で3カラムになった
+>  ![image](https://pbs.twimg.com/media/GFgdNxaaoAAnE62?format=jpg&name=medium#.png)
+
+> [nishio](https://twitter.com/nishio/status/1754184699629682826) divで実装してたやつを最初だけspanに変えて「全部spanにして」で全部spanになった
+>  なおp-2が残ってるのには気づかなかった
+>  ![image](https://pbs.twimg.com/media/GFgdsAeacAA1ly1?format=jpg&name=medium#.png)
+
+> [nishio](https://twitter.com/nishio/status/1754185011962724385) 適当に「いい色にして」でいい色になったw どうでもいいことを雑に投げると適当にそれっぽくしてくれるので良い
+>  ![image](https://pbs.twimg.com/media/GFgd-Mga4AAWxXL?format=jpg&name=medium#.png)
+
+> [nishio](https://twitter.com/nishio/status/1754188584012382603) write readmeでreadmeを書くw
+>  ![image](https://pbs.twimg.com/media/GFghFzSawAAl0TQ?format=jpg&name=medium#.png)
+
+> [nishio](https://twitter.com/nishio/status/1754188834978562104) で、そのREADMEを編集しようとしたら残りを書いてくれたw
+>  ![image](https://pbs.twimg.com/media/GFghXMlaUAAFyQ8?format=jpg&name=medium#.png)
+
+> [nishio](https://twitter.com/nishio/status/1754189502174871798) "// if"と書いただけで残りのコメントとif文が作られた
+>  ![image](https://pbs.twimg.com/media/GFgh7ywa8AAEoWD?format=jpg&name=medium#.png)
+
+
+## 初期の頃の他人の投稿のメモ
+2023-10-25
 > [rice_vc](https://twitter.com/rice_vc/status/1717061368359370796/photo/1) Cursorの進化が凄まじい…
 >
 >  ・OIが持つローカル環境のコード実行能力

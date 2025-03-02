@@ -1,3 +1,6 @@
+---
+title: "freedesktop.org.xmlの著作物性"
+---
 
 mime-typeに関する「データベース」であるfreedesktop.org.xmlに著作物性があるかどうか、という話。
 

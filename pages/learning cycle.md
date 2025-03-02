@@ -1,3 +1,6 @@
+---
+title: "learning cycle"
+---
 
 The figure comes in [[(0.2) How to learn programming]], and comes again in [[(1.1) The learning cycle]].
 

@@ -1,3 +1,6 @@
+---
+title: "ABC112C"
+---
 
 [C - Pyramid](https://atcoder.jp/contests/abc112/tasks/abc112_c)
 - ![image](https://gyazo.com/26703e70d37462b7f880bcd2126d9014/thumb/1000)

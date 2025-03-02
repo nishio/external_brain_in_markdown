@@ -1,3 +1,6 @@
+---
+title: "nue(project)"
+---
 
 [/nue](https://scrapbox.io/nue)
 

@@ -1,3 +1,6 @@
+---
+title: "goal"
+---
 
 [[Task design]] or [[goal-setting]] is to make nice difinition of [[task]] to keep [[motivation]] easily.
 

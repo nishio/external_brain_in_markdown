@@ -1,3 +1,6 @@
+---
+title: "kearch"
+---
 
 [https://github.com/kearch/kearch](https://github.com/kearch/kearch)
 [[検索]]エンジンを作る

@@ -1,3 +1,6 @@
+---
+title: "Weibo"
+---
 
 from [[未踏ジュニア深圳ツアー2019]]
 Weibo

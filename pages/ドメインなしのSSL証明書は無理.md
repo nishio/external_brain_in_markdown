@@ -1,3 +1,6 @@
+---
+title: "ドメインなしのSSL証明書は無理"
+---
 
 > Let’s Encrypt may offer IP address certificates in the future, but as of September 2018 we do not.
 

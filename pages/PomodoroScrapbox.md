@@ -1,3 +1,6 @@
+---
+title: "PomodoroScrapbox"
+---
 
 「Pomodoro」という文字列を選択してトマトメニューを押すと下記のような記法になる
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>🍅03:27-03:52 Pomodoro

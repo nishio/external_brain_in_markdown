@@ -1,3 +1,6 @@
+---
+title: "UCB1"
+---
 
 1985
 Tzu L. Lai and Herbert Robbins. Asymptotically efficient adaptive allocation rules, 1985

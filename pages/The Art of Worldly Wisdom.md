@@ -1,3 +1,6 @@
+---
+title: "The Art of Worldly Wisdom"
+---
 
 1647年に[[バルタサル・グラシアン]]が書いた300の格言。
 

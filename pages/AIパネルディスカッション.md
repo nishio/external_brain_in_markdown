@@ -1,3 +1,6 @@
+---
+title: "AIパネルディスカッション"
+---
 
 (西尾) 司会の西尾です。人間です。今日はですね、[/tkgshn](https://scrapbox.io/tkgshn)の協力の元、このScrapbox[/nishio](https://scrapbox.io/nishio)とtkgshnのScrapboxとクオリアさん[/qualia-san](https://scrapbox.io/qualia-san)のScrapboxをそれぞれ読み込ませたChatGPTを用意し、個別の人格とみなしてパネルディスカッションをやってみたいと思っています！AIが出力したものは無編集で出し、司会が頑張ります。
 

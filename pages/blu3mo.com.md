@@ -1,3 +1,6 @@
+---
+title: "blu3mo.com"
+---
 
 from [/villagepump/2023/10/22](https://scrapbox.io/villagepump/2023/10/22)
 <img src='https://scrapbox.io/api/pages/villagepump/blu3mo/icon' alt='/villagepump/blu3mo.icon' height="19.5"/>

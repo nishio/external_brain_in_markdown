@@ -1,3 +1,6 @@
+---
+title: "tenka1_2017C"
+---
 
 [C - 4/N](https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_c)
 - ![image](https://gyazo.com/5e556522f06d9b5a2713f8639e0db56c/thumb/1000)

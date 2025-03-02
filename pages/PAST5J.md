@@ -1,3 +1,6 @@
+---
+title: "PAST5J"
+---
 
 [J - 長い長い文字列](https://atcoder.jp/contests/past202012-open/tasks/past202012_j)
 ![image](https://gyazo.com/a30032ca3d2b05fc4156aed0ed48365c/thumb/1000)

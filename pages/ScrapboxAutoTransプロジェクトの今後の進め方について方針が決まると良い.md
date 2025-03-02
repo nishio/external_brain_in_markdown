@@ -1,3 +1,6 @@
+---
+title: "ScrapboxAutoTransプロジェクトの今後の進め方について方針が決まると良い"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/kei/icon' alt='/nishio/kei.icon' height="19.5"/>あなたはこの会話で何がどうなるとよいのでしょう？
 <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='/nishio/human.icon' height="19.5"/>ScrapboxAutoTransプロジェクトの今後の進め方について方針が決まると良い

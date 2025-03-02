@@ -1,3 +1,6 @@
+---
+title: "Training Compute-Optimal Large Language Models"
+---
 
 > Submitted on 29 Mar 2022
 >  Training Compute-Optimal Large Language Models

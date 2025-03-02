@@ -1,3 +1,6 @@
+---
+title: "non-numerical"
+---
 
 non-numerical=[[無数的]]
 

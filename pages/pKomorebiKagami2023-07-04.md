@@ -1,3 +1,6 @@
+---
+title: "pKomorebiKagami2023-07-04"
+---
 
 prev [[pKomorebiKagami2023-07-03]]
 投票の更新できた

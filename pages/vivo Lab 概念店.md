@@ -1,3 +1,6 @@
+---
+title: "vivo Lab 概念店"
+---
 
 ![image](https://gyazo.com/eeaec3bac5765b4808d8def65809b1d4/thumb/1000)
 

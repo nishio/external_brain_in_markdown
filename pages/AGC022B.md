@@ -1,3 +1,6 @@
+---
+title: "AGC022B"
+---
 
 ![image](https://gyazo.com/13f3d39471baeb131d387b0805df3eab/thumb/1000)
 [https://atcoder.jp/contests/agc022/tasks/agc022_b](https://atcoder.jp/contests/agc022/tasks/agc022_b)

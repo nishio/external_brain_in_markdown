@@ -1,3 +1,6 @@
+---
+title: "CCSEまで"
+---
 
 from [[pRegroup-done-2019]]
 CCSEまで

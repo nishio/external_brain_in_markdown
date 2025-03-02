@@ -1,3 +1,6 @@
+---
+title: "Skype for Business Web App"
+---
 
 ![image](https://gyazo.com/91b5c0e05d739747b96c2d1cd7e63add/thumb/1000)
 

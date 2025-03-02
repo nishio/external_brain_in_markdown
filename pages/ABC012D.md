@@ -1,3 +1,6 @@
+---
+title: "ABC012D"
+---
 
 [D - バスと避けられない運命](https://atcoder.jp/contests/abc012/tasks/abc012_4)
 - ![image](https://gyazo.com/ee05f83557e61f16cca327eded5de119/thumb/1000)

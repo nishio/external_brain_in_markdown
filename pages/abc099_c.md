@@ -1,3 +1,6 @@
+---
+title: "abc099_c"
+---
 
 [https://atcoder.jp/contests/abc099/tasks/abc099_c](https://atcoder.jp/contests/abc099/tasks/abc099_c)
 - 1回で引き出せる金額の種数は高々20回程度

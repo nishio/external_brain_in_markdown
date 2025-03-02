@@ -1,3 +1,6 @@
+---
+title: "p値の批判"
+---
 
 - 2014 Nuzzo, R.(2014). Scientific method:statistical errors. Nature, 506, 150-152
     - [https://www.nature.com/news/scientific-method-statistical-errors-1.14700](https://www.nature.com/news/scientific-method-statistical-errors-1.14700)

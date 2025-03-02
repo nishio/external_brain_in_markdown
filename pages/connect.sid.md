@@ -1,3 +1,6 @@
+---
+title: "connect.sid"
+---
 
 Scrapboxのログインが必要なAPIをスクリプトから叩くための認証情報
 

@@ -1,3 +1,6 @@
+---
+title: "is referenced directly or indirectly in its own type annotation"
+---
 
 ts
 

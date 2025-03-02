@@ -1,3 +1,6 @@
+---
+title: "ABC105C"
+---
 
 [C - Base -2 Number](https://atcoder.jp/contests/abc105/tasks/abc105_c)
 - ![image](https://gyazo.com/138fd19d56e29837bebffb7acca1e9cf/thumb/1000)

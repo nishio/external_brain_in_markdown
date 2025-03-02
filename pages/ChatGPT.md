@@ -1,3 +1,6 @@
+---
+title: "ChatGPT"
+---
 
 2023-07-12 区別をやめた, see [[GPT]]
 ![image](https://scrapbox.io/files/64ae088618e830001b046ea0.png)

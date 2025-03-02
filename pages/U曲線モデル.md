@@ -1,3 +1,6 @@
+---
+title: "U曲線モデル"
+---
 
 ![image](https://gyazo.com/4af6ff261bf5d9399b1a3158120c28c6/thumb/1000)
 [[エンジニアの知的生産術]] p.185 [[(6.1.2.3) Otto Scharmerの変化のパターン]]

@@ -1,3 +1,6 @@
+---
+title: "Intersectional Social Identity"
+---
 
 > [0xtkgshn](https://twitter.com/0xtkgshn/status/1669949500730019840)
 >  [[人を雑に紹介するのに紹介されると信用するバグ]]

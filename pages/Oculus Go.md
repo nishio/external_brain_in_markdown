@@ -1,3 +1,6 @@
+---
+title: "Oculus Go"
+---
 
 - まとめページ
     - [/oculus-go](https://scrapbox.io/oculus-go)

@@ -1,3 +1,6 @@
+---
+title: "未踏ジュニア OpenAI / ChatGPT 座談会"
+---
 
 [[未踏ジュニア]] [[OpenAI]] / [[ChatGPT]] 座談会
 [https://youtu.be/abnGvGEmwoA](https://youtu.be/abnGvGEmwoA)

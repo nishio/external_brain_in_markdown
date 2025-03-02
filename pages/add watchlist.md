@@ -1,3 +1,6 @@
+---
+title: "add watchlist"
+---
 
 from [/villagepump/2022/03/25](https://scrapbox.io/villagepump/2022/03/25)
 <img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>

@@ -1,3 +1,6 @@
+---
+title: "parallel processing"
+---
 
 - [[do multiple tasks]] simultaneously
 - [[parallel]]

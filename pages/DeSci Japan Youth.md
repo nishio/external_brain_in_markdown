@@ -1,3 +1,6 @@
+---
+title: "DeSci Japan Youth"
+---
 
 > [@HiroTHamadaJP](https://twitter.com/HiroTHamadaJP/status/1659483162597294080?s=20): [[DeSci]] Japan Youth の立ち上げが @Ultraviolet_med 主導で進められたようです。 [[gitcoin]]への参加などスピード感を持って取り組みが始まりそうです。 学生の、学生による、学生のための取り組みが始まるようなので楽しみしております。
 >  [Gitcoin | Explorer](https://explorer.gitcoin.co/#/round/1/0x6e8dc2e623204d61b0e59e668702654ae336c9f7/0x6e8dc2e623204d61b0e59e668702654ae336c9f7-79)

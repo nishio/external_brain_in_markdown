@@ -1,3 +1,6 @@
+---
+title: "inferior stationery harms your intelligence"
+---
 
 I add the concept during I'm writing the English version. (2019-03-13)
 

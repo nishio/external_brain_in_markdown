@@ -1,3 +1,6 @@
+---
+title: "DP J"
+---
 
 from [[動的計画法]]
 - 問題文[J - Sushi](https://atcoder.jp/contests/dp/tasks/dp_j)

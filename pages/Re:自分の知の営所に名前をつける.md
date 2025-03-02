@@ -1,3 +1,6 @@
+---
+title: "Re:自分の知の営所に名前をつける"
+---
 
 from [/unnamedcamp/自分の知の営所に名前をつける](https://scrapbox.io/unnamedcamp/自分の知の営所に名前をつける)
 たとえば、

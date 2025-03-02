@@ -1,3 +1,6 @@
+---
+title: "ABC138E"
+---
 
 [E - Strings of Impurity](https://atcoder.jp/contests/abc138/tasks/abc138_e)
 - ![image](https://gyazo.com/5f6618bde9fcd97d22a92131ae77a4f2/thumb/1000)

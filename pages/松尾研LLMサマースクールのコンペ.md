@@ -1,3 +1,6 @@
+---
+title: "松尾研LLMサマースクールのコンペ"
+---
 
 ![image](https://gyazo.com/b0631db7cfa8ad1bf6d02dc707fc34c6/thumb/1000) (thanks TaroNakasendoさん)
 ![image](https://gyazo.com/8c1a991f9f156c0aef595175c7ab22b1/thumb/1000)

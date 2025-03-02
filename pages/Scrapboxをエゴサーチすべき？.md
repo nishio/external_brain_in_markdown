@@ -1,3 +1,6 @@
+---
+title: "Scrapboxをエゴサーチすべき？"
+---
 
 [/blu3mo-public/Scrapboxエゴサ](https://scrapbox.io/blu3mo-public/Scrapboxエゴサ)
 > 見すぎても[[他人の目]]が強まって良くなさそう

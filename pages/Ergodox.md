@@ -1,3 +1,6 @@
+---
+title: "Ergodox"
+---
 
 Ergodox EZに関する情報を未来の自分のためにまとめる。
 

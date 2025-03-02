@@ -1,3 +1,6 @@
+---
+title: "押印についてのQ&A"
+---
 
 令和２年６月 19 日 内閣府 法務省 経済産業省
 [http://www.moj.go.jp/content/001322410.pdf](http://www.moj.go.jp/content/001322410.pdf)

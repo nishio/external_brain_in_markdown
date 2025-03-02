@@ -1,3 +1,6 @@
+---
+title: "Quick Winと長期的目標の二階建て"
+---
 
 [https://twitter.com/hrjn/status/1428498039916810240?s=21](https://twitter.com/hrjn/status/1428498039916810240?s=21)
 

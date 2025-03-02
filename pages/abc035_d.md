@@ -1,3 +1,6 @@
+---
+title: "abc035_d"
+---
 
 [https://atcoder.jp/contests/abc035/tasks/abc035_d](https://atcoder.jp/contests/abc035/tasks/abc035_d)
 - 考えたこと

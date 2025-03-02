@@ -1,3 +1,6 @@
+---
+title: "(Column) Reading along time series"
+---
 
 We learned that there are common concepts between reading source codes and reading books, such as focusing on [[folder hierarchy]] and [[table of contents]] in [[(4.3.3) Attention to headlines]]. Both are the [[hierarchical]], [[place]]-based arrangement of information.
 

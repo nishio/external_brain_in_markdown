@@ -1,3 +1,6 @@
+---
+title: "オードリー・タン デジタルとAIの未来を語る"
+---
 
 ![image](https://gyazo.com/a11ea0d00e15832bb89ee1e091b11637/thumb/1000)
 - [Amazon](https://amzn.to/3Pchole)

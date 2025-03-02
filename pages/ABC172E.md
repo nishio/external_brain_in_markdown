@@ -1,3 +1,6 @@
+---
+title: "ABC172E"
+---
 
 [E - NEQ](https://atcoder.jp/contests/abc172/tasks/abc172_e)
 - ![image](https://gyazo.com/a43c39f8615db563d14106992866b62e/thumb/1000)

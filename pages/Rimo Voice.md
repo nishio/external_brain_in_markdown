@@ -1,3 +1,6 @@
+---
+title: "Rimo Voice"
+---
 
 > Rimo Voiceは、音声認識が曖昧になってしまった部分の文字色があえて薄くなる仕様にした。また、音声データとテキストデータをリンクさせ、文字色が薄い部分をクリックすれば、該当箇所を簡単に聞き直すこともできる。
 [30秒20円で利用可能。日本語に特化した「AI文字起こしサービス」が狙うモノ | DIAMOND SIGNAL](https://signal.diamond.jp/articles/-/252?fbclid=IwAR2ZEiIW_B3l8pfZYLypYdk88rsHqgr7YUL9pdMp-WTLy82wuPp9d9loB94)

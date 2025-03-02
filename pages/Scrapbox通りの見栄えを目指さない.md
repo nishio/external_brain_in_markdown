@@ -1,3 +1,6 @@
+---
+title: "Scrapbox通りの見栄えを目指さない"
+---
 
 [[Scrapbox通りの見栄え]]を目指さない
 - Scrapbox側の変更に追従するの大変

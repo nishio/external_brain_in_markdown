@@ -1,3 +1,6 @@
+---
+title: "Claude-instant-100kに「エンジニアの知的生産術」を読ませる"
+---
 
 ![image](https://gyazo.com/23b07f7bfe9fee7192aa7ad3b827eb51/thumb/1000)
 - [[Claude-instant-100k]] on [[Poe]]を試してる

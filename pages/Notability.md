@@ -1,3 +1,6 @@
+---
+title: "Notability"
+---
 
 - [[iPad Pro]]
 - 音を取れる、PDFを開いて書きこめる、直線を引ける

@@ -1,3 +1,6 @@
+---
+title: "ABC178F"
+---
 
 [F - Contrast](https://atcoder.jp/contests/abc178/tasks/abc178_f)
 ![image](https://gyazo.com/2f42a5744a2fdfabc0c5a486a12710fd/thumb/1000)

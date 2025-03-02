@@ -1,3 +1,6 @@
+---
+title: "AI is neutral"
+---
 
 from [[English Lesson 2023-05-02]]
 AI is neutral

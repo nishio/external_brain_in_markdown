@@ -1,3 +1,6 @@
+---
+title: "マンキュー経済学Iミクロ編"
+---
 
 ![image](https://gyazo.com/718935b8088dfeb50217a98f59dad293/thumb/1000)
 - [Amazon](https://amzn.to/2IofI79)

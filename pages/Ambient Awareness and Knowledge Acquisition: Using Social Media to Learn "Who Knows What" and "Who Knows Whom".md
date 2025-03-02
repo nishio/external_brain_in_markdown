@@ -1,3 +1,6 @@
+---
+title: 'Ambient Awareness and Knowledge Acquisition: Using Social Media to Learn "Who Knows What" and "Who Knows Whom"'
+---
 
 Leonardi, Paul M.. 2015. "Ambient Awareness and Knowledge Acquisition: Using Social Media to Learn "Who Knows What" and "Who Knows Whom"," MIS Quarterly, (39: 4) pp.747-762.
 

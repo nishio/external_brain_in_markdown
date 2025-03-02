@@ -1,3 +1,6 @@
+---
+title: "🌀Keichobot"
+---
 
 [[Keichobotは思考具体化ツール]]
 

@@ -1,3 +1,6 @@
+---
+title: "ABC014C"
+---
 
 [C - AtColor](https://atcoder.jp/contests/abc014/tasks/abc014_3)
 - ![image](https://gyazo.com/bcea3a19aa82653da975c281ab5f0e67/thumb/1000)

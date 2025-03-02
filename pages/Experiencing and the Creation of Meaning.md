@@ -1,3 +1,6 @@
+---
+title: "Experiencing and the Creation of Meaning"
+---
 
 ![image](https://gyazo.com/544d8e6427a9a9bbd16d58da503b47a6/thumb/1000)
 - Experiencing and the Creation of Meaning: A Philosophical and Psychological Approach to the Subjective

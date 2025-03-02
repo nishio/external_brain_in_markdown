@@ -1,3 +1,6 @@
+---
+title: "AtCoder Library"
+---
 
 > 様々なアルゴリズムを [[AtCoder]] 側で実装した
 - [https://atcoder.jp/posts/517](https://atcoder.jp/posts/517)

@@ -1,3 +1,6 @@
+---
+title: "Autonauts"
+---
 
 from [/villagepump/Autonauts](https://scrapbox.io/villagepump/Autonauts)
 ![image](https://gyazo.com/b59a2d6bf1a1e253a52f60d793acb6cb/thumb/1000)

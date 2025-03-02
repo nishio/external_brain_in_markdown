@@ -1,3 +1,6 @@
+---
+title: "if文から機械学習への道"
+---
 
 ![image](https://gyazo.com/e6afaa643e5d90b03e2983764d9aa62b/thumb/1000)
 if文から[[機械学習]]への道 2017-09-26 BPStudy#121

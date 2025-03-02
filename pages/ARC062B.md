@@ -1,3 +1,6 @@
+---
+title: "ARC062B"
+---
 
 [D - AtCoDeerくんと変なじゃんけん](https://atcoder.jp/contests/arc062/tasks/arc062_b)
 - ![image](https://gyazo.com/b60e8ec2eed92697d14a8aff9e4790c9/thumb/1000)

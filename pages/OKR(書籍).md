@@ -1,3 +1,6 @@
+---
+title: "OKR(書籍)"
+---
 
 ![image](https://gyazo.com/0caa95e3dd98b0c6061393d05ee65d45/thumb/1000)
 - [[OKR]] シリコンバレー式で大胆な目標を達成する方法

@@ -1,3 +1,6 @@
+---
+title: "Toolformer/Visual ChatGPT/HuggingGPT/TaskMatrix.AI"
+---
 
 > [mi141](https://twitter.com/mi141/status/1643909035664773120/photo/1) GPT/ChatGPTをベースに、複数の外部API（他の基盤モデルなども）をうまく使いこなして様々なタスクを解く手法に興味があったので
 >  ・[[Toolformer]]

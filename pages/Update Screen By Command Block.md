@@ -1,3 +1,6 @@
+---
+title: "Update Screen By Command Block"
+---
 
 [https://youtu.be/mH1drg6q328](https://youtu.be/mH1drg6q328)
 

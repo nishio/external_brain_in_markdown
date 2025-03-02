@@ -1,3 +1,6 @@
+---
+title: "Apple Pencilで描いてScrapboxに貼る"
+---
 
 
 > (nishio) [[Apple Pencil]]で図をどんどん書いて[[Scrapbox]]にどんどん貼るにはどうすると便利なのだろう…

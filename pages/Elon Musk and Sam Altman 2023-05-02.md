@@ -1,3 +1,6 @@
+---
+title: "Elon Musk and Sam Altman 2023-05-02"
+---
 
 English Conversation Lesson about Elon Musk and Sam Altman, and concern if AI
 - A: For instance, now Twitter charges people to write in long form and to have the blue checkmark and other things.

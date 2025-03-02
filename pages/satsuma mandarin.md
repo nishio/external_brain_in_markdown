@@ -1,3 +1,6 @@
+---
+title: "satsuma mandarin"
+---
 
 > ![image](https://gyazo.com/1490a1c3bf6ccb60150bad33856b4307/thumb/1000)
 > [[Citrus unshiu]] is a semi-seedless and easy-peeling citrus species, also known as miyagawa mandarin, unshu mikan, cold hardy mandarin, satsuma mandarin, satsuma orange, naartjie, and tangerine.

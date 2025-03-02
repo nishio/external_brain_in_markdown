@@ -1,3 +1,6 @@
+---
+title: "WheatSeedsSystem開発メモ"
+---
 
 from [[Planet Minecraft]]
 WheatSeedsSystem開発メモ

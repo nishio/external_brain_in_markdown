@@ -1,3 +1,6 @@
+---
+title: "PAST5K"
+---
 
 [K - 的あて](https://atcoder.jp/contests/past202012-open/tasks/past202012_k)
 ![image](https://gyazo.com/6479e86b1c951eb67508032cd297072f/thumb/1000)

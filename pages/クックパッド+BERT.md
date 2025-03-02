@@ -1,3 +1,6 @@
+---
+title: "クックパッド+BERT"
+---
 
 クックパッドが社内データで[[BERT]]を自前学習した経験談
 [BERT with SentencePiece で日本語専用の pre-trained モデルを学習し、それを基にタスクを解く - クックパッド開発者ブログ](https://techlife.cookpad.com/entry/2018/12/04/093000)

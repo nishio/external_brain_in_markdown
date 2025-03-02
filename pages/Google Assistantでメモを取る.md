@@ -1,3 +1,6 @@
+---
+title: "Google Assistantでメモを取る"
+---
 
 調べる
 
@@ -15,3 +18,5 @@ ifttt
 [https://584homes.com/life/news/tichome-mini.html%20=](https://584homes.com/life/news/tichome-mini.html%20=)
 
 「ブロードキャストして」→その後任意内容
+
+[[Google Assistant]]

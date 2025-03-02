@@ -1,3 +1,6 @@
+---
+title: "suffocate v.s. choke"
+---
 
 > suffocate: to die because there is no air to breathe; to kill somebody by not letting them breathe air
 - [suffocate verb - Definition, pictures, pronunciation and usage notes | Oxford Advanced Learner's Dictionary at OxfordLearnersDictionaries.com](https://www.oxfordlearnersdictionaries.com/definition/english/suffocate?q=suffocate)

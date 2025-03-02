@@ -1,3 +1,6 @@
+---
+title: "Gitcoinのマッチングプールのお金はどこから来たのか？"
+---
 
 公式回答
 - [Where does the Gitcoin Grants Matching Pool Money Come From? - 🧙 🧙‍♀️ Ideas and Open Discussion - Gitcoin Governance](https://gov.gitcoin.co/t/where-does-the-gitcoin-grants-matching-pool-money-come-from/9036)

@@ -1,3 +1,6 @@
+---
+title: "Scrapboxからのインポート"
+---
 
 - API [/help-jp/API](https://scrapbox.io/help-jp/API)
 - リアルタイム性はScrapboxに任せたらいいのではないかと考えていたが、Googleアカウントで認証しないといけないのは嫌だな

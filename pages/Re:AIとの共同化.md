@@ -1,3 +1,6 @@
+---
+title: "Re:AIとの共同化"
+---
 
 from [/villagepump/2023/08/12](https://scrapbox.io/villagepump/2023/08/12)
 ScrapboxにAIを入れるの面白すぎた

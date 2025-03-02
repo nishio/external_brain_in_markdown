@@ -1,6 +1,18 @@
+---
+title: "AIは間違ってもよい仕事を奪う"
+---
 
+2022-08-10
 > [@tokoroten](https://twitter.com/tokoroten/status/1557027511875571712?s=21&t=iLeWuuVBbj8u3CVQKv8DKA): 某所向けに書いた怪文書を放流しておく
-> ![image](https://pbs.twimg.com/media/FZusQitaMAEpGgA.png)
+>  ![image](https://gyazo.com/d05de211049169a62ec0fdbde1b2a3f4/thumb/1000)
+AIは人の仕事を奪うのか?
+- プログラムは「間違ってはいけない仕事」を奪う
+- AIは「間違ってもいい仕事」を奪う
+- イラストは「正解がないので間違ってもいい仕事」
+    - 95%の人類よりは圧倒的にマシな絵を書いてくれる
+- AIに「間違ってはいけない仕事」をやらせると破滅するから注意な
+- 人間には「正解はないけど間違ってはいけない仕事」=「意思決定」が残る
+[[tokoroten]]
 
 関連
 - [[AIが仕事を奪わないと月の休日が3日減る]]

@@ -1,3 +1,6 @@
+---
+title: "quick dicision"
+---
 
 Originally "[[適当に決める]]" in Japanese.
 

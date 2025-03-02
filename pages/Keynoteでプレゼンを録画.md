@@ -1,3 +1,6 @@
+---
+title: "Keynoteでプレゼンを録画"
+---
 
 [Keynote を使って説明用動画を作成する - dev-edu](https://toka-xel.hatenablog.com/entry/2015/10/09/073559)
 - 再生→スライドショーを記録

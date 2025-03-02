@@ -1,4 +1,8 @@
+---
+title: "Polis体験レポート:テロの原因究明をするか"
+---
 
+2023-04-26
 2023年4月、日本では総理大臣に対する爆弾テロが発生した。
 - [24-year-old man arrested over explosion at prime minister Kishida speech site | NHK WORLD-JAPAN News](https://www3.nhk.or.jp/nhkworld/en/news/20230415_15/)
 - これを受けて、Twitter上では「テロの原因を究明すべきだ」という意見と、それに対する反対意見が巻き起こった。
@@ -167,3 +171,6 @@
 
 このようなアプローチは、Polisの運営を経験してみたい人には有用だろう。時事問題に対してSNS上で議論が盛り上がることはめずらしいことではない。
 Polisの運営を経験する人が増えることで、多くの人がPolisに参加する経験をすることは、長期的に見て[[熟議]]する仕組みの普及に役立つだろうと思う。
+
+関連記事
+- [「犯人の動機を報じるな」はどういう理屈？　首相襲撃事件で一部自民党議員が主張：東京新聞 TOKYO Web](https://www.tokyo-np.co.jp/article/245507)

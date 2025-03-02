@@ -1,3 +1,6 @@
+---
+title: "(7) How to decide what to learn"
+---
 
 When I give a lecture I often asked "I do not know what to learn". In Chapters 1 to 6, I have explained the methodology of learning how to learn. In this chapter, let's think about the decision what to learn which  is one step before "how to learn".
 

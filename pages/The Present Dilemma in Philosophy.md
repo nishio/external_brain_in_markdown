@@ -1,3 +1,6 @@
+---
+title: "The Present Dilemma in Philosophy"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁The Present Dilemma in Philosophy

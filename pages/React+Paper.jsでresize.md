@@ -1,3 +1,6 @@
+---
+title: "React+Paper.jsでresize"
+---
 
 > data-paper-resize="true"
 

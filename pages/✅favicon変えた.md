@@ -1,3 +1,6 @@
+---
+title: "✅favicon変えた"
+---
 
 Reactのデフォルトのままだと紛らわしいので。[[pRegroup]]
 ![image](https://gyazo.com/54da5577f062d22051dba9c835cc6c08/thumb/1000)

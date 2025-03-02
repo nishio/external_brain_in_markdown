@@ -1,3 +1,6 @@
+---
+title: "PAST1J"
+---
 
 [J - 地ならし](https://atcoder.jp/contests/past201912-open/tasks/past201912_j)
 - ![image](https://gyazo.com/35e2c2626e0ea16ae8009726cef684e2/thumb/1000)

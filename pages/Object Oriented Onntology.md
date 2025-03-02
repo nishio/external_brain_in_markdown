@@ -1,3 +1,6 @@
+---
+title: "Object Oriented Onntology"
+---
 
 > In metaphysics, object-oriented ontology (OOO) is a 21st-century [[Heidegger]]-influenced school of thought that rejects the privileging of human existence over the existence of nonhuman objects.
 [Object-oriented ontology - Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_ontology)

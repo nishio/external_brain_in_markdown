@@ -1,3 +1,6 @@
+---
+title: "AさんのモヤモヤはAさんしか塊に切り出すことができない"
+---
 
 from [/unnamedcamp/緩募：これをAtomicにする方法](https://scrapbox.io/unnamedcamp/緩募：これをAtomicにする方法)
 <img src='https://scrapbox.io/api/pages/unnamedcamp/nishio/icon' alt='/unnamedcamp/nishio.icon' height="19.5"/>面白い試みだと思う

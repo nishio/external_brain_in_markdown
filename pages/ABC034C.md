@@ -1,3 +1,6 @@
+---
+title: "ABC034C"
+---
 
 ![image](https://gyazo.com/02309bcb5a4e2e7fc98cd80f757482e8/thumb/1000)
 - 考えたこと

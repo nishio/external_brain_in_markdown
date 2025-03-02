@@ -1,3 +1,6 @@
+---
+title: "diverta2019_2_C"
+---
 
 [C - Successive Subtraction](https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_c)
 - ![image](https://gyazo.com/b445456237ffb73c3e17a53ff8a93a4b/thumb/1000)

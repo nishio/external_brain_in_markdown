@@ -1,3 +1,6 @@
+---
+title: "Cythonとジェネレータ内包"
+---
 
 Cythonでジェネレータ内包表記を使ったら謎のエラー
 `ret = max(get_longest(v, edges, longest) for v in edges[start]) + 1`

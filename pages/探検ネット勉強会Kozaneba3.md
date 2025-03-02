@@ -1,3 +1,6 @@
+---
+title: "探検ネット勉強会Kozaneba3"
+---
 
 [[探検ネット勉強会Kozaneba2]]
 ![image](https://gyazo.com/863d831bcdd87a9bd7919e16187d535c/thumb/1000)

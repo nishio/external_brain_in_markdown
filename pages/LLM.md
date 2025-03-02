@@ -1,3 +1,6 @@
+---
+title: "LLM"
+---
 
 [[Large Language Model]]
 - 大きな[[言語モデル]]

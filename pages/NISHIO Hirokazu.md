@@ -1,3 +1,6 @@
+---
+title: "NISHIO Hirokazu"
+---
 
 My name is "NISHIO Hirokazu" and "NISHIO" is the family name.
 - All Japanese people say their family name first when they are speaking Japanese language.

@@ -1,3 +1,6 @@
+---
+title: "Next-mem"
+---
 
 [[memとは]]
 [[mem]]

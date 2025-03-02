@@ -1,3 +1,6 @@
+---
+title: "TypeScriptのreturn忘れがnever問題を起こす例"
+---
 
 [useHistory | useHooks](https://usehooks.com/useHistory/)のJSで書かれたサンプルを[[TypeScript]]に翻訳していたら、`Type 'any' is not assignable to type 'never'`になった。
 原因は究極的には「網羅的でないswitch/case」で、その結果「returnされない経路がある」ことで返り値の型が T | undefined になり、それがReactのuseReducerの型推論過程で never になっている。

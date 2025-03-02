@@ -1,3 +1,6 @@
+---
+title: "Plurality"
+---
 
 [[民主主義を発展させるためのテクノロジー「Plurality」]]
 

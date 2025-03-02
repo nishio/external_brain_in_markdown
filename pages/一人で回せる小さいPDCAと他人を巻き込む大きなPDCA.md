@@ -1,3 +1,6 @@
+---
+title: "一人で回せる小さいPDCAと他人を巻き込む大きなPDCA"
+---
 
 ![image](https://gyazo.com/696072d3ab5dd891c1a8c0194605cbf1/thumb/1000)
 - 一人で回せる[[PDCAサイクル]]は小さく速く回すことができる

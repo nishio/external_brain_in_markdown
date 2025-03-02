@@ -1,3 +1,6 @@
+---
+title: "Premireでのズームイン"
+---
 
 ![image](https://gyazo.com/fd097f88256de775217554ce6e340252/thumb/1000)
 

@@ -1,3 +1,6 @@
+---
+title: "Improved Techniques for Training GANs"
+---
 
 Improved Techniques for Training [[GAN]]s
 [https://arxiv.org/pdf/1606.03498.pdf](https://arxiv.org/pdf/1606.03498.pdf)

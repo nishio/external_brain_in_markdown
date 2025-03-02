@@ -1,3 +1,6 @@
+---
+title: "(2) How to motivate yourself"
+---
 
 In Chapter 1, I explained about the [[learning cycle]]. The [[motivation]] is the drive-force of the cycle. However, many people want to motivate themselves. To solve the problem is important. So I have investigated more than 12,000 people who want to motivate themselves. In this chapter, I explain in detail about the motivation based on the data.
 

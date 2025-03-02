@@ -1,3 +1,6 @@
+---
+title: "PAST1L"
+---
 
 [L - グラデーション](https://atcoder.jp/contests/past201912-open/tasks/past201912_l)
 ![image](https://gyazo.com/622d3e70835a1497220daa46d7958222/thumb/1000)

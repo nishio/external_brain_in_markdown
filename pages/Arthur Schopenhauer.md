@@ -1,3 +1,6 @@
+---
+title: "Arthur Schopenhauer"
+---
 
 - ÜBER LESEN UND BÜCHER
     - ABOUT READ AND BOOKS

@@ -1,3 +1,6 @@
+---
+title: "PAST2M"
+---
 
 from [[第二回 アルゴリズム実技検定]]
 ![image](https://gyazo.com/b74deda81b8400cfd3e8c683aff07100/thumb/1000)

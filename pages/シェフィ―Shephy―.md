@@ -1,3 +1,6 @@
+---
+title: "シェフィ―Shephy―"
+---
 
 [[シェフィ]]―[[Shephy]]―
 ![image](https://gyazo.com/c8684f26b97b2d01135f26050ca107d4/thumb/1000)

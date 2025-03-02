@@ -1,3 +1,6 @@
+---
+title: "CookiePomodoro"
+---
 
 A variant of Cookie Clicker which requires a pomodoro instead of a click.
 Visit: [https://cookie-pomodoro.netlify.app/](https://cookie-pomodoro.netlify.app/)

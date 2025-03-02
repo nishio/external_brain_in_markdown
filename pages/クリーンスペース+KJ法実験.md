@@ -1,3 +1,6 @@
+---
+title: "クリーンスペース+KJ法実験"
+---
 
 [20150514実験ログ](https://www.facebook.com/nishiohirokazu/posts/10205940279122630)
 [20150520実験ログ](https://www.facebook.com/nishiohirokazu/posts/10205982892707943)

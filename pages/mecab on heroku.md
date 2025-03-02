@@ -1,3 +1,6 @@
+---
+title: "mecab on heroku"
+---
 
 `$ pip install mecab`
 ではなく

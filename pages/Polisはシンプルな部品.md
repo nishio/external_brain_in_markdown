@@ -1,3 +1,6 @@
+---
+title: "Polisはシンプルな部品"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>[[Polis]]は[[熟議支援システム]]とは言えないのでは？
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>Polisは「[[シンプルな部品]]」で、それ単体で議論をするものではない感じ

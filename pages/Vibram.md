@@ -1,7 +1,12 @@
+---
+title: "Vibram"
+---
 
 ![image](https://gyazo.com/345b2cc81f43ecb9f782bc557962d61e/thumb/1000)
 [[ビブラムファイブフィンガーズ]]
+[[Vibram Fivefingers]]
 
+2020-03-12
 [https://www.facebook.com/nishiohirokazu/posts/10220953619006744](https://www.facebook.com/nishiohirokazu/posts/10220953619006744)
 - 地面の凹凸を感じられる[[靴]]を買いました
     - ![image](https://gyazo.com/7a5a1cae9d19682c0402ea63ebacd849/thumb/1000)
@@ -42,4 +47,36 @@
 - 前回買った時にはポップアップショップにわざわざ出向かないと買えなかったのだが、コロナ期の間にかいつのまにかオンラインショップで買えるようになっていた
 - 18日に注文して19日に来た
 ![image](https://gyazo.com/7828c3b6897a4752a48fc69df6b8d282/thumb/1000)
+
+
+2024-09-02
+靴を洗おうとしたら穴が空いてるのに気づいた
+![image](https://gyazo.com/48b4e05fe259162ddc07410d5c233b2c/thumb/1000)
+最初に買ってから何年経ったんだ
+
+![image](https://gyazo.com/85c5787a81f05f6199d04039db42bfd0/thumb/1000)
+新しいのも薬指のところに穴が空いてる！
+
+2024-09-23
+- 古いのは捨てたんだが新しいのを買ってなかった
+- 新しいのを買うのを手間に思うのは準備が整ってないからだ
+- オンラインショップはどこ？
+    - [Barefootinc Japan｜日本で唯一のVibram FiveFingers正規輸入代理店](https://www.barefootinc.jp/)
+- "同じ型番"とは？
+    - KSO EVO 14W0701 W40
+        - [KSO EVO 14W0701 | Vibram FiveFingers,Vibram FiveFingers | KSO EVO | barefootinc](https://www.barefootinc.jp/view/item/000000000069?category_page_id=vibram-kso-evo)
+    - KSO EVOの新しいのはこれかな
+        - [KSO EVO 24W0705 | Vibram FiveFingers,Vibram FiveFingers | KSO EVO | barefootinc](https://www.barefootinc.jp/view/item/000000000317?category_page_id=vibram-kso-evo)
+- 支払いはAmazon Pay
+
+それはそうと今気づいた
+- > 3ミリのアウトソールで超裸足感覚を実現！グリップ力も優れており、最大限、地面を足で感じる事が出来ます。...
+- >  裸足感覚が最も感じられる超薄型ソールのモデルです。ソールが薄いので、擦る動きが多い方は注意が必要ですが、足裏の感覚がわかりやすいのでトレーニングで人気があります。屋内向けソールを使ってはいますが、この裸足感覚は他のモデルでは味わえないので外で使う方もいらっしゃいます。外で使用した際の消耗の程度はひとそれぞれ。裸足で外を歩けるくらいの身体の使い方が出来る方は何年も使用できます。素材がメッシュ素材なので蒸れが少なく、裸足で使う方も多いです。
+- 屋内向けソールなのか
+    - 登山に使えるかなとか検討してたけどダメだなw
+- [KMD EVO 15W4001 | Vibram FiveFingers,Vibram FiveFingers | ランニング | barefootinc](https://www.barefootinc.jp/view/item/000000000321?category_page_id=v-running)
+- [SPYRIDON EVO 22W5501 | Vibram FiveFingers,Vibram FiveFingers | SPYRIDON EVO | barefootinc](https://www.barefootinc.jp/view/item/000000000282)
+- ジョギングをしていきたいのでいつも履いてるやつよりKMD EVO 15W4001の方がクッション性が高くていいのかもな
+    - 乾きやすい靴下も売ってる
+
 

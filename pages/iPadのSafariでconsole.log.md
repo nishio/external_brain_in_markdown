@@ -1,3 +1,6 @@
+---
+title: "iPadのSafariでconsole.log"
+---
 
 たまに使う時にどうやるんだっけとなるのでメモ
 - 例えば[[create-react-app]]でReactアプリを作った場合、こんな感じでローカルに開発サーバがたっている

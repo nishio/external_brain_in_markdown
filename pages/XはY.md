@@ -1,3 +1,6 @@
+---
+title: "XはY"
+---
 
 ![image](https://gyazo.com/f9f0ba2ff31ae7aefc2ff063884e22d8/thumb/1000)
 「AはBである」という主張は、しばしば曖昧なAに対して、Bでないものを無意識に無視してA'を作り、それをAと[[同一視]]している。

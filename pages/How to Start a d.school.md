@@ -1,3 +1,6 @@
+---
+title: "How to Start a d.school"
+---
 
 [How to Start a d.school — Stanford d.school](https://dschool.stanford.edu/how-to-start-a-dschool/)
 10要件

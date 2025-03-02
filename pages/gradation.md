@@ -1,3 +1,6 @@
+---
+title: "gradation"
+---
 
 - There not always is boundary between two things.
     - [[False dichotomy]]

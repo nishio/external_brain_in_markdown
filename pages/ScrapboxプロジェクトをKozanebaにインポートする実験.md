@@ -1,3 +1,6 @@
+---
+title: "ScrapboxプロジェクトをKozanebaにインポートする実験"
+---
 
 Kozanebaを使ってScrapboxのページ間の言及関係のグラフ(99要素400リンク)を可視化して整理できるか試みた
 - 開発メモ: [[ScrapboxプロジェクトをKozanebaにインポートする(開発)]]

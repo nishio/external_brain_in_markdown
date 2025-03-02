@@ -1,3 +1,6 @@
+---
+title: "Niklaus Wirth"
+---
 
 Niklaus Wirth is also the author of the programming language Pascal.
 

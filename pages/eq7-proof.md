@@ -1,3 +1,6 @@
+---
+title: "eq7-proof"
+---
 
 from [[二項係数の公式]]
 - eq7-proof

@@ -1,3 +1,6 @@
+---
+title: "CaboCha"
+---
 
 > CaboCha は, Support Vector Machines に基づく日本語係り受け解析器です。
 > -f1 というオプションで, 計算機に処理しやすいフォーマットで出力します

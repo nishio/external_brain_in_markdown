@@ -1,3 +1,6 @@
+---
+title: "UIのつまずき"
+---
 
 ![image](https://gyazo.com/16e1a609cd3c6e91c6d508dae53996ad/thumb/1000)
 

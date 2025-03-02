@@ -1,3 +1,6 @@
+---
+title: "MVPの意味を理解する"
+---
 
 [MVP（Minimum Viable Product）の意味を理解する。そして、なぜ私はEarliest Testable / Usable / Lovableを好むのか。 | ANKR DESIGN | デザインリサーチ・プロトタイピング・サービスデザイン](https://www.ankr.design/designtips/making-sense-of-mvp) [[ANKR DESIGN]]
 - 有名なこの絵の作者が書いた記事を訳したもの

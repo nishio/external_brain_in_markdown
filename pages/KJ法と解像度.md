@@ -1,3 +1,6 @@
+---
+title: "KJ法と解像度"
+---
 
 ![image](https://gyazo.com/0dc549b89a8d4abe24be7b86168eb519/thumb/1000)
 - 2014

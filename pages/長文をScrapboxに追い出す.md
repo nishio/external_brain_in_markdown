@@ -1,3 +1,6 @@
+---
+title: "長文をScrapboxに追い出す"
+---
 
 from [[pRegroup2020]]
 長文をScrapboxに追い出す

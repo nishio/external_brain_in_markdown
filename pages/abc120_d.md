@@ -1,3 +1,6 @@
+---
+title: "abc120_d"
+---
 
 [https://atcoder.jp/contests/abc120/tasks/abc120_d](https://atcoder.jp/contests/abc120/tasks/abc120_d)
 - 考えたこと

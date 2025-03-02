@@ -1,3 +1,6 @@
+---
+title: "React+Canvas"
+---
 
 [[React]]+[[Canvas]]
 - [Using React Hooks with canvas – ITNEXT](https://itnext.io/using-react-hooks-with-canvas-f188d6e416c0)

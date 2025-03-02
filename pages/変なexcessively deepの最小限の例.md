@@ -1,3 +1,6 @@
+---
+title: "変なexcessively deepの最小限の例"
+---
 
 Type instantiation is excessively deep and possibly infiniteの最小限の例
 リストの先頭が順次削られていくので有限回で確実に終了するがTypeScriptがそれを理解できない

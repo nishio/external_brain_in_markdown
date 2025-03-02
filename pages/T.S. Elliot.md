@@ -1,3 +1,6 @@
+---
+title: "T.S. Elliot"
+---
 
 from [[pIntEn]]
 T.S. Elliot

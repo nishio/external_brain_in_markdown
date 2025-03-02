@@ -1,3 +1,6 @@
+---
+title: "GitLabの意思決定プロセス"
+---
 
 [Making Decisions | GitLab](https://about.gitlab.com/handbook/leadership/making-decisions/)
 

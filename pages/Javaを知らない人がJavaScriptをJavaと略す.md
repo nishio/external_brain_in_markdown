@@ -1,3 +1,6 @@
+---
+title: "Javaを知らない人がJavaScriptをJavaと略す"
+---
 
 WikipediaをWikiと略すのも同じ
 ![image](https://gyazo.com/4a23663112b858995e4d0a9bd1d6a215/thumb/1000)

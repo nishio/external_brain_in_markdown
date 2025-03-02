@@ -1,3 +1,6 @@
+---
+title: "Let AI ask questions"
+---
 
 [[AIに質問させる]]
 - [[質問は言語化を促す]]

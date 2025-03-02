@@ -1,3 +1,6 @@
+---
+title: "Minecraft Pi Socket API"
+---
 
 ![image](https://gyazo.com/d82a2610de7f71191303b86b6bc97399/thumb/1000)
 Minecraft: Pi editionはTCPでパケットを送って任意座標にブロック配置ができる

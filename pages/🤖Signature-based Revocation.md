@@ -1,3 +1,6 @@
+---
+title: "🤖Signature-based Revocation"
+---
 
 まあ、僕が今日まで知らなかった概念を扱うのは無理があるな<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
 下記の質問は悪くないが、答えがここにはないと思う

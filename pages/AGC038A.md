@@ -1,3 +1,6 @@
+---
+title: "AGC038A"
+---
 
 [A - 01 Matrix](https://atcoder.jp/contests/agc038/tasks/agc038_a)
 - ![image](https://gyazo.com/07435f052d18ef0ce6e791eb2aff3cc6/thumb/1000)

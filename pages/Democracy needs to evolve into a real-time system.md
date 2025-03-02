@@ -1,3 +1,6 @@
+---
+title: "Democracy needs to evolve into a real-time system"
+---
 
 [[民主主義はリアルタイムシステムへと進化する必要がある]]
 [“Democracy needs to evolve into a real-time system” - Vodafone Institute](https://www.vodafone-institut.de/aiandi/democracy-needs-to-evolve-into-a-real-time-system/)

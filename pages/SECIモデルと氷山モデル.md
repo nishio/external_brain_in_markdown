@@ -1,3 +1,6 @@
+---
+title: "SECIモデルと氷山モデル"
+---
 
 SECIモデルと氷山モデル
 ![image](https://gyazo.com/a131672af67145772f7f83ca203954e1/thumb/1000)

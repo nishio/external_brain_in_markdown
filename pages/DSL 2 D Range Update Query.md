@@ -1,3 +1,6 @@
+---
+title: "DSL 2 D Range Update Query"
+---
 
 from [[セグメント木の可視化]]
 DSL_2_D Range Update Query

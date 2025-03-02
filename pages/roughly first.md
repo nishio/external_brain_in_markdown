@@ -1,3 +1,6 @@
+---
+title: "roughly first"
+---
 
 [[まずは大雑把に]] = [[roughly]] first
 

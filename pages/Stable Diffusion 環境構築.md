@@ -1,3 +1,6 @@
+---
+title: "Stable Diffusion 環境構築"
+---
 
 [[Stable Diffusion]]
 

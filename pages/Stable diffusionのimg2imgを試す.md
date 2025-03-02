@@ -1,3 +1,6 @@
+---
+title: "Stable diffusionのimg2imgを試す"
+---
 
 2022-08-31
 ![image](https://gyazo.com/4ea391f01508c5f5f73d164b1aec92de/thumb/1000)

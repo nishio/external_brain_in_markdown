@@ -1,3 +1,6 @@
+---
+title: "floatをいい感じに表示する"
+---
 
 [[Unity]]
 - `$"FPS: {frameCount / timeDelta : F1}"` でいけるはずだったんだけど、Unity側が「その機能はC#4.0では使えない」って怒る

@@ -1,3 +1,6 @@
+---
+title: "omni"
+---
 
 ![image](https://scrapbox.io/files/64c6209e6d9c6e001b64fc0d.png)
 このScrapboxのデータなどを読んで[[RAG]]する[[GPT4]]を作った

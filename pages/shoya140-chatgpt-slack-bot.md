@@ -1,3 +1,6 @@
+---
+title: "shoya140/chatgpt-slack-bot"
+---
 
 [/villagepump/2023/03/29#64241b37e1daa500001c217b](https://scrapbox.io/villagepump/2023/03/29#64241b37e1daa500001c217b)
 from [/villagepump/2023/03/29](https://scrapbox.io/villagepump/2023/03/29)

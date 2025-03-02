@@ -1,3 +1,6 @@
+---
+title: "nishio-a"
+---
 
 [/nishio-a](https://scrapbox.io/nishio-a)
 西尾泰和[/nishio](https://scrapbox.io/nishio)のコンテンツを可能な限りたくさん機械的にインポートしてみる実験

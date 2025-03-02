@@ -1,3 +1,6 @@
+---
+title: "AI with Elon Musk Bias"
+---
 
 from [[English Lesson 2023-05-02]]
 - A: Do you know that Elon Musk develops his own AI?

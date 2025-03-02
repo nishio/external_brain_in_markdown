@@ -1,3 +1,6 @@
+---
+title: "abl_f"
+---
 
 [F - Heights and Pairs](https://atcoder.jp/contests/abl/tasks/abl_f)
 - ![image](https://gyazo.com/a6ccf80048638b04d410f8a8df2b7275/thumb/1000)

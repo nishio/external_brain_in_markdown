@@ -1,3 +1,6 @@
+---
+title: "SNS"
+---
 
 Footnote on [[(4.1.2) Kind and speed of reading]]:
 

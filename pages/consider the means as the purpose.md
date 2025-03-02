@@ -1,3 +1,6 @@
+---
+title: "consider the means as the purpose"
+---
 
 - I used a phrase [[手段の目的化]] in Japanese
 - [[手段]] = [[means]]

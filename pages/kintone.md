@@ -1,3 +1,6 @@
+---
+title: "kintone"
+---
 
 [Kintone - An all-in-one workplace platform that allows highly collaborative teams to build, share, and automate custom workflows and processes for data-driven results](https://www.kintone.com/en-us/)
 

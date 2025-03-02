@@ -1,3 +1,6 @@
+---
+title: "Playing Atari with Deep Reinforcement Learning"
+---
 
 2013年の論文で、コンピュータにATARIのゲームをさせるもの。ゲームごとにアルゴリズムを調整したりせず単一の方法でチャレンジして3つのゲームで人間のエキスパートを超えた。
 [https://arxiv.org/abs/1312.5602](https://arxiv.org/abs/1312.5602)

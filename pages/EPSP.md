@@ -1,3 +1,6 @@
+---
+title: "EPSP"
+---
 
 Excitatory postsynaptic potential。興奮性シナプスの受け手側の電位のこと。抑制性のものはInhibitoryなのでIPSPになる。
 ![image](https://gyazo.com/ed8a9fb7684e2bc05aa48bd88d55590f/thumb/1000) [https://7e.biopsychology.com/vs/vs03/vs03.html](https://7e.biopsychology.com/vs/vs03/vs03.html)

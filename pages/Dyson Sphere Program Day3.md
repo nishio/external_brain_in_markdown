@@ -1,3 +1,6 @@
+---
+title: "Dyson Sphere Program Day3"
+---
 
 [[Dyson Sphere Program]]
 

@@ -1,3 +1,6 @@
+---
+title: "create-react-app"
+---
 
 [[React]]でアプリを作る際に、色々なツールを全部まとめて設定してくれるスクリプト
 [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)

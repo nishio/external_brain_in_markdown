@@ -1,3 +1,6 @@
+---
+title: "DP E"
+---
 
 [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)
 - 指定された制限重量以下で価値を最大化する[[ナップサック]]問題

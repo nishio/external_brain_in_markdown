@@ -1,3 +1,6 @@
+---
+title: "Top and Bottom Types"
+---
 
 
 [A Little Theory with your TypeScript: Top and Bottom Types | by Kevin B. Greene | Medium](https://medium.com/@KevinBGreene/a-little-theory-with-your-typescript-top-and-bottom-types-61b380f227d)

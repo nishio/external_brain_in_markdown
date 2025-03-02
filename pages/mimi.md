@@ -1,3 +1,6 @@
+---
+title: "mimi"
+---
 
 Fairy Devicesの提供する音声認識関連のサービス
 無料のお試し:

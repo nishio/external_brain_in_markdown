@@ -1,3 +1,6 @@
+---
+title: "Scrapbook"
+---
 
 [/masui/Scrapbook](https://scrapbox.io/masui/Scrapbook)を読ませてみる
 

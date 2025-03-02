@@ -1,3 +1,6 @@
+---
+title: "AI safety"
+---
 
 > [@nishio_en](https://twitter.com/nishio_en/status/1649696068446347264?s=20): When people talks about the “AI safety”, they are implicitly assumed the “AI safety for Homo sapiens.”
 > They overlook the “Homo sapiens safety for other species“, it is very dangerous!! (SF)

@@ -1,3 +1,6 @@
+---
+title: "やる気システムとKeichobotはユーザ視点でも共通点がある"
+---
 
 from [[Keichobot Premium]]
 やる気システムとKeichobotはユーザ視点でも共通点がある

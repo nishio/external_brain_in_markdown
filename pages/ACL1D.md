@@ -1,3 +1,6 @@
+---
+title: "ACL1D"
+---
 
 [D - Keep Distances](https://atcoder.jp/contests/acl1/tasks/acl1_d)
 [[貪欲法]]

@@ -1,3 +1,6 @@
+---
+title: "Hard disk drive"
+---
 
 - [Hard disk drive - Wikipedia](https://en.wikipedia.org/wiki/Hard_disk_drive)
 

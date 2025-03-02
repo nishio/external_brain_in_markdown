@@ -1,3 +1,6 @@
+---
+title: "抽象化してLLMに解かせてから引き戻す"
+---
 
 [[抽象化]]して[[LLMに解かせて]]から[[引き戻す]]
 > [tokoroten](https://twitter.com/tokoroten/status/1696430018715693318/photo/1) どうして本を書いてから、いい図が出来上がるのか問題

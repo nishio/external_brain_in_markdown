@@ -1,3 +1,6 @@
+---
+title: "はてなダイアリーを過去の日付でScrapboxにインポート"
+---
 
 from [[機械がScrapboxに書く]]
 

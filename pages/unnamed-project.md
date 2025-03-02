@@ -1,3 +1,6 @@
+---
+title: "unnamed-project"
+---
 
 [/unnamed-project](https://scrapbox.io/unnamed-project)
 

@@ -1,3 +1,6 @@
+---
+title: "line_profiler"
+---
 
 `@profile`
 `$ kernprof -l x.py `

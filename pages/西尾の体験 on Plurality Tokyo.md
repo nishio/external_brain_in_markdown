@@ -1,3 +1,6 @@
+---
+title: "西尾の体験 on Plurality Tokyo"
+---
 
 from [[Polis]]
 西尾の体験 on Plurality Tokyo

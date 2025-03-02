@@ -1,3 +1,6 @@
+---
+title: "和解させたがるChatGPT"
+---
 
 > [tokoroten](https://twitter.com/tokoroten/status/1643960698157031424/photo/1) ChatGPT君、どうして和解する方向に行くの？
 >  和解できないものも世界にはあるんだよ

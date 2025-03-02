@@ -1,3 +1,6 @@
+---
+title: "全方位木DP"
+---
 
 全頂点を根として[[木DP]]をする場合、有向辺を定義域とすれば結果の使い回しができてO(N)になるというテクニック
 ![image](https://gyazo.com/5f02c5706cebeceb42cc0f5e7ed2843f/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "circularly references itself"
+---
 
 Type alias 'REVERSE' circularly references itself
 

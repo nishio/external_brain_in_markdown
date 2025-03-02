@@ -1,3 +1,6 @@
+---
+title: "LLMは単語の計算機"
+---
 
 [ChatGPTなどの対話型AIは「正解を探す検索エンジン」ではなく「単語の計算機」と考えるべきだという指摘 - GIGAZINE](https://gigazine.net/news/20230404-chatgpt-language-models-calculator-for-words/)
 

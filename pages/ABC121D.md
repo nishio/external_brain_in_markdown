@@ -1,3 +1,6 @@
+---
+title: "ABC121D"
+---
 
 [D - XOR World](https://atcoder.jp/contests/abc121/tasks/abc121_d)
 - ![image](https://gyazo.com/50b60f8288036da81264d8bbcaa20095/thumb/1000)

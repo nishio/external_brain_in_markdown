@@ -1,3 +1,6 @@
+---
+title: "Static Range Sum"
+---
 
 - [Static Range Sum](https://judge.yosupo.jp/problem/static_range_sum)
 - [[itertools.accumulate]] [[itertools]]

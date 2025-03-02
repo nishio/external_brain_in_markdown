@@ -1,3 +1,6 @@
+---
+title: "ABC186E"
+---
 
 from [[ABC186]]
 ABC186E

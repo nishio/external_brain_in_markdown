@@ -1,3 +1,6 @@
+---
+title: "Keichobotは言語化しKozanebaは一次元化する"
+---
 
 ![image](https://gyazo.com/30b0ab84780297b6b79a99b3c4da2c2c/thumb/1000)
 

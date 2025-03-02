@@ -1,3 +1,6 @@
+---
+title: "DRYと疎結合のトレードオフ"
+---
 
 ![image](https://gyazo.com/960144056a4d08e5df6bf0517826942e/thumb/1000)
 

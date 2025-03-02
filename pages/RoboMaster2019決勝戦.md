@@ -1,3 +1,6 @@
+---
+title: "RoboMaster2019決勝戦"
+---
 
 from [[未踏ジュニア深圳ツアー2019]]
 RoboMaster2019決勝戦

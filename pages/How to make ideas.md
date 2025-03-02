@@ -1,3 +1,6 @@
+---
+title: "How to make ideas"
+---
 
 - Book by Jiro Kawakita
 - Title is [[発想法]] in Japanese. `How to make ideas` is my translation.

@@ -1,3 +1,6 @@
+---
+title: "ARC091B"
+---
 
 [D - Remainder Reminder](https://atcoder.jp/contests/arc091/tasks/arc091_b)
 - ![image](https://gyazo.com/fcef21e76d5fe9ebcd49ecfe88f6fad6/thumb/1000)

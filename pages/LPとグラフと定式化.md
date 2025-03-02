@@ -1,3 +1,6 @@
+---
+title: "LPとグラフと定式化"
+---
 
 [LPとグラフと定式化](http://tokoharu.github.io/tokoharupage/docs/formularization.pdf) [[tokoharu]]
 

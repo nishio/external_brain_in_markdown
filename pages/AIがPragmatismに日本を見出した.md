@@ -1,3 +1,6 @@
+---
+title: "AIがPragmatismに日本を見出した"
+---
 
 AIが変な創作を始めたw
 - ![image](https://gyazo.com/9518f491d625c832785cbbf3b5574277/thumb/1000)

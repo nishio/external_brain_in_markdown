@@ -1,3 +1,6 @@
+---
+title: "atcoder scipy"
+---
 
 [https://note.nkmk.me/atcoder-python-numpy-scipy-version/](https://note.nkmk.me/atcoder-python-numpy-scipy-version/)
 - >  [[最小全域木]] [[scipy.sparse.csgraph]].minimum_spanning_tree()は使える

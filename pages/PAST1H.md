@@ -1,3 +1,6 @@
+---
+title: "PAST1H"
+---
 
 from [[第一回 アルゴリズム実技検定]]
 PAST1H

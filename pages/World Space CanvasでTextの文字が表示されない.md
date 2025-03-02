@@ -1,3 +1,6 @@
+---
+title: "World Space CanvasでTextの文字が表示されない"
+---
 
 ![image](https://gyazo.com/f71a1534a70a00cf0320fe704e30a5e8/thumb/1000)
 デフォルトで文字サイスが大きく、かつはみ出した文字が非表示になる設定(Truncate)になってるせい

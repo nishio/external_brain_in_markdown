@@ -1,3 +1,6 @@
+---
+title: "MinecraftからWebhookを叩く"
+---
 
 [https://github.com/Akenland/SimpleWebhooks](https://github.com/Akenland/SimpleWebhooks)
 config.yaml

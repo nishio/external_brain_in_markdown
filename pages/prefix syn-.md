@@ -1,3 +1,6 @@
+---
+title: "prefix syn-"
+---
 
 Examples of words that use the prefix [[syn-]]
 

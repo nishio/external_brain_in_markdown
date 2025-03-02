@@ -1,3 +1,6 @@
+---
+title: "ABC172F"
+---
 
 [F - Unfair Nim](https://atcoder.jp/contests/abc172/tasks/abc172_f)
 - ![image](https://gyazo.com/d09c9c7d427d3fd5824bf5f4beb257b1/thumb/1000)

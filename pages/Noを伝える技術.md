@@ -1,3 +1,6 @@
+---
+title: "Noを伝える技術"
+---
 
 [https://speakerdeck.com/aki_i/nowochuan-eruji-shu-number-pmconf2021](https://speakerdeck.com/aki_i/nowochuan-eruji-shu-number-pmconf2021)
 Noを分解してる

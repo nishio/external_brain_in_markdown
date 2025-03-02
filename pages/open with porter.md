@@ -1,3 +1,6 @@
+---
+title: "open with porter"
+---
 
 [/porterapp/SafariのScrapboxのページからPorterへスイッチ(Switch from Safari to Porter)](https://scrapbox.io/porterapp/SafariのScrapboxのページからPorterへスイッチ(Switch from Safari to Porter))
 をPage Menuから呼ぶ

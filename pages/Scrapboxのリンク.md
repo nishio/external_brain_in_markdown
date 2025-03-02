@@ -1,3 +1,6 @@
+---
+title: "Scrapboxのリンク"
+---
 
 サムネイル
 ![image](https://gyazo.com/d9e8cfd05228f6b1ddca7e8f9ffc588b/thumb/1000)

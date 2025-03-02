@@ -1,3 +1,6 @@
+---
+title: "KJ法という言葉は曖昧"
+---
 
 ![image](https://gyazo.com/a267bec405e211196d0566cec5be6fae/thumb/1000)
 

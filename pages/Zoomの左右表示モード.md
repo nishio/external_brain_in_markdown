@@ -1,3 +1,6 @@
+---
+title: "Zoomの左右表示モード"
+---
 
 ![image](https://gyazo.com/2ff2ef1f7be24b32d4c79d22a0c2c193/thumb/1000)
 話者の画面共有と話者の顔画像の両方を見たい時によい設定

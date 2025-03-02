@@ -1,3 +1,6 @@
+---
+title: "TextRank"
+---
 
 TextRank: Bringing Order into Texts
 - [https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)

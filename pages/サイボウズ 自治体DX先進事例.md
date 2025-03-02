@@ -1,3 +1,6 @@
+---
+title: "サイボウズ 自治体DX先進事例"
+---
 
 [サイボウズ 自治体DX先進事例 | 情報政策・自治体DX | RABAN](https://raban.jt-tsushin.jp/materials/digitaltransformation/business-efficiency/1110)
 ![image](https://gyazo.com/e08e1ab6905da482f214932d0a0d2cf1/thumb/1000)

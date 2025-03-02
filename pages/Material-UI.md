@@ -1,3 +1,6 @@
+---
+title: "Material-UI"
+---
 
 [Material-UI: A popular React UI framework](https://material-ui.com/)
 - `$ npm install @material-ui/core`

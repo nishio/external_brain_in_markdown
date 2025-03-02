@@ -1,3 +1,6 @@
+---
+title: "TypeScriptでの辞書的オブジェクト"
+---
 
 [[TypeScript]]での辞書的オブジェクトの扱いがわからなくて試行錯誤した。
 まずJavaScriptのMapとObjectを正しく区別することが大事

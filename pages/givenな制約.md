@@ -1,3 +1,6 @@
+---
+title: "givenな制約"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/GPT-4/icon' alt='GPT-4.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
 - 「givenな制約」とは、ある問題や状況で「与えられた(given)」条件や限界のことを指します。

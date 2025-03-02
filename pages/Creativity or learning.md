@@ -1,3 +1,6 @@
+---
+title: "Creativity or learning"
+---
 
 Q: Is this only about [[creativity]], or all [[learning]]?
 A: It is necessary to [[learn]] existing things to [[create]] new things.

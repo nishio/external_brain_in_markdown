@@ -1,3 +1,6 @@
+---
+title: "iPhone+AppleTV+三脚=謎の模様?!"
+---
 
 [https://youtu.be/uKJPqLLKRTU](https://youtu.be/uKJPqLLKRTU)
 

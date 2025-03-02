@@ -1,3 +1,6 @@
+---
+title: "Kozaneba"
+---
 
 Kozaneba is a digital stationary to organize your thought.
 

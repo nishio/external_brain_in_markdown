@@ -1,3 +1,6 @@
+---
+title: "AIが仕事を奪わないと月の休日が3日減る"
+---
 
 2018-04-10
 ![image](https://gyazo.com/f5ec0cda55a77146c275265fb479a376/thumb/1000)

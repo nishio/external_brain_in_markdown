@@ -1,3 +1,6 @@
+---
+title: "TypeScriptの型"
+---
 
 [[TypeScript]]の型
 

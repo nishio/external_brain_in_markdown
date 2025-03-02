@@ -1,3 +1,6 @@
+---
+title: "Augmenting Human Intellect: A Conceptual Framework"
+---
 
 Augmenting Human Intellect: A Conceptual Framework
 [[H-LAM/T]] system (Human using Language, Artifacts, Methodology, in which he is Trained) の提案論文
@@ -14,7 +17,7 @@ Augmenting Human Intellect: A Conceptual Framework
 C. DETAILED DISCUSSION OF THE H-LAM/T SYSTEM
 4. Concepts, Symbols, And A Hypothesis
 
-[[ネオ・ウォーフ仮説]] see [[サピア・ウォーフの仮説]]
+[[ネオ・ウォーフ仮説]] see [[サピア＝ウォーフの仮説]]
 > We offer the following hypothesis, which is related to the Whorfian hypothesis: Both the language used by a culture, and the capability for effective intellectual activity are directly affected during their evolution by the means by which individuals control the external manipulation of symbols. (For identification, we will refer to this as the Neo-Whorfian hypothesis.)
 
 Engelbart,  D.  C.  (1962).  "Augmenting  human  intellect:  A  conceptual  framework".  SRI  Summary  Report  AFOSR-3223,  Stanford  Research  Institute.

@@ -1,3 +1,6 @@
+---
+title: "Unity＋Gear VR開発メモ"
+---
 
 [Unity＋Gear VR開発メモ - フレームシンセシス](https://framesynthesis.jp/tech/unity/gearvr/)
 #Unity #GearVR

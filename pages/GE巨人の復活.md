@@ -1,3 +1,6 @@
+---
+title: "GE巨人の復活"
+---
 
 ![image](https://gyazo.com/4d5e6f17f48b799cdffe84dae817f215/thumb/1000)
 

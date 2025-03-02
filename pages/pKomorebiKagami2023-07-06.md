@@ -1,3 +1,6 @@
+---
+title: "pKomorebiKagami2023-07-06"
+---
 
 prev [[pKomorebiKagami2023-07-04]]
 

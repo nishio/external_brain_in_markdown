@@ -1,3 +1,6 @@
+---
+title: "MECE"
+---
 
 Mutually Exclusive and Collectively Exhaustive
 Mutually Exclusive: [[かぶりがない]]こと

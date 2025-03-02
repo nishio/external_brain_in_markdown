@@ -1,3 +1,6 @@
+---
+title: "pIntellitech"
+---
 
 [[エンジニアの知的生産術]]英訳プロジェクトの個人的メモのハブページです #pProjectIndex
 

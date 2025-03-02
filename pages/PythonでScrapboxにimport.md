@@ -1,3 +1,6 @@
+---
+title: "PythonでScrapboxにimport"
+---
 
 Puppeteerを使えばScrapboxにボットを住まわせられることがわかったのでNodeとPuppeteerを勉強しよう
 →NodeとPuppeteerを勉強してるしてる間にPuppeteerが必要なくなってたw

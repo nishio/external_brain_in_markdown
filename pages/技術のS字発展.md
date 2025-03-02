@@ -1,3 +1,6 @@
+---
+title: "技術のS字発展"
+---
 
 [[Foster 1986]] Richard, Foster. "Innovation: The Attacker's Advantage." McKinsey and Company, New York (1986).
 
@@ -7,7 +10,7 @@
 - という[[新陳代謝]]、[[栄枯盛衰]]、[[盛者必衰]]の考え方
     - 日本人にとっては馴染み深いものだが、どうやら欧米人には意外なのらしい see [[木を見る西洋人 森を見る東洋人]]
 
-
+[[技術]]の[[S字発展]]
 
 [https://www.slideshare.net/Christiansandstrom/technology-s-curves](https://www.slideshare.net/Christiansandstrom/technology-s-curves)
 

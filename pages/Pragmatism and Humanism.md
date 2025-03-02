@@ -1,3 +1,6 @@
+---
+title: "Pragmatism and Humanism"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁Pragmatism and Humanism

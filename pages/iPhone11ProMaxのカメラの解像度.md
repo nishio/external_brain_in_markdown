@@ -1,3 +1,6 @@
+---
+title: "iPhone11ProMaxのカメラの解像度"
+---
 
 ![image](https://gyazo.com/349d15686c4520055f94d41bb893f496/thumb/1000)
 

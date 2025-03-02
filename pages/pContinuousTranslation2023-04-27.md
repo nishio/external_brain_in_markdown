@@ -1,3 +1,6 @@
+---
+title: "pContinuousTranslation2023-04-27"
+---
 
 prev [[pScrapboxAutoTrans2023-04-18]]
 - 2023-04-27

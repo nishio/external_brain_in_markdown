@@ -1,3 +1,6 @@
+---
+title: "undoの実装"
+---
 
 [[pRegroup-done-2019]]
 付箋の追加や移動をUndo可能にするReact的状態の設計

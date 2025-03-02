@@ -1,3 +1,6 @@
+---
+title: "Toward Controlled Generation of Text"
+---
 
 ニューラルネットによる文章生成タスク
 Generatorは[[LSTM-RNN]]

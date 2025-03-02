@@ -1,3 +1,6 @@
+---
+title: "Re: (Column) We can not communicate bi-directionally with books"
+---
 
 [[(Column) We can not communicate bi-directionally with books]]
 

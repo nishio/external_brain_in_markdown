@@ -1,3 +1,6 @@
+---
+title: "(1) How to learn"
+---
 
 Chapter 0 provided a brief overview of the learning cycle consisting  of three elements, namely, [[information gathering]], [[modeling]], and [[verification]]. In this chapter, we will dig into each of these three elements in detail.
 

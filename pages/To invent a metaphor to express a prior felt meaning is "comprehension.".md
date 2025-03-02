@@ -1,3 +1,6 @@
+---
+title: 'To invent a metaphor to express a prior felt meaning is "comprehension."'
+---
 
 from [[「体験過程と意味の創造」勉強会1]]
 To invent a [[metaphor]] to express a prior felt meaning is "[[comprehension]]."

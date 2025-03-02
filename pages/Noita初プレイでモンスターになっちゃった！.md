@@ -1,3 +1,6 @@
+---
+title: "Noita初プレイでモンスターになっちゃった！"
+---
 
 [https://youtu.be/DHS5e7ihpp4](https://youtu.be/DHS5e7ihpp4)
 - [[ゲーム実況動画]]に挑戦してみた

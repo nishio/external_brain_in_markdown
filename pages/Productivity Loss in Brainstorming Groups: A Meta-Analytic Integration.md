@@ -1,3 +1,6 @@
+---
+title: "Productivity Loss in Brainstorming Groups: A Meta-Analytic Integration"
+---
 
 [[ブレインストーミング]]の生産性が下がる条件
 全般的に"nominal groups"(相互作用なしに個別に作業して後で成果をまとめる)がよい

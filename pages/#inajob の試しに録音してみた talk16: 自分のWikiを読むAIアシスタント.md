@@ -1,3 +1,6 @@
+---
+title: "#inajob の試しに録音してみた talk16: 自分のWikiを読むAIアシスタント"
+---
 
 [https://open.spotify.com/episode/4XPoFcImONgMtPti44JY9A?si=EGh6lwLwTp6hrJg9DgM0Iw](https://open.spotify.com/episode/4XPoFcImONgMtPti44JY9A?si=EGh6lwLwTp6hrJg9DgM0Iw)
 

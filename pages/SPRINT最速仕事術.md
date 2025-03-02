@@ -1,3 +1,6 @@
+---
+title: "SPRINT最速仕事術"
+---
 
 ![image](https://gyazo.com/d8b017c28d8fc77b21818a78a38e893f/thumb/1000)
 

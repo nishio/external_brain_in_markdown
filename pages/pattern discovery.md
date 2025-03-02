@@ -1,3 +1,6 @@
+---
+title: "pattern discovery"
+---
 
 - To find [[common pattern]] among [[concrete]] [[fragment]]s of information
 

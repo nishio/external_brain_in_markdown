@@ -1,3 +1,6 @@
+---
+title: "Aは非Aであって、それによってA"
+---
 
 ![image](https://gyazo.com/c7d83fa1a4fb61925f37871575de1faa/thumb/1000)
 

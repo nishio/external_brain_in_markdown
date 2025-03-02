@@ -1,3 +1,6 @@
+---
+title: "find a relationship"
+---
 
 related: [[pattern discovery]]
 

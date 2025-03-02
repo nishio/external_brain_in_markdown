@@ -1,3 +1,6 @@
+---
+title: "ABC016D"
+---
 
 [D - 一刀両断](https://atcoder.jp/contests/abc016/tasks/abc016_4)
 ![image](https://gyazo.com/ef23ddd076030dd0b8a2ceedbd0ff39d/thumb/1000)

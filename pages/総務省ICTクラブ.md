@@ -1,3 +1,6 @@
+---
+title: "総務省ICTクラブ"
+---
 
 [https://www.soumu.go.jp/main_sosiki/joho_tsusin/kyouiku_joho-ka/IoT_learning/home.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/kyouiku_joho-ka/IoT_learning/home.html)
 ![image](https://gyazo.com/63ea77ffb66c0ac8e0680add946c46f4/thumb/1000)

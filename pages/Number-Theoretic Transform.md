@@ -1,3 +1,6 @@
+---
+title: "Number-Theoretic Transform"
+---
 
 [[NTT]]
 [[高速剰余変換]]

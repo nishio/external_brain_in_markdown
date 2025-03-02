@@ -1,3 +1,6 @@
+---
+title: "Curriculum Learning"
+---
 
 [[Bengio+ 2009]]
 [https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf)

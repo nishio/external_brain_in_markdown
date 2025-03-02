@@ -1,3 +1,6 @@
+---
+title: "MVCに説明を追加"
+---
 
 - > It is the idea that the essential part of the program, the model, is left when we remove the parts relating to display and parts related to the operation from the program.
     - [[(1.4.4) Model / View / Controller#5c45707aaff09e00002f06cf]]

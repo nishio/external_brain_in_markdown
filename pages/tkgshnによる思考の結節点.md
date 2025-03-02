@@ -1,3 +1,6 @@
+---
+title: "tkgshnによる思考の結節点"
+---
 
 > [@0xtkgshn](https://twitter.com/0xtkgshn/status/1628544570735702017): [https://t.co/bkwPuZJ8P1](https://t.co/bkwPuZJ8P1)
 > ![image](https://pbs.twimg.com/media/FpnAp7DXsAApL6J.jpg)

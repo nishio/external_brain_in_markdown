@@ -1,3 +1,6 @@
+---
+title: "AIが人間による収束を支援"
+---
 
 
 from [/unnamed-project/雑談ページ9](https://scrapbox.io/unnamed-project/雑談ページ9)

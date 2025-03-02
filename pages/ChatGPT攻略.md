@@ -1,3 +1,6 @@
+---
+title: "ChatGPT攻略"
+---
 
 ![image](https://gyazo.com/49e0ac9d3f330b58af3bb87189161360/thumb/1000)
 - [[ChatGPT]]攻略

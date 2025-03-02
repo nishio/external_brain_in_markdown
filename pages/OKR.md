@@ -1,3 +1,6 @@
+---
+title: "OKR"
+---
 
 [[目標]](Objective, O)と「[[主要な結果]]」(Key Results, KR)で目標設定をする方法。
 

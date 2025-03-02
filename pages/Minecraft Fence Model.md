@@ -1,3 +1,6 @@
+---
+title: "Minecraft Fence Model"
+---
 
 assets/minecraft/blockstates/warped_fence.json
 

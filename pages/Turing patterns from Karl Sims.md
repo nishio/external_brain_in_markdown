@@ -1,3 +1,6 @@
+---
+title: "Turing patterns from Karl Sims"
+---
 
 ![image](https://gyazo.com/3086ddb5dc50bb6ee8288ba52d8546e7/thumb/1000)
 

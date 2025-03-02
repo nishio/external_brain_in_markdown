@@ -1,3 +1,6 @@
+---
+title: "PAST5N"
+---
 
 [N - 旅行会社](https://atcoder.jp/contests/past202012-open/tasks/past202012_n)
 ![image](https://gyazo.com/c0b27c17755f5bd753462bf179457248/thumb/1000)

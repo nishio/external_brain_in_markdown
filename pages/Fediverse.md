@@ -1,3 +1,6 @@
+---
+title: "Fediverse"
+---
 
 > SNS・ミニブログ・ブログ等を含むWebサイトの公開やファイルホスティングを行う、独立性を保ったまま相互接続されたサーバー群のことを指す
 - [Fediverse - Wikipedia](https://ja.wikipedia.org/wiki/Fediverse)

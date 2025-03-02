@@ -1,3 +1,6 @@
+---
+title: "NextJSでGoogle Analytics"
+---
 
 `import Script from 'next/script'`すればいい
 - [next-script-for-ga | Next.js](https://nextjs.org/docs/messages/next-script-for-ga)

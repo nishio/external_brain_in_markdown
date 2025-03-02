@@ -1,3 +1,6 @@
+---
+title: "かんがえをまとめるデジタル文房具Kozaneba"
+---
 
 Kozanebaは、かんがえをまとめるためのデジタル文房具です
 ![image](https://gyazo.com/e8d616772cf7b888f05edf0f28234c68/thumb/1000)

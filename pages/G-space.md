@@ -1,3 +1,6 @@
+---
+title: "G-space"
+---
 
 Lancaster, K. (1966). A New Approach to Consumer Theory Author ( s ): Kelvin J . Lancaster A NEW APPROACH TO CONSUMER THEORY *. Journal of Political Economy, 74(2), 132–157.
 

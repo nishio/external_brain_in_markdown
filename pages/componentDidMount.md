@@ -1,3 +1,6 @@
+---
+title: "componentDidMount"
+---
 
 [[React]] [React.Component – React](https://reactjs.org/docs/react-component.html#componentdidmount)
 - > Initialization that requires DOM nodes should go here.

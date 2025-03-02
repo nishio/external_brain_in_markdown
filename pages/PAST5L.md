@@ -1,3 +1,6 @@
+---
+title: "PAST5L"
+---
 
 [L - T消し](https://atcoder.jp/contests/past202012-open/tasks/past202012_l)
 ![image](https://gyazo.com/9d3a4c94bb870908ddb459d35f181fb0/thumb/1000)

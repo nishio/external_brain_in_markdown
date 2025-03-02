@@ -1,3 +1,6 @@
+---
+title: "CustomModelData"
+---
 
 custom_model_data
 [https://minecraft.fandom.com/wiki/Model](https://minecraft.fandom.com/wiki/Model)

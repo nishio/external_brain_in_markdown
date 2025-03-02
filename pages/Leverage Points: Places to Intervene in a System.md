@@ -1,3 +1,6 @@
+---
+title: "Leverage Points: Places to Intervene in a System"
+---
 
 [[レバレッジポイント]]： [[システムに介入]]する場所
 ![image](https://gyazo.com/649bb83f023c312b1e93f6dce7e17b47/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "scrapbox.Project.pages実際のページ数よりだいぶ多い謎"
+---
 
 from [[Scrapbox振り返り機能]]
 

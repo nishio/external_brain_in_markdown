@@ -1,3 +1,6 @@
+---
+title: "Scrapboxでの執筆"
+---
 
 - [Scrapboxについての本をScrapboxで書きました | シゴタノ！](https://cyblog.jp/33884)
 - 「[[Scrapbox]]で本を書く」にいろいろな人がチャレンジしていて面白い。

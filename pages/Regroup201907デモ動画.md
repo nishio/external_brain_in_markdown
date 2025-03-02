@@ -1,3 +1,6 @@
+---
+title: "Regroup201907デモ動画"
+---
 
 from [[pRegroup-done-2019]]
 

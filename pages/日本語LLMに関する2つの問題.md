@@ -1,3 +1,6 @@
+---
+title: "日本語LLMに関する2つの問題"
+---
 
 [[日本語LLM]]に関する2つの問題を混同する人が多いから絵にしたよ
 ![image](https://gyazo.com/17f5a1e496eeeaac5100fbfc34b21785/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "CLIP STUDIO PAINTへ画像生成AI機能を搭載しない"
+---
 
 > [@clip_celsys](https://twitter.com/clip_celsys/status/1598617164235575296?s=20&t=66g2q9yymbt8xIh30JAzAA): 皆様からいただいたご意見を重く受け止め、[[CLIP STUDIO PAINT]]へ[[画像生成AI]]機能を搭載しないことといたしました。
 > 皆様に新しい創作の体験をしていただきたい、という想いで開発を行いましたが、体験してもらう以前に、必要な配慮が欠けていました。

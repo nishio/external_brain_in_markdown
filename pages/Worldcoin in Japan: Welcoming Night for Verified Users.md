@@ -1,3 +1,6 @@
+---
+title: "Worldcoin in Japan: Welcoming Night for Verified Users"
+---
 
 > [orbs_jp](https://twitter.com/orbs_jp/status/1712295571787231333) 日本での[[Worldcoin]]の人気を受けて、Worldcoinチームが再び来日することになりました！ 10/16（月）にWorldcoinのミートアップを行います！
 >  今回は[[Orb]]の認証を行っている方と行っていない方で回を分けて、二部制とさせていただきます

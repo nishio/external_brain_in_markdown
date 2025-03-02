@@ -1,3 +1,6 @@
+---
+title: "(3) How to train your memory"
+---
 
 In Chapter 1, we saw the [[cycle of learning]]. In Chapter 2, we learned about the [[driving force]] for the cycle.
 

@@ -1,3 +1,6 @@
+---
+title: "big task"
+---
 
 - [[Big task harms motivation]]
     - [[motivation]]

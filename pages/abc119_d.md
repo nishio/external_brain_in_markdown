@@ -1,3 +1,6 @@
+---
+title: "abc119_d"
+---
 
 [https://atcoder.jp/contests/abc119/tasks/abc119_d](https://atcoder.jp/contests/abc119/tasks/abc119_d)
 - 考えたこと

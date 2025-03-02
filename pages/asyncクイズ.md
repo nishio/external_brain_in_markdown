@@ -1,3 +1,6 @@
+---
+title: "asyncクイズ"
+---
 
 [https://twitter.com/tkihira/status/1429061261895946240?s=21](https://twitter.com/tkihira/status/1429061261895946240?s=21)
 js

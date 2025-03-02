@@ -1,3 +1,6 @@
+---
+title: "✅WASDやカーソルで平行移動"
+---
 
 from [[pRegroup]]
 🤔WASDやカーソルで平行移動

@@ -1,3 +1,6 @@
+---
+title: "善悪ではないlawfulとchaos"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>"Lawful"（[[秩序]]）と"Chaos"（[[渾沌]]）は、多くのロールプレイングゲームや文学作品において、キャラクターの性格や道徳的スタンスを示す指標として使用される概念です。これらの概念は、[[善悪]]とは別の軸で理解されることが多いです。
 

@@ -1,3 +1,6 @@
+---
+title: "kakauは改行にインデントを持たせる"
+---
 
 > [nobkz](https://twitter.com/nobkz/status/1433682212466016256): ちょっと気になってたので使ってみます。 kakau.app　まずは、紹介記事等を読まずに使ってみます。 twitter.com/pokarim/status…
 

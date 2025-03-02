@@ -1,3 +1,6 @@
+---
+title: "rye"
+---
 
 [Rye メモ](https://zenn.dev/voluntas/scraps/4520c74c814219)
 

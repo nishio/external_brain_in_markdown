@@ -1,3 +1,6 @@
+---
+title: "RxC Voice"
+---
 
 > [@0xtkgshn](https://twitter.com/0xtkgshn/status/1648494051254210563?s=20): Polis+QVのRxC Voiceというのもあります
 > [https://voice.radicalxchange.org/](https://voice.radicalxchange.org/)

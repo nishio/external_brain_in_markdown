@@ -1,3 +1,6 @@
+---
+title: "GLSLで魔法陣"
+---
 
 ![image](https://gyazo.com/e2664da059d8d2ac4c165eebfc93b8b4/thumb/1000)
 - [https://glslsandbox.com/e#74380.0](https://glslsandbox.com/e#74380.0)

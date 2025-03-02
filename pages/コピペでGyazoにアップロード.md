@@ -1,3 +1,6 @@
+---
+title: "コピペでGyazoにアップロード"
+---
 
 - [HTMLElement.onpaste - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/onpaste)
 - [https://developer.mozilla.org/en-US/docs/Web/API/DataTransfer/getData](https://developer.mozilla.org/en-US/docs/Web/API/DataTransfer/getData)

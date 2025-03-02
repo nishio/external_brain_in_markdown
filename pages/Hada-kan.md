@@ -1,3 +1,6 @@
+---
+title: "Hada-kan"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>
 The term "hada-kan" ([[肌感]]) is a Japanese term that directly translates to "skin-feeling" or "skin-sense." However, it goes beyond just the physical sense of touch, and has cultural and aesthetic implications in Japanese society.

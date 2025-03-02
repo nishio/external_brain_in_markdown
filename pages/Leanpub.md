@@ -1,3 +1,6 @@
+---
+title: "Leanpub"
+---
 
 - [[Markdown]]で書いて出版できるプラットフォーム
 - GithubやBitbucketと連携できる

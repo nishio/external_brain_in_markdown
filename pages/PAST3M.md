@@ -1,3 +1,6 @@
+---
+title: "PAST3M"
+---
 
 ![image](https://gyazo.com/03933bba41c9b05e4ac79210321a5771/thumb/1000)
 [M - 行商計画問題](https://atcoder.jp/contests/past202005-open/tasks/past202005_m)

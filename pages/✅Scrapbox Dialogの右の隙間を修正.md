@@ -1,3 +1,6 @@
+---
+title: "✅Scrapbox Dialogの右の隙間を修正"
+---
 
 from [[✅ダイアログの見た目を改善する]]
 Scrapbox Dialogの右の隙間を修正

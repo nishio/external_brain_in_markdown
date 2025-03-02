@@ -1,3 +1,6 @@
+---
+title: "PAST2K"
+---
 
 from [[第二回 アルゴリズム実技検定]]
 PAST2K

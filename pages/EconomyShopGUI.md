@@ -1,3 +1,6 @@
+---
+title: "EconomyShopGUI"
+---
 
 [FAQ & Read Me - start here! - EconomyShopGUI](https://gpplugins.gitbook.io/economyshopgui/basics/faq#dependencies)
 > Dependencies:

@@ -1,3 +1,6 @@
+---
+title: "iPad上でのダイレクトタッチとPencilタッチの区別"
+---
 
 touchイベントのtouchesで各々のtouchをみると、touchType == "direct" と touchType == "stylus" がある。これで区別する。
 [https://stackoverflow.com/questions/34986373/javascript-touch-event-distinguishing-finger-vs-apple-pencil](https://stackoverflow.com/questions/34986373/javascript-touch-event-distinguishing-finger-vs-apple-pencil)

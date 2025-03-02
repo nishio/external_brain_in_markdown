@@ -1,3 +1,6 @@
+---
+title: "コンクールF"
+---
 
 ![image](https://gyazo.com/65c35d3336ef91c172fbc1d095a19c07/thumb/1000)
 [コンクールF](https://www.weltecnet.co.jp/products/concool/concoolf/)

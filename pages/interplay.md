@@ -1,3 +1,6 @@
+---
+title: "interplay"
+---
 
 > [[インタープレイ]]（interplay）は、英語で[[相互作用]]、[[交錯]]を意味する。ジャズ演奏に関する用語としては、しばしば訳さずにそのまま用いられる。 [https://ja.wikipedia.org/wiki/インタープレイ](https://ja.wikipedia.org/wiki/インタープレイ)
 

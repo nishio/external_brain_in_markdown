@@ -1,3 +1,6 @@
+---
+title: "Meeting mediator"
+---
 
 携帯デバイスで複数人の会議における個々人の振る舞いを計測してフィードバックすることで会議の質を改善する研究(で作られたデバイス)
 [Meeting Mediator: Enhancing Group Collaboration using Sociometric Feedback](http://alumni.media.mit.edu/~taemie/papers/200811_CSCW_TKim.pdf)(PDF)

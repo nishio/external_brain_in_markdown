@@ -1,3 +1,6 @@
+---
+title: "文脈を失うSNSとつなげるSNS"
+---
 
 [https://twitter.com/arton/status/1425210063254212608?s=21](https://twitter.com/arton/status/1425210063254212608?s=21)
 > [arton](https://twitter.com/arton/status/1425210063254212608) 良い悪いはともかく字数が制限されているためコンテキスト無視、論理の積み重ね無しの言いっぱパターンが言論の標準に墮した(やっぱ悪いと思ってる)のは疑えない。

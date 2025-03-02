@@ -1,3 +1,6 @@
+---
+title: "Cloud Firestore"
+---
 
 [[Regroup]]のバックエンド
 - 旧KJ法ツールでは[[Google Realtime API]]を使っていたが2019年1月に終了予定

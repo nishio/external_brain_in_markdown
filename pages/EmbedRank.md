@@ -1,3 +1,6 @@
+---
+title: "EmbedRank"
+---
 
 
 [https://www.aclweb.org/anthology/K18-1022/](https://www.aclweb.org/anthology/K18-1022/)

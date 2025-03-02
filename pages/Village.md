@@ -1,3 +1,6 @@
+---
+title: "Village"
+---
 
 村を構成する各要素は[[ストラクチャーブロック＠マイクラ]]で生成できる
 [https://minecraft.fandom.com/wiki/Village/Structure](https://minecraft.fandom.com/wiki/Village/Structure)

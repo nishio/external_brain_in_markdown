@@ -1,3 +1,6 @@
+---
+title: "Identity Spectrum"
+---
 
 ![image](https://gyazo.com/c0a896747f73b4d6515ef4f5c9f8ba30/thumb/1000)
 - [Intersectional Social Data - RadicalxChange](https://www.radicalxchange.org/media/blog/2019-10-24-uh78r5/)

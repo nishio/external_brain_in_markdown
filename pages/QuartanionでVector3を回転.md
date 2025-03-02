@@ -1,3 +1,6 @@
+---
+title: "QuartanionでVector3を回転"
+---
 
 [[Quartanion]] qで[[Vector3]] vを[[回転]]
 cs

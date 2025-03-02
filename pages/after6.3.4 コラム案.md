@@ -1,3 +1,6 @@
+---
+title: "after6.3.4 コラム案"
+---
 
 [[(6.3.4) You can learn from anyone]]
 

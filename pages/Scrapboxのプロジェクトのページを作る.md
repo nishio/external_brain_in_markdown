@@ -1,3 +1,6 @@
+---
+title: "Scrapboxのプロジェクトのページを作る"
+---
 
 #Scrapboxベストプラクティス
 塩澤先生[/shiology/shio](https://scrapbox.io/shiology/shio)が作っているのを見て真似をした

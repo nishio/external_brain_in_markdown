@@ -1,3 +1,6 @@
+---
+title: "ResNetとHighway Network"
+---
 
 ![image](https://gyazo.com/3ece755849cf9ae710151121e2a7c36a/thumb/1000)
 

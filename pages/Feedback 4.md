@@ -1,3 +1,6 @@
+---
+title: "Feedback 4"
+---
 
 - [/intellitech-en/(1.1.2) Modeling and abstraction](https://scrapbox.io/intellitech-en/(1.1.2) Modeling and abstraction)
     - > Modeling and abstraction = the same thing? What is the link?

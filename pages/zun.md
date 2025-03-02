@@ -1,3 +1,6 @@
+---
+title: "zun"
+---
 
 ![image](https://gyazo.com/53dc64204de8ef6e358658177e31b5df/thumb/1000)
 [[ずんだもん]]的な何か

@@ -1,3 +1,6 @@
+---
+title: "東工大BMOT"
+---
 
 - [[東工大MOT]](Management of Technology)のOB/OG組織、Beyond MOT。
 - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>は2011～2014の間、東工大MOTに所属していた

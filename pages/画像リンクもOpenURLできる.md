@@ -1,3 +1,6 @@
+---
+title: "画像リンクもOpenURLできる"
+---
 
 GyazoのURLを貼ると画像付箋になる機能、Open URLでそのGyazoのページが開いた方が良いので実装した
 ![image](https://gyazo.com/57a0d2ca8abbf06e71e843dca2efbbc7/thumb/1000)

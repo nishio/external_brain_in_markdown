@@ -1,3 +1,6 @@
+---
+title: "クリエイターSNS「Comic」"
+---
 
 > ヌプカ株式会社（本社：東京都港区、代表取締役：片桐孝憲）は、新サービスとしてクリエイターSNS「Comic」をリリースしました。
 - [片桐孝憲 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%89%87%E6%A1%90%E5%AD%9D%E6%86%B2)

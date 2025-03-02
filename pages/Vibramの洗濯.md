@@ -1,3 +1,6 @@
+---
+title: "Vibramの洗濯"
+---
 
 [[Vibram]]の洗濯
 from [/villagepump/2023/11/20](https://scrapbox.io/villagepump/2023/11/20)

@@ -1,3 +1,6 @@
+---
+title: "Deep Keyphrase Generation"
+---
 
 - [https://arxiv.org/abs/1704.06879](https://arxiv.org/abs/1704.06879)
 - Mui Meng+

@@ -1,3 +1,6 @@
+---
+title: "FIXED:Material-UIでメニューが閉じない"
+---
 
 `<IconButton>`の中に`<Menu>`が入っていたため、MenuItemをクリックしてメニューを閉じる処理をした後で、そのクリックイベントがPropagateして、もう一度メニューを開く処理をしている
 

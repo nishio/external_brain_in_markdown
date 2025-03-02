@@ -1,3 +1,6 @@
+---
+title: "AIによる赤リンクの延伸"
+---
 
 2023-08-30
 ![image](https://gyazo.com/4d69e9d9b57633554d06698e00c3ca29/thumb/1000)

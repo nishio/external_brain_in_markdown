@@ -1,3 +1,6 @@
+---
+title: "TAoR"
+---
 
 Total Amount of Resources
 ![image](https://gyazo.com/ffde11891644a3d8d0e9ca2efbb041a1/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "ScratchExtensionCode"
+---
 
 [[Scratch拡張]]のコードをここに書くとScrapboxのAPIでコード単体のURLができるのでそれをsheeptester.github.ioに読みこませて試してる。
 

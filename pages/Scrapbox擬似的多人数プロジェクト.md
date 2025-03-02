@@ -1,3 +1,6 @@
+---
+title: "Scrapbox擬似的多人数プロジェクト"
+---
 
 ![image](https://gyazo.com/47ebd2e89973015b191bc291eab95339/thumb/1000)
 - 公開のScrapboxプロジェクト上でバリバリとアウトプットしている人の多くが「一人プロジェクト」

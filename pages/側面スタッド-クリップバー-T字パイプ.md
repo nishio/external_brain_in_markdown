@@ -1,3 +1,6 @@
+---
+title: "側面スタッド-クリップバー-T字パイプ"
+---
 
 ![image](https://gyazo.com/71b24703b3dc20cbd70d0c91519cc2c7/thumb/1000)
 

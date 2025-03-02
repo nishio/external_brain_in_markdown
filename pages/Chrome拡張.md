@@ -1,3 +1,6 @@
+---
+title: "Chrome拡張"
+---
 
 - [https://scrapbox.io/nishio/search/page?q=Chrome拡張](https://scrapbox.io/nishio/search/page?q=Chrome拡張)
 - [Chrome拡張を簡単に作れるテンプレとライブラリ造ったので紹介](https://qiita.com/waterada/items/7f5729e066714284ff72)

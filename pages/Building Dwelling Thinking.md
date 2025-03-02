@@ -1,3 +1,6 @@
+---
+title: "Building Dwelling Thinking"
+---
 
 by [[Martin Heidegger]]
 from [[Poetry, Language, Thought]], translated by Albert Hofstadter, Harper Colophon Books, New York, 1971.

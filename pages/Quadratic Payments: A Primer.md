@@ -1,5 +1,8 @@
+---
+title: "Quadratic Payments: A Primer"
+---
 
-[Quadratic Payments: A Primer](https://vitalik.ca/general/2019/12/07/quadratic.html)
+[Quadratic Payments: A Primer](https://vitalik.eth.limo/general/2019/12/07/quadratic.html)(Vitalik 2019)
 ![image](https://gyazo.com/facc587c0186d78fe47859c9ecad72bd/thumb/1000)
 
 一人一票でなはく一人N票にする

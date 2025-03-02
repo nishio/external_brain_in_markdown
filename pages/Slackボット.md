@@ -1,3 +1,6 @@
+---
+title: "Slackボット"
+---
 
 2018-10-05
 - slackclientを使ってPythonで書いてる
@@ -14,3 +17,8 @@
             - クラス実装に変える方が素直なので気が向いたときにやる
 - 色々なファイルに依存していてherokuにデプロイするの面倒なので、デプロイ用のデータファイルを吐き出す機能をつけよう
 [[チャットボット]] [[書籍をチャットボット化]]
+
+2019-06-03
+[Enabling interactions with bots | Slack](https://api.slack.com/bot-users)
+[[Bot]] [[ボット]]
+[[Slack]]

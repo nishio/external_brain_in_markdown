@@ -1,3 +1,6 @@
+---
+title: "Re:メタファーは魚を釣り上げるための釣り針"
+---
 
 from [/unnamedcamp/メタファーは魚を釣り上げるための釣り針](https://scrapbox.io/unnamedcamp/メタファーは魚を釣り上げるための釣り針)
 <img src='https://scrapbox.io/api/pages/unnamedcamp/nishio/icon' alt='/unnamedcamp/nishio.icon' height="19.5"/>

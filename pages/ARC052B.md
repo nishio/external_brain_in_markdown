@@ -1,3 +1,6 @@
+---
+title: "ARC052B"
+---
 
 [B - 円錐](https://atcoder.jp/contests/arc052/tasks/arc052_b)
 - ![image](https://gyazo.com/b521601c556b2aac52a8b46e571e6792/thumb/1000)

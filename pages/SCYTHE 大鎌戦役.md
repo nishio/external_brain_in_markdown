@@ -1,3 +1,6 @@
+---
+title: "SCYTHE 大鎌戦役"
+---
 
 ![image](https://gyazo.com/1acc41eca523b92fb215d782f6ae082b/thumb/1000)
 

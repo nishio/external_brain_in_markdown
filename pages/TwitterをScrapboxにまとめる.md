@@ -1,3 +1,6 @@
+---
+title: "TwitterをScrapboxにまとめる"
+---
 
 - [[Twitter]]上の議論は読みづらいのでScrapboxにまとめたい
 - そのまとめるプロセスを手軽にしたい

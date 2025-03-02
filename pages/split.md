@@ -1,3 +1,6 @@
+---
+title: "split"
+---
 
 ![image](https://gyazo.com/ca518f0eb596de0dab29478bfea4d52a/thumb/1000)
 [https://twitter.com/wonderful_panda/status/1406850885171380225](https://twitter.com/wonderful_panda/status/1406850885171380225)

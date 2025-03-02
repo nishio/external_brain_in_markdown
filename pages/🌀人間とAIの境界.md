@@ -1,3 +1,6 @@
+---
+title: "🌀人間とAIの境界"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁人間とAIの境界

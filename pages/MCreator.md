@@ -1,3 +1,6 @@
+---
+title: "MCreator"
+---
 
 [https://mcreator.net/](https://mcreator.net/)
 [https://mcreator.net/wiki/how-make-spigot-plugin](https://mcreator.net/wiki/how-make-spigot-plugin)

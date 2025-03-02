@@ -1,3 +1,6 @@
+---
+title: "ChatGPTにCtrl+Fを覚えさせるアプローチ"
+---
 
 from [[日記2023-03-21]]
 [ChatGPTにCtrl+Fを覚えさせるアプローチについて](https://zenn.dev/qwegat/articles/4fb99ad25f3f36)

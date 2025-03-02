@@ -1,3 +1,6 @@
+---
+title: "Project Selection Problem"
+---
 
 - N個のプロジェクトがある
     - プロジェクトiをやると収入$r_i$が得られる

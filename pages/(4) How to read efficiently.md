@@ -1,3 +1,6 @@
+---
+title: "(4) How to read efficiently"
+---
 
 In Chapter 1, we learned about the [[cycle of learning]]. In Chapter 2, we learned about the [[driving force]] to turn that cycle. In Chapter 3, we learned how we [[stock]] knowledge in us. We gain knowledge by turning the cycle. In this chapter, we drill down on the process by which knowledge comes into you.
 

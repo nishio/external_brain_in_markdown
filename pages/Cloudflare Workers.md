@@ -1,3 +1,6 @@
+---
+title: "Cloudflare Workers"
+---
 
 [Cloudflare Workers®](https://workers.cloudflare.com/)
 

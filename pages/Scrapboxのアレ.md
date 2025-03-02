@@ -1,3 +1,6 @@
+---
+title: "Scrapboxのアレ"
+---
 
 ![image](https://gyazo.com/d2008da658054a7820ce06b8a5de5a6d/thumb/1000)
 - [[タグ]]のメタファ

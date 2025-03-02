@@ -1,3 +1,6 @@
+---
+title: "Kylm"
+---
 
 - 京都[[言語モデル]]ツールキット
 - [http://www.phontron.com/kylm/index-ja.html](http://www.phontron.com/kylm/index-ja.html)

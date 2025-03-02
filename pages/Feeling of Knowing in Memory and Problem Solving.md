@@ -1,3 +1,6 @@
+---
+title: "Feeling of Knowing in Memory and Problem Solving"
+---
 
 
 「もうちょっとで解けそう」感と、実際にあとで解ける確率との間には、記憶問題では相関があるが、Aha的解決の必要な洞察問題では相関がないという研究。

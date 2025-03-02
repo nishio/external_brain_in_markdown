@@ -1,3 +1,6 @@
+---
+title: "George Edward Pelham Box(日本語)"
+---
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GeorgeEPBox.jpg/200px-GeorgeEPBox.jpg)
 - [[すべてのモデルは間違っている]]も[[利用と探索のトレードオフ]]もこの人につながっている

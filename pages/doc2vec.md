@@ -1,3 +1,6 @@
+---
+title: "doc2vec"
+---
 
 - [Doc2Vecによる文書ベクトル推論の安定化について - Sansan Builders Blog](https://buildersbox.corp-sansan.com/entry/2019/04/10/110000)
     - infer_vector()はモデルの学習時と同様の処理

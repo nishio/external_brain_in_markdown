@@ -1,3 +1,6 @@
+---
+title: "understand"
+---
 
 The concept of "understand" is [[abstract concept]] (#TODO link to section 6)
 

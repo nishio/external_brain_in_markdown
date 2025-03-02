@@ -1,3 +1,6 @@
+---
+title: "ABC126D"
+---
 
 [D - Even Relation](https://atcoder.jp/contests/abc126/tasks/abc126_d)
 ![image](https://gyazo.com/e04b1343acc9d7bf636fa218acfe0162/thumb/1000)

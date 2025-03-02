@@ -1,3 +1,6 @@
+---
+title: "Will/Can/Must"
+---
 
 ![image](https://gyazo.com/b1696417b1402fa5645ed75ac4b732db/thumb/1000)
 [[Will]]/[[Can]]/[[Must]]

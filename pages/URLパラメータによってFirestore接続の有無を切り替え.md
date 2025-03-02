@@ -1,3 +1,6 @@
+---
+title: "URLパラメータによってFirestore接続の有無を切り替え"
+---
 
 from [[pRegroup-done-2019]]
 URLパラメータによってFirestore接続の有無を切り替え

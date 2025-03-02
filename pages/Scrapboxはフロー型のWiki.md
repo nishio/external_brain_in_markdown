@@ -1,3 +1,6 @@
+---
+title: "Scrapboxはフロー型のWiki"
+---
 
 > Scrapbox は Wiki に分類してもいいとは思いますが、ストック型ではなく、フロー型なのです（どちらかと言えば）
 [Scrapbox の効果を図解してみた – エバンジェリズム研究所ブログ](https://blog.evangelism.jp/entry/the-art-of-scrapbox)

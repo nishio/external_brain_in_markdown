@@ -1,3 +1,6 @@
+---
+title: "Polis:「勝手に学ぶ人」と「期待されて学ぶ人」"
+---
 
 [https://pol.is/7ijrb2c2ja](https://pol.is/7ijrb2c2ja)
 

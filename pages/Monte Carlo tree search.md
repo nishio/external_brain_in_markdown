@@ -1,3 +1,6 @@
+---
+title: "Monte Carlo tree search"
+---
 
 [Monte Carlo tree search - Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
 

@@ -1,3 +1,6 @@
+---
+title: "Wiki design principles"
+---
 
 [http://wiki.c2.com/?WikiDesignPrinciples](http://wiki.c2.com/?WikiDesignPrinciples)
 

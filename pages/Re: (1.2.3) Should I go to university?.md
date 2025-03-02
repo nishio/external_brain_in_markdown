@@ -1,3 +1,6 @@
+---
+title: "Re: (1.2.3) Should I go to university?"
+---
 
 [[(1.2.3) Should I go to university?]]
 

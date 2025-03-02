@@ -1,3 +1,6 @@
+---
+title: "thunks"
+---
 
 [Thunk - Wikipedia](https://en.wikipedia.org/wiki/Thunk)
 

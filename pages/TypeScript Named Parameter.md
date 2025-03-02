@@ -1,3 +1,6 @@
+---
+title: "TypeScript Named Parameter"
+---
 
 ts
 

@@ -1,3 +1,6 @@
+---
+title: "ARC031D"
+---
 
 [D - 買い物上手](https://atcoder.jp/contests/arc031/tasks/arc031_4)
 ![image](https://gyazo.com/50034b043205910e44c64d335da3c8bf/thumb/1000)

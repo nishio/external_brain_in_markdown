@@ -1,3 +1,6 @@
+---
+title: "HeyGen"
+---
 
 > [senpookyaku](https://twitter.com/senpookyaku/status/1718083932070232374) HeyGenという翻訳AIサイトでBlender Guruのチュートリアルが自然な日本語音声になってる！情報格差の観点からすると、英語圏のオリジナルかつ良質な情報が日本で流通するようになるのはとても良いことだと思う。（質を求めればまだまだ人力での翻訳・翻案が勝るだろうけど）
 >  >b3d_Renaissance: There is a site called Heygen that allows 30 seconds of free translation. I think I used my quota perfectly.

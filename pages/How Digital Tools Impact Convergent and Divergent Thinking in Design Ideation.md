@@ -1,3 +1,6 @@
+---
+title: "How Digital Tools Impact Convergent and Divergent Thinking in Design Ideation"
+---
 
 [https://dl.acm.org/doi/abs/10.1145/3411764.3445062](https://dl.acm.org/doi/abs/10.1145/3411764.3445062)
 [[デジタルツール]]が[[発散思考]]と[[収束思考]]にどのような影響を及ぼすか、という研究

@@ -1,3 +1,6 @@
+---
+title: "High-Resolution Image Synthesis with Latent Diffusion Models"
+---
 
 ![image](https://gyazo.com/2d012ca999f667b2ba0210021d740338/thumb/1000)
 [[Stable Diffusion]]の仕組み

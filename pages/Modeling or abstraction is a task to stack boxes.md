@@ -1,3 +1,6 @@
+---
+title: "Modeling or abstraction is a task to stack boxes"
+---
 
 [[Modeling]] or [[abstraction]] is a task to [[stack]] boxes.
 

@@ -1,3 +1,6 @@
+---
+title: "Human Score"
+---
 
 まだ自分の中でこの概念を指す言葉が安定していない
 [[HumanRank]]

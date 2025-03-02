@@ -1,3 +1,6 @@
+---
+title: "IterativeCommenterの着想"
+---
 
 [[Iterative Commenter]]の着想 2023-09-03~04
 - この時点ではまだ名前はついてない

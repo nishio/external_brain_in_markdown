@@ -1,3 +1,6 @@
+---
+title: "codefestival_2016_final_C"
+---
 
 [C - Interpretation](https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_c)
 ![image](https://gyazo.com/ba263384ca6d2220146d053b4cf027c8/thumb/1000)

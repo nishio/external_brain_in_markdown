@@ -1,3 +1,6 @@
+---
+title: "WSL2にMacからSSHする"
+---
 
 2022/9/22
 僕のメインマシンはMacBookだが、Stable Diffusionの環境を構築するにあたってまともなGPUがあるのがWindowsのゲーミングPCだけだったのでWSL2で環境構築した。

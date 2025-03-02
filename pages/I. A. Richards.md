@@ -1,3 +1,6 @@
+---
+title: "I. A. Richards"
+---
 
 > Ivor Armstrong Richards CH (26 February 1893 – 7 September 1979), known as I. A. Richards, was an English educator, literary critic, and rhetorician. His work contributed to the foundations of the New Criticism, a formalist movement in literary theory which emphasized the close reading of a literary text, especially poetry, in an effort to discover how a work of literature functions as a self-contained and self-referential æsthetic object.
 >

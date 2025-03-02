@@ -1,3 +1,6 @@
+---
+title: "OVRInput"
+---
 
 [https://developer.oculus.com/documentation/unity/latest/concepts/unity-ovrinput/](https://developer.oculus.com/documentation/unity/latest/concepts/unity-ovrinput/)
 > To use OVRInput, you must either:

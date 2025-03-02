@@ -1,3 +1,6 @@
+---
+title: "機械がScrapboxに書く"
+---
 
 
 - [[✅Scrapbox Bot用のアカウントを作る]]

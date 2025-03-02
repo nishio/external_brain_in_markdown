@@ -1,3 +1,6 @@
+---
+title: "Re:言語化"
+---
 
 from [/villagepump/言語化](https://scrapbox.io/villagepump/言語化)
 - 言葉にしづらいものを1つの言語で言い表したら[[1つの見方]]しかできなくなるのでは？<img src='https://scrapbox.io/api/pages/villagepump/Mijinko_SD/icon' alt='/villagepump/Mijinko_SD.icon' height="19.5"/>

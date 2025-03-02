@@ -1,3 +1,6 @@
+---
+title: "Scrapbox ChatGPT Connectorの方針相談2023-03-13"
+---
 
 
 相談

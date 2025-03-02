@@ -1,3 +1,6 @@
+---
+title: "TwitterをKozanebaに入れたい"
+---
 
 別の表現: Kozanebaで Tweetを整理したい
 複数人とか時間的に拡散してると既存のツールでは辛い

@@ -1,3 +1,6 @@
+---
+title: "日本語Tokenizerの違いは下流タスク性能に影響を与えるか？"
+---
 
 #NLP2023 [PDF](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q6-1.pdf)
 形態素解析をした方が性能が良くなる

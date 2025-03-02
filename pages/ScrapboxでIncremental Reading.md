@@ -1,3 +1,6 @@
+---
+title: "ScrapboxでIncremental Reading"
+---
 
 - Privateグループに他人の著作物を入れる
     - 他人の著作物だがPrivateなのでOK

@@ -1,3 +1,6 @@
+---
+title: "requestAnimationFrame + jest-electron = unstable behavoir"
+---
 
 `requestAnimationFrame` + `jest-electron` causes unstable behavoir includes crush of elecron.
 To replace `requestAnimationFrame` with `setTimeout` solves the problem for now.

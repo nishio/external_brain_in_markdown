@@ -1,3 +1,6 @@
+---
+title: "PAST2N"
+---
 
 ![image](https://gyazo.com/e061127462d65fbc91305c7902b100a7/thumb/1000)
 [N - ビルの建設](https://atcoder.jp/contests/past202004-open/tasks/past202004_n)

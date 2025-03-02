@@ -1,3 +1,6 @@
+---
+title: "(Column) SMART criteria"
+---
 
 Related to [[(1.2.2.1) Clarify the goal]], [[SMART criteria]] give us a useful viewpoint to the quality of goal settings. It appears in 1981.
 

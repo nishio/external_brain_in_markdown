@@ -1,3 +1,6 @@
+---
+title: "DP U"
+---
 
 [U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)
 - N個の要素を任意個のグループに分ける、分け方によってスコアが決まり、そのスコアを最大化する問題

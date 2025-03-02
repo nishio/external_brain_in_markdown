@@ -1,3 +1,6 @@
+---
+title: "逃げ続けるSNS"
+---
 
 ![image](https://gyazo.com/45fe3eda87f5f128fe3d7d28437d165a/thumb/1000)
 

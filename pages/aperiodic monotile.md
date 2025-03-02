@@ -1,3 +1,6 @@
+---
+title: "aperiodic monotile"
+---
 
 from [[日記2023-03-22]]
 aperiodic monotile

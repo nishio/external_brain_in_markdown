@@ -1,3 +1,6 @@
+---
+title: "Snackbar"
+---
 
 ![image](https://gyazo.com/02a63bf6c9a5127e3a34691273a930bb/thumb/1000)
 [https://github.com/nishio/cookie_pomodoro/commit/f97b460ccea36fae17f1d43cd205741cad90a048](https://github.com/nishio/cookie_pomodoro/commit/f97b460ccea36fae17f1d43cd205741cad90a048)

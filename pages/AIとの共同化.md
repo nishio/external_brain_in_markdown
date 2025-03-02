@@ -1,3 +1,6 @@
+---
+title: "AIとの共同化"
+---
 
 2023-08-12 [[AIが毎日研究ノートを書く]]システムによって<img src='https://scrapbox.io/api/pages/nishio/omni/icon' alt='omni.icon' height="19.5"/>と<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>の共同編集から生まれた文章
 

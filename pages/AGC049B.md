@@ -1,3 +1,6 @@
+---
+title: "AGC049B"
+---
 
 [B - Flip Digits](https://atcoder.jp/contests/agc049/tasks/agc049_b)
 ![image](https://gyazo.com/9ba0804fe68f50c3755d1445acfb90cb/thumb/1000)

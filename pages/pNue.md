@@ -1,3 +1,6 @@
+---
+title: "pNue"
+---
 
 [/nue](https://scrapbox.io/nue)
 nue妖怪AI

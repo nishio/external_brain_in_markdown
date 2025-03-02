@@ -1,3 +1,6 @@
+---
+title: "Script"
+---
 
 Project > Assets > Script で Create
 ダブルクリックすると開く

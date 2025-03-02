@@ -1,3 +1,6 @@
+---
+title: "RegroupからMovideaへ"
+---
 
 Regroup v3に向けての考察
 - [[Regroup v2 解説]] 2019-12

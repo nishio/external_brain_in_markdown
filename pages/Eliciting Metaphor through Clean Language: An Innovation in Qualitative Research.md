@@ -1,3 +1,6 @@
+---
+title: "Eliciting Metaphor through Clean Language: An Innovation in Qualitative Research"
+---
 
 Eliciting [[Metaphor]] through [[Clean Language]]: An Innovation in [[Qualitative Research]]
 - [[メタファ]] [[質的研究]]

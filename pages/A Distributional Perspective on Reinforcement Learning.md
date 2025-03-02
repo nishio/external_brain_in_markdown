@@ -1,3 +1,6 @@
+---
+title: "A Distributional Perspective on Reinforcement Learning"
+---
 
 Marc G. Bellemare, Will Dabney, Rémi Munos
 (Submitted on 21 Jul 2017)

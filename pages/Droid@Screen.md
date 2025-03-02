@@ -1,3 +1,6 @@
+---
+title: "Droid@Screen"
+---
 
 Oculusの画面をPCに出せるらしい
 

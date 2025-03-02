@@ -1,3 +1,6 @@
+---
+title: "soundhound2018_summer_qual_C"
+---
 
 [C - Ordinary Beauty](https://atcoder.jp/contests/soundhound2018-summer-qual/tasks/soundhound2018_summer_qual_c)
 - ![image](https://gyazo.com/6027131e902305a403650ddd77ea4749/thumb/1000)

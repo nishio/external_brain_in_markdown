@@ -1,3 +1,6 @@
+---
+title: "ppkでssh"
+---
 
 - *.ppkのファイルを渡されてこれでサーバに入れと言われたがssh -iで指定してもinvalid formatになる件
 - ppkはPutty形式らしい

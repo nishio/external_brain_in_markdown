@@ -1,3 +1,6 @@
+---
+title: "RangeAddは二つのPointAdd"
+---
 
 [[Range Add Point Read]]は普通の[[セグメント木]]を使って2つのPoint AddとRange Sumで実現できる
 - Readが頭から順番で良い場合はセグメント木を使わずとも単なる配列で良い

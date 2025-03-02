@@ -1,3 +1,6 @@
+---
+title: "intellitech コラム案"
+---
 
 
 コラム案

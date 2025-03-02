@@ -1,3 +1,6 @@
+---
+title: "Luzhiled's memo"
+---
 
 [Luzhiled's memo](https://ei1333.github.io/luzhiled/)
 簡潔に計算量の話がまとまってて便利なのでよく参照する

@@ -1,3 +1,6 @@
+---
+title: "AT ProtocolのLexicon"
+---
 
 [[AT Protocol]]の[[Lexicon]]
 [Lexicon | AT Protocol](https://atproto.com/specs/lexicon)

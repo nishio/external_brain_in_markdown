@@ -1,3 +1,6 @@
+---
+title: "Plurality Tokyo開催決定"
+---
 
 > [0xtkgshn](https://twitter.com/0xtkgshn/status/1637729884951961603/photo/1) Glen率いる[[Plurality Institution]]や、 [[RxC]]のカルチャーを受け継いだ[[Plurality Tokyo]]をETH Tokyo weekに合わせて4/12に開催！
 >  弱冠19歳の @[[rickshinmi]] がこれをやってるというのも日本に可能性しかないし、 @[[hal_sk]] が全力でサポートしてくれてるのも、「Legitimacyのあるところに人が集まる」のが分かる

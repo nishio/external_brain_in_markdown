@@ -1,3 +1,6 @@
+---
+title: "Dominion Simulator"
+---
 
 ![image](https://gyazo.com/37579a6e315db28f82db5110b5551343/thumb/1000)
 [最適BigMoney戦略](http://wiki.dominionstrategy.com/index.php/Big_Money#Big_Money_Optimized)に基づいて

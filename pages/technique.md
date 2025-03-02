@@ -1,3 +1,6 @@
+---
+title: "technique"
+---
 
 "a particular way of doing something, especially one in which you have to learn special skills" (Oxford Advanced Learners' Dictionary)
 It corresponds to [[methodology]] in four methods for [[augmenting human intelligence]] by [[Douglas Carl Engelbart]].

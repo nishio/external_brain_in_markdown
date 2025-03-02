@@ -1,3 +1,6 @@
+---
+title: "Picture in Picture"
+---
 
 [[P in P]] [[Premiere Pro]]
 ![image](https://gyazo.com/66030803752ad7076212072c40e15958/thumb/1000)

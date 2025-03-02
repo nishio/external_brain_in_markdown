@@ -1,3 +1,6 @@
+---
+title: "Moore's Law for Everything"
+---
 
 [Moore's Law for Everything](https://moores.samaltman.com/) [[Sam Altman]] 2021
 - 以下は要約、<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>のついている行とその子は僕のコメント

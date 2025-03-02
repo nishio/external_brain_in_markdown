@@ -1,3 +1,6 @@
+---
+title: "ToMo指数"
+---
 
 Total Motivation指数
 

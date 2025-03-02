@@ -1,3 +1,6 @@
+---
+title: "setTimeoutをPromiseで包む"
+---
 
 from [[Jestメモ]]
 setTimeoutをPromiseで包む

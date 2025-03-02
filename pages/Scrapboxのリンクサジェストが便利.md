@@ -1,3 +1,6 @@
+---
+title: "Scrapboxのリンクサジェストが便利"
+---
 
 
 ![image](https://gyazo.com/cf1150a9f1af05256f7e945d3e79978b/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "A Survey of Techniques for Maximizing LLM Performance"
+---
 
 [[OpenAI DevDay]]
 ![image](https://gyazo.com/7d3bf7ea4b4e83d411ea89961a1a5d1a/thumb/1000)

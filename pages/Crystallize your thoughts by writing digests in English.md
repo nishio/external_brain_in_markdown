@@ -1,3 +1,6 @@
+---
+title: "Crystallize your thoughts by writing digests in English"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/>
 - First you wrote text in your native language, then make digest versions in English as a second language. It will facilitate crystallization of thoughts.

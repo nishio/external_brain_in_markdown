@@ -1,3 +1,6 @@
+---
+title: "Performance Tuning"
+---
 
 > As with Gear VR applications, there are a few basic settings that should be enforced for all Oculus Go applications:
 

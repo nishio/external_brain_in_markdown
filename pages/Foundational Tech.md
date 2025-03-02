@@ -1,3 +1,6 @@
+---
+title: "Foundational Tech"
+---
 
 
 > [0xtkgshn](https://twitter.com/0xtkgshn/status/1642939952672522246) Samの[[American Equity Fund]]の関連なんですが、この記事でFoundational Techについて書いてるのでおすすめです

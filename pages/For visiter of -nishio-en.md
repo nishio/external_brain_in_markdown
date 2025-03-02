@@ -1,3 +1,6 @@
+---
+title: "For visiter of /nishio-en"
+---
 
 This site is [[NISHIO Hirokazu]]'s [[Scrapbox]].
 - For more detail: read [[What is this?]].

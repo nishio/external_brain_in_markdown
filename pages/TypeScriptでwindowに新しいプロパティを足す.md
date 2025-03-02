@@ -1,3 +1,6 @@
+---
+title: "TypeScriptでwindowに新しいプロパティを足す"
+---
 
 デバッグ目的で変数dbを露出させたくて`window.db = db;`したら「windowはそんなプロパティ持ってないよ」と言われる。
 Quick Fixでdeclareできそうだったのでやってみたらlib.dom.d.tsの中のinterface Windowの定義に db : any が追加された。これは絶対に後で戻すのを忘れるのでいやだ。

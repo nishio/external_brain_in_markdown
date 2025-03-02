@@ -1,3 +1,6 @@
+---
+title: "The Rate of Return to the High/Scope Perry Preschool Program"
+---
 
 > Abstract
 >  This paper estimates the rate of return to the High/Scope Perry Preschool Program, an early intervention program targeted toward disadvantaged African-American youth. Estimates of the rate of return to the Perry program are widely cited to support the claim of substantial economic benefits from preschool education programs. Previous studies of the rate of return to this program ignore the compromises that occurred in the randomization protocol. They do not report standard errors. The rates of return estimated in this paper account for these factors. We conduct an extensive analysis of sensitivity to alternative plausible assumptions. Estimated annual social rates of return generally fall between 7-10 percent, with most estimates substantially lower than those previously reported in the literature. However, returns are generally statistically significantly different from zero for both males and females and are above the historical return on equity. Estimated benefit-to-cost ratios support this conclusion.

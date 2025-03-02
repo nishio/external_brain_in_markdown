@@ -1,3 +1,6 @@
+---
+title: "ANMOKU-CHI"
+---
 
 Japanese translation of "[[tacit knowledge]]" / "[[tacit knowing]]"
 

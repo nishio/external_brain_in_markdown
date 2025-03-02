@@ -1,3 +1,6 @@
+---
+title: "非公開omni"
+---
 
 [[omni-private]] [[private-omni]]
 

@@ -1,3 +1,6 @@
+---
+title: "jupyter"
+---
 
 - エラー後に %debug でPDBセッションに入れて便利
 - `from IPython.display import HTML`

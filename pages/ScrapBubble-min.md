@@ -1,3 +1,6 @@
+---
+title: "ScrapBubble-min"
+---
 
 [[ScrapBubble]]
 app.js

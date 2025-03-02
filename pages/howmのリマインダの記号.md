@@ -1,3 +1,6 @@
+---
+title: "howmのリマインダの記号"
+---
 
 [[howm]]の[[リマインダ]]の記号
 [src:WebArchive](https://web.archive.org/web/20111111063142/http://www.bookshelf.jp/texi/howm-tutorial-html/howm-tutorial.howm.b.html)

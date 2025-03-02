@@ -1,3 +1,6 @@
+---
+title: "ARC097A"
+---
 
 [C - K-th Substring](https://atcoder.jp/contests/arc097/tasks/arc097_a)
 - ![image](https://gyazo.com/20f3988bd3141fc810146d59caf944cd/thumb/1000)

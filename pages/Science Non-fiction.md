@@ -1,3 +1,6 @@
+---
+title: "Science Non-fiction"
+---
 
 日常の出来事をSF風に表現する遊び
 

@@ -1,3 +1,6 @@
+---
+title: "VR空間でのキーボード利用"
+---
 
 VR空間でガチに原稿を書いたらその実用度に驚いた　「バーチャルで仕事」のメリットと課題
 [https://www.itmedia.co.jp/news/articles/2111/26/news193.html](https://www.itmedia.co.jp/news/articles/2111/26/news193.html)

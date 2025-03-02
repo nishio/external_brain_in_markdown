@@ -1,3 +1,6 @@
+---
+title: "ScrapboxのNotFound"
+---
 
 プロジェクトがない時
 - `{"name":"NotFoundError","message":"Project is not found"}`

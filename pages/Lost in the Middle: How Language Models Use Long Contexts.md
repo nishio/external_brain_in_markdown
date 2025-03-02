@@ -1,3 +1,6 @@
+---
+title: "Lost in the Middle: How Language Models Use Long Contexts"
+---
 
 > While recent language models have the ability to take long contexts as input, relatively little is known about how well the language models use longer context. We analyze language model performance on two tasks that require identifying relevant information within their input contexts: multi-document question answering and key-value retrieval. We find that performance is often highest when relevant information occurs at the beginning or end of the input context, and significantly degrades when models must access relevant information in the middle of long contexts. Furthermore, performance substantially decreases as the input context grows longer, even for explicitly long-context models. Our analysis provides a better understanding of how language models use their input context and provides new evaluation protocols for future long-context models.
 [https://arxiv.org/abs/2307.03172](https://arxiv.org/abs/2307.03172)

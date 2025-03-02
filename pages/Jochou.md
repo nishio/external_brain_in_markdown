@@ -1,3 +1,6 @@
+---
+title: "Jochou"
+---
 
 Jochou(助長) is an idiom common in Japanese. Its origin is a story in The Works of [[Mencius]]: Gong Sun Chou I.
 

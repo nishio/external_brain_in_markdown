@@ -1,3 +1,6 @@
+---
+title: "Stable Diffusion 1.4 / 1.5 Comparison"
+---
 
 left 1.5 / right 1.4 [[Black Cat 42]]
 ![image](https://gyazo.com/e9f260cacb982f68a3bd02ed17cb7dd8/thumb/1000) ![image](https://gyazo.com/0ed967f2faddaba3bb4b3868949df758/thumb/1000)

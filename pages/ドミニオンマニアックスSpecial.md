@@ -1,3 +1,6 @@
+---
+title: "ドミニオンマニアックスSpecial"
+---
 
 ![image](https://gyazo.com/388b1c989e035d7451d231686375748c/thumb/1000)
 - [[ドミニオン]]マニアックスSpecial

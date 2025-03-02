@@ -1,3 +1,6 @@
+---
+title: "Flask Blueprint"
+---
 
 python
 

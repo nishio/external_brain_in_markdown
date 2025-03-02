@@ -1,3 +1,6 @@
+---
+title: "Scrapbox Link Colors"
+---
 
 Scrapbox Link Colors: Differences between "[[Red Links]] / [[Blue Links]]"
 
@@ -11,4 +14,4 @@ If compared to roads:
     - = Whether the page has body text or not is irrelevant.
 
 <img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/>
-<img src='https://scrapbox.io/api/pages/nishio/bashi/icon' alt='bashi.icon' height="19.5"/> Translated from [[Scrapboxのリンクの色]]
+<img src='https://scrapbox.io/api/pages/nishio/Bashi/icon' alt='Bashi.icon' height="19.5"/> Translated from [[Scrapboxのリンクの色]]

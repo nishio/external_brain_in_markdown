@@ -1,3 +1,6 @@
+---
+title: "Polymarket"
+---
 
 > The worlds largest decentralized prediction market.
 - [Polymarket | The World's Largest Prediction Market](https://polymarket.com/)

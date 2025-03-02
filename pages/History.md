@@ -1,3 +1,6 @@
+---
+title: "History"
+---
 
 2013
 - [[自作電子的KJ法ツールgrouping]]

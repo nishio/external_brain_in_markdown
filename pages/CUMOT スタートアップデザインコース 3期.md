@@ -1,3 +1,6 @@
+---
+title: "CUMOT スタートアップデザインコース 3期"
+---
 
 ![image](https://gyazo.com/7f01e5eed5f4a5ce706dcbdd5950f0aa/thumb/1000)
 [http://www.academy.titech.ac.jp/cumot/sud/lecturer.html#y_nishio](http://www.academy.titech.ac.jp/cumot/sud/lecturer.html#y_nishio)

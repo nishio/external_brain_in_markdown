@@ -1,3 +1,6 @@
+---
+title: "AIの出力を箇条書きに刻む"
+---
 
 
 from [/omoikane/雑談ページ5](https://scrapbox.io/omoikane/雑談ページ5)

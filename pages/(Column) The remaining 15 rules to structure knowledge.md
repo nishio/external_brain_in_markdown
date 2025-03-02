@@ -1,3 +1,6 @@
+---
+title: "(Column) The remaining 15 rules to structure knowledge"
+---
 
 I introduce the remaining rules quickly.
 

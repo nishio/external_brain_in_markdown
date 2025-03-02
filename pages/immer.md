@@ -1,3 +1,6 @@
+---
+title: "immer"
+---
 
 ![image](https://gyazo.com/f15c24829b9b7d6f349b9566daca3bdf/thumb/1000)
 > Immer (German for: always) is a tiny package that allows you to work with immutable state in a more convenient way. It is based on the copy-on-write mechanism.

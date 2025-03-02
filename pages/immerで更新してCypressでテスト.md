@@ -1,3 +1,6 @@
+---
+title: "immerで更新してCypressでテスト"
+---
 
 [[ReactNを露出してCypressから使う]]ができたので、
 状態を[[immer]]で更新して[[Cypress]]でテストしてみる

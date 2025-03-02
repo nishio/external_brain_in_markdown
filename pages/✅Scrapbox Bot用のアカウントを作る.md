@@ -1,3 +1,6 @@
+---
+title: "✅Scrapbox Bot用のアカウントを作る"
+---
 
 [tkgshn/scrapbox-Duplicator: Scrapboxの非公開・公開プロジェクトを分けて運用する際に面倒な「ページの転送」を自動で行うツール](https://github.com/tkgshn/scrapbox-Duplicator)を試したいが、いきなりフルアクセスは怖いのでScrapbox Bot用の新しいアカウントを作ることにした
 これを単に使うというより、参考にして色々やりたいので将来のことを考えるとその方がいいかなと。

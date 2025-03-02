@@ -1,3 +1,6 @@
+---
+title: "eliminate things you do not understandの説明を改善"
+---
 
 from [[pIntEn]]
 eliminate things you do not understandの説明を改善

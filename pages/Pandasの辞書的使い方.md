@@ -1,3 +1,6 @@
+---
+title: "Pandasの辞書的使い方"
+---
 
 PandasでNameとValueというカラムのあるCSVを読み込んで、「Nameが特定の値の時のValueを知りたい」という場合。なおNameは一意だとする。
 python

@@ -1,3 +1,6 @@
+---
+title: "そのXは何のようですか？"
+---
 
 __BELOW_IS_AI_GENERATED__
 # そのXは何のようですか？

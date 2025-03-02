@@ -1,3 +1,6 @@
+---
+title: "追加コラム: Scrapbox"
+---
 
 [/intellitech-en/4.3.3 Attention to headlines](https://scrapbox.io/intellitech-en/4.3.3 Attention to headlines)のあとあたりに入れる
 

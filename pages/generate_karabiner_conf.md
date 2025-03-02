@@ -1,3 +1,6 @@
+---
+title: "generate_karabiner_conf"
+---
 
 - Karabinerの設定ファイルを手で編集したくなかったので生成するプログラムを書いた
     - 2018-08-20 Orz配列を生成

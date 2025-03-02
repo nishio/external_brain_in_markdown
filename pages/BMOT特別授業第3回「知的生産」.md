@@ -1,3 +1,6 @@
+---
+title: "BMOT特別授業第3回「知的生産」"
+---
 
 - 2018-08-22 予定
 - [申込ページ](https://docs.google.com/forms/d/e/1FAIpQLSdlzLCPsUL6F32B7okGgHKK05PjraApvgSoReVOQ3voLDVPAw/viewform)

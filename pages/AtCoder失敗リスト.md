@@ -1,3 +1,6 @@
+---
+title: "AtCoder失敗リスト"
+---
 
 MLE
 - 与えられたH×W=10^6の文字列からグラフを構築してTLEやMLE [[PAST5H]]

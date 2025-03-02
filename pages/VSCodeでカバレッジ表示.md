@@ -1,3 +1,6 @@
+---
+title: "VSCodeでカバレッジ表示"
+---
 
 ![image](https://gyazo.com/35e8e3c2157682f333552cd16c84fb2a/thumb/1000)
 Install: [Code Coverage Highlighter - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brainfit.vscode-coverage-highlighter)

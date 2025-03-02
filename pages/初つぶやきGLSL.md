@@ -1,3 +1,6 @@
+---
+title: "初つぶやきGLSL"
+---
 
 ![image](https://gyazo.com/88943837591a00a7cca1196a898ac04f/thumb/1000)
 [http://glslsandbox.com/e#72258.0](http://glslsandbox.com/e#72258.0)

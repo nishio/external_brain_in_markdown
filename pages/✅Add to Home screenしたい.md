@@ -1,3 +1,6 @@
+---
+title: "✅Add to Home screenしたい"
+---
 
 from [[pKeicho]]
 [[Add to Home screen]]したい

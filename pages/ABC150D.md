@@ -1,3 +1,6 @@
+---
+title: "ABC150D"
+---
 
 [D - Semi Common Multiple](https://atcoder.jp/contests/abc150/tasks/abc150_d)
 ![image](https://gyazo.com/63b89907f3a2e8122ae6c1bfa8ca3e69/thumb/1000)

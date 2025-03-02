@@ -1,3 +1,6 @@
+---
+title: "ScrapboxとLLMの相性の良さ"
+---
 
 ![image](https://gyazo.com/642742b8e649b662509ba07e42a06f5d/thumb/1000)
 

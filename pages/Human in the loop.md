@@ -1,3 +1,6 @@
+---
+title: "Human in the loop"
+---
 
 
 > [teramotodaiki](https://twitter.com/teramotodaiki/status/1647119491166519296) 手前味噌だけどHelpfeelが意図予測検索と呼んでいる仕組みはめちゃくちゃ上手くワークしていて、この点においては自信を持って「他のアプローチより精度高いです」って言えるんだよなー(ベンチマークとった訳ではないけど)

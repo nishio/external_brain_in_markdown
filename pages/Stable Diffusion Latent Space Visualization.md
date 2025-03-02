@@ -1,3 +1,6 @@
+---
+title: "Stable Diffusion Latent Space Visualization"
+---
 
 last latent
 - ![image](https://gyazo.com/03001d0e0afbd7ac95f7383401bc3178/thumb/1000)

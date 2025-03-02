@@ -1,3 +1,6 @@
+---
+title: "ARC014C"
+---
 
 [C - 魂の還る場所](https://atcoder.jp/contests/arc014/tasks/arc014_3)
 - ![image](https://gyazo.com/913d5c6fe52dfe68b9aa345fe3cb9899/thumb/1000)

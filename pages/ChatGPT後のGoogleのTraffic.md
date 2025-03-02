@@ -1,3 +1,6 @@
+---
+title: "ChatGPT後のGoogleのTraffic"
+---
 
 [Cathie Wood 'Frustrated' With Google Search: Why Microsoft ChatGPT Is 'iPhone Moment Of This Decade' - Microsoft (NASDAQ:MSFT), Alphabet (NASDAQ:GOOGL) - Benzinga](https://www.benzinga.com/analyst-ratings/analyst-color/23/03/31270611/cathie-wood-frustrated-with-google-search-why-microsoft-chatgpt-is-iphone-moment-of)
 > [wintonARK](https://twitter.com/wintonARK/status/1633532245645615104/photo/1)

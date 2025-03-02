@@ -1,3 +1,6 @@
+---
+title: "ABC184E"
+---
 
 ![image](https://gyazo.com/3b62a4951b2100ef564ece4d0770989b/thumb/1000)
 - [E - Third Avenue](https://atcoder.jp/contests/abc184/tasks/abc184_e)

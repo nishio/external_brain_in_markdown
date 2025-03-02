@@ -1,3 +1,6 @@
+---
+title: "perfect cube"
+---
 
 from [[pIntEn]]
 perfect cube

@@ -1,3 +1,6 @@
+---
+title: "U理論の最初の感想"
+---
 
 [2014-04-10](https://www.facebook.com/nishiohirokazu/posts/10203037651078743)
 > [[U理論]]の本を流し読みしてたけど、これは結構面白い。

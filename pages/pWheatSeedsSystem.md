@@ -1,2 +1,5 @@
+---
+title: "pWheatSeedsSystem"
+---
 
 [[Planet Minecraft]]

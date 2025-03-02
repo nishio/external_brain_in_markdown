@@ -1,3 +1,6 @@
+---
+title: "Translation Candidates"
+---
 
 most viewed
 ✅[[エンジニアのための自分経営戦略]]

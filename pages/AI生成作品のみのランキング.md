@@ -1,3 +1,6 @@
+---
+title: "AI生成作品のみのランキング"
+---
 
 [pixiv お知らせ - AI生成作品の取り扱いに関する機能をリリースしました](https://www.pixiv.net/info.php?id=8728)
 > [@pixiv](https://twitter.com/pixiv/status/1586916035412004865): AI生成作品の取り扱いに関する機能リリースについてのお知らせを公開いたしました。詳細はこちらをご確認ください。[https://t.co/ANVd2nc0WS](https://t.co/ANVd2nc0WS)

@@ -1,3 +1,6 @@
+---
+title: "VSCode開きすぎ→Ctrl+Wで切り替え"
+---
 
 from [[日記2023-06-06]]
 VSCode開きすぎ→Ctrl+Wで切り替え

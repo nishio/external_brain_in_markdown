@@ -1,3 +1,6 @@
+---
+title: "Mixin"
+---
 
 
 [Mixins - TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/type-system/mixins)

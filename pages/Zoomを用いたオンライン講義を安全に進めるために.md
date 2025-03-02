@@ -1,3 +1,6 @@
+---
+title: "Zoomを用いたオンライン講義を安全に進めるために"
+---
 
 東京大学情報基盤センター 2020.4.6 [PDF](https://apps.adm.s.u-tokyo.ac.jp/WEB_info/p/pub/5756/Zoom.pdf)
 簡潔にZoomを使う時に気をつけることがまとまってる。

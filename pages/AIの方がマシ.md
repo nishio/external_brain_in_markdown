@@ -1,3 +1,6 @@
+---
+title: "AIの方がマシ"
+---
 
 きっかけ: [[AIを介してコミュニケーションすればハラスメントは発生しない]]
 > [@nishio](https://twitter.com/nishio/status/1605044442339368960?s=20&t=2y31SZaaoTwkt4v6_x5Kuw): 近未来SF:

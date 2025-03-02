@@ -1,3 +1,6 @@
+---
+title: "Write everything twice"
+---
 
 [[DRY原則]]に対するアンチテーゼとして生まれた
 

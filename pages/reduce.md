@@ -1,3 +1,6 @@
+---
+title: "reduce"
+---
 
 ![image](https://gyazo.com/292cba7a9cc22bd914587685238eef10/thumb/1000)
 [twitter](https://twitter.com/nishio/status/1310079623774875650)

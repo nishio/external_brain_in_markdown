@@ -1,3 +1,6 @@
+---
+title: "Stable Diffusion Inpaintの仕組み"
+---
 
 ![image](https://gyazo.com/7bbbd2f36bc287afe03cd0b19e6f9ce9/thumb/1000)
 - [[VAE]]

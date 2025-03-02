@@ -1,3 +1,6 @@
+---
+title: "PyPy compilation result"
+---
 
 python
 

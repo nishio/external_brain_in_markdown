@@ -1,3 +1,6 @@
+---
+title: "Alexaからガジェットを制御"
+---
 
 [[Alexa]]から[[Raspberry Pi]]を制御することができる
 - [Alexaのカスタムスキルがガジェットと連携！ 〜Alexa Gadgets Toolkit の Custom Interfaces を試す〜 - Qiita](https://qiita.com/youtoy/items/472da6c009a5ee3407ea?fbclid=IwAR3Pfp27FrnpSIFRSjuxOYuTZssVrKpCwa-wtWyJdcb80kpNFmoA_PvwjdQ)

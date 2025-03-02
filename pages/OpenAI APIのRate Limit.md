@@ -1,3 +1,6 @@
+---
+title: "OpenAI APIのRate Limit"
+---
 
 2023-09-02
 - Embeddingをしようとした人か軒並みハマる落とし穴

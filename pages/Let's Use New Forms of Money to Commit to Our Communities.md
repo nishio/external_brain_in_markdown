@@ -1,3 +1,6 @@
+---
+title: "Let's Use New Forms of Money to Commit to Our Communities"
+---
 
 [Let's Use New Forms of Money to Commit to Our Communities - RadicalxChange](https://www.radicalxchange.org/media/blog/lets-use-new-forms-of-money-to-commit-to-our-communities/)
 [[Matt Prewitt]]

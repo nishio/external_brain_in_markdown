@@ -1,2 +1,5 @@
+---
+title: "WalletConnet"
+---
 
 [[VESS Card]]

@@ -1,3 +1,6 @@
+---
+title: "private-omni の改善"
+---
 
 from [[日記2023-10-15]]
 [[private-omni]]の改善

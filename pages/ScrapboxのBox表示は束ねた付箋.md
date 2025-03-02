@@ -1,3 +1,6 @@
+---
+title: "ScrapboxのBox表示は束ねた付箋"
+---
 
 ![image](https://gyazo.com/85e7f6afbe84a6eaf8f62310191fe6ef/thumb/1000)
 

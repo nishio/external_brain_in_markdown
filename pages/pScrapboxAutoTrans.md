@@ -1,3 +1,6 @@
+---
+title: "pScrapboxAutoTrans"
+---
 
 [[Scrapbox自動翻訳]]プロジェクトに関する個人的メモのハブページです #pProjectIndex
 

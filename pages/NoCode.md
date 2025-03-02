@@ -1,3 +1,6 @@
+---
+title: "NoCode"
+---
 
 ## ![image](https://gyazo.com/a1b579c15c3a9eb487eb50a3c41a2e5c/thumb/1000)
 ## ![image](https://gyazo.com/e5d2eb5b040cd7a25408f8c409c5569e/thumb/1000)

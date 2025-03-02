@@ -1,3 +1,6 @@
+---
+title: "Table of Contents_old"
+---
 
 - [[(0) Preface]]
     - [[(0.0) What is intellitech?]] (extra section for English reader)

@@ -1,3 +1,9 @@
+---
+title: "Polis設問増えすぎ問題"
+---
+
+[[Polis]]設問増えすぎ問題
+
 
 from [[pPolis]]
 Polis設問増えすぎ問題

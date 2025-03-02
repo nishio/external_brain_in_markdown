@@ -1,3 +1,6 @@
+---
+title: "ai_museum"
+---
 
 
 [[ai_museum誕生の記録]]

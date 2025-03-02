@@ -1,3 +1,6 @@
+---
+title: "CSSで条件分岐と変数と計算を使う"
+---
 
 - [[メディアクエリ]]で条件分岐ができる
     - [メディアクエリの使用 - CSS: カスケーディングスタイルシート | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/Media_Queries/Using_media_queries)

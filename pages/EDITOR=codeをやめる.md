@@ -1,3 +1,6 @@
+---
+title: "EDITOR=codeをやめる"
+---
 
 `export EDITOR="code -w"`
 が正しい

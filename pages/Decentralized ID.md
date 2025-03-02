@@ -1,3 +1,6 @@
+---
+title: "Decentralized ID"
+---
 
 [[decentralized identity]]
 [[Decentralized Identifiers]]

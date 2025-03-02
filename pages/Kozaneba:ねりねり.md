@@ -1,3 +1,6 @@
+---
+title: "Kozaneba:ねりねり"
+---
 
 サムネイル
 ![image](https://gyazo.com/38bc5e9288210af1f4c20ede4cae8eab/thumb/1000)

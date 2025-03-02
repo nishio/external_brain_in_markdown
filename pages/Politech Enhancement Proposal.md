@@ -1,3 +1,6 @@
+---
+title: "Politech Enhancement Proposal"
+---
 
 技術の世界にはRFC(Request for comments)やPEP(Python Enhancement Proposal)などの知識を精錬する仕組みがある。政治においても同様の仕組みを導入することができないか？
 

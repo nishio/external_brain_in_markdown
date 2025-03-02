@@ -1,3 +1,6 @@
+---
+title: "howmのcome-fromリンク"
+---
 
 [[howm]]では「>>> aaa」という記法でaaaへのリンクになる。
 - このリンクがgotoリンク

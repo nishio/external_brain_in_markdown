@@ -1,3 +1,6 @@
+---
+title: "Scrapboxのdecoの実験"
+---
 
 Scrapboxで`[# aaa]`とやるとspanにdeco-#クラスが付くことを知った。
 しかし`[## aaa]`でもdeco-##が付くのでも、deco-#がネストするのでもなく、`[# aaa]`と区別できない。

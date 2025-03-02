@@ -1,6 +1,9 @@
+---
+title: "Memex"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/jaen/icon' alt='jaen.icon' height="19.5"/>
-> Memex (MEMory EXtender, i.e. "memory expander") is the original concept of the [[hypertext]] system published by [[Vanever Bush]] in his 1945 article "[[As We May Think]]" (AWMT) in The Atlantic Monthly. (AWMT) in 1945.
+> Memex (MEMory EXtender, i.e. "memory expander") is the original concept of the [[hypertext]] system published by [[Vannevar Bush]] in his 1945 article "[[As We May Think]]" (AWMT) in The Atlantic Monthly. (AWMT) in 1945.
 [Memex - Wikipedia](https://ja.wikipedia.org/wiki/Memex)
 
 - [[Memory]]

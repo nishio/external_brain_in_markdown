@@ -1,3 +1,6 @@
+---
+title: "motivation"
+---
 
 Related
 - [[motivated]]

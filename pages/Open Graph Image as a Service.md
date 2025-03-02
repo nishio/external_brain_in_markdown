@@ -1,3 +1,6 @@
+---
+title: "Open Graph Image as a Service"
+---
 
 [https://og-image.vercel.app/](https://og-image.vercel.app/)
 

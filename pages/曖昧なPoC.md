@@ -1,3 +1,6 @@
+---
+title: "曖昧なPoC"
+---
 
 [[PoC]](Proof of Concept)って呼んでるそれをやることで、一体どのようなConceptがProofされるのか？
 これが明確でないPoCは「PoC」と呼ぶことがそもそも不適切なのでは？

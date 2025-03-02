@@ -1,3 +1,6 @@
+---
+title: "basic five questions"
+---
 
 [[Five Basic Developing Questions]]
 [[Symbolic Modelling Cheatsheet]]

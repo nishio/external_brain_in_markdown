@@ -1,3 +1,6 @@
+---
+title: "Prompt Design"
+---
 
 [https://platform.openai.com/docs/guides/completion/prompt-design](https://platform.openai.com/docs/guides/completion/prompt-design)
 

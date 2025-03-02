@@ -1,3 +1,6 @@
+---
+title: "改造LacailleのキーマップをJSONにした"
+---
 
 前回の改造でObjectiveC力が足りなくて3バイト固定になっていたキーマップを、JSONから読むことで可変長にした。ただしObjectiveC力が足りなくて最大256バイトではある
 - [[NSJSONSerialization]]

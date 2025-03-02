@@ -1,3 +1,6 @@
+---
+title: "(5) How to organize information"
+---
 
 In this chapter and the next chapter, I focus on how to output your thought. The [[output]] is a key part of intellectual production.
 

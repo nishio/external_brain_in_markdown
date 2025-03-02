@@ -1,3 +1,6 @@
+---
+title: "Google Analyticsで何でもカウント"
+---
 
 ある特定の操作をした人が何人いるのか知りたい。
 その操作が行われた時に自分の書いたJavaScriptプログラムから直接Google Analyticsを呼び出してイベントを記録することができる。

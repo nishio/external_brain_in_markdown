@@ -1,3 +1,6 @@
+---
+title: "ChatGPTの教育利用"
+---
 
 > [@taisukeOo](https://twitter.com/taisukeOo/status/1645275444818886658?s=20): 知性を最大化するのが大学の役割ではないのか？
 > ・AIで出力したもので足りない部分を補足せよ。

@@ -1,3 +1,6 @@
+---
+title: "KeichobotとChatGPTを会話させてみた"
+---
 
 [[Keichobot]]と[[ChatGPT]]を会話させてみた
 

@@ -1,3 +1,6 @@
+---
+title: "affinity diagramに言及"
+---
 
 from [[pIntEn]]
 affinity diagramに言及

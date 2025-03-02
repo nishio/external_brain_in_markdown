@@ -1,3 +1,6 @@
+---
+title: "RadicalxChangeのx"
+---
 
 from [[21世紀のイデオロギー]]
 RadicalxChangeのx

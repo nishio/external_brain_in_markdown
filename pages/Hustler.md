@@ -1,3 +1,6 @@
+---
+title: "Hustler"
+---
 
 X: 2004-07 Paul Graham
 - [Great Hackers](http://www.paulgraham.com/gh.html)

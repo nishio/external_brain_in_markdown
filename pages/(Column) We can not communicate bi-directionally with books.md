@@ -1,3 +1,6 @@
+---
+title: "(Column) We can not communicate bi-directionally with books"
+---
 
 About mixing the information from the viewpoint of others and plowing again, you may think that mixing the information from books is equivalent.
 However, as a real feeling of me, it is quite difficult.

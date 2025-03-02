@@ -1,3 +1,6 @@
+---
+title: "finding"
+---
 
 The word "finding" is used for two activities:
 

@@ -1,3 +1,6 @@
+---
+title: "SentryのResolveとIgnore"
+---
 
 Resolveはresolvedフラグをつける。
 - 「Unresolved Issues」から一時的に消える。

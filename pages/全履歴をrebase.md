@@ -1,3 +1,6 @@
+---
+title: "全履歴をrebase"
+---
 
 正解は
 - `$ git rebase -i --root`

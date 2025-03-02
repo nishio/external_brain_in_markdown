@@ -1,3 +1,6 @@
+---
+title: "Sequence-to-Sequenceモデル"
+---
 
 - [[seq2seq]]、[[Encoder-Decoder]]、[[系列変換モデル]]とも。
 - [1409.3215 Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)(2014)

@@ -1,3 +1,6 @@
+---
+title: "ReGroup書き出しUI"
+---
 
 - EnterでSave、Shift+EnterでNew Line
     - ガンガン書き出すツールなので、Saveの方がシンプルなキーであるべき

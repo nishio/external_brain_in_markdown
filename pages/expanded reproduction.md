@@ -1,3 +1,6 @@
+---
+title: "expanded reproduction"
+---
 
 - [Reproduction (economics) - Wikipedia](https://en.wikipedia.org/wiki/Reproduction_(economics))
 

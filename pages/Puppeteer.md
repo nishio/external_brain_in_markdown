@@ -1,3 +1,6 @@
+---
+title: "Puppeteer"
+---
 
 [puppeteer/puppeteer: Headless Chrome Node.js API](https://github.com/puppeteer/puppeteer)
 

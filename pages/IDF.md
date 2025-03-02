@@ -1,3 +1,6 @@
+---
+title: "IDF"
+---
 
 - inverse document frequency
 - 単語の文書頻度 [[df]] ([[document frequency]])の逆数

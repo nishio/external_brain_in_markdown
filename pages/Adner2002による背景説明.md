@@ -1,3 +1,6 @@
+---
+title: "Adner2002による背景説明"
+---
 
 from [[Adner2002]]
 Adner2002による背景説明

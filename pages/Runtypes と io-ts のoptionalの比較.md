@@ -1,3 +1,6 @@
+---
+title: "Runtypes と io-ts のoptionalの比較"
+---
 
 まず普通のTypeScriptの型がコード上とVSCodeのヒント上でどう見えるか
 - なるべくこれに近い書き方・見え方だと楽

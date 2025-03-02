@@ -1,3 +1,6 @@
+---
+title: "WebUI作成作業メモ1日目"
+---
 
 from [[WebUI作成作業メモ]]
 - `$ npx create-react-app keicho-webclient --template typescript`

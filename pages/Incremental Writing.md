@@ -1,3 +1,6 @@
+---
+title: "Incremental Writing"
+---
 
 [2016-03-05 Facebook](https://www.facebook.com/nishiohirokazu/posts/10207981242385436) これの前日の記事: [[Elaborative IR]]
 Incremental Writing、原稿に役に立つかもしれない参考資料や断片的な記述ばかりが増えていって、いつまでたっても原稿が完成しないのではないかという懸念が…初めて数日で結果を求めるのは焦り過ぎかもしれないが。

@@ -1,9 +1,12 @@
+---
+title: "Plurality Tokyo Salon 2023-10-06"
+---
 
 10/6夜
 > [pluralitytokyo](https://twitter.com/pluralitytokyo/status/1707669487305236727) [[Plurality Tokyo Salon]] `#2` 開催
 >  Plurality Tokyoのミートアップ開催します！参加者同士でラフに交流ができたらと思いますので、奮ってご参加ください！
 >  ・日時：10/6(金)19:00
->  ・場所：Crypto Cafe & Bar
+>  ・場所：[[Crypto Cafe & Bar]]
 > 🔽 詳細 & 参加登録は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSfpThGQsqNBp8cM65VzpGMSsDW-KTIdE0lL4Y5vzcaRoA_Zng/viewform)
 
 僕は参加するけどトーク予定はありません(準備時間がないため)

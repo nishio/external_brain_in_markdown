@@ -1,3 +1,6 @@
+---
+title: "Knowledge is an antidote for fear"
+---
 
 - [[Knowledge]] is an [[antidote]] for [[fear]].
     - [[Ralph Waldo Emerson]]

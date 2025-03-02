@@ -1,3 +1,6 @@
+---
+title: "useStateを差し替える"
+---
 
 from [[非同期なReactの状態更新をテストする]]
 useStateを差し替える

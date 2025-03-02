@@ -1,3 +1,6 @@
+---
+title: "ABC006C"
+---
 
 [C - スフィンクスのなぞなぞ](https://atcoder.jp/contests/abc006/tasks/abc006_3)
 - ![image](https://gyazo.com/2f6b59dcf7787876c9b5f7e08d21cb47/thumb/1000)

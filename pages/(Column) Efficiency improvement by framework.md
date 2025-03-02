@@ -1,3 +1,6 @@
+---
+title: "(Column) Efficiency improvement by framework"
+---
 
 There are various frameworks in the world. For example, in [[(4.4.2.3) Read to eliminate things what you do not understand]], I introduced four classifications for reasons not understood by [[Takada Akinori]].
 

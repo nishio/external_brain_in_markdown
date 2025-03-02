@@ -1,3 +1,6 @@
+---
+title: "Passive event listeners"
+---
 
 > Expose "passive" boolean in the EventListenerOptions dictionary.
 >

@@ -1,3 +1,6 @@
+---
+title: "American Equity"
+---
 
 [American Equity - Sam Altman](https://blog.samaltman.com/american-equity) [[Sam Altman]] 2017年
 - 以下は要約、<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>のついている行とその子は僕のコメント

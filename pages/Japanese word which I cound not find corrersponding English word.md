@@ -1,3 +1,6 @@
+---
+title: "Japanese word which I cound not find corrersponding English word"
+---
 
 - [[ICHIRANSEI]]
 - [[IWAKAN]]

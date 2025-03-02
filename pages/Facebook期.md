@@ -1,3 +1,6 @@
+---
+title: "Facebook期"
+---
 
 それまでTwitterに投稿していたのが、Facebookに切り替わった。2012年ごろTwitterからFacebookに移動することを検討し始め、2013年2月に、Twitterから25万件のパスワード流出の可能性で、該当ユーザーが強制的にパスワードリセットされる事件で
 一時期Twitterが使えない状態になったのをきっかけにFacebookに移動。

@@ -1,3 +1,6 @@
+---
+title: "AIとMOT改定案"
+---
 
 [[AIとMOT]]
 

@@ -1,3 +1,6 @@
+---
+title: "GANによる文字生成"
+---
 
 ![image](https://gyazo.com/3e1662eaa506f32a1e8e936acf5a9aa0/thumb/1000)
 [https://twilog.org/nishio/date-161226](https://twilog.org/nishio/date-161226)

@@ -1,3 +1,6 @@
+---
+title: "NFT"
+---
 
 > A [[non-fungible token]] (NFT) is a unique [[digital identifier]] that cannot be copied, substituted, or subdivided, that is recorded in a blockchain, and that is used to certify ownership and authenticity.
 - [Non-fungible token - Wikipedia](https://en.wikipedia.org/wiki/Non-fungible_token)

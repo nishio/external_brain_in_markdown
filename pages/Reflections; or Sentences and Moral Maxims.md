@@ -1,3 +1,6 @@
+---
+title: "Reflections; or Sentences and Moral Maxims"
+---
 
 [François de La Rochefoucauld (writer) - Wikipedia](https://en.wikipedia.org/wiki/François_de_La_Rochefoucauld_(writer))
 [[Reflections on the Moral Maxims]]

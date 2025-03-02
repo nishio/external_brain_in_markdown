@@ -1,3 +1,6 @@
+---
+title: "TypeScript"
+---
 
 - [Documentation · TypeScript](https://www.typescriptlang.org/docs/home.html)
 - [Introduction - TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)

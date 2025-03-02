@@ -1,3 +1,6 @@
+---
+title: "Stable Diffusionのpromptは77×768次元のテンソルになる"
+---
 
 - ![image](https://gyazo.com/9b56949eefcc9f7f031b74a847a68d1b/thumb/1000)
 py

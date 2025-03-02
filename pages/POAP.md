@@ -1,3 +1,6 @@
+---
+title: "POAP"
+---
 
 [https://poap.directory/](https://poap.directory/)
 <img src='https://scrapbox.io/api/pages/nishio/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>POAP（出席証明プロトコル）ディレクトリ

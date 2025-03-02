@@ -1,3 +1,6 @@
+---
+title: "(Column) Two kinds of tacit knowledge"
+---
 
 Discussion about the meaning of tacit knowledge is too abstract, I think that it will not lead to your intellectual productivity improvement too much. However, since there seem to be many people who are interested, I will explain it in the form of a column.
 

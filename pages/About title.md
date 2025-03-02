@@ -1,3 +1,6 @@
+---
+title: "About title"
+---
 
 from [[pIntEn]]
 - About title

@@ -1,3 +1,6 @@
+---
+title: "react-dom/test-utilsのactは何をする？"
+---
 
 簡潔に言えば「コールバックを呼んだ後で更新キューが空になるまでflushする」
 

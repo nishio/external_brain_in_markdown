@@ -1,3 +1,6 @@
+---
+title: "ARC087B"
+---
 
 ![image](https://gyazo.com/5a94da0c2e1a0f43970c6ca3b1c71e40/thumb/1000)
 - 考えたこと

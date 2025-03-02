@@ -1,3 +1,6 @@
+---
+title: "チャットと違ってScrapboxは生い茂る"
+---
 
 from [/villagepump/最高に井戸端](https://scrapbox.io/villagepump/最高に井戸端)
 - Scrapboxで同期的なコミュニケーションをするとき、チャット的なツールでのコミュニケーションと違って、前に戻って再構成できる

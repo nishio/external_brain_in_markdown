@@ -1,3 +1,6 @@
+---
+title: "AIトレーニングに使わせない権利"
+---
 
 [AI生成アートとオンライン画像市場：「AIトレーニングに使わせない権利」がクリエイターの仕事を奪うワケ | p2ptk.org](https://p2ptk.org/monopoly/4389)
 [AI Art Generators and the Online Image Market | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2023/04/ai-art-generators-and-online-image-market)

@@ -1,3 +1,6 @@
+---
+title: "WikipediaとScrapboxを分けるのは主観の有無"
+---
 
 [/yosider/主観がScrapboxとwikipediaを差別化する](https://scrapbox.io/yosider/主観がScrapboxとwikipediaを差別化する)
 - > [[主観]]がScrapboxと[[Wikipedia]]を差別化する

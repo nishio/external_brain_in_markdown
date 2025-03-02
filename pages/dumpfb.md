@@ -1,3 +1,6 @@
+---
+title: "dumpfb"
+---
 
 昔Facebookのアクティビティログをファイルに書き出すために作ったもの
 - [https://github.com/nishio/dumpfb](https://github.com/nishio/dumpfb)

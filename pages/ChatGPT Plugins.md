@@ -1,3 +1,6 @@
+---
+title: "ChatGPT Plugins"
+---
 
 まとめ
 - 2023-03-24 [[ChatGPT Plugins]]のALPHA版がリリースされた / 表記揺れ [[ChatGPT Plugin]]

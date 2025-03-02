@@ -1,3 +1,6 @@
+---
+title: "Retroactive Public Goods Funding"
+---
 
 [Retroactive Public Goods Funding. Note: The Optimism team has long been… | by Optimism | Optimism PBC Blog | Medium](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c)
 

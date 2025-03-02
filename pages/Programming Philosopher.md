@@ -1,3 +1,6 @@
+---
+title: "Programming Philosopher"
+---
 
 2023-09-01
 <img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>
@@ -40,4 +43,4 @@
 [[Philosophy]] and [[Programming]]
 
 Translated from [[プログラミング哲学者]]
-<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/bashi/icon' alt='bashi.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/Bashi/icon' alt='Bashi.icon' height="19.5"/>

@@ -1,3 +1,6 @@
+---
+title: "〜infinity〜∞"
+---
 
 [https://www.youtube.com/watch?v=I6aHKszvEXo](https://www.youtube.com/watch?v=I6aHKszvEXo)
 

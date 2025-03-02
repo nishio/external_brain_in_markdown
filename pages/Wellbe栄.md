@@ -1,3 +1,6 @@
+---
+title: "Wellbe栄"
+---
 
 from [[日記2023-09-27]]
 Wellbe栄

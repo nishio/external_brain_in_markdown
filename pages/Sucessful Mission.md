@@ -1,3 +1,6 @@
+---
+title: "Sucessful Mission"
+---
 
 [https://www.youtube.com/watch?v=vXnoZmpBX5g&list=RDTeKCitKW7_4&index=32](https://www.youtube.com/watch?v=vXnoZmpBX5g&list=RDTeKCitKW7_4&index=32)
 [[林原 めぐみ]] / [[MEGUMI]]

@@ -1,5 +1,8 @@
+---
+title: "Yes, I am rich. Not in terms of how much I have, but how much I can give."
+---
 
-Larry Wall (in interview by Dan Kogai)
+[[Larry Wall]] (in interview by [[Dan Kogai]])
 >  弾： O'Reillyを首になってから、どんな仕事をしていましたか？
 >  ラ：しばらくは公的に失業していました（苦笑⁠）⁠。幸い不動産の値上がりがあったので、リバースモーゲージで生計を立てていました。最近になってNetlogic Microsystems社に雇用されていますが、時間のほとんどはPerl 6につぎ込んでいます。
 >  弾：失業中に給与が支払われていたとしたら…。

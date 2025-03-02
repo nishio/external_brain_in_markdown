@@ -1,3 +1,6 @@
+---
+title: "KOUMEI-SEIDAI"
+---
 
 KOUMEI-SEIDAI is a Japanese and Chinese word, which means a good atitued of a person.It is related to openness of information.
 

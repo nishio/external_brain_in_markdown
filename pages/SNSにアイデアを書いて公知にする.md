@@ -1,3 +1,6 @@
+---
+title: "SNSにアイデアを書いて公知にする"
+---
 
 from [/villagepump/2023/11/05](https://scrapbox.io/villagepump/2023/11/05)
 <img src='https://scrapbox.io/api/pages/villagepump/sta/icon' alt='/villagepump/sta.icon' height="19.5"/>

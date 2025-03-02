@@ -1,3 +1,6 @@
+---
+title: "summarize information"
+---
 
 - [[考えをまとめる]]
     - directly translated: [[summarize]] ideas

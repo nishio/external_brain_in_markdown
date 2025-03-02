@@ -1,3 +1,6 @@
+---
+title: "VSCode Tasks"
+---
 
 [Tasks in Visual Studio Code](https://code.visualstudio.com/docs/editor/tasks#_typescript-hello-world)
 - Integrate with External Tools via Tasks

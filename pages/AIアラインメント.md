@@ -1,3 +1,6 @@
+---
+title: "AIアラインメント"
+---
 
 > Japan Alignment Conferenceは、米国や英国のAIアラインメント研究者と日本のAI研究者や起業家が一堂に会する2日間のワークショップです。
 [Event details - Japan AI Alignment Conference 2023](https://jac2023.ai/jp)

@@ -1,3 +1,6 @@
+---
+title: "InstaChord日記(到着前)"
+---
 
 実機到着後は[[InstaChord日記]]
 
@@ -124,7 +127,7 @@ from [/villagepump/2023/01/05](https://scrapbox.io/villagepump/2023/01/05)
         - sus4メチャクチャだな
                 - sus4→なしという流れが多い<img src='https://scrapbox.io/api/pages/villagepump/inajob/icon' alt='/villagepump/inajob.icon' height="19.5"/>
                     - 鳴らしたらわかるけど、不安定→安定みたいな音
-- [[輪舞-revolution-]]、サビの最後の最後にdimがあるせいでアプリで弾けないぞ
+- [[輪舞-revolution]]、サビの最後の最後にdimがあるせいでアプリで弾けないぞ
     - aug sus dimあたりは他のコードで代用できないからなぁ
         - ルート音だけとか、合ってるところの弦だけを弾いて誤魔化すくらいかな・・<img src='https://scrapbox.io/api/pages/villagepump/inajob/icon' alt='/villagepump/inajob.icon' height="19.5"/>
         - 変な奏法をやるより課金して素直に練習した方が良さそうw<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>

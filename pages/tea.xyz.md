@@ -1,3 +1,6 @@
+---
+title: "tea.xyz"
+---
 
 [https://tea.xyz/](https://tea.xyz/)
 > Introducing tea - the revolutionary, cross-platform package manager. Say goodbye to slow & clunky, and say hello to fast & smooth. From the creator of [[Brew]].

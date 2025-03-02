@@ -1,3 +1,6 @@
+---
+title: "NullPointerException"
+---
 
 たとえばPerson型の変数がある場合、人間は暗黙に「値としてPersonクラスのインスタンスが入っている」と思い込みがち
 ところがJavaの場合、実際には「Personクラスのインスタンス、もしくはnullが入っている」だった

@@ -1,3 +1,6 @@
+---
+title: "methodology"
+---
 
 - see [[technique]]
 

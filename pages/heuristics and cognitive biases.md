@@ -1,3 +1,6 @@
+---
+title: "heuristics and cognitive biases"
+---
 
 from [[pIntEn]]
 heuristics and cognitive biases

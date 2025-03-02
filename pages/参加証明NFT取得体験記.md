@@ -1,3 +1,6 @@
+---
+title: "参加証明NFT取得体験記"
+---
 
 ![image](https://gyazo.com/b10cdfb62b75409f31a1ccd96ba81d69/thumb/1000)
 [[参加証明NFT]] / [[Proof of Participation NFT]]

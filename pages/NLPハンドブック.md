@@ -1,3 +1,6 @@
+---
+title: "NLPハンドブック"
+---
 
 ![image](https://gyazo.com/c8f659ebf4a994ffb24e242c35eb1d4b/thumb/1000)
 

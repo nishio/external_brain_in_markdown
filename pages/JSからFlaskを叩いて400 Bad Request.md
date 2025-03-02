@@ -1,3 +1,6 @@
+---
+title: "JSからFlaskを叩いて400 Bad Request"
+---
 
 "Content-Type": "application/json"で叩いてるのにFlaskの側でrequest.dataで受けて400 Bad Requestになった
 request.jsonを使う

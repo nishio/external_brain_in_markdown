@@ -1,3 +1,6 @@
+---
+title: "🌀ユージン・ジェンドリンと川喜田二郎とPlurality"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁ユージン・ジェンドリンと川喜田二郎とPlurality

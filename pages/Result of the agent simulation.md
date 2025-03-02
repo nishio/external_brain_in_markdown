@@ -1,3 +1,6 @@
+---
+title: "Result of the agent simulation"
+---
 
 ![image](https://gyazo.com/374aedcf73b9037342868eedf0a8d07f/thumb/1000)
 

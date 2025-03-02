@@ -1,3 +1,6 @@
+---
+title: "Reactのテスト"
+---
 
 - [テスト概要](https://ja.reactjs.org/docs/testing.html)
     - > React コンポーネントは他の JavaScript のコードと同じようにテストできます。

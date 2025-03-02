@@ -1,3 +1,6 @@
+---
+title: "LCP array"
+---
 
 - [LCP array - Wikipedia](https://en.wikipedia.org/wiki/LCP_array)
 - [LCP(Longest Common Prefix)を用いたSuffix Arrayの検索 - EchizenBlog-Zwei](https://echizen-tm.hatenadiary.org/entry/20110728/1311871765)

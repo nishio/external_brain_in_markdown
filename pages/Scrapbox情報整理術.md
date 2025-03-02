@@ -1,3 +1,6 @@
+---
+title: "Scrapbox情報整理術"
+---
 
 ![image](https://gyazo.com/b9269934b857d68694779e3b0e641141/thumb/1000)
 - [Amazon](https://amzn.to/2LFpHps)

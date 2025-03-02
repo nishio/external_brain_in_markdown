@@ -1,3 +1,6 @@
+---
+title: "Dynamis"
+---
 
 [https://github.com/Hirai0827/Dynamis](https://github.com/Hirai0827/Dynamis)
 [https://lico-shader.net/liCoPlay?id=dBvEz36JbPHLfRUpJNyp](https://lico-shader.net/liCoPlay?id=dBvEz36JbPHLfRUpJNyp)

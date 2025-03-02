@@ -1,3 +1,6 @@
+---
+title: "cherry-picking"
+---
 
 - In Japanese [[つまみ食い]], pin-eating, pinch eating
 - [[checrry-pick]]

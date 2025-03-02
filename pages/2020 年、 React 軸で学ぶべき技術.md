@@ -1,3 +1,6 @@
+---
+title: "2020 年、 React 軸で学ぶべき技術"
+---
 
 [2020 年、 React 軸で学ぶべき技術](https://mizchi.hatenablog.com/entry/2020/01/04/172041)
 良いまとめ

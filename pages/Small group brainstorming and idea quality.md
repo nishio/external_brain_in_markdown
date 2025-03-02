@@ -1,3 +1,6 @@
+---
+title: "Small group brainstorming and idea quality"
+---
 
 [[ブレインストーミング]]に関して
 音声を使う[[Verbal brainstorming]]、

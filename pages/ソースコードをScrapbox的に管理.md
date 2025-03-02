@@ -1,3 +1,6 @@
+---
+title: "ソースコードをScrapbox的に管理"
+---
 
 > [nishio](https://twitter.com/nishio/status/1433269313289347072): KozanebaのソースコードをScrapbox的に管理してる気がしてきた。つまり従来はソースコードはディレクトリによって階層的に整理されていたが、Scrapboxの「リンクをたどる」に相当するVSCodeで「定義にジャンプ」と、Scrapboxの検索欄でのタイトルサジェストに相当するVSCodeの「ファイル名ジャンプ」とそしてそれでも見つからない時の全文検索とがあると、階層構造の重要性が下がる。
 > VSCodeのリファクタリングメニューのMove to new fileは、ScrapboxのNew pageに相当する。

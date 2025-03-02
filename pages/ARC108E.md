@@ -1,3 +1,6 @@
+---
+title: "ARC108E"
+---
 
 from [[ARC108]]
 [E - Random IS](https://atcoder.jp/contests/arc108/tasks/arc108_e)

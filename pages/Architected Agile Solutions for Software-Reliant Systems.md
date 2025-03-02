@@ -1,3 +1,6 @@
+---
+title: "Architected Agile Solutions for Software-Reliant Systems"
+---
 
 Boehm, Barry & Lane, Jo & Supannika, & Turner, Richard. (2010). Architected Agile Solutions for Software-Reliant Systems. INCOSE International Symposium. 20. 10.1007/978-3-642-12575-1_8.
 
@@ -35,3 +38,5 @@ How Much Architecting is Enough?
 
 [[アジャイル]]
 [[十分な設計]]
+[[締め切りと見積もり誤差]]
+[[アジャイルな見積りと計画づくり]]

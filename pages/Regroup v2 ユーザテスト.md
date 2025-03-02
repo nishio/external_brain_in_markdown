@@ -1,3 +1,6 @@
+---
+title: "Regroup v2 ユーザテスト"
+---
 
 - [[Regroup v2 解説]]
 - 感想

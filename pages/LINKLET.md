@@ -1,7 +1,13 @@
+---
+title: "LINKLET"
+---
+
+デバイスは[[THINKLET]]で、それがZoomやTeamsに簡単につながるサービスがLINKLET
+
+[LINKLET](https://linklet.ai/)
 
 ![image](https://gyazo.com/73bf242924d1fefbabc6f7f10c70853c/thumb/1000)
 [ASCII.jp：AIファーストが生み出したコロナ禍注目の首かけ型配信ウェアラブルデバイス・LINKLET (1/2)](https://ascii.jp/elem/000/004/077/4077210/)
-
 
 ---
 ビデオ会議は顔と顔を見合わせる仕組みだが、実際の業務において本当にそれが最適か？というとそうでないタイプの業務がある

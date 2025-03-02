@@ -1,3 +1,6 @@
+---
+title: "information gathering"
+---
 
 - gather [[concrete information]]
 - [[concrete experience]]

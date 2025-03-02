@@ -1,3 +1,6 @@
+---
+title: "Sum over Subsets"
+---
 
 $g(S) = \sum_{T\subset S} f(T)$
 [SOS Dynamic Programming Tutorial - Codeforces](https://codeforces.com/blog/entry/45223)

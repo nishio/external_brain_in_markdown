@@ -1,3 +1,6 @@
+---
+title: "ITの進歩が引き起こす働き方のルールの変化"
+---
 
 ![image](https://gyazo.com/a4dcae9c396fbe17c43789c0515f7674/thumb/1000)
 ITの進歩が引き起こす

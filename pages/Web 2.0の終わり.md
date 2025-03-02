@@ -1,3 +1,6 @@
+---
+title: "Web 2.0の終わり"
+---
 
 2023-05-09
 > [@masanork](https://twitter.com/masanork/status/1655727102073905155?s=20): TwitterのAPIエコシステムがぶっ壊れて、あれこれサービスが止まってしまっているの、Web 2.0の終わりの始まりみがあるんだよなぁ。その後に来るのが無数のWalletに分散したweb3の世界か、Metamask一人勝ちか、結局のところスマホの鍵管理はApple Googleが握るWeb 2.0の寡占化か

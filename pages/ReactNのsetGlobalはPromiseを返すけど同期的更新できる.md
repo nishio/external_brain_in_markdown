@@ -1,3 +1,6 @@
+---
+title: "ReactNのsetGlobalはPromiseを返すけど同期的更新できる"
+---
 
 ReactNのsetGlobalは`Promise<G>`を返すので、てっきり「非同期にいつだかわからないタイミングで更新され、Promiseのthenが呼ばれる」と思っていた。
 なので順番に呼ばれることを保証するためにはasync/awaitしなきゃいけないと思っていた。

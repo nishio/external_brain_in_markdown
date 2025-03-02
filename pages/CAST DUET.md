@@ -1,3 +1,6 @@
+---
+title: "CAST DUET"
+---
 
 物理[[パズル]] [[キャストパズル]] [[はずる]]
 ![image](https://gyazo.com/226c4891670f934f9451cf0c7e7a8950/thumb/1000)![image](https://gyazo.com/a401b7c611bdef46376408ca360e942a/thumb/1000)

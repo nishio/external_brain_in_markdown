@@ -1,3 +1,6 @@
+---
+title: "Pikmin Bloom"
+---
 
 [[Pikmin Bloomデコ]]
 

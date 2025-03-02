@@ -1,3 +1,6 @@
+---
+title: "The Incremental Garbage Collection of Processes"
+---
 
 [PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=0236335b815ef41e86f0fe41e53a2acc1d4742f6) 1977
 今ではJavaScriptのPromiseという形で有名になった概念を提案した論文。

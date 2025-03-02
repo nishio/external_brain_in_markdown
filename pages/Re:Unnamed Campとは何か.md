@@ -1,3 +1,6 @@
+---
+title: "Re:Unnamed Campとは何か"
+---
 
 from [/unnamedcamp/Unnamed Campとは何か](https://scrapbox.io/unnamedcamp/Unnamed Campとは何か)
 タイトルが固有名詞になっているページを先に作るのではなく、あくまで豆論文を書き、その補佐としてページに内に含まれるキーワードをリンクにする形で進めていく。

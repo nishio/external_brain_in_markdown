@@ -1,3 +1,6 @@
+---
+title: "AGC014B"
+---
 
 [B - Unplanned Queries](https://atcoder.jp/contests/agc014/tasks/agc014_b)
 - ![image](https://gyazo.com/6964219a87b15e25515e43510edb342e/thumb/1000)

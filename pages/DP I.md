@@ -1,3 +1,6 @@
+---
+title: "DP I"
+---
 
 [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i)
 - コインが何枚かあり、それぞれの表になる確率が与えられる、表の枚数が裏より多くなる確率を求める問題

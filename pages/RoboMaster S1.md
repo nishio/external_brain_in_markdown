@@ -1,3 +1,6 @@
+---
+title: "RoboMaster S1"
+---
 
 ![image](https://gyazo.com/01668f87f484d0f9c044284d22490008/thumb/1000)
 - DJIによる教育ロボット

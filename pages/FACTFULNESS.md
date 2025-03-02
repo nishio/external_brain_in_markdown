@@ -1,3 +1,6 @@
+---
+title: "FACTFULNESS"
+---
 
 ![image](https://images-fe.ssl-images-amazon.com/images/I/410QuKHYY3L.jpg)
 - FACTFULNESS（ファクトフルネス）10の思い込みを乗り越え、データを基に世界を正しく見る習慣

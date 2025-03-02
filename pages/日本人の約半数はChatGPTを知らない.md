@@ -1,3 +1,6 @@
+---
+title: "日本人の約半数はChatGPTを知らない"
+---
 
 日本人の約半数は[[ChatGPT]]を知らない
 [日本でのChatGPTの業務利用はわずか7%、約半数は「知らない」。MM総研調べ - PC Watch](https://pc.watch.impress.co.jp/docs/news/1507969.html)

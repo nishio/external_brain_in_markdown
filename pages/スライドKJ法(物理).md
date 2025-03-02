@@ -1,3 +1,6 @@
+---
+title: "スライドKJ法(物理)"
+---
 
 [https://www.facebook.com/photo.php?fbid=10213307980590562&set=a.1175498944176.2027303.1129148772&type=3&theater](https://www.facebook.com/photo.php?fbid=10213307980590562&set=a.1175498944176.2027303.1129148772&type=3&theater)
 

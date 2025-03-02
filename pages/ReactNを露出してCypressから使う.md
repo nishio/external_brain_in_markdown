@@ -1,3 +1,6 @@
+---
+title: "ReactNを露出してCypressから使う"
+---
 
 [[ReactNを露出する]]して[[Cypress]]からsetGlobalを使ってテスト用の状態を作り、それをテストする。
 

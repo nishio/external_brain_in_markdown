@@ -1,3 +1,6 @@
+---
+title: "Toward a theory of task motivation and incentives"
+---
 
 [[モチベーション]]と[[インセンティブ]]
 [[Measure What Matters]]から言及

@@ -1,3 +1,6 @@
+---
+title: "PLURAL MONEY: A NEW CURRENCY DESIGN"
+---
 
 [[Matt Prewitt]]
 [Plural Money: A New Currency Design - RadicalxChange](https://www.radicalxchange.org/media/blog/plural-money-a-new-currency-design/)

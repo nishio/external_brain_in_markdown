@@ -1,3 +1,6 @@
+---
+title: "gathering information"
+---
 
 →[[information gathering]]
 

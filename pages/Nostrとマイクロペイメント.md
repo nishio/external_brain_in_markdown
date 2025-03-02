@@ -1,3 +1,6 @@
+---
+title: "Nostrとマイクロペイメント"
+---
 
 [Nostr, love at first sight | Dries Buytaert](https://dri.es/nostr-love-at-first-sight)
 

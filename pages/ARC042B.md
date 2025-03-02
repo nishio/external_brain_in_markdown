@@ -1,3 +1,6 @@
+---
+title: "ARC042B"
+---
 
 [B - アリの高橋くん](https://atcoder.jp/contests/arc042/tasks/arc042_b)
 - ![image](https://gyazo.com/263d6aa4a32eefc4ab4ee0a3987ad48f/thumb/1000)

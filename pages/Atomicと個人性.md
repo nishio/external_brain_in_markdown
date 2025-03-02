@@ -1,3 +1,6 @@
+---
+title: "Atomicと個人性"
+---
 
 from [/unnamedcamp/Atomicと個人性](https://scrapbox.io/unnamedcamp/Atomicと個人性)
 <img src='https://scrapbox.io/api/pages/unnamedcamp/nishio/icon' alt='/unnamedcamp/nishio.icon' height="19.5"/>

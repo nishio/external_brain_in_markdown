@@ -1,0 +1,89 @@
+---
+title: "list of Kojin Karatani's works"
+---
+
+I heard from friends abroad that they are interested in Kojin Karatani, and I became curious about which books have been translated and which ones haven't yet.
+
+## A list of Kojin Karatani's works
+<img src='https://scrapbox.io/api/pages/nishio/claude/icon' alt='claude.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+
+- 『畏怖する人間』 (1972)
+- 『意味という病』 (1975)
+- 『マルクスその可能性の中心』 (1978)
+- 『日本近代文学の起源』 (1980)
+    - (EN) Origins of Modern Japanese Literature (1993)
+    - (ZH) 《日本近代文學的起源》
+- 『隠喩としての建築』 (1983)
+    - (EN) Architecture as Metaphor; Language, Number, Money (1995)
+    - (ZH) 《作為隱喻的建築》
+- 『内省と遡行』 (1984)
+- 『批評とポストモダン』 (1985)
+- 『探究 1』 (1986)
+- 『言葉と悲劇』 (1989)
+- 『探究 2』 (1989)
+- 『終焉をめぐって』 (1990)
+- 『漱石論集成』 (1992)
+- 『ヒューモアとしての唯物論』 (1993)
+- 『"戦前"の思考』 (1994)
+- 『坂口安吾と中上健次』 (1996)
+- 『倫理21』 (2000)
+    - (ZH) 《倫理21》
+    - A book discussing various ethical issues in the 21st century, including the Tokyo War Crimes Trial, Maruyama Masao, education, religion, and the Sakakibara Seito incident.
+- 『可能なるコミュニズム』 (2000)
+    - A book exploring the possibilities of communism in the modern era.
+- 『[[NAM原理]]: NEW ASSOCIATIONIST MOVEMENT』(2000)
+    - A book introducing the principles of the [[New Associationist Movement]] ([[NAM]]).
+- 『トランスクリティーク：カントとマルクス』 (2001)
+    - (EN) Transcritique: On Kant and Marx (2003)
+    - A philosophical work comparing and contrasting the thoughts of Immanuel Kant and Karl Marx.
+- 『[[NAM生成]]: NAM New Associationist Movement』(2001)
+    - A book discussing the formation and development of the New Associationist Movement (NAM).
+- 『日本精神分析』 (2002)
+    - An analysis of the Japanese mentality and spirit, including discussions on Akutagawa Ryunosuke, Tanizaki Jun'ichiro, and Kikuchi Kan.
+- 『ネーションと美学』 (2004)
+    - (EN) Nation and Aesthetics: On Kant and Freud (2017)
+    - A book exploring the relationship between nationalism and aesthetics, drawing on the ideas of Kant and Freud.
+- 『歴史と反復』 (2004)
+    - (EN) History and Repetition (2011)
+    - A philosophical work examining the concepts of history and repetition.
+- 『近代文学の終わり』 (2005)
+    - A book discussing the end of modern literature, including lectures on the topic and an analysis of the translation issues in the works of Futabatei Shimei.
+- 『世界共和国へ』 (2006)
+    - (ZH) 《邁向世界共和國》
+    - A book proposing the idea of a world republic, moving beyond the concepts of capital, nation, and state.
+        - [[世界共和国]] is the concept from Kant.<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+- 『柄谷行人　政治を語る』 (2009)
+    - (ZH) 《柄谷行人談政治》
+    - A collection of interviews with Karatani Kojin discussing various political issues.
+- 『[[世界史の構造]]』 (2010)
+    - (EN) The Structure of World History: From Modes of Production to Modes of Exchange (2014)
+    - (ZH) 《世界史的結構》
+    - A major work analyzing the structure of world history, focusing on the transition from modes of production to modes of exchange.
+- 『[[「世界史の構造」を読む]]』 (2011)
+    - A companion book to "The Structure of World History," providing further insights and explanations.
+- 『政治と思想 1960-2011』 (2012)
+    - A collection of Karatani's writings on politics and thought from 1960 to 2011.
+- 『哲学の起源』 (2012)
+    - (EN) Isonomia and the Origins of Philosophy (2017)
+    - (ZH) 《哲學的起源》
+    - A book tracing the origins of philosophy and the concept of [[isonomia]] (equality before the law).
+- 『柳田國男論』 (2013)
+    - A book discussing the works and ideas of [[Yanagita Kunio]], a prominent Japanese folklorist.
+- 『[[続・中学生からの大学講義2 歴史の読みかた]]』(Karatani wrote in 2013, published in 2018)
+    - A book guiding junior high school students on how to read and understand history, part of a series of university lectures for younger students.
+- 『[[帝国の構造]]』 (2014)
+    - (ZH) 《帝國的結構》
+    - An analysis of the structure of empires, focusing on the center, periphery, and sub-periphery.
+- 『[[遊動論]]：柳田国男と山人』 (2014)
+    - A book discussing the concept of "yudō" (nomadism) in relation to [[Yanagita Kunio]] and the "yamabito" (mountain people).
+- 『定本 柄谷行人 文学論集』 (2016)
+    - A collection of Karatani's essays on literature.
+- 『[[憲法の無意識]]』 (2016)
+    - (ZH) 《站在震後的廢墟之上》
+    - A book examining the unconscious aspects of the Japanese Constitution.
+- 『[[ニュー・アソシエーショニスト宣言]]』(2021)
+    - A manifesto for the New Associationist Movement.
+- 『[[力と交換様式]]』 (2022)
+    - A book discussing the relationship between power and modes of exchange.
+- 『[[柄谷行人『力と交換様式』を読む]]』(2023)
+    - A companion book providing a guided reading of Karatani's "Power and Modes of Exchange."

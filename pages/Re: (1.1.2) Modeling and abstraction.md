@@ -1,3 +1,6 @@
+---
+title: "Re: (1.1.2) Modeling and abstraction"
+---
 
 from [[pIntEn]]
 [[(1.1.2) Modeling and abstraction]]

@@ -1,7 +1,22 @@
+---
+title: "Cybozu Days 2023-11-09"
+---
 
 11/8-9 [Cybozu Days 2023（サイボウズデイズ 2023）](https://days.cybozu.co.jp/)
 - 5分だけどKeynoteで話すことになったので、ついでだからイベントを全般的に見て回ってこよう
 - [[Cybozu Days Keynote原稿]]
+- メディア掲載
+    - [ASCII.jp：6つのキーワードで「サイボウズNEXT」が見えた (3/3)](https://ascii.jp/elem/000/004/170/4170326/3/)
+
+- [Cybozu Days 2023 開催レポート｜サイボウズ株式会社](https://event.cybozu.co.jp/-/cd2023report/)
+    - 動画: 僕が出てくるのは[1:00:00あたりから](https://youtu.be/C_De0sK3ZVg?si=1E-Hz6c76AnURG3C&t=3602)
+        - ![image](https://gyazo.com/f18a1a09b872b34aaba499a272a11a19/thumb/1000)
+    - 全体: [https://www.youtube.com/watch?v=C_De0sK3ZVg](https://www.youtube.com/watch?v=C_De0sK3ZVg)
+
+
+
+
+
 
 > [black777cat](https://twitter.com/black777cat/status/1722449855824715901/photo/1) めっちゃニコニコでしゃべってる。
 >

@@ -1,3 +1,6 @@
+---
+title: "GPT-3.5-Turbo"
+---
 
 [[ChatGPT API]]
 - 2023-03-01 [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)

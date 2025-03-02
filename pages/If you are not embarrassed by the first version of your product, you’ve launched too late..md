@@ -1,3 +1,6 @@
+---
+title: "If you are not embarrassed by the first version of your product, you’ve launched too late."
+---
 
 - --- [[Reid Hoffman]], the founder of LinkedIn
 もしあなたが製品の最初のバージョンで恥ずかしくないのであれば、それは[[ローンチが遅すぎた]]のだ。

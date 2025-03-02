@@ -1,3 +1,6 @@
+---
+title: "The Foundational Tech Manifesto"
+---
 
 
 [The Foundational Tech Manifesto](https://substack.garysheng.com/p/manifesto)

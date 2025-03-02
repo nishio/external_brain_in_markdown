@@ -1,3 +1,6 @@
+---
+title: "cf17_final_C"
+---
 
 [C - Time Gap](https://atcoder.jp/contests/cf17-final/tasks/cf17_final_c)
 - ![image](https://gyazo.com/01e359885c614aec1e69d08ebbe5252b/thumb/1000)

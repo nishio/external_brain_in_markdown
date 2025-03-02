@@ -1,3 +1,6 @@
+---
+title: "ABC171 F"
+---
 
 ![image](https://gyazo.com/06a507356d75cd4cd98f157068093c3d/thumb/1000)
 最大長100万の英小文字列の好きな場所に最大100万回英小文字を挿入して、できる可能性のある文字列を数え上げる問題。[問題文](https://atcoder.jp/contests/abc171/tasks/abc171_f)

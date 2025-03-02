@@ -1,3 +1,6 @@
+---
+title: "write learning pair"
+---
 
 from [[pKeicho]]
 write_learning_pair

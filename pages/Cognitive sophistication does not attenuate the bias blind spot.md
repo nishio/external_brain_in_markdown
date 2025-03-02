@@ -1,3 +1,6 @@
+---
+title: "Cognitive sophistication does not attenuate the bias blind spot"
+---
 
 - bias blind spot: [[バイアスの盲点]]は、他人の判断におけるバイアスの影響を認識できる一方で、自分自身の判断に対するバイアスの影響を認識できないという認知バイアスである。[バイアスの盲点 - Wikipedia](https://ja.wikipedia.org/wiki/バイアスの盲点) #盲点
 - 認知が洗練されてても、この盲点は小さくならない。むしろ盲点の大きさと認知能力の高さが相関している。

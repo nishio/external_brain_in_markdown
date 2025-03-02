@@ -1,3 +1,6 @@
+---
+title: "Any Concept is One of Many"
+---
 
 ![image](https://gyazo.com/56741d6d0c215057e4a493984b0c0bb8/thumb/1000)
 

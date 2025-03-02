@@ -1,3 +1,6 @@
+---
+title: "Tensorflow.js"
+---
 
 - [[Tensorflow]]
 - ちょっとしたプロトタイプを作りたい

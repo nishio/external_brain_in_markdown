@@ -1,3 +1,6 @@
+---
+title: "Kozane-clone-tear-merge"
+---
 
 2023-02-12
 ![image](https://gyazo.com/2ba9026b20de2affb680588ef2b4aab5/thumb/1000)

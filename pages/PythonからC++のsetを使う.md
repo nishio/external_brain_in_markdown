@@ -1,3 +1,6 @@
+---
+title: "PythonからC++のsetを使う"
+---
 
 [競プロ 割と真面目に Python から C++ の set を使えるようにしたのでみんな使ってみてほしい - 菜](https://nagiss.hateblo.jp/entry/2020/09/08/203701)
 [https://twitter.com/lgeuwce/status/1303296371647078401?s=21](https://twitter.com/lgeuwce/status/1303296371647078401?s=21)

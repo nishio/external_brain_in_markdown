@@ -1,3 +1,6 @@
+---
+title: "Einsteinモデルに説明を追加"
+---
 
 - [[(1.7) Summary]]
     - Einstain starts with "Direct experience E"

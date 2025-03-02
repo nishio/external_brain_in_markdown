@@ -1,3 +1,6 @@
+---
+title: "徹底解説 NFTの理論と実践"
+---
 
 ![image](https://gyazo.com/704da5eb8da39103abbe270b03fa219b/thumb/1000)
 - [Amazon](https://amzn.to/45ekQBF)

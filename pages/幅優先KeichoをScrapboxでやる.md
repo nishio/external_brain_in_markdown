@@ -1,3 +1,6 @@
+---
+title: "幅優先KeichoをScrapboxでやる"
+---
 
 [[幅優先Keicho]]をScrapboxでやると良いのでは？
 

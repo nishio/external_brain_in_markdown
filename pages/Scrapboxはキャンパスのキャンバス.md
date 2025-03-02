@@ -1,3 +1,6 @@
+---
+title: "Scrapboxはキャンパスのキャンバス"
+---
 
 [/scrapbox-drinkup/Scrapbox Drinkup School Edition](https://scrapbox.io/scrapbox-drinkup/Scrapbox Drinkup School Edition)での[/shiology](https://scrapbox.io/shiology)の講演
 

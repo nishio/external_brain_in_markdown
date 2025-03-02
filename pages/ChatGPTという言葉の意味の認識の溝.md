@@ -1,3 +1,6 @@
+---
+title: "ChatGPTという言葉の意味の認識の溝"
+---
 
 2023-04-09 ChatGPTという[[言葉の意味]]の[[認識の溝]]
 <img src='https://scrapbox.io/api/pages/nishio/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>

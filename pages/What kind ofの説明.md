@@ -1,3 +1,6 @@
+---
+title: "What kind ofの説明"
+---
 
 - [[(4.1) What is "reading?"]]
     - > [[What kind of]] "reading" is that "reading" be?

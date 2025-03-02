@@ -1,3 +1,6 @@
+---
+title: "2021年のTypeScriptベストプラクティス"
+---
 
 10 bad TypeScript habits to break this year
 [http://startup-cto.net/10-bad-typescript-habits-to-break-this-year/](http://startup-cto.net/10-bad-typescript-habits-to-break-this-year/)

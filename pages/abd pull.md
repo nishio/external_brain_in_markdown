@@ -1,3 +1,6 @@
+---
+title: "abd pull"
+---
 
 - コマンドでファイルコピー #abd
 - `abd shell`

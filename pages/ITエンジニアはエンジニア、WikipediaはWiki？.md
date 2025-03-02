@@ -1,3 +1,6 @@
+---
+title: "ITエンジニアはエンジニア、WikipediaはWiki？"
+---
 
 > [otsune](https://twitter.com/otsune/status/1356789325279551489): 「IT系ソフトウェアエンジニアのことをエンジニアと略して書くな」というの。「WikipediaをWikiと書くな」みたいなもんでは。
 

@@ -1,3 +1,6 @@
+---
+title: "日本語BERTのrun_classifier読解"
+---
 
 [[日本語BERT]]のrun_classifier読解
 [https://github.com/yoheikikuta/bert-japanese/blob/master/src/run_classifier.py](https://github.com/yoheikikuta/bert-japanese/blob/master/src/run_classifier.py) を読んでいる

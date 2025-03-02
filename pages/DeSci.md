@@ -1,3 +1,6 @@
+---
+title: "DeSci"
+---
 
 [Decentralized science (DeSci) | ethereum.org](https://ethereum.org/en/desci/)
 > 現在の科学システムに代わる、グローバルでオープンな選択肢。

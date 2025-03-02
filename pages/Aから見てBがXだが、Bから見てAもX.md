@@ -1,9 +1,13 @@
+---
+title: "Aから見てBがXだが、Bから見てAもX"
+---
 
 from [/villagepump/Aから見てBがXだが、Bから見てAもX](https://scrapbox.io/villagepump/Aから見てBがXだが、Bから見てAもX)
-[/villagepump/ハングル#60f47832aff09e00002e5f59](https://scrapbox.io/villagepump/ハングル#60f47832aff09e00002e5f59)
+from [/villagepump/ハングル#60f47832aff09e00002e5f59](https://scrapbox.io/villagepump/ハングル#60f47832aff09e00002e5f59)
+[[か/が/가/카]]
 - ![image](https://gyazo.com/9f3961dfc406ed74c62281a7d07ab2fc/thumb/1000)
-- 日本語話者から見ると「가」が「か」と「が」を区別していない見える
-- 韓国語話者から見ると「か」が「가」と「카」を区別していない見える
+- 日本語話者から見ると「가」が「か」と「が」を区別していないと見える
+- 韓国語話者から見ると「か」が「가」と「카」を区別していないと見える
 - なのでどちらも「相手方の[[認知の解像度]]が低い」と感じる
 
 

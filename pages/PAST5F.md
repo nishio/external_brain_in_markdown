@@ -1,3 +1,6 @@
+---
+title: "PAST5F"
+---
 
 [F - 一触即発](https://atcoder.jp/contests/past202012-open/tasks/past202012_f)
 ![image](https://gyazo.com/82689f73ea9cacb95a4584a9b4618956/thumb/1000)

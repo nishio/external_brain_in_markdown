@@ -1,3 +1,6 @@
+---
+title: "モバイル書き出しUI"
+---
 
 iPadで使うことを想定して作ってきたが、iPhoneで書き出しをする時にも便利
 - [Facebook 20191203](https://www.facebook.com/nishiohirokazu/posts/10219988171351156?comment_id=10219988255353256)

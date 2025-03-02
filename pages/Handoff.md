@@ -1,3 +1,6 @@
+---
+title: "Handoff"
+---
 
 > Handoff を使えば、作業に着手したデバイスから、近くにある別のデバイスに切り替えても、中断したところからスムーズに作業を続けられます。
 - [https://support.apple.com/ja-jp/HT209455](https://support.apple.com/ja-jp/HT209455)

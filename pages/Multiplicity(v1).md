@@ -1,3 +1,6 @@
+---
+title: "Multiplicity(v1)"
+---
 
 from [[「体験過程と意味の創造」勉強会3]]
 Multiplicity(v1)

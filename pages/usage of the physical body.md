@@ -1,3 +1,6 @@
+---
+title: "usage of the physical body"
+---
 
 Footnote for [[Focus Reading]]
 

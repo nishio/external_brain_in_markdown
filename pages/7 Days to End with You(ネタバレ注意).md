@@ -1,3 +1,6 @@
+---
+title: "7 Days to End with You(ネタバレ注意)"
+---
 
 ![image](https://gyazo.com/942897722fc7b4b953856dc56d0df92d/thumb/1000)
 

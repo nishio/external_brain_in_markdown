@@ -1,3 +1,6 @@
+---
+title: "TypeScriptの型で自然数を作る"
+---
 
 [[TypeScriptの型]]
 

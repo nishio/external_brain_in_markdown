@@ -1,3 +1,6 @@
+---
+title: "✅Scrapbox Dialogの見た目を改善する"
+---
 
 from [[✅ダイアログの見た目を改善する]]
 Scrapbox Dialogの見た目を改善する

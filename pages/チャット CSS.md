@@ -1,3 +1,6 @@
+---
+title: "チャット CSS"
+---
 
 
 ![image](https://gyazo.com/783f5c40e3fd891b903ca1b23638276c/thumb/1000)

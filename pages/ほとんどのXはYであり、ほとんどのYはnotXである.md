@@ -1,3 +1,6 @@
+---
+title: "ほとんどのXはYであり、ほとんどのYはnotXである"
+---
 
 
 ![image](https://gyazo.com/429b2eb0299e34cdbd9b8e5be2ef7566/thumb/1000)

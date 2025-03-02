@@ -1,3 +1,6 @@
+---
+title: "Factorioで楽しく労働する人"
+---
 
 > [@tokoroten](https://twitter.com/tokoroten/status/1570320953758089216): [[factorio]]、3000時間もやったら[[生産管理]]の超絶優秀な人材が生産されるので、飽きるまでやらせ解いたらいいんじゃない感
 

@@ -1,3 +1,6 @@
+---
+title: "The Art of Unix Programming"
+---
 
 The Art of Unix Programming
 Eric Steven Raymond

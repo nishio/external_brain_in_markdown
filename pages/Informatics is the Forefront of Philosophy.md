@@ -1,3 +1,6 @@
+---
+title: "Informatics is the Forefront of Philosophy"
+---
 
 - [[Informatics]] is the [[Forefront of Philosophy]]
     - [[Makoto Nagao]] (2019)
@@ -16,4 +19,4 @@ Related
 - I think that [[Augmenting Human Intelligence with Computers]] is the path civilization will take, and I don't mind if some disagree. However, I don't pay much attention to those who think otherwise.
 
 Translated from [[情報学は哲学の最前線]]
-<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/bashi/icon' alt='bashi.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/Bashi/icon' alt='Bashi.icon' height="19.5"/>

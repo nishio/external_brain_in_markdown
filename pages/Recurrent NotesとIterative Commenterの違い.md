@@ -1,3 +1,6 @@
+---
+title: "Recurrent NotesとIterative Commenterの違い"
+---
 
 2023-09-11
 [[Recurrent Notes]]と[[Iterative Commenter]]の違い

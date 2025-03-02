@@ -1,3 +1,6 @@
+---
+title: "ABC089D"
+---
 
 [D - Practical Skill Test](https://atcoder.jp/contests/abc089/tasks/abc089_d)
 ![image](https://gyazo.com/a49eb876a37bc8c277e28d5080a06365/thumb/1000)

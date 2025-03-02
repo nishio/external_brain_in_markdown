@@ -1,3 +1,6 @@
+---
+title: "LLMとPluralityのつながり"
+---
 
 from [[経験から浮かび上がるまだ名前のない概念]]
 [[LLM]]と[[Plurality]]のつながり

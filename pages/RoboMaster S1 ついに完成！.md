@@ -1,3 +1,6 @@
+---
+title: "RoboMaster S1 ついに完成！"
+---
 
 [https://youtu.be/DgAz2SeyHgM](https://youtu.be/DgAz2SeyHgM)
 

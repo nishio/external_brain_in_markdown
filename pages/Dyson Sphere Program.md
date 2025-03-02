@@ -1,3 +1,6 @@
+---
+title: "Dyson Sphere Program"
+---
 
 [SF工業自動化シム『Dyson Sphere Program』早期アクセス配信開始。星ひとつ丸ごと資源化する「ダイソン球」を建造せよ | AUTOMATON](https://automaton-media.com/articles/newsjp/20210122-149843/)
 [[Factorio]], [[Satisfactory]]が好きなら間違いなく好きだろうというゲーム

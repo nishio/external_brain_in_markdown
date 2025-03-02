@@ -1,3 +1,6 @@
+---
+title: "PAST5E"
+---
 
 [E - ハンコ](https://atcoder.jp/contests/past202012-open/tasks/past202012_e)
 ![image](https://gyazo.com/96531e5dba571b147d99cf54cec7253f/thumb/1000)

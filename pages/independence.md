@@ -1,3 +1,6 @@
+---
+title: "independence"
+---
 
 In Japanese I use the word "[[主体性]]". It is corresponds to "independence", but I feel a [[sense of incompatibility]].
 

@@ -1,3 +1,6 @@
+---
+title: "他人由来のAIに自分の日記を見てもらう"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 他人由来のAIに自分の日記を見てもらう

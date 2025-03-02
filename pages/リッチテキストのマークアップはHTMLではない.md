@@ -1,3 +1,6 @@
+---
+title: "リッチテキストのマークアップはHTMLではない"
+---
 
 ![image](https://gyazo.com/8cb4cf8daed4aab2f7dfaf41affa1411/thumb/1000)
 タグの見かけが一見HTMLっぽいのでHTMLだと早合点してしまったが、そうではない。

@@ -1,3 +1,6 @@
+---
+title: "ActivityPub"
+---
 
 from [/villagepump/ActivityPub](https://scrapbox.io/villagepump/ActivityPub)
 ![image](https://gyazo.com/28b76540c1d91aa8dbb74aee0260a0c1/thumb/1000)

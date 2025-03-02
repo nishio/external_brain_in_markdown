@@ -1,3 +1,6 @@
+---
+title: "OpenAI's plans according to Sam Altman"
+---
 
 2023-05-29
 - [OpenAI’s plans according to Sam Altman](https://humanloop.com/blog/openai-plans)

@@ -1,12 +1,18 @@
+---
+title: "Polisのデータを解析"
+---
 
+PolisのデータをPython自前スクリプトで解析
+[[Polisからのエクスポート]]
 
-[[EC2でPolis]]
+2023-06-21
+自前で[[EC2でPolis]]してデータを収集した
 - [https://polis.nhiro.org/3bbdm2tsss](https://polis.nhiro.org/3bbdm2tsss)
 - ![image](https://gyazo.com/41dbf7cf1ac885827d28dc9bbbae9d20/thumb/1000)
-- 59 people
+- 59 peopleのデータが得られた
 
-[[PolisのDBからデータをエクスポート]]
-- [https://gist.github.com/nishio/897cdad38e9a797917f7b8e5a27c7524](https://gist.github.com/nishio/897cdad38e9a797917f7b8e5a27c7524)
+[[PolisのDBからデータをエクスポート]]した
+- データ: [https://gist.github.com/nishio/897cdad38e9a797917f7b8e5a27c7524](https://gist.github.com/nishio/897cdad38e9a797917f7b8e5a27c7524)
 
 py
 
@@ -75,3 +81,5 @@ Polisのバックエンド実装を使わずに、投票データのCSVからPol
 ![image](https://gyazo.com/f3fec605e6fa35612f21ad1a1c3cd461/thumb/1000)![image](https://gyazo.com/41dbf7cf1ac885827d28dc9bbbae9d20/thumb/1000)
 
 ![image](https://gyazo.com/f6e42bdef2612da442f54e526178edba/thumb/1000)
+
+関連next [[Polis2024-05-13]]

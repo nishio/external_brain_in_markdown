@@ -1,3 +1,6 @@
+---
+title: "つぶやきGLSL理解したい2"
+---
 
 ![image](https://gyazo.com/d51a385cbd95bb9fa82ae8f1fd3b60b9/thumb/1000)
 [https://twitter.com/zozuar/status/1377258798595895297](https://twitter.com/zozuar/status/1377258798595895297)

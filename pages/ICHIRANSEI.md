@@ -1,3 +1,6 @@
+---
+title: "ICHIRANSEI"
+---
 
 - [[一覧性]](ICHIRANSEI)
     - The word is used in the original Japanese version of [[(5.2.1) Spread so that you can see the whole at a glance]].

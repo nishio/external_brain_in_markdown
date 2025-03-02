@@ -1,3 +1,6 @@
+---
+title: "Keicho-CUI: kw type"
+---
 
 from [[pKeicho]]
 KeichoCUI:kw_type

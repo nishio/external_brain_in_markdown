@@ -1,3 +1,6 @@
+---
+title: "transhumanism"
+---
 
 [[English Conversation Lesson 2023-05-05]]
 - A: Have you heard of transhumanism? This philosophical and scientific movement to augment human capabilities?

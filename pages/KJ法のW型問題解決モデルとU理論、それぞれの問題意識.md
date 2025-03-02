@@ -1,3 +1,6 @@
+---
+title: "KJ法のW型問題解決モデルとU理論、それぞれの問題意識"
+---
 
 [[西尾泰和]] 2015年 JEITAでの講演
 - 講演資料 [https://www.slideshare.net/nishio/kjwu](https://www.slideshare.net/nishio/kjwu)

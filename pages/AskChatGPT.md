@@ -1,3 +1,6 @@
+---
+title: "AskChatGPT"
+---
 
 ![image](https://gyazo.com/f49c717d1e872e813335032f19b104fd/thumb/1000)
 

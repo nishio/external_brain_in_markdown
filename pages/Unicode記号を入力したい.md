@@ -1,3 +1,6 @@
+---
+title: "Unicode記号を入力したい"
+---
 
 from [[Macで親指シフト日記2020-01]]
 Unicode記号を入力したい

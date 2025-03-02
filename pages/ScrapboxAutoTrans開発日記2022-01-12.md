@@ -1,3 +1,6 @@
+---
+title: "ScrapboxAutoTrans開発日記2022-01-12"
+---
 
 [[pScrapboxAutoTrans]]
 

@@ -1,3 +1,6 @@
+---
+title: "Scrapboxを用いたオンラインノートの学習記録と学習成果の分析"
+---
 
 [https://confit.atlas.jp/guide/event/jsai2019/subject/1P3-OS-21-02/classlist](https://confit.atlas.jp/guide/event/jsai2019/subject/1P3-OS-21-02/classlist)
 > 異なる[[知の関連付け]]を意識した[[深い学び]]を行うほど[[理解]]の自己評価が高くなる傾向が見出された．

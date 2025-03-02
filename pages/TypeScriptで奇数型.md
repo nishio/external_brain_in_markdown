@@ -1,3 +1,6 @@
+---
+title: "TypeScriptで奇数型"
+---
 
 [[TypeScriptの型]]
 > TypeScriptの型の情報で例えば「英数字のみからなるidを持つ」って定義できる？ [src](https://twitter.com/wtnabe/status/1252119742069891073)

@@ -1,3 +1,6 @@
+---
+title: "A Proof of Stake Design Philosophy"
+---
 
 [A Proof of Stake Design Philosophy](https://vitalik.ca/general/2016/12/29/pos_design.html)
 - [[Vitalik]]

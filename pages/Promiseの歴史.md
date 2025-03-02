@@ -1,3 +1,6 @@
+---
+title: "Promiseの歴史"
+---
 
 [The history of Promises](https://samsaccone.com/posts/history-of-promises.html)
 - この人が十分すぎる充実度の解説を書いていた。下記は僕の要約と加筆。

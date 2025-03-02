@@ -1,3 +1,6 @@
+---
+title: "DP P"
+---
 
 [P - Independent Set](https://atcoder.jp/contests/dp/tasks/dp_p)
 - 与えられた木を白黒で塗り分ける、黒い頂点は隣接してはいけない、何通りあるか数え上げよ、という問題

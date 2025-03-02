@@ -1,3 +1,6 @@
+---
+title: "NUDGE 実践 行動経済学 完全版"
+---
 
 ![image](https://gyazo.com/3ad9f8c86c90598ebcbda1dde97514da/thumb/1000)
 - NUDGE 実践 [[行動経済学]] 完全版

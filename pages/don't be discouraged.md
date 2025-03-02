@@ -1,3 +1,6 @@
+---
+title: "don't be discouraged"
+---
 
 [https://www.youtube.com/watch?v=rO4y3W5s39s&list=RDTeKCitKW7_4&index=10](https://www.youtube.com/watch?v=rO4y3W5s39s&list=RDTeKCitKW7_4&index=10)
 [[林原 めぐみ]]

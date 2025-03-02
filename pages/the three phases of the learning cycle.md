@@ -1,3 +1,6 @@
+---
+title: "the three phases of the learning cycle"
+---
 
 - [[information gathering]]
 - [[abstraction]] or [[modeling]]

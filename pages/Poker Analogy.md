@@ -1,3 +1,6 @@
+---
+title: "Poker Analogy"
+---
 
 [[Poker]] [[Analogy]]
 

@@ -1,3 +1,6 @@
+---
+title: "(Column) Knowledge Distribution Chart"
+---
 
 I drew a chart in [[(6.3.4) You can learn from anyone]] with the field of knowledge on the horizontal axis and the amount of knowledge in that field on the vertical axis. I call this the "[[knowledge distribution chart]]." Since I first used it in 2011, I have found it useful for expressing various ideas.
 

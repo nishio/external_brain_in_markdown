@@ -1,3 +1,6 @@
+---
+title: "Vivecraft"
+---
 
 [[VR]]で[[Minecraft]]する
 

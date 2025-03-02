@@ -1,3 +1,6 @@
+---
+title: "Measure What Matters"
+---
 
 ![image](https://gyazo.com/73470d1d58b56d8402c860978e5b5f1e/thumb/1000)
 - Measure What Matters 伝説のベンチャー投資家がGoogleに教えた成功手法 [[OKR]]

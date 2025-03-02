@@ -1,3 +1,6 @@
+---
+title: "AGC018A"
+---
 
 [A - Getting Difference](https://atcoder.jp/contests/agc018/tasks/agc018_a)
 - ![image](https://gyazo.com/783c32fab84daa98daab8903533862f0/thumb/1000)

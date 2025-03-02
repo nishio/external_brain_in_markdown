@@ -1,3 +1,6 @@
+---
+title: "2023-05-18 LLM Meetup"
+---
 
 [[LLM Meetup Tokyo 2]]
 前回 [[2023-04-10 LLM Meetup]]

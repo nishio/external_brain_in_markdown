@@ -1,3 +1,6 @@
+---
+title: "VSCodeがgit rebase -iで空白になる"
+---
 
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>when I use `git rebase -i`, VSCode generate empty page. How to fix it?

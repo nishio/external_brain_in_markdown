@@ -1,3 +1,6 @@
+---
+title: "Spaced Repetition"
+---
 
 from [[pIntEn]]
 Spaced Repetition

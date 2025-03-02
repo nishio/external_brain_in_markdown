@@ -1,3 +1,6 @@
+---
+title: "abc099d"
+---
 
 [https://atcoder.jp/contests/abc099/tasks/abc099_d](https://atcoder.jp/contests/abc099/tasks/abc099_d)
 - 3の余りごとに分けて考えると、コスト最初で1つの色に揃える問題

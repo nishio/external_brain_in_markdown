@@ -1,3 +1,6 @@
+---
+title: "PAST5M"
+---
 
 [M - 棒の出荷](https://atcoder.jp/contests/past202012-open/tasks/past202012_m)
 ![image](https://gyazo.com/d4601d3337d3e2a1f3a3e17ce6c0b8da/thumb/1000)

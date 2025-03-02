@@ -1,3 +1,6 @@
+---
+title: "Electronic Brainstorming And Group Size"
+---
 
 人数の多いグループでは音声を用いたブレインストーミングよりも[[Electronic Brainstorming]]の方がよいという研究
 

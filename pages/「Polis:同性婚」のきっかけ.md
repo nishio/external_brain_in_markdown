@@ -1,3 +1,6 @@
+---
+title: "「Polis:同性婚」のきっかけ"
+---
 
 from [/villagepump/2023/04/18](https://scrapbox.io/villagepump/2023/04/18)
 

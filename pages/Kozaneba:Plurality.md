@@ -1,3 +1,6 @@
+---
+title: "Kozaneba:Plurality"
+---
 
 [[環境の変化が速くなると知識ではなく知性が信頼される]]
 > [nishio](https://twitter.com/nishio/status/1645707389377843200)

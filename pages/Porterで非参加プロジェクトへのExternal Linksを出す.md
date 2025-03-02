@@ -1,3 +1,6 @@
+---
+title: "Porterで非参加プロジェクトへのExternal Linksを出す"
+---
 
 from [/arpla/第5回AN会議議事録（2022/3/24）](https://scrapbox.io/arpla/第5回AN会議議事録（2022/3/24）)
 > porter勢ですがExternal Linkって表示が出ますか？正直porterで見たことがなくて…

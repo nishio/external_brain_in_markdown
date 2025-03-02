@@ -1,3 +1,6 @@
+---
+title: "SentencePiece"
+---
 
 
 SentencePieceで語彙数を変えて作成したものを比較すると面白いかも

@@ -1,3 +1,6 @@
+---
+title: "カイゼンジャーニーのKPT"
+---
 
 ![image](https://gyazo.com/b577e8499be5385eecbc192b543489fc/thumb/1000)
 [[カイゼンジャーニー]] P.24

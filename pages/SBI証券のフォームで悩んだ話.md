@@ -1,3 +1,6 @@
+---
+title: "SBI証券のフォームで悩んだ話"
+---
 
 ![image](https://gyazo.com/14be230f1251ca7757ddfef9afaa307e/thumb/1000)
 - 編集しようとするとこのメッセージが表示される

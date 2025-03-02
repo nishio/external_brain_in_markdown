@@ -1,3 +1,6 @@
+---
+title: "The Strength of Being Misunderstood"
+---
 
 [The Strength of Being Misunderstood - Sam Altman](https://blog.samaltman.com/the-strength-of-being-misunderstood) [[Sam Altman]]
 

@@ -1,3 +1,6 @@
+---
+title: "jest-image-snapshot"
+---
 
 画像としての一致度をみるテスト
 [[Jest]] matcher for image comparisons. Most commonly used for [[visual regression test]]ing.

@@ -1,3 +1,6 @@
+---
+title: "Ecclesiastes 10:10"
+---
 
 from [[きこりのたとえ]]
 

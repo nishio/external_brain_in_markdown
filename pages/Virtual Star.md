@@ -1,3 +1,6 @@
+---
+title: "Virtual Star"
+---
 
 西尾が作ったアート作品
 ASIAGRAPH2009優秀作品に選ばれた

@@ -1,3 +1,6 @@
+---
+title: "pScaffoldNetwork 2022-04-06"
+---
 
 [[pScaffoldNetwork]]
 書籍からの[[足場ネットワーク]]作成、できた

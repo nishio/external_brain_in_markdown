@@ -1,3 +1,6 @@
+---
+title: "Polis Discussion"
+---
 
 [https://github.com/compdemocracy/polis/discussions](https://github.com/compdemocracy/polis/discussions)
 

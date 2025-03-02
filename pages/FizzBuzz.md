@@ -1,3 +1,6 @@
+---
+title: "FizzBuzz"
+---
 
 Literal-free one-line one-tweet FizzBuzz in Python3
 :

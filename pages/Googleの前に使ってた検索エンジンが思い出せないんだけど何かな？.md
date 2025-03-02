@@ -1,3 +1,6 @@
+---
+title: "Googleの前に使ってた検索エンジンが思い出せないんだけど何かな？"
+---
 
 from [/villagepump/検索エンジン戦国時代再開？](https://scrapbox.io/villagepump/検索エンジン戦国時代再開？)
 

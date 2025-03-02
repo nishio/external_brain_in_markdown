@@ -1,3 +1,6 @@
+---
+title: "YouTube LiveStreaming API"
+---
 
 - [[YouTube Live]]
 - [メモ帳 | Youtube LiveStreaming APIで配信のコメントを取得する](https://blog.sky-net.pw/article/86)

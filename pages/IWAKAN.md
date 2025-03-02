@@ -1,3 +1,6 @@
+---
+title: "IWAKAN"
+---
 
 - [[違和感]]
     - a sense of [[disharmony]]

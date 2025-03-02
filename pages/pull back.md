@@ -1,3 +1,6 @@
+---
+title: "pull back"
+---
 
 - [[reprojection]]
 - [[analogy]]

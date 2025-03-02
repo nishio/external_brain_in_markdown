@@ -1,3 +1,6 @@
+---
+title: "Reconcilerの中で作られるインスタンスはどこでアクセスするか"
+---
 
 from [[pRegroup-done-2019]]
 [[Reconciler]]の中で作られるインスタンスはどこでアクセスするか

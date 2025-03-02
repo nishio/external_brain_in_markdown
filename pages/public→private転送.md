@@ -1,3 +1,6 @@
+---
+title: "public→private転送"
+---
 
 from [[思考の結節点2021-05-06]]
 

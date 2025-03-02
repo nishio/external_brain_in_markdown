@@ -1,3 +1,6 @@
+---
+title: "human"
+---
 
 from [[nisbot]]
 ![image](https://gyazo.com/84370addf2969784204ccfdb24287606/thumb/1000)

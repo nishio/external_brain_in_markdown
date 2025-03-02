@@ -1,3 +1,6 @@
+---
+title: "Firestoreのデータを集計したい"
+---
 
 2023-07-09
 [[中高生のためのChatGPT]]のFirestoreのデータを集計したい

@@ -1,3 +1,6 @@
+---
+title: "teppeis対談記事"
+---
 
 [マネジメントはいらない、論文数で評価しない──R&Dの理想を追求したサイボウズ・ラボは、こんな組織になった](https://cybozushiki.cybozu.co.jp/articles/m005323.html)
 [[サイボウズ・ラボ]] [[研究開発]]

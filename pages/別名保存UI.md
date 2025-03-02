@@ -1,3 +1,6 @@
+---
+title: "別名保存UI"
+---
 
 from [[pRegroup2020]]
 別名保存UI

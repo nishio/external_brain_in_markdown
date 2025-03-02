@@ -1,3 +1,6 @@
+---
+title: "arc086_b"
+---
 
 [https://atcoder.jp/contests/arc086/tasks/arc086_b](https://atcoder.jp/contests/arc086/tasks/arc086_b)
 - 構築する

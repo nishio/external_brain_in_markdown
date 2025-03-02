@@ -1,3 +1,6 @@
+---
+title: "100回の会議より、1回のAPI callの方が理解が進みます"
+---
 
 
 > [konotarogomame](https://twitter.com/konotarogomame/status/1694861147441389639) デジタル庁で公開している「ChatGPTを業務に組み込むためのハンズオン」。

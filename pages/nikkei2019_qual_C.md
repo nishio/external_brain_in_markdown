@@ -1,3 +1,6 @@
+---
+title: "nikkei2019_qual_C"
+---
 
 [C - Different Strokes](https://atcoder.jp/contests/nikkei2019-qual/tasks/nikkei2019_qual_c)
 - ![image](https://gyazo.com/4ed59c16891725e4088f629ba8803ad0/thumb/1000)

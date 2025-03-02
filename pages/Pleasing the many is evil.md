@@ -1,3 +1,6 @@
+---
+title: "Pleasing the many is evil"
+---
 
 "Can't please everyone with your deeds and works? Then please a few people. It is evil to please the many."
 

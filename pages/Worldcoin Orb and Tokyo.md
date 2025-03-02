@@ -1,3 +1,6 @@
+---
+title: "Worldcoin Orb and Tokyo"
+---
 
 > [[Worldcoin]] is a key [[ETHGlobal]] sponsor in 2023 and, as such, will partner alongside some of the best projects in [[Web3]]. In Tokyo specifically, team members building the Worldcoin protocol will be participating in the opening talk, holding a [[World ID]] workshop, judging hackathon submissions and giving out prizes.
 - [Worldcoin and ETHGlobal: The road to Tokyo](https://worldcoin.org/blog/announcements/worldcoin-ethglobal-tokyo)

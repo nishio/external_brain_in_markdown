@@ -1,3 +1,6 @@
+---
+title: "near, far, close, distant"
+---
 
 When I talk about a [[goal]]:
 

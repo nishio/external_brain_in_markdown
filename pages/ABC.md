@@ -1,3 +1,6 @@
+---
+title: "ABC"
+---
 
 [[AtCoder]] Beginner Contest
 

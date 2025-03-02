@@ -1,3 +1,6 @@
+---
+title: "Stable Diffusionで猫2"
+---
 
 [[Stable Diffusionで猫]]
 

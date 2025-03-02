@@ -1,3 +1,6 @@
+---
+title: "AGC029B"
+---
 
 [B - Powers of two](https://atcoder.jp/contests/agc029/tasks/agc029_b)
 - ![image](https://gyazo.com/080d6b0ddcfd467e67ccc6894b6b8155/thumb/1000)

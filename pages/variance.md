@@ -1,3 +1,6 @@
+---
+title: "variance"
+---
 
 - [Variance - Wikipedia](https://en.wikipedia.org/wiki/Variance)
 

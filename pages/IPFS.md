@@ -1,3 +1,6 @@
+---
+title: "IPFS"
+---
 
 > InterPlanetary File System (IPFS) とは、分散ファイルシステムにデータを保存、共有するためのプロトコル、かつP2Pネットワークである。IPFSはコンテンツアドレス (CID) を使用してファイルを一意に識別する。IPFSはHTTP（ロケーションベースのハイパーメディアサーバープロトコル）に代わり、World Wide Webを配布することができる。
 - [https://ja.m.wikipedia.org/wiki/InterPlanetary_File_System](https://ja.m.wikipedia.org/wiki/InterPlanetary_File_System)

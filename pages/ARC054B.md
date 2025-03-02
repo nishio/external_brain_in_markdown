@@ -1,3 +1,6 @@
+---
+title: "ARC054B"
+---
 
 [B - ムーアの法則](https://atcoder.jp/contests/arc054/tasks/arc054_b)
 - ![image](https://gyazo.com/f717aaf92cc25d30bbf9c84ebf139e45/thumb/1000)

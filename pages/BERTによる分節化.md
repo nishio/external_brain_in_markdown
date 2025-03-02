@@ -1,3 +1,6 @@
+---
+title: "BERTによる分節化"
+---
 
 [[BERT]]による[[分節化]]  #知識の液状化
 ![image](https://gyazo.com/ce8fa595d5d7f26133dcbee2f5862c43/thumb/1000)

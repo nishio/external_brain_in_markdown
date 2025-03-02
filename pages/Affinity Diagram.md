@@ -1,3 +1,6 @@
+---
+title: "Affinity Diagram"
+---
 
 英語圏でたまに「KJ法とも言われる」として紹介される
 - [Affinity diagram - Wikipedia](https://en.wikipedia.org/wiki/Affinity_diagram)

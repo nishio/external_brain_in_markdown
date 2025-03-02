@@ -1,3 +1,6 @@
+---
+title: "iPad実機のSafariでプロファイリング"
+---
 
 普段はChromeを使っている。実機でのパフォーマンスを調べる必要があったのでiPadのSafariに有線接続した。
 「タイムライン」で「収録」するのは、Chromeの「Performance」で「Record」するのと同じ。

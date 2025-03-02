@@ -1,3 +1,6 @@
+---
+title: "PAST3D"
+---
 
 from [[第三回 アルゴリズム実技検定]]
 PAST3D

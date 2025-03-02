@@ -1,3 +1,6 @@
+---
+title: "Pixivは中国からブロックされている"
+---
 
 [[Pixiv]]は中国からブロックされている
 ![image](https://gyazo.com/de252c4f6f262c7eff4807aaca233222/thumb/1000)

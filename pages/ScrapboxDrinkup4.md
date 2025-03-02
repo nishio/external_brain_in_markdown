@@ -1,3 +1,6 @@
+---
+title: "ScrapboxDrinkup4"
+---
 
 イベント参加メモ [/scrapbox-drinkup/Scrapbox Drinkup #4 Tokyo Edition](https://scrapbox.io/scrapbox-drinkup/Scrapbox Drinkup #4 Tokyo Edition)
 

@@ -1,3 +1,6 @@
+---
+title: "DP C"
+---
 
 [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)
 - 3つの数列から最も和が大きくなるように取りたい

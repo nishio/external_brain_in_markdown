@@ -1,3 +1,6 @@
+---
+title: "✅PythonでRegroupのマップを作成"
+---
 
 [[pKeicho]]の[[✅チャットログからRegroupマップを生成]]のための[[pRegroup]]
 

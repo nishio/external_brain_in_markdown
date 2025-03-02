@@ -1,3 +1,6 @@
+---
+title: "ERC"
+---
 
 Ethereum Improvement Proposals ([[EIP]]s)のうち"application-level standards and conventions"なのかERC
 

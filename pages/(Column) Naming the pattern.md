@@ -1,3 +1,6 @@
+---
+title: "(Column) Naming the pattern"
+---
 
 [[Douglas Carl Engelbart]] who invented the computer mouse raises the following four methods for augmenting (=strengthen, enhance) human intelligence.
 

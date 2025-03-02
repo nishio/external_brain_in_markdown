@@ -1,3 +1,6 @@
+---
+title: "jest.spyOnで差し替わってなかった"
+---
 
 jest.spyOnでReact.useStateを差し替える際に`import React, { useState } from "react";`してたせいで差し替わってなかった話
 

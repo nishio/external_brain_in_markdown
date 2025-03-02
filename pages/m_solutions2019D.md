@@ -1,3 +1,6 @@
+---
+title: "m_solutions2019D"
+---
 
 [D - Maximum Sum of Minimum](https://atcoder.jp/contests/m-solutions2019/tasks/m_solutions2019_d)
 - ![image](https://gyazo.com/f834dc866fa9261fabb4587700813ecb/thumb/1000)

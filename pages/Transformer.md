@@ -1,3 +1,6 @@
+---
+title: "Transformer"
+---
 
 [[RNN]]なし[[CNN]]なしで[[注意機構]]だけ構成されたTransformerが翻訳タスクで良い成績を出すという報告。
 > We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.

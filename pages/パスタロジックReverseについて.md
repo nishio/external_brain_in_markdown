@@ -1,3 +1,6 @@
+---
+title: "パスタロジックReverseについて"
+---
 
 ![image](https://gyazo.com/7a5290b8fcb4ea6b879ed13b63b22825/thumb/1000)
 質問: ReverseにフラグA ,B, Cが乗っていて、Bが実行カーソルの向きを反転した場合、Aが再度処理される？それともCが処理される？

@@ -1,3 +1,6 @@
+---
+title: "canvasエレメントはwidthとstyle.widthを別個に持つ"
+---
 
 > Note further that the height and width are the logical canvas dimensions used for drawing and are different from the style.height and style.width CSS attributes.
 :

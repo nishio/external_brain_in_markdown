@@ -1,3 +1,6 @@
+---
+title: "ABC175D"
+---
 
 from [[ABC175]]
 ABC175D

@@ -1,3 +1,6 @@
+---
+title: "Scrapboxではアトミックなページは大きい"
+---
 
 from [/unnamedcamp/Scrapboxではアトミックなページは大きい](https://scrapbox.io/unnamedcamp/Scrapboxではアトミックなページは大きい)
 old title:

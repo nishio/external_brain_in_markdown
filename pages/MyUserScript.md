@@ -1,3 +1,6 @@
+---
+title: "MyUserScript"
+---
 
 > 個人Projectからimportしているのは個人のカスタマイズという独善性の強い要素のためにこの場でページをageたくないため [/villagepump/kuuote#621e530d4bb2e20000b69a5c](https://scrapbox.io/villagepump/kuuote#621e530d4bb2e20000b69a5c)
 - なるほどなと思ったので真似をした
@@ -26,8 +29,16 @@ code:script.js
 
 ---
 
+[[リンクをたどって到達できるページを全部まとめるJS]]
+×script.js
+
+```javascript
+import '/api/code/nishio/リンクをたどって到達できるページを全部まとめるJS/script.js'
+```
+
+
 [[PomodoroScrapbox]]
-script.js
+×script.js
 
 ```javascript
 import '/api/code/nishio/PomodoroScrapbox/script.js'
@@ -35,7 +46,7 @@ import '/api/code/nishio/PomodoroScrapbox/script.js'
 
 
 [[open with porter]]
-script.js
+×script.js
 
 ```javascript
 import '/api/code/nishio/open_with_porter/script.js'
@@ -43,7 +54,7 @@ import '/api/code/nishio/open_with_porter/script.js'
 
 
 [[ToMyProj]]
-script.js
+×script.js
 
 ```javascript
 import('/api/code/nishio/ToMyProj/script.js');
@@ -51,7 +62,7 @@ import('/api/code/nishio/ToMyProj/script.js');
 
 
 [/takker/選択範囲をMarkdown記法に変換してclip boardにcopyするPopupMenu](https://scrapbox.io/takker/選択範囲をMarkdown記法に変換してclip boardにcopyするPopupMenu)
-script.js_disable
+×script.js_disable
 
 ```
 import("/api/code/takker/%E9%81%B8%E6%8A%9E%E7%AF%84%E5%9B%B2%E3%82%92Markdown%E8%A8%98%E6%B3%95%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%97%E3%81%A6clip_board%E3%81%ABcopy%E3%81%99%E3%82%8BPopupMenu/script.js");
@@ -59,7 +70,7 @@ import("/api/code/takker/%E9%81%B8%E6%8A%9E%E7%AF%84%E5%9B%B2%E3%82%92Markdown%E
 
 
 [[AskChatGPT]]
-script.js
+×script_disabled.js
 
 ```javascript
 import('/api/code/nishio/AskChatGPT/script.js');
@@ -67,7 +78,7 @@ import('/api/code/nishio/AskChatGPT/script.js');
 
 
 [[ChatGPTToScrapbox]]
-script.js
+×script.js
 
 ```javascript
 import('/api/code/nishio/ChatGPTToScrapbox/script.js');

@@ -1,3 +1,6 @@
+---
+title: "Learning without thinking is useless"
+---
 
 > Learning without thinking is useless. Thinking without learning is dangerous. --- [[Confucius]]
 

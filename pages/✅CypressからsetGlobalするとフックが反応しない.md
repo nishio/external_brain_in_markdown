@@ -1,3 +1,6 @@
+---
+title: "✅CypressからsetGlobalするとフックが反応しない"
+---
 
 [[ReactNを露出する]]で、コンソールでsetGlobalして、コンポーネントの側のuseGlobalが変更を検知して再描画するところまでできた。
 しかしsetGlobalを[[Cypress]]のテストコード内から呼び出すと、更新が検知されない。

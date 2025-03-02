@@ -1,3 +1,6 @@
+---
+title: "code_festival_qualB_C"
+---
 
 [C - 錬金術士](https://atcoder.jp/contests/code-festival-2014-qualb/tasks/code_festival_qualB_c)
 - ![image](https://gyazo.com/af3c304e49c0ad7075a784961cdcaf35/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "Amazon RDS Proxy"
+---
 
 [なぜAWS LambdaとRDBMSの相性が悪いかを簡単に説明する - Sweet Escape](https://www.keisuke69.net/entry/2017/06/21/121501)
 - 2017年の記事

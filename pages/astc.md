@@ -1,3 +1,6 @@
+---
+title: "astc"
+---
 
 > 最後にTexture CompressionをASTC、Build SystemをInternalに
 [http://kan-kikuchi.hatenablog.com/entry/Oculus_Go_UnityChan](http://kan-kikuchi.hatenablog.com/entry/Oculus_Go_UnityChan)

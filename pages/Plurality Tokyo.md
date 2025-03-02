@@ -1,3 +1,6 @@
+---
+title: "Plurality Tokyo"
+---
 
 2023-04-12に開催された
 - Scrapbox: [/plurality-tokyo](https://scrapbox.io/plurality-tokyo)

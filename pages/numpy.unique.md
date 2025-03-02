@@ -1,3 +1,6 @@
+---
+title: "numpy.unique"
+---
 
 python
 

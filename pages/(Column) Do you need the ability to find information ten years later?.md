@@ -1,3 +1,6 @@
+---
+title: "(Column) Do you need the ability to find information ten years later?"
+---
 
 Is the ability to find information necessary after 10 years?
 

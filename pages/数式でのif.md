@@ -1,3 +1,6 @@
+---
+title: "数式でのif"
+---
 
 [[アイバーソンの記法]]  [[Iverson bracket]]
 ![image](https://gyazo.com/f34157fc1cb1fb44299121220725502a/thumb/1000)

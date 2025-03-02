@@ -1,3 +1,6 @@
+---
+title: "ReactN+TypeScript"
+---
 
 [[ReactN]]を[[TypeScript]]で使うときにArgument of type '"a"' is not assignable to parameter of type 'never'.が出たのを、マニュアル読まずにフィーリングで直したら、実は直ってなかったので、正しい直し方をメモ。
 [[TypeScriptの型]]

@@ -1,3 +1,6 @@
+---
+title: "LLMとIQ"
+---
 
 要約: LLMのチューニングは評価者の属性によって差別化され、高IQの評価者による強化学習や倫理フィルターの有無でLLMの利用が制限される可能性がある。<img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>
 

@@ -1,3 +1,6 @@
+---
+title: "Python list v.s. set"
+---
 
 リストへのappendに比べて、setへのaddは70nsほど遅い
 - ハッシュ値の計算コストなど

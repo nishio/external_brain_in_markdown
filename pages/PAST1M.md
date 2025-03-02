@@ -1,3 +1,6 @@
+---
+title: "PAST1M"
+---
 
 [M - おまかせ](https://atcoder.jp/contests/past201912-open/tasks/past201912_m)
 ![image](https://gyazo.com/6e7b0970c5ef90359fec6baba959c845/thumb/1000)

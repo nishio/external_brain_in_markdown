@@ -1,3 +1,6 @@
+---
+title: "Kozaneba:Scrapboxベストプラクティス2022"
+---
 
 ![image](https://gyazo.com/9e3fa1a9baee56a742a5d073759a6465/thumb/1000)
 

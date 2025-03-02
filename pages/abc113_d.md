@@ -1,3 +1,6 @@
+---
+title: "abc113_d"
+---
 
 [https://atcoder.jp/contests/abc113/tasks/abc113_d](https://atcoder.jp/contests/abc113/tasks/abc113_d)
 - 考えたこと

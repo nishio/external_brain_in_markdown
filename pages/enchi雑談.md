@@ -1,3 +1,6 @@
+---
+title: "enchi雑談"
+---
 
 from [/enchi/雑談](https://scrapbox.io/enchi/雑談)
 2023/8/28

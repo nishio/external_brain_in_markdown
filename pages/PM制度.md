@@ -1,3 +1,6 @@
+---
+title: "PM制度"
+---
 
 from [/mitou-meikan/PM制度](https://scrapbox.io/mitou-meikan/PM制度)
 公募の審査を委員会形式ではなく個人に委託する制度。

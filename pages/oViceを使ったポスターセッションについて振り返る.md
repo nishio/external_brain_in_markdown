@@ -1,3 +1,6 @@
+---
+title: "oViceを使ったポスターセッションについて振り返る"
+---
 
 
 <img src='https://scrapbox.io/api/pages/nishio/kei/icon' alt='/nishio/kei.icon' height="19.5"/>振り返りを支援するモードです。何について振り返りますか？

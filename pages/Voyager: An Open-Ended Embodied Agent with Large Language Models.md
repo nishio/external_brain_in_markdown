@@ -1,3 +1,6 @@
+---
+title: "Voyager: An Open-Ended Embodied Agent with Large Language Models"
+---
 
 [https://voyager.minedojo.org/](https://voyager.minedojo.org/)
 

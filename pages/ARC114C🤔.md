@@ -1,3 +1,6 @@
+---
+title: "ARC114C🤔"
+---
 
 from [[ARC114]]
 ARC114C🤔

@@ -1,3 +1,6 @@
+---
+title: "WSL"
+---
 
 Windows Sybsystem for Linux
 

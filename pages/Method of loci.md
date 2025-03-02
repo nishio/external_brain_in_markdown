@@ -1,3 +1,6 @@
+---
+title: "Method of loci"
+---
 
 - [Method of loci - Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 - one of [[memory techniques]]

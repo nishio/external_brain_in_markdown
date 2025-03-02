@@ -1,3 +1,6 @@
+---
+title: "Just be conscious"
+---
 
 [https://www.youtube.com/watch?v=lL2bCaol6VE](https://www.youtube.com/watch?v=lL2bCaol6VE)
 

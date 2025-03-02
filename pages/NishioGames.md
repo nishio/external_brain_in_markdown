@@ -1,3 +1,6 @@
+---
+title: "NishioGames"
+---
 
 いわゆるYouTuber的な(中の人が顔出しをして導入を喋る)YouTubeチャンネルを作ってみました。
 [https://www.youtube.com/channel/UC9JWBESfwOvMnVYBqF8PfQg/videos?view=0&sort=p&flow=grid&view_as=public](https://www.youtube.com/channel/UC9JWBESfwOvMnVYBqF8PfQg/videos?view=0&sort=p&flow=grid&view_as=public)

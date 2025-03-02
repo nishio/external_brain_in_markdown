@@ -1,3 +1,6 @@
+---
+title: "pKomorebiKagami2023-07-03"
+---
 
 [[pKomorebiKagami]]
 - [[pOmoikane]]

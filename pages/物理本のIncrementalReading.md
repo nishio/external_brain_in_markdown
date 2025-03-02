@@ -1,3 +1,6 @@
+---
+title: "物理本のIncrementalReading"
+---
 
 [[Incremental Reading]]の技術を物理本に応用できないか？
 - 本へのポインタをコンピュータ上で管理する

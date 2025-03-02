@@ -1,3 +1,6 @@
+---
+title: "生きた文章としてのWiki"
+---
 
 - [すべてのWikiは書きかけ - Rakusai Public - Scrapbox](https://scrapbox.io/rakusai/%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AEWiki%E3%81%AF%E6%9B%B8%E3%81%8D%E3%81%8B%E3%81%91)
 - 作りかけ、書きかけ、という言葉にネガティブなイメージを持つ人が多いなら「[[継続的改善]]」とか呼ぶといいのだろうか

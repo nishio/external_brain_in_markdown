@@ -1,3 +1,6 @@
+---
+title: "nishio"
+---
 
 これはScrapboxの仕様上、あるとベターな[[自分のページ]]です。
 
@@ -12,6 +15,7 @@
 
 
 -----以下個人的なカスタマイズのためのユーザースクリプトなど-----
+
 [[MyUserScript]]
 style.css
 
@@ -59,6 +63,13 @@ script.js
 import '/api/code/nishio/open_with_mem/script.js'
 ```
 
+
+[[open with quartz]]
+script.js
+
+```javascript
+import '/api/code/nishio/open_with_quartz/script.js'
+```
 
 
 [[open with porter]] Moved To MyUserScript

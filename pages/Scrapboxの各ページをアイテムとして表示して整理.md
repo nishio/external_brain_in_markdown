@@ -1,3 +1,6 @@
+---
+title: "Scrapboxの各ページをアイテムとして表示して整理"
+---
 
 ![image](https://gyazo.com/eab30e0ea204f3f6df0f241e65d8d047/thumb/1000)
 - [[複数行インポート]]でScrapboxの本文を流し込んだだけ

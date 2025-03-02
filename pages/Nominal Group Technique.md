@@ -1,3 +1,6 @@
+---
+title: "Nominal Group Technique"
+---
 
 ![image](https://gyazo.com/71f454fe357c5bc64675ef471cbf1789/thumb/1000)
 Delp, P., Thesen, A., Motiwalla, J. and Seshardi, N., 1977. Nominal group technique. Systems tools for project planning, 5.

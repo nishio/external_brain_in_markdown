@@ -1,3 +1,6 @@
+---
+title: "XはYではない"
+---
 
 - 変化パターン1
     - ![image](https://gyazo.com/9e443f12ed521e9a62b669e9e06e8bc7/thumb/1000)

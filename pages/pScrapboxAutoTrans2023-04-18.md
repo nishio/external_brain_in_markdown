@@ -1,3 +1,6 @@
+---
+title: "pScrapboxAutoTrans2023-04-18"
+---
 
 old title: [[pUnnamed]]
 prev [[pScrapboxAutoTrans2023-03-25]] ([[pScrapboxAutoTrans]] / [[ScrapboxAutoTrans]])

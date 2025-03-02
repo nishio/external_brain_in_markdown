@@ -1,0 +1,5 @@
+---
+title: "Fairy Devices"
+---
+
+[Fairy Devices｜音声AIによる現場DX](https://fairydevices.jp/)

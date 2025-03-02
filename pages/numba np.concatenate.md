@@ -1,3 +1,6 @@
+---
+title: "numba np.concatenate"
+---
 
 In [[numba]] world, [[np.concatenate]] can not concatenate np.array and list. (as of numba 0.50)
 

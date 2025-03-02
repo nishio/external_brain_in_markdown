@@ -1,3 +1,6 @@
+---
+title: "3rd World Farmar"
+---
 
 [https://3rdworldfarmer.org/](https://3rdworldfarmer.org/)
 

@@ -1,3 +1,6 @@
+---
+title: "ONI MOD"
+---
 
 - Falling Sand
     - 崩れた砂も掘削対象になる

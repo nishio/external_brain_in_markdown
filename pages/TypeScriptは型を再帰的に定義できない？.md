@@ -1,3 +1,6 @@
+---
+title: "TypeScriptは型を再帰的に定義できない？"
+---
 
 [[TypeScriptの型]]
 

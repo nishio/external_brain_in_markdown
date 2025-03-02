@@ -1,3 +1,6 @@
+---
+title: "Poken"
+---
 
 [新時代の名刺交換だった「Poken」　プロフィール交換の課題と未来を考える](https://www.itmedia.co.jp/news/articles/2112/28/news103.html)
 > 「タッチ」でプロフィールを交換できる小型のガジェット

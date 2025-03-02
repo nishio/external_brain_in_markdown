@@ -1,3 +1,6 @@
+---
+title: "Unicode正規化"
+---
 
 [[NFD正規化]]
 - [[NFD]]: Normalization Form Canonical Decomposition: 正規化形式D

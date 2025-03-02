@@ -1,3 +1,6 @@
+---
+title: "Keichobotのチャットではない形について考えたい"
+---
 
 
 <img src='https://scrapbox.io/api/pages/nishio/kei/icon' alt='/nishio/kei.icon' height="19.5"/>あなたはこの会話で何がどうなるとよいのでしょう？

@@ -1,3 +1,6 @@
+---
+title: "自分の日記に他人のAIを召喚"
+---
 
 from [/villagepump/2023/09/01](https://scrapbox.io/villagepump/2023/09/01)
 <img src='https://scrapbox.io/api/pages/villagepump/inajob/icon' alt='/villagepump/inajob.icon' height="19.5"/>

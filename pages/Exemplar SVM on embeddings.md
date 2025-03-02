@@ -1,3 +1,6 @@
+---
+title: "Exemplar SVM on embeddings"
+---
 
 > [@karpathy](https://twitter.com/karpathy/status/1647025230546886658?s=20): Random note on k-Nearest Neighbor lookups on embeddings: in my experience much better results can be obtained by training SVMs instead. Not too widely known.
 > Short example:

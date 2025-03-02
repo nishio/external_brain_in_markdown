@@ -1,3 +1,6 @@
+---
+title: "Keichobot:高度な使い方"
+---
 
 ### フィードバックボタン
 - ![image](https://gyazo.com/1a5e171ddaa9b12f6a154b3493ab57c9/thumb/1000)

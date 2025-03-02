@@ -1,3 +1,6 @@
+---
+title: "InBody"
+---
 
 from [/villagepump/InBody](https://scrapbox.io/villagepump/InBody)
 健康診断のオプションとしてつけることができる場合がある少し高級な体組成計
@@ -16,3 +19,10 @@ from [/villagepump/InBody](https://scrapbox.io/villagepump/InBody)
     - 体重を維持して筋肉が2キロ増えてた
     - こんなにはっきり成果出るのか、面白いな、もっとやろう
     - 下半身は[[スクワット]]するとして、上半身はどうするかー
+
+2024-09-06
+![image](https://gyazo.com/faf474429513e19a5d073a2f03f8f893/thumb/1000)
+急に5キロ増えてた…
+筋肉量自体は減ってない
+- しかし下半身の筋肉に注目すると減ってる
+歩けということだな

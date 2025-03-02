@@ -1,3 +1,6 @@
+---
+title: "awaitとcall/cc"
+---
 
 [[Promise]]の[[await]]と[[call/cc]]はよく似ているが、call/ccは処理を止めず、Promiseは再実行できない
 awaitは現在の継続を与えられたPromiseの後に接続するだけであって、継続をユーザに露出するわけではない

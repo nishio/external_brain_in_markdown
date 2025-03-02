@@ -1,3 +1,6 @@
+---
+title: "pattern discovery v.s. pattern recognition"
+---
 
 from [[pIntEn]]
 pattern discovery v.s. pattern recognition

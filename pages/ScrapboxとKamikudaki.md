@@ -1,3 +1,6 @@
+---
+title: "ScrapboxとKamikudaki"
+---
 
 - Scrapboxを使うことでKamikudakiを作った時にやりたかったことがだいぶできてるのではないか
 - ![image](https://gyazo.com/dc0ed1b0ad26abc1266cec9e8359b5b7/thumb/1000)

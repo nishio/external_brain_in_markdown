@@ -1,3 +1,69 @@
+---
+title: "PolisのDBからデータをエクスポート"
+---
+
+2024-11-07 整理
+- psqlを入れる
+    - `$ sudo apt install postgresql-client-common`
+- 接続する
+    - `$ psql -h localhost -p 5432 -U postgres`
+        - パスワードはenvファイルに書いてある、デフォルトでは`POSTGRES_PASSWORD=oiPorg3Nrz0yqDLE`
+- conversation一覧と得票数を見る
+sql
+
+```
+SELECT v.zid, c.topic, COUNT(v.zid) AS total_votes
+FROM votes v
+JOIN conversations c ON v.zid = c.zid
+WHERE v.zid BETWEEN 1 AND 38
+GROUP BY v.zid, c.topic
+ORDER BY v.zid DESC;
+```
+
+    - これをみてどのconversationをエクスポートしたいのか決める
+    - 例
+sql
+
+```
+SELECT v.zid, c.topic, COUNT(v.zid) AS total_votes
+FROM votes v
+JOIN conversations c ON v.zid = c.zid
+WHERE v.zid IN (38, 34, 31, 30, 29, 28,26)
+GROUP BY v.zid, c.topic
+ORDER BY v.zid DESC;
+```
+
+result
+
+```
+ zid |         topic          | total_votes 
+-----+------------------------+-------------
+  38 | デジタル民主主義       |        4764
+  34 | 憲法                   |       16881
+  31 | エネルギー政策         |        7958
+  30 | 経済政策・物価高対策   |       28510
+  29 | 社会保障（年金・医療） |       18050
+  28 | 税制                   |       20061
+  26 | 政治資金規制改革       |        8900
+(7 rows)
+```
+
+- 書き出す
+sql
+
+```
+\COPY (SELECT * FROM comments WHERE zid IN (38, 34, 31, 30, 29, 28,26)) TO 'comments.csv' DELIMITER ',' CSV HEADER;
+```
+
+sql
+
+```
+\COPY (SELECT * FROM votes WHERE zid IN (38, 34, 31, 30, 29, 28,26)) TO '/home/ubuntu/votes.csv' DELIMITER ',' CSV HEADER;
+```
+
+
+-----
+
 
 pPolis2023-06-04
 - PolisのDBからデータをエクスポートした
@@ -62,7 +128,8 @@ $ psql -h localhost -p 5432
 Password for user ubuntu:
 ```
 
-
+パスワードを調べる
+example.envに書いてある
 example.env
 
 ```
@@ -120,6 +187,7 @@ HINT:  COPY TO instructs the PostgreSQL server process to write a file. You may 
 
 あー、そうか、Dockerの中で動いてるからか
 
+コメントを書き出してみる
 :
 
 ```
@@ -130,6 +198,7 @@ COPY 55
 
 できた
 
+特定のconversation id (=3)のコメントと投票を書き出す
 :
 
 ```

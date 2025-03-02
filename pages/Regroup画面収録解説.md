@@ -1,3 +1,6 @@
+---
+title: "Regroup画面収録解説"
+---
 
 [https://youtu.be/dRpZXCzkd9s](https://youtu.be/dRpZXCzkd9s)
 [https://youtu.be/qVhh28n49pE](https://youtu.be/qVhh28n49pE)

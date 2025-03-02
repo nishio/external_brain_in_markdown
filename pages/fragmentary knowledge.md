@@ -1,3 +1,6 @@
+---
+title: "fragmentary knowledge"
+---
 
 - Original in Japanese: [[断片的知識]]
     - [[断片]] = [[fragment]]

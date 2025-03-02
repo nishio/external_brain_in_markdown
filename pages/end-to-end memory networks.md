@@ -1,5 +1,8 @@
+---
+title: "end-to-end memory networks"
+---
 
-from [[記憶ネットワーク]]
+from [[Memory Network]]
 end-to-end memory networks
 Sukhbaatar, S., Weston, J., & Fergus, R. (2015). End-to-end memory networks. In Advances in neural information processing systems (pp. 2440-2448).
 入力文$x_i$は各単語の埋め込み表現の総和で埋め込まれる

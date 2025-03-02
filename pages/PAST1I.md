@@ -1,3 +1,6 @@
+---
+title: "PAST1I"
+---
 
 [I - 部品調達](https://atcoder.jp/contests/past201912-open/tasks/past201912_i)
 - ![image](https://gyazo.com/c2448c08a7e7e39a1cf0cef3c676a36a/thumb/1000)

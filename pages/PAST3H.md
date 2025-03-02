@@ -1,3 +1,6 @@
+---
+title: "PAST3H"
+---
 
 from [[第三回 アルゴリズム実技検定]]
 PAST3H

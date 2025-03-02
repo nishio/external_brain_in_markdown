@@ -1,3 +1,6 @@
+---
+title: "sumitb2019_e"
+---
 
 [E - Colorful Hats 2](https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e)
 - ![image](https://gyazo.com/6c88078c52ad01b746ded9146ff2b61d/thumb/1000)

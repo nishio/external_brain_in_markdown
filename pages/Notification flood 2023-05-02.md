@@ -1,3 +1,6 @@
+---
+title: "Notification flood 2023-05-02"
+---
 
 English conversation lesson on [[Notification flood]]
 - B: Notification flood is a difficult problem to be solved, and we don't know the solution just right now. People get too many notifications every day. Maybe AI could help us.

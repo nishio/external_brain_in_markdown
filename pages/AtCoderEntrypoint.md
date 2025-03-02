@@ -1,3 +1,6 @@
+---
+title: "AtCoderEntrypoint"
+---
 
 AtCoderをする時に開いておくページ　[[atcoderエントリーポイント]]
 - [オンライン整数列大辞典](https://oeis.org/?language=japanese)

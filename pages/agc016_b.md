@@ -1,3 +1,6 @@
+---
+title: "agc016_b"
+---
 
 [https://atcoder.jp/contests/agc016/tasks/agc016_b](https://atcoder.jp/contests/agc016/tasks/agc016_b)
 - 充足可能かどうかを答える問題

@@ -1,3 +1,6 @@
+---
+title: "Chainer"
+---
 
 チュートリアル
 [https://tutorials.chainer.org/ja/index.html](https://tutorials.chainer.org/ja/index.html)

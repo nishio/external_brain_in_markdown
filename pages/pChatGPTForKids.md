@@ -1,3 +1,6 @@
+---
+title: "pChatGPTForKids"
+---
 
 [[中高生のためのChatGPT]]
 firestore export

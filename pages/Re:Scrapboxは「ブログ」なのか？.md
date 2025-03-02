@@ -1,3 +1,6 @@
+---
+title: "Re:Scrapboxは「ブログ」なのか？"
+---
 
 Re: [[Scrapbox]]は「[[ブログ]]」なのか？
 from [/villagepump/Scrapboxは「ブログ」なのか？](https://scrapbox.io/villagepump/Scrapboxは「ブログ」なのか？)

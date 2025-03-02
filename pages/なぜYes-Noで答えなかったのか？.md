@@ -1,3 +1,6 @@
+---
+title: "なぜYes/Noで答えなかったのか？"
+---
 
 from [/villagepump/なぜYes/Noで答えなかったのか？](https://scrapbox.io/villagepump/なぜYes/Noで答えなかったのか？)
 

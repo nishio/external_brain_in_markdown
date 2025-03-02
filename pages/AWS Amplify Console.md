@@ -1,3 +1,6 @@
+---
+title: "AWS Amplify Console"
+---
 
 [[AWS]] Amplify Console
 

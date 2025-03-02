@@ -1,3 +1,6 @@
+---
+title: "Cobb-Douglas utility curve"
+---
 
 - $u(x, y) = x^a y^{1-a}$
 - ![image](https://gyazo.com/521e0cd7678cd89b730437b2e54cfcad/thumb/1000)

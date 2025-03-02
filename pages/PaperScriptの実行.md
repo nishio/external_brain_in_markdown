@@ -1,3 +1,6 @@
+---
+title: "PaperScriptの実行"
+---
 
 [[Paper.js]]の[[PaperScript]]のコードを直接与えて実行することはできる
 [http://paperjs.org/reference/paperscript/](http://paperjs.org/reference/paperscript/)

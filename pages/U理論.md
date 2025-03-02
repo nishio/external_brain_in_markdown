@@ -1,3 +1,6 @@
+---
+title: "U理論"
+---
 
 ![image](https://gyazo.com/4f03bc4f12686c63c77b63da87a32d2b/thumb/1000)
 - U理論――過去や偏見にとらわれず、本当に必要な「変化」を生み出す技術

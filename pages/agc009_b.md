@@ -1,3 +1,6 @@
+---
+title: "agc009_b"
+---
 
 [B - Tournament](https://atcoder.jp/contests/agc009/tasks/agc009_b)
 ![image](https://gyazo.com/663b6504cc72eb8faea49ef05870d0f2/thumb/1000)

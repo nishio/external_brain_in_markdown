@@ -1,3 +1,6 @@
+---
+title: "Personal Kanban"
+---
 
 from [[pIntEn]]
 - [[Personal Kanban]]

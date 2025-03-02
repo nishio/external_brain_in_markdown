@@ -1,3 +1,6 @@
+---
+title: "ABC054C"
+---
 
 [C - One-stroke Path](https://atcoder.jp/contests/abc054/tasks/abc054_c)
 ![image](https://gyazo.com/d709f17d39572be0e97aa653b895f2fe/thumb/1000)

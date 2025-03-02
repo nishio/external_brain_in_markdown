@@ -1,3 +1,6 @@
+---
+title: "Git LFS"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>Githubでファイルが大きすぎるからGitLFS使いたい時ってどうするんだっけ
 <img src='https://scrapbox.io/api/pages/nishio/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>

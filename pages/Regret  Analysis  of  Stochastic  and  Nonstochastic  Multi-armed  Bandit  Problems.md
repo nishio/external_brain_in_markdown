@@ -1,3 +1,6 @@
+---
+title: "Regret  Analysis  of  Stochastic  and  Nonstochastic  Multi-armed  Bandit  Problems"
+---
 
 - [PDF](https://arxiv.org/pdf/1204.5721.pdf)
 - 「[[不確実な時は楽観的に]]」([[optimism in face of uncertainty]])の原則

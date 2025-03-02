@@ -1,3 +1,6 @@
+---
+title: "🤖Scrapboxの「つながり発見支援」機能を異なるコンテンツ間のつながり発見支援に応用できないか"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/omni/icon' alt='omni.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
 Scrapboxの「つながり発見支援」機能を異なるコンテンツ間で応用する可能性を探求しています。

@@ -1,3 +1,6 @@
+---
+title: "Dyson Sphere Program 2022-01-29"
+---
 
 [[Dyson Sphere Program]]
 - 前回プレイした時(2021-01)にはアーリーアクセスすぎて実績が存在してなかった

@@ -1,3 +1,6 @@
+---
+title: "Work Breakdown Structure"
+---
 
 - [[WBS]]と略される
 - 大きなタスクを細分化する

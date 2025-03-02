@@ -1,3 +1,6 @@
+---
+title: "ARC083A"
+---
 
 [C - Sugar Water](https://atcoder.jp/contests/abc074/tasks/arc083_a)
 - ![image](https://gyazo.com/42b636f33793c2c5505fad9716bd6dde/thumb/1000)

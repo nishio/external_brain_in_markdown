@@ -1,3 +1,6 @@
+---
+title: "中学生の職場体験でSFプロトタイピングをやってもらった事例"
+---
 
 from [/villagepump/2023/08/31](https://scrapbox.io/villagepump/2023/08/31)
 <img src='https://scrapbox.io/api/pages/villagepump/mtane0412/icon' alt='/villagepump/mtane0412.icon' height="19.5"/>

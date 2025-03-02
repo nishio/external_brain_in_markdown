@@ -1,3 +1,6 @@
+---
+title: "ARC074A"
+---
 
 [C - Chocolate Bar](https://atcoder.jp/contests/arc074/tasks/arc074_a)
 - ![image](https://gyazo.com/e5a08f96669cd40e7509f03bf2e5fd9d/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "iPhoneにリングがつかない→解決！"
+---
 
 [https://www.youtube.com/watch?v=mxjxwDA8yck&feature=youtu.be](https://www.youtube.com/watch?v=mxjxwDA8yck&feature=youtu.be)
 - だいぶプロセスがスムーズになってきたのでこの辺であたらめて「動画編集ってどれくらいかかります？」の質問に答えると、長さ6分の元動画の保存時間が21:25で、それを編集した動画の保存時間が21:48なので、ファイルのコピーとかも全部含めて23分ですね。

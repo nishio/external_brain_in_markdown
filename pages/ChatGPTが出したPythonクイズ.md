@@ -1,3 +1,6 @@
+---
+title: "ChatGPTが出したPythonクイズ"
+---
 
 > [@tokoroten](https://twitter.com/tokoroten/status/1691819049770955219?s=20): ううう・・・デコレータ使ったことない・・・
 > ![image](https://gyazo.com/ade54a80490ce69a33145d8522f54faf/thumb/1000)

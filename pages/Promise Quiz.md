@@ -1,3 +1,6 @@
+---
+title: "Promise Quiz"
+---
 
 console.logがどの順で実行されるか答えよ
 js

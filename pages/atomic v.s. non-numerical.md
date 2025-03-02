@@ -1,3 +1,6 @@
+---
+title: "atomic v.s. non-numerical"
+---
 
 [[人間の経験は根本的に明確な境界を持たない]]([[non-numerical]])
 ![image](https://gyazo.com/790949bae8daf0c83ae56ece1a3a5237/thumb/1000)

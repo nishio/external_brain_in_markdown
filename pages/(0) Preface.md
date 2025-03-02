@@ -1,3 +1,6 @@
+---
+title: "(0) Preface"
+---
 
 - [[(0.0) What is intellitech?]] (extra section for English reader)
 - [[(0.1) Purpose of this book]]

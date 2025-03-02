@@ -1,3 +1,6 @@
+---
+title: "Polisと予測市場"
+---
 
 > [tokoroten](https://twitter.com/tokoroten/status/1648387223950344197) 会社運営にPolisを使われる際に、西尾さんのscrapboxに書かれているような、[[Polis]]に何らかの仮想通貨が使われるとするときに、
 >  [[予測市場]]とPolisの違いは何だろうなーとか考えてる

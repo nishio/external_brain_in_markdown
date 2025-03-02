@@ -1,3 +1,9 @@
+---
+title: "AT ProtocolがActivityPubを使用しない理由"
+---
+
+2023-07-29
+- なんでだろ？と思ってGPT4に聞いてみたら、解答になるほどと思ったのでメモしておく
 
 <img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>[[AT Protocol]]が[[ActivityPub]]を使用しない理由はいくつかあります：
 - 設計哲学：

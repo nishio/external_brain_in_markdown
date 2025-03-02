@@ -1,3 +1,6 @@
+---
+title: "buddding/seedling"
+---
 
 [[budding]]
 - Adjective: Beginning to develop.

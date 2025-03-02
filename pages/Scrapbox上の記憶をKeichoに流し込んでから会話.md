@@ -1,3 +1,6 @@
+---
+title: "Scrapbox上の記憶をKeichoに流し込んでから会話"
+---
 
 from [/villagepump/Scrapbox上でKeichoを動かす](https://scrapbox.io/villagepump/Scrapbox上でKeichoを動かす)
 Scrapbox上の記憶をKeichoに流し込んでから会話

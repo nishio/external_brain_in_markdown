@@ -1,3 +1,6 @@
+---
+title: "Re:日付ベースと出来事ベース"
+---
 
 from [/unnamedcamp/日付ベースと出来事ベース](https://scrapbox.io/unnamedcamp/日付ベースと出来事ベース)
 

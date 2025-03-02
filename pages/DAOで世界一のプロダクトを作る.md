@@ -1,3 +1,6 @@
+---
+title: "DAOで世界一のプロダクトを作る"
+---
 
 [DAOで世界一のプロダクトを作る｜Kohei Nagata](https://note.com/koheingt/n/n26cbcf1d33ab)
 

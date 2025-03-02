@@ -1,3 +1,6 @@
+---
+title: "CSS Flexbox"
+---
 
 縦方向の中央揃えとかできて便利そう
 - [https://www.w3schools.com/css/css3_flexbox.asp](https://www.w3schools.com/css/css3_flexbox.asp)

@@ -1,3 +1,6 @@
+---
+title: "Heroku"
+---
 
 > なぜいまHerokuなのか？それはalertやdashboardから人間に意味が理解できる解説テキストに誘導され、12 factor appに沿ったスケーラブルで運用しやすい設計にアプリケーションを作り変えられてしまうから。俺は毎月60ぐらいプルリク投げてモリモリ開発してるけど、Herokuのせいで運用も1人でできてる
 [shokai Twitter 2018-03-20](https://twitter.com/shokai/status/975975987077775361)

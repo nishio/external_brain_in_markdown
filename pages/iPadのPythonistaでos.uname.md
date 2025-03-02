@@ -1,3 +1,6 @@
+---
+title: "iPadのPythonistaでos.uname"
+---
 
 python
 

@@ -1,3 +1,6 @@
+---
+title: "PMハック"
+---
 
 > 未踏ジュニアは2018年度は105件の応募があったようで、今年はさらに増えそうなので、PMの興味嗜好その他諸々を事前に調査して一本釣りするPMハッカーが一人くらいでてくると面白いかも
 [https://twitter.com/codeMo_Iwate/status/1091691749880225792](https://twitter.com/codeMo_Iwate/status/1091691749880225792)

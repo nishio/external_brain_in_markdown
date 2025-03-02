@@ -1,3 +1,6 @@
+---
+title: "sense of incompatibility"
+---
 
 - feeling that something wrong
 - #TODO link to section6

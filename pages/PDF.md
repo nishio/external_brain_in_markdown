@@ -1,3 +1,6 @@
+---
+title: "PDF"
+---
 
 PDFMinerの解説
 - [http://www.unixuser.org/~euske/python/pdfminer/programming.html](http://www.unixuser.org/~euske/python/pdfminer/programming.html)

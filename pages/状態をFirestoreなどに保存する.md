@@ -1,3 +1,6 @@
+---
+title: "状態をFirestoreなどに保存する"
+---
 
 from [[pKeicho-done]]
 状態をFirestoreなどに保存する

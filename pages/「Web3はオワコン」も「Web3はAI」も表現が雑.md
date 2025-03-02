@@ -1,3 +1,6 @@
+---
+title: "「Web3はオワコン」も「Web3はAI」も表現が雑"
+---
 
 > [nishio](https://twitter.com/nishio/status/1647506503941910528) 「[[Web3はオワコン]]」も「[[Web3はAI]]」もどっちも表現が雑。どちらも「タイミングのズレた[[ハイプサイクル]]」を異なった視点から描写してるに過ぎない。Web3がオワコンに見えるのは流行ピークに注目してる。Web3がAIに見えるのは両者がつながる未来を見てる。
 >  ![image](https://pbs.twimg.com/media/Ft0ebtfaUAEs9-A?format=jpg&name=medium#.png)

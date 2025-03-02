@@ -1,3 +1,6 @@
+---
+title: "Divide After You Conquer"
+---
 
 Divide After You Conquer: An Agile Software Development Practice for Large Projects
 [https://link.springer.com/chapter/10.1007/11774129_17](https://link.springer.com/chapter/10.1007/11774129_17)

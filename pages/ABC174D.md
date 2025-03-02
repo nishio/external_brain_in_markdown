@@ -1,3 +1,6 @@
+---
+title: "ABC174D"
+---
 
 ![image](https://gyazo.com/2b5229aa9bfb5bab165b982e0641755a/thumb/1000)
 from [[ABC174]]

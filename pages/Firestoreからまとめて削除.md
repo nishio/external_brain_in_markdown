@@ -1,3 +1,6 @@
+---
+title: "Firestoreからまとめて削除"
+---
 
 Chrome devtoolでやった
 js

@@ -1,3 +1,6 @@
+---
+title: "DreamBooth"
+---
 
 DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
 [https://arxiv.org/abs/2208.12242](https://arxiv.org/abs/2208.12242)

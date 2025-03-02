@@ -1,3 +1,6 @@
+---
+title: "meanless_newline_ppoi"
+---
 
 作業メモ
 - [[ppoi]]をclone

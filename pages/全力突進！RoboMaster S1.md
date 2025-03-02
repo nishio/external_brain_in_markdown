@@ -1,3 +1,6 @@
+---
+title: "全力突進！RoboMaster S1"
+---
 
 [https://www.youtube.com/watch?v=A_1fs67Ar2k](https://www.youtube.com/watch?v=A_1fs67Ar2k)
 

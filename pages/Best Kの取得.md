@@ -1,3 +1,6 @@
+---
+title: "Best Kの取得"
+---
 
 from [[heapq]]
 Best Kの取得

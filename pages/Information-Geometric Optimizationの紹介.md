@@ -1,3 +1,6 @@
+---
+title: "Information-Geometric Optimizationの紹介"
+---
 
 [[Information-Geometric Optimization]] サイボウズラボ勉強会
 ![image](https://gyazo.com/abb7bf8ea07aad824d4fb57117846d9b/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "ChatGPTと毛玉のときほぐしの議論"
+---
 
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>今日は100個の要素に400本のリンクが張られているネットワークを可視化して整理しようとしてたんだが、そこで気づいたことがあるので話を聞いて欲しい。

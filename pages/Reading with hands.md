@@ -1,3 +1,6 @@
+---
+title: "Reading with hands"
+---
 
 In Japanese: [[手を動かしながら読む]]. Direct translation: Read while moving hands
 

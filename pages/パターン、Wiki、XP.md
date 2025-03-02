@@ -1,3 +1,6 @@
+---
+title: "パターン、Wiki、XP"
+---
 
 ![image](https://gyazo.com/25f7acdc48c1774ea607613c0daf7372/thumb/1000)
 - パターン、Wiki、XP 時を超えた創造の原則

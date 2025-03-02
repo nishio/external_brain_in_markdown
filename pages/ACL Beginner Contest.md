@@ -1,3 +1,6 @@
+---
+title: "ACL Beginner Contest"
+---
 
 [[AtCoder Library]]を使える問題が出されるコンテスト。
 

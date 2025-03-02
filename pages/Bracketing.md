@@ -1,3 +1,6 @@
+---
+title: "Bracketing"
+---
 
 In Scrapbox, bracketing keywords within text using brackets `[ ]` creates links within the project. This is the most important notation.
 External links and text formatting are also done by enclosing them in brackets, like `[* bold]`. Thus, in Scrapbox, such 'markup' actions are referred to as 'Bracketing.'
@@ -10,4 +13,4 @@ Related: [[Linking]]
 2018-08-11 created
 
 <img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/>
-<img src='https://scrapbox.io/api/pages/nishio/bashi/icon' alt='bashi.icon' height="19.5"/> Transalated from [[ブラケティング]]
+<img src='https://scrapbox.io/api/pages/nishio/Bashi/icon' alt='Bashi.icon' height="19.5"/> Transalated from [[ブラケティング]]

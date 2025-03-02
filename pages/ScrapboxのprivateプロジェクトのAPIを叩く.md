@@ -1,3 +1,6 @@
+---
+title: "ScrapboxのprivateプロジェクトのAPIを叩く"
+---
 
 [[connect.sid]]の話
 - privateプロジェクトに限らないので整理したい

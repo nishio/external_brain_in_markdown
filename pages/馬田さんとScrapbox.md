@@ -1,3 +1,6 @@
+---
+title: "馬田さんとScrapbox"
+---
 
 - [[ScrapboxSQUARE#2]]で、何がきっかけか忘れたけど[[馬田 隆明]]さんの話になって、Scrapboxで対談をしたことがあると教えてもらった。
     - [スタートアップ企業にカルチャーを醸成する、ゆるやかな接点とナレッジ共有 — — 対談：東京大学 本郷テックガレージ馬田隆明×Scrapbox長沢智治](https://medium.com/@scrapbox/nagasawa-umada-116653e71b6b)

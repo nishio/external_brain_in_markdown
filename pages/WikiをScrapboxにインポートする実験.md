@@ -1,3 +1,6 @@
+---
+title: "WikiをScrapboxにインポートする実験"
+---
 
 関連 [[Scrapboxで機械的加筆をする]]
 

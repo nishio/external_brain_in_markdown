@@ -1,3 +1,6 @@
+---
+title: "context"
+---
 
 - [[relation]]s between the focused thing and the other things around it
 

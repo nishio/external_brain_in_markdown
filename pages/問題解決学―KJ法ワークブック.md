@@ -1,3 +1,6 @@
+---
+title: "問題解決学―KJ法ワークブック"
+---
 
 ![image](https://gyazo.com/6ebf84dffc82be6518d8c24ae8b4ac7c/thumb/1000)
 - [Amazon](https://amzn.to/39FJjI3)

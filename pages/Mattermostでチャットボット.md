@@ -1,3 +1,6 @@
+---
+title: "Mattermostでチャットボット"
+---
 
 - [[2019未踏ジュニア]]で[[Mattermost]]が導入された
 - [[tokoroten]]が[[Vein]]を接続したいと言い出して、どうせならみんなHackableな方がいいよねとなった

@@ -1,3 +1,6 @@
+---
+title: "Reactive Programming / Functional Reactive Programming"
+---
 
 Rx* is not FRP
 

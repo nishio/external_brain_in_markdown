@@ -1,3 +1,6 @@
+---
+title: "ARC114A💻"
+---
 
 from [[ARC114]]
 ARC114A💻

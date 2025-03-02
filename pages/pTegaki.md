@@ -1,3 +1,6 @@
+---
+title: "pTegaki"
+---
 
 現状の[[Notabilityの不便]]を解決する
 

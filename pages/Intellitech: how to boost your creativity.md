@@ -1,3 +1,6 @@
+---
+title: "Intellitech: how to boost your creativity"
+---
 
 This project is to translate my book in Japanese into English.
 Title: `Intellitech: how to boost your creativity`

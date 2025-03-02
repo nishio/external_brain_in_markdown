@@ -1,3 +1,6 @@
+---
+title: "ARC037B"
+---
 
 [B - バウムテスト](https://atcoder.jp/contests/arc037/tasks/arc037_b)
 - ![image](https://gyazo.com/ee65e33af57b50b7a728b664b743d615/thumb/1000)

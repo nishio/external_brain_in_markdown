@@ -1,3 +1,6 @@
+---
+title: "(Column) Size of pieces"
+---
 
 You can use the stationery which you like most. However, you may want concrete examples, so I introduce what I use.
 

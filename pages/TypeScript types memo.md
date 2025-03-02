@@ -1,3 +1,6 @@
+---
+title: "TypeScript types memo"
+---
 
 [[TypeScriptの型]]
 

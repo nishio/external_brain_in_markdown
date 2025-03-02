@@ -1,3 +1,6 @@
+---
+title: "PixivFANBOXバックナンバー機能の削除"
+---
 
 [pixiv お知らせ - pixivFANBOXがリニューアル、4月26日からは誰でも開設が可能に](https://www.pixiv.net/info.php?id=4525)
 > 3. 過去の投稿もさかのぼって楽しめる

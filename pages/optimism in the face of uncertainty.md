@@ -1,3 +1,6 @@
+---
+title: "optimism in the face of uncertainty"
+---
 
 - [[optimism in face of uncertainty]]
 

@@ -1,3 +1,6 @@
+---
+title: "TPP亡国論"
+---
 
 ![image](https://gyazo.com/74547653ef39897c284dced8e8c9918c/thumb/1000)
 - TPP亡国論

@@ -1,3 +1,6 @@
+---
+title: "PowerPoint上のリンク集からタイトルとURLを抜き出す"
+---
 
 状況はMac。
 PowerPoint上でハイパーリンクの形でリンク集が作られている。

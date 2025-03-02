@@ -1,3 +1,6 @@
+---
+title: "claim"
+---
 
 - [https://en.wikipedia.org/wiki/Cause_of_action](https://en.wikipedia.org/wiki/Cause_of_action)
 

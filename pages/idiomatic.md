@@ -1,3 +1,6 @@
+---
+title: "idiomatic"
+---
 
 from [[pIntEn]]
 idiomatic

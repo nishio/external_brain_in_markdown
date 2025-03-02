@@ -1,3 +1,6 @@
+---
+title: "Scrapboxはアイデアの精製器"
+---
 
 see [/daiiz/Scrapboxはアイデアの精製器](https://scrapbox.io/daiiz/Scrapboxはアイデアの精製器)
 

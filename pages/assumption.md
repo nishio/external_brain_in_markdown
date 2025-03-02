@@ -1,3 +1,6 @@
+---
+title: "assumption"
+---
 
 = [[hypothesis]]
 

@@ -1,3 +1,6 @@
+---
+title: "Minecraft command memo"
+---
 
 :
 

@@ -1,3 +1,6 @@
+---
+title: "ARC097B"
+---
 
 [D - Equals](https://atcoder.jp/contests/arc097/tasks/arc097_b)
 - ![image](https://gyazo.com/12b2768f38990be7bdb5dd3a2aaf087f/thumb/1000)

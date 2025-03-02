@@ -1,3 +1,6 @@
+---
+title: "NHK「100分de名著」ブックス 般若心経"
+---
 
 ![image](https://gyazo.com/d0efb58328b6182af4af0819b3dd991b/thumb/1000)
 - NHK「[[100分de名著]]」ブックス [[般若心経]]

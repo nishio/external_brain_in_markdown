@@ -1,3 +1,6 @@
+---
+title: "Scrapboxで書籍に言及する方法"
+---
 
 - 1: 単なるURL
     - [http://amzn.to/2sjPTJV](http://amzn.to/2sjPTJV)

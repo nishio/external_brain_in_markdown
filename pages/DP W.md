@@ -1,3 +1,6 @@
+---
+title: "DP W"
+---
 
 [W - Intervals](https://atcoder.jp/contests/dp/tasks/dp_w)
 - 0と1からなる長さ20万の列があって「この範囲に1があれば何点」というルールが20万個ある、最良の列を作ったら何点になるか求めよ

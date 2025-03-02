@@ -1,3 +1,6 @@
+---
+title: "George Edward Pelham Box"
+---
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GeorgeEPBox.jpg/200px-GeorgeEPBox.jpg)
 [George E. P. Box - Wikipedia](https://en.wikipedia.org/wiki/George_E._P._Box)

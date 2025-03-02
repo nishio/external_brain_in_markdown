@@ -1,3 +1,6 @@
+---
+title: "幅優先探索Keichobot"
+---
 
 [[オモイカネ勉強会の準備]]
 - KozanebaはGPTの支援でもっと使いやすくなる反面、[[Keichobot]]はChatGPTでほとんど包含される

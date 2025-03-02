@@ -1,3 +1,6 @@
+---
+title: "表記揺れをLLMに作らせる"
+---
 
 [[表記揺れ]]を[[LLM]]に作らせる
 from [/villagepump/2023/03/25](https://scrapbox.io/villagepump/2023/03/25)

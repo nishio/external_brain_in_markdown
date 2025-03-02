@@ -1,4 +1,8 @@
+---
+title: "LLMとPluralityの関係"
+---
 
+2023-05-19
 LLMとPluralityの関係
 - [[LLM Meetup Tokyo 2]]でのLT
     - ここ1ヶ月([[Plurality Tokyo]]〜[[真鶴2023-05-13]])Plurality関連のことに注力してたのでLLMとPluralityの関係の話をします

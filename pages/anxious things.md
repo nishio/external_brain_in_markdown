@@ -1,3 +1,6 @@
+---
+title: "anxious things"
+---
 
 In Japanese: [[気になること]]
 

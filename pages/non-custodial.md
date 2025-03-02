@@ -1,3 +1,6 @@
+---
+title: "non-custodial"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/gpt-4/icon' alt='gpt-4.icon' height="19.5"/>
 - 「ノンカストディアル（Non-custodial）」とは、金融サービスやブロックチェーン技術の文脈でよく使われる用語で、ユーザーが自分の資産（通常は暗号通貨）の完全なコントロールを保持することを指します。

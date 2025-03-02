@@ -1,3 +1,6 @@
+---
+title: "VSCode Python Snippets"
+---
 
 - [[atcoder]]をやるにあたって頻出コードは[[vscode]]のプロジェクトスニペットにする設計でやってきたのだけど、一部の[[スニペット]]は他の一般のプロジェクトでも便利だから使いたくなってきた
     - [https://github.com/nishio/atcoder](https://github.com/nishio/atcoder)

@@ -1,3 +1,6 @@
+---
+title: "Experiment: Scrapbox Translation"
+---
 
 Translated
 - [[Self-management strategies for engineers]]

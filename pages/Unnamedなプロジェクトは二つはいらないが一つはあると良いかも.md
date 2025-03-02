@@ -1,3 +1,6 @@
+---
+title: "Unnamedなプロジェクトは二つはいらないが一つはあると良いかも"
+---
 
 > Unnamedだった存在に、名前が与えられるタイミングがやってきているのかもしれない。
 - [/unnamedcamp/Unnamed Campについて考える#622c02029dc7d80000894c3b](https://scrapbox.io/unnamedcamp/Unnamed Campについて考える#622c02029dc7d80000894c3b)

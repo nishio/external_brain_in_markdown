@@ -1,3 +1,6 @@
+---
+title: "practice"
+---
 
 There are two Japanese words corresponds to the English word "practice." I use the word "practice" for the former meaning.
 

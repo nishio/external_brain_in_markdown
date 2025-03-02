@@ -1,3 +1,6 @@
+---
+title: "Product/Market Fit"
+---
 
 [PMFのはかり方、見つけ方: やや実践編｜原健一郎 | Kenichiro Hara｜note](https://note.com/kenichiro_hara/n/nec3b6d791039)
 - [[Sean Ellis test]]

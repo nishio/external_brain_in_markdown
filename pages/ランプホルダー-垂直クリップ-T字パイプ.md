@@ -1,3 +1,6 @@
+---
+title: "ランプホルダー-垂直クリップ-T字パイプ"
+---
 
 ![image](https://gyazo.com/e40a8a31758ec01fc95a9e0f91d2a810/thumb/1000)
 

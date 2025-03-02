@@ -1,3 +1,6 @@
+---
+title: "What kind of"
+---
 
 "[[What kind of X is that X be?]]"
 

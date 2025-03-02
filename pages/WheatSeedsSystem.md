@@ -1,3 +1,6 @@
+---
+title: "WheatSeedsSystem"
+---
 
 Wheat Seeds System is a mechanism to place custom models on minecraft worlds.
 See all packages:

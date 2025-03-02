@@ -1,3 +1,6 @@
+---
+title: "Kanban"
+---
 
 GithubのProjectタブで作られるものはKanbanと呼ばれている
 see: [[カンバン]]

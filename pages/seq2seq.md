@@ -1,3 +1,6 @@
+---
+title: "seq2seq"
+---
 
 [[チャットボット]]
 [https://github.com/tensorlayer/seq2seq-chatbot](https://github.com/tensorlayer/seq2seq-chatbot)

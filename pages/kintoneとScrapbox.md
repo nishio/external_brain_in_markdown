@@ -1,3 +1,6 @@
+---
+title: "kintoneとScrapbox"
+---
 
 - 例えば[[Scrapbox]]を一日一回APIを使ってクロールして、[[kintone]]のアプリに各ページをレコードとして登録したとする
 - kintoneの機能で

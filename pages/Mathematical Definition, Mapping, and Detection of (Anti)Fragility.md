@@ -1,3 +1,6 @@
+---
+title: "Mathematical Definition, Mapping, and Detection of (Anti)Fragility"
+---
 
 [https://arxiv.org/abs/1208.1189](https://arxiv.org/abs/1208.1189)
 > We provide a mathematical definition of fragility and antifragility as negative or positive sensitivity to a semi-measure of dispersion and volatility (a variant of negative or positive "vega") and examine the link to nonlinear effects. We integrate model error (and biases) into the fragile or antifragile context. Unlike risk, which is linked to psychological notions such as subjective preferences (hence cannot apply to a coffee cup) we offer a measure that is universal and concerns any object that has a probability distribution (whether such distribution is known or, critically, unknown). We propose a detection of fragility, robustness, and antifragility using a single "fast-and-frugal", model-free, probability free heuristic that also picks up exposure to model error. The heuristic lends itself to immediate implementation, and uncovers hidden risks related to company size, forecasting problems, and bank tail exposures (it explains the forecasting biases). While simple to implement, it outperforms stress testing and other such methods such as Value-at-Risk.

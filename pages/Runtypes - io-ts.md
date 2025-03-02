@@ -1,3 +1,6 @@
+---
+title: "Runtypes / io-ts"
+---
 
 > [whitphx_ja:](https://twitter.com/whitphx_ja/status/1436946766167826437) Runtypes推し
 - >  型定義がそのまま型チェッカの実装にもなって楽なので

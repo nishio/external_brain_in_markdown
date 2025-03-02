@@ -1,3 +1,6 @@
+---
+title: "チャットでの書き出し法とKJ法の差：時系列"
+---
 
 2018-11-17
 [Facebook](https://www.facebook.com/nishiohirokazu/posts/10216836467920540)

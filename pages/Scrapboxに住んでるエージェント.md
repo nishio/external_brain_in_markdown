@@ -1,10 +1,13 @@
+---
+title: "Scrapboxに住んでるエージェント"
+---
 
 from [[日記2023-07-29]]
 Scrapboxに住んでるエージェント
 - [[scbot]]
 
 
-from [/omoikane/BabyAGIコードリーディング](https://scrapbox.io/omoikane/BabyAGIコードリーディング)
+from [/omoikane/BabyAGIコードリーディング](https://scrapbox.io/omoikane/BabyAGIコードリーディング) #BabyAGI
 - これを踏まえて「[[Scrapboxに住んでるエージェント]]」について考える
     - Scrapboxに住んでるエージェントならScrapboxのJSONデータを受け取るのが自然
     - 何も明示的なミッションがないならまずは新しい順に読むのが自然
@@ -38,7 +41,7 @@ from [/omoikane/BabyAGIコードリーディング](https://scrapbox.io/omoikane
 - > 本の内容だけが組み立てる材料ではない
 - > 「見つける」と「組み立てる」のグラデーション
 
-情報源が何で、受益者が誰なのか
+[[情報源]]が何で、[[受益者]]が誰なのか
 - これが明確でないから目的が明確にならない
 - このScrapboxにエージェントを住まわせようと考えた時に、暗黙に「情報源/nishio、受益者nishio」を仮定していた
     - これはかなり特殊な状況

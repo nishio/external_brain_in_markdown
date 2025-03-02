@@ -1,3 +1,6 @@
+---
+title: "Some Metaphysical Problems Pragmatically Considered"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁Some Metaphysical Problems Pragmatically Considered

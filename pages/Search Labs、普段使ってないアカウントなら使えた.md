@@ -1,3 +1,6 @@
+---
+title: "Search Labs、普段使ってないアカウントなら使えた"
+---
 
 from [[日記2023-09-30]]
 ![image](https://gyazo.com/7af96e8f43ab4c2cc98b8888c1c83c6b/thumb/1000)

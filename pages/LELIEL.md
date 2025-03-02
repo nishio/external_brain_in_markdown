@@ -1,3 +1,6 @@
+---
+title: "LELIEL"
+---
 
 ![image](https://gyazo.com/227e09f357758240a4f0893a56c42161/thumb/1000)
 元ネタ

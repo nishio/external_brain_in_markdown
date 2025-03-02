@@ -1,3 +1,6 @@
+---
+title: "ABC195E✅"
+---
 
 from [[ABC195]]
 ABC195E

@@ -1,3 +1,6 @@
+---
+title: "AGC003B"
+---
 
 [B - Simplified mahjong](https://atcoder.jp/contests/agc003/tasks/agc003_b)
 - ![image](https://gyazo.com/3776cb4be722fd46b0626492d7a6a6c3/thumb/1000)

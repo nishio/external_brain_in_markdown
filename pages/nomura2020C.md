@@ -1,3 +1,6 @@
+---
+title: "nomura2020C"
+---
 
 [C - Folia](https://atcoder.jp/contests/nomura2020/tasks/nomura2020_c)
 - ![image](https://gyazo.com/7f80f1a1ef30beceaa1abc2ff094f93c/thumb/1000)

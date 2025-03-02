@@ -1,3 +1,6 @@
+---
+title: "Claude-instant-100kの流暢でなさ"
+---
 
 GPT4を使ってた時にはほとんど気にならなかったがClaude-instant-100kを使うと気になる振る舞いがわりとあった
 

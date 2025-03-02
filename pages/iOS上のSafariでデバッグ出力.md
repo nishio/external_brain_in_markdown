@@ -1,3 +1,6 @@
+---
+title: "iOS上のSafariでデバッグ出力"
+---
 
 [モバイルアプリの動作確認とリモートデバッグについて簡単にまとめてみた - Qiita](https://qiita.com/gotchane/items/ea5544d562448f94a99a)
 

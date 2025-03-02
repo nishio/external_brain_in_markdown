@@ -1,3 +1,6 @@
+---
+title: "OSXの画面録画"
+---
 
 from [[pRegroup-done-2019]]
 OSXの画面録画

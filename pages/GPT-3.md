@@ -1,3 +1,6 @@
+---
+title: "GPT-3"
+---
 
 Playground
 - [https://platform.openai.com/playground](https://platform.openai.com/playground)

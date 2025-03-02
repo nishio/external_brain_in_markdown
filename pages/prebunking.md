@@ -1,3 +1,6 @@
+---
+title: "prebunking"
+---
 
 > The practice of countering potential misinformation by warning people against it before it is disseminated.
 >  Synonym: inoculation

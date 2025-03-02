@@ -1,3 +1,6 @@
+---
+title: "xとyから角度を求める"
+---
 
 ![image](https://gyazo.com/a5c611538e2171849e4d0ca459568cec/thumb/1000)
 - 角度をxとyの比に変換するのがタンジェント

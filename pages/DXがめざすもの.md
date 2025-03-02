@@ -1,3 +1,6 @@
+---
+title: "DXがめざすもの"
+---
 
 [https://www.taro.org/2020/12/ｄｘがめざすもの.php](https://www.taro.org/2020/12/ｄｘがめざすもの.php)
 

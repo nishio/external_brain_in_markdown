@@ -1,3 +1,6 @@
+---
+title: "Meanings are likenesses and vice versa(v1)"
+---
 
 from [[「体験過程と意味の創造」勉強会3]]
 Meanings are likenesses and vice versa(v1)

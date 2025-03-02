@@ -1,3 +1,6 @@
+---
+title: "Equality, Equity, Justice"
+---
 
 ![image](https://gyazo.com/adaff8bd5396b29c3b90161a4220fe80/thumb/1000)
 [https://twitter.com/levance_/status/1268079843004026880?s=21](https://twitter.com/levance_/status/1268079843004026880?s=21)

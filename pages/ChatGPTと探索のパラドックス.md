@@ -1,3 +1,6 @@
+---
+title: "ChatGPTと探索のパラドックス"
+---
 
 > [nishio_en](https://twitter.com/nishio_en/status/1639800771360485376) Someone once said, "To extract knowledge from ChatGPT, one must ask the right questions, but to do so, one must already know the answer, right?" This echoes Meno's paradox when he asked Socrates 2403 years ago. A true conundrum! #MenoParadox #Socrates #ChatGPT
 

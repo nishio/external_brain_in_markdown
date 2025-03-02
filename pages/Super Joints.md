@@ -1,3 +1,6 @@
+---
+title: "Super Joints"
+---
 
 ![image](https://gyazo.com/8246433722e7123aeec7cd2ae38fc480/thumb/1000)
 - [Amazon](https://amzn.to/30JfhMt)

@@ -1,3 +1,6 @@
+---
+title: "VRでKJ法"
+---
 
 [[2018]]年に[[Oculus Go]]用に試作した[[VR]]で[[KJ法]]をするプロトタイプ([[VRGROUP]])
 [https://youtu.be/jqJoju1gjWw](https://youtu.be/jqJoju1gjWw)

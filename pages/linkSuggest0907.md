@@ -1,3 +1,6 @@
+---
+title: "linkSuggest0907"
+---
 
 [[pLinkSuggest]]
 - 木を構築しないまま木の探索と等価な処理をするアルゴリズム

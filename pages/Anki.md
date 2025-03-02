@@ -1,3 +1,6 @@
+---
+title: "Anki"
+---
 
 [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 

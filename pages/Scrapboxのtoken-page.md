@@ -1,3 +1,6 @@
+---
+title: "Scrapboxのtoken/page"
+---
 
 ![image](https://gyazo.com/69fca986e181b322019ad629a109187f/thumb/1000)![image](https://gyazo.com/e742c246b4f6d26315f4d35243c7c821/thumb/1000)
 Scrapboxを[[cl100k_base]]でトークナイズするとどれくらいになるのか

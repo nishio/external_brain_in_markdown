@@ -1,3 +1,6 @@
+---
+title: "maxの不等号は不等号のand"
+---
 
 $\max(x, y) < a \iff (x < a) \wedge (y < a)$
 

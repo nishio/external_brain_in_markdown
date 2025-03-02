@@ -1,3 +1,6 @@
+---
+title: "scikit-image"
+---
 
 python
 

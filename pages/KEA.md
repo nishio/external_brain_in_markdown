@@ -1,3 +1,6 @@
+---
+title: "KEA"
+---
 
 [KEA: Practical Automatic Keyphrase Extraction](https://www.cs.waikato.ac.nz/~ml/publications/2005/chap_Witten-et-al_Windows.pdf)
 

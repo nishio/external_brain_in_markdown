@@ -1,3 +1,6 @@
+---
+title: "Programming Languages: Their Core Concepts"
+---
 
 - My book
 - Original title is [[コーディングを支える技術]] in Japanese.

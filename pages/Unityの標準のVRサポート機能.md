@@ -1,3 +1,6 @@
+---
+title: "Unityの標準のVRサポート機能"
+---
 
 Q: 自作のモデルを設置した仮想空間をoculus goで見るところまでに何をする必要がありますか？当方3D知識はメタセコで止まってます。[Facebook](https://www.facebook.com/nishiohirokazu/posts/10215457336603119)
 

@@ -1,3 +1,6 @@
+---
+title: "scrapbox-keicho"
+---
 
 Scrapbox上で動く[[聞き出しチャットシステム]]、[/takker](https://scrapbox.io/takker)作。
 特に支障なく使える。凄い。

@@ -1,3 +1,6 @@
+---
+title: "CanvasInput"
+---
 
 [CanvasInput - HTML5 Canvas Text Input - GoldFire Studios](https://goldfirestudios.com/blog/108/CanvasInput-HTML5-Canvas-Text-Input)
 [[Canvas]]

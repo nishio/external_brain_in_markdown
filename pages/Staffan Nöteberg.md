@@ -1,3 +1,6 @@
+---
+title: "Staffan Nöteberg"
+---
 
 - [[Agile Time Management]] is Japanese translation of [[Pomodoro Technique Illustrated]]
 

@@ -1,3 +1,6 @@
+---
+title: "ABC146D"
+---
 
 [D - Coloring Edges on Tree](https://atcoder.jp/contests/abc146/tasks/abc146_d)
 - ![image](https://gyazo.com/f92ad9c821a31ec19ce1d7da94a425ee/thumb/1000)

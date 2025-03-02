@@ -1,3 +1,6 @@
+---
+title: "✅InvalidStateError"
+---
 
 `Failed to execute 'transaction' on 'IDBDatabase': The database connection is closing.`
 

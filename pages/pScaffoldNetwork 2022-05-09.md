@@ -1,3 +1,6 @@
+---
+title: "pScaffoldNetwork 2022-05-09"
+---
 
 [[足場ネットワーク]]2022-05-09 #pScaffoldNetwork
 MeCabの制約付き解析

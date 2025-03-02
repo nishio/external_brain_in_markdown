@@ -1,3 +1,6 @@
+---
+title: "Tampermonkey"
+---
 
 ユーザが任意のサイトに対してユーザスクリプトを書くことで拡張できるようにするChrome拡張
 [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)

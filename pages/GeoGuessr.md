@@ -1,3 +1,6 @@
+---
+title: "GeoGuessr"
+---
 
 [/geoguessr-nishio](https://scrapbox.io/geoguessr-nishio)
 

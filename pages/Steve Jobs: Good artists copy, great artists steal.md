@@ -1,3 +1,6 @@
+---
+title: "Steve Jobs: Good artists copy, great artists steal"
+---
 
 from [[模倣と創造と知的財産]]
 [[Steve Jobs]]: [[Good artists copy, great artists steal]]

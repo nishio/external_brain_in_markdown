@@ -1,5 +1,8 @@
+---
+title: "ユーザーストーリーのINVEST"
+---
 
-- INDEPENDENT: 互いに[[独立]]していること
+- INDEPENDENT: 互いに[[自立]]していること
 - NEGOTIABLE: [[交渉]]可能
 - VALUABLE: [[価値]]がある
 - ESTIMABLE: [[見積もり]]ができる

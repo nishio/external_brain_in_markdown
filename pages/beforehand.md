@@ -1,3 +1,6 @@
+---
+title: "beforehand"
+---
 
 In Japanese I use opposite words: [[事前]] and [[事後]].
 

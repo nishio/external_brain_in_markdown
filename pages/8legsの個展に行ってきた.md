@@ -1,3 +1,6 @@
+---
+title: "8legsの個展に行ってきた"
+---
 
 ![image](https://gyazo.com/004f7314cc40f2ca0a3e622146207cf2/thumb/1000)
 公式サイトはこちら [https://8legs.jp](https://8legs.jp)

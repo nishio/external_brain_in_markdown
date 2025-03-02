@@ -1,3 +1,6 @@
+---
+title: "Maximal Marginal Relevance"
+---
 
 既に選んだものに似ているものは価値を低く見積もる
 ![image](https://gyazo.com/ed9cbd3c1e60fb8a9ed213ec862d4a8b/thumb/1000)

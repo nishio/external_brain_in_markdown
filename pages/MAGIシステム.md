@@ -1,3 +1,6 @@
+---
+title: "MAGIシステム"
+---
 
 > MAGI（マギ）とは、[[SF]]アニメ『[[新世紀エヴァンゲリオン]]』に登場する架空のスーパーコンピューター・システムの名前である。
 - [https://dic.pixiv.net/a/MAGI](https://dic.pixiv.net/a/MAGI)

@@ -1,3 +1,6 @@
+---
+title: "Regroup v2 解説"
+---
 
 Q: これは何？ A: 手書き図解メモや付箋でのKJ法ができるツール
 ![image](https://gyazo.com/9894b46b9f2da59814a03245e24399ad/thumb/1000)

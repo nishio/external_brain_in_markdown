@@ -1,3 +1,6 @@
+---
+title: "民主主義を発展させるためのテクノロジー「Plurality」"
+---
 
 [[Code for Japan]] [[関 治之]]([/halsk](https://scrapbox.io/halsk))によるSoftware Designへの寄稿(2023)
 - [[民主主義]]を発展させるためのテクノロジー「[[Plurality]]」

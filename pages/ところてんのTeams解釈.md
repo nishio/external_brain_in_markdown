@@ -1,3 +1,6 @@
+---
+title: "ところてんのTeams解釈"
+---
 
 [https://twitter.com/tokoroten/status/1291634779851386882?s=21](https://twitter.com/tokoroten/status/1291634779851386882?s=21)
 > フローコミュニケーションとストックコミュニケーションの区別がついていない人たちが、ストックコミュニケーションをフローコミュニケーション上で行うためのUI

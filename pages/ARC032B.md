@@ -1,3 +1,6 @@
+---
+title: "ARC032B"
+---
 
 [B - 道路工事](https://atcoder.jp/contests/arc032/tasks/arc032_2)
 - ![image](https://gyazo.com/3a26d2a43f71527ecac92f4e128b7046/thumb/1000)

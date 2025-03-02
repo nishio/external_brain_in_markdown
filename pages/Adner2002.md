@@ -1,3 +1,6 @@
+---
+title: "Adner2002"
+---
 
 Adner, R. (2002). When are technologies disruptive? A demand-based view of the emergence of competition. Strategic Management Journal, 23(8), 667–688. [http://doi.org/10.1002/smj.246](http://doi.org/10.1002/smj.246)
 

@@ -1,3 +1,6 @@
+---
+title: "ts-node"
+---
 
 [[TypeScript]]を[[node.js]]で動かす
 `$ ts-node src/foo.ts `

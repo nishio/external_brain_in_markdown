@@ -1,3 +1,6 @@
+---
+title: "Manilleをしてはいけない"
+---
 
 from [[The Art of Worldly Wisdom]]
 Manilleをしてはいけない

@@ -1,3 +1,6 @@
+---
+title: "Clean Approaches For Coaches"
+---
 
 ![image](https://gyazo.com/d7485e4a02c0bcd88a844b5ff3369107/thumb/1000)
 - Clean Approaches For Coaches

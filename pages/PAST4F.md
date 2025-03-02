@@ -1,3 +1,6 @@
+---
+title: "PAST4F"
+---
 
 from [[第四回 アルゴリズム実技検定]]
 PAST4F

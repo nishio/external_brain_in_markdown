@@ -1,5 +1,8 @@
+---
+title: "Self-management strategies for engineers"
+---
 
-<img src='https://scrapbox.io/api/pages/nishio/jaen/icon' alt='jaen.icon' height="19.5"/>Machine Translation of [[エンジニアのための自分経営戦略]]
+<img src='https://scrapbox.io/api/pages/nishio/jaen/icon' alt='jaen.icon' height="19.5"/>Machine Translation from original Japanese presentation [[エンジニアのための自分経営戦略]]
 
 - [[2018-03]]-24 Keynote presentation at [MANABIYA](https://manabiya.tech/)
 - [Presentation material](https://www.dropbox.com/s/iese0p9iq6y33hr/MANABIYA_%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%87%AA%E5%88%86%E7%B5%8C%E5%96%B6%E6%88%A6%E7%95%A5.pdf)(PDF)

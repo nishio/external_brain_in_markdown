@@ -1,3 +1,6 @@
+---
+title: "Linusによる特定言語狂信者の批判"
+---
 
 [[Linus]]による[[特定言語狂信者]]の批判
 > Quite frankly, even if the choice of C were to do nothing but keep the C++ programmers out, that in itself would be a huge reason to use C.

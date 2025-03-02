@@ -1,3 +1,6 @@
+---
+title: "Sparse Composite Document Vectors"
+---
 
 Sparse Composite Document Vectors([[SCDV]])、文章の[[ベクトル化]]
 [https://arxiv.org/abs/1612.06778](https://arxiv.org/abs/1612.06778)

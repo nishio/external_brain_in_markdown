@@ -1,3 +1,6 @@
+---
+title: "Keichobot on ChatGPT"
+---
 
 [[Keichobot]]を[[ChatGPT]]の上で実現する試み
 - 次はGPT3でやる

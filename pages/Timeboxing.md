@@ -1,3 +1,6 @@
+---
+title: "Timeboxing"
+---
 
 - [Timeboxing - Wikipedia](https://en.wikipedia.org/wiki/Timeboxing)
 

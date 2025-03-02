@@ -1,3 +1,6 @@
+---
+title: "Poincaré Embeddings"
+---
 
 - [Hierarchical Representations with Poincaré Variational Auto-Encoders](https://arxiv.org/abs/1901.06033v1)
     - 双曲空間上でVAEしたら嬉しい、という主張

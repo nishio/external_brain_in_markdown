@@ -1,3 +1,6 @@
+---
+title: "Heroku sklearn"
+---
 
 on MacOS
 `$ pip install sklearn`

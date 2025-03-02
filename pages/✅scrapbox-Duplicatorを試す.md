@@ -1,3 +1,6 @@
+---
+title: "✅scrapbox-Duplicatorを試す"
+---
 
 [tkgshn/scrapbox-Duplicator: Scrapboxの非公開・公開プロジェクトを分けて運用する際に面倒な「ページの転送」を自動で行うツール](https://github.com/tkgshn/scrapbox-Duplicator)を試す
 

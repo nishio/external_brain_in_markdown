@@ -1,3 +1,6 @@
+---
+title: "pContinuousTranslation2023-06-01"
+---
 
 [[pContinuousTranslation]]
 ![image](https://gyazo.com/5996dee7830c6ef1091d12bbde40fa2c/thumb/1000)

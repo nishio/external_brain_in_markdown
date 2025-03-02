@@ -1,3 +1,6 @@
+---
+title: "KJ法"
+---
 
 ![image](https://gyazo.com/a4047784d6528313bad382bfccbfb356/thumb/1000)
 
@@ -18,4 +21,3 @@
 体験談
 - [初体験](https://www.facebook.com/nishiohirokazu/posts/10213133710593921) [http://d.hatena.ne.jp/nishiohirokazu/20111020/1319117086](http://d.hatena.ne.jp/nishiohirokazu/20111020/1319117086)
     - 2011年 PRMLをKJ法で整理
-

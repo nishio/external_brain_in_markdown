@@ -1,3 +1,6 @@
+---
+title: "AIの間違いが思考を促す"
+---
 
 [/omoikane/AIの間違いが思考を促す](https://scrapbox.io/omoikane/AIの間違いが思考を促す)
 - AIの誤りが思考を刺激するという観点から、AIと人間の関係性、AIの役割、そしてAIの限界について考察する。

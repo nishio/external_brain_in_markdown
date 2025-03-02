@@ -1,3 +1,6 @@
+---
+title: "Confucianism and Japan"
+---
 
 Confucianism
 - The philosophy and teaching of [[Confucius]], which emphasizes [[self-cultivation]], [[collective harmony]], [[righteousness]] and the [[family structure]]. [Confucianism - Wiktionary](https://en.wiktionary.org/wiki/Confucianism)

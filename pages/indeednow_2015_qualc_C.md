@@ -1,3 +1,6 @@
+---
+title: "indeednow_2015_qualc_C"
+---
 
 [C - 木](https://atcoder.jp/contests/indeednow-qualb/tasks/indeednow_2015_qualc_3)
 - ![image](https://gyazo.com/2908a294054ddde75f3d5615245d2b40/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "DP R"
+---
 
 [R - Walk](https://atcoder.jp/contests/dp/tasks/dp_r)
 - 有向グラフの長さKのパスを数え上げる問題

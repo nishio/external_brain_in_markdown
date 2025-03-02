@@ -1,3 +1,6 @@
+---
+title: "DP O"
+---
 
 [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o)
 - 21個のものの順列のうち、特定の条件を満たすものを数え上げる問題

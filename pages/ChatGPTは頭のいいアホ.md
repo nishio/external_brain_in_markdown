@@ -1,3 +1,6 @@
+---
+title: "ChatGPTは頭のいいアホ"
+---
 
 [nishio](https://twitter.com/nishio/status/1636412574672781315): 友人に「ChatGPTは[[頭のいいアホ]]」って言ったら伝わらなくて残念だったのだが、少なくとも暦本先生になら伝わりそうだとわかって安心したw
 - > [ochyai](https://twitter.com/ochyai/status/1636324913102598144):【落合陽一】ChatGPTと人間どちらが『上か下か』ではない！UI研究の第一人者、[[暦本 純一]]「ChatGPTは“[[すごい賢いバカ]]”だから面白い」

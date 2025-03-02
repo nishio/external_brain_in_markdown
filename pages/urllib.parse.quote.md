@@ -1,3 +1,6 @@
+---
+title: "urllib.parse.quote"
+---
 
 [[Python3]]
 デフォルトでは/がエスケープされない。これはsafeパラメータで制御できる。

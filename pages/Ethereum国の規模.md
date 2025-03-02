@@ -1,3 +1,6 @@
+---
+title: "Ethereum国の規模"
+---
 
 > [@nishio](https://twitter.com/nishio/status/1660496129262493696?s=20): EthereumのTX feeを税収であるとみなした場合の「Ethereum国」の規模は他の国の税収と比べるとどの国ぐらいの規模なのかな？もしくは日本の地方自治体で言うなら何市？
 

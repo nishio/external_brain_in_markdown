@@ -1,3 +1,6 @@
+---
+title: "OSS Gate"
+---
 
 ![image](https://gyazo.com/f84a353b5bc6f470cf93bb36a66f42e5/thumb/1000)
 [OSS入門としてのRailsガイド - Speaker Deck](https://speakerdeck.com/yasslab/railsguides-as-an-oss-gate?slide=4)

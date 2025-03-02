@@ -1,3 +1,6 @@
+---
+title: "find common pattern"
+---
 
 - [[finding common patterns]]
 - [[common pattern]]

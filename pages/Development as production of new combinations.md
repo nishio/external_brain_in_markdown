@@ -1,3 +1,6 @@
+---
+title: "Development as production of new combinations"
+---
 
 [[Joseph Schumpeter]] [[シュンペーター]]の[[Economic Development and Entrepreneurship]](1934) におけるセクション見出し
 有名な[[新結合]]や[[シュンペーターによるイノベーションの定義]]に言及している。

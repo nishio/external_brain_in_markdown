@@ -1,3 +1,6 @@
+---
+title: "DP S"
+---
 
 [S - Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s)
 - ある数K以下の自然数で、条件を満たすものがいくつあるか、という問題

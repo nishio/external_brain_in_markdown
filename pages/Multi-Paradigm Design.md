@@ -1,3 +1,6 @@
+---
+title: "Multi-Paradigm Design"
+---
 
 [[James O. Coplien]] July 8, 2000 11:58 am [PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.7630&rep=rep1&type=pdf)
 

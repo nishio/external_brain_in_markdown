@@ -1,3 +1,6 @@
+---
+title: "PythonでC++をコンパイル"
+---
 
 AtCoder環境でPythonプログラムが2回実行されることを使って、初回でC++で書かれた拡張モジュールをコンパイルし、2回目でインポートするアプローチ
 [https://atcoder.jp/contests/cpsco2019-s1/submissions/14705333](https://atcoder.jp/contests/cpsco2019-s1/submissions/14705333)

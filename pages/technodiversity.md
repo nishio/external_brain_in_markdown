@@ -1,3 +1,6 @@
+---
+title: "technodiversity"
+---
 
 > [@HiroTHamadaJP](https://twitter.com/HiroTHamadaJP/status/1650068418601816064?s=20): [[Plurality]]と並んで [[Yuk Hui]] @digital_objects 氏のtechnodiversityは興味深いと思っている。
 > 特異点以後に収束するのではなく拡散するイメージで言及している。

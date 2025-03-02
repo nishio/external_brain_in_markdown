@@ -1,3 +1,6 @@
+---
+title: "atcoder"
+---
 
 [https://qiita.com/e869120/items/eb50fdaece12be418faa#2-2-2-12-個の基本アルゴリズムをマスターする](https://qiita.com/e869120/items/eb50fdaece12be418faa#2-2-2-12-個の基本アルゴリズムをマスターする)
 [https://qiita.com/e869120/items/acba3dd8649d913102b5#3-2-1-11-個のアルゴリズムを新たにマスターする](https://qiita.com/e869120/items/acba3dd8649d913102b5#3-2-1-11-個のアルゴリズムを新たにマスターする)

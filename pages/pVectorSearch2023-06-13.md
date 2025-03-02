@@ -1,3 +1,6 @@
+---
+title: "pVectorSearch2023-06-13"
+---
 
 from [[日記2023-06-13]]
 prev [[pVectorSearch2023-06-07]]

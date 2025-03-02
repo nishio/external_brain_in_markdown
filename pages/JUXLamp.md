@@ -1,3 +1,6 @@
+---
+title: "JUXLamp"
+---
 
 ![image](https://gyazo.com/06e9b475e58d63a49bf6afe8ed7bc32d/thumb/1000)![image](https://gyazo.com/98d76b5f165dd3be4de69e664298931d/thumb/1000)
 

@@ -1,3 +1,6 @@
+---
+title: "Teacher-Forcing"
+---
 
 ![image](https://gyazo.com/ae986c8c66b27fc57b06cf8991917f64/thumb/1000)
 

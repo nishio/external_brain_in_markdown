@@ -1,3 +1,6 @@
+---
+title: "iCardbook"
+---
 
 > アイカードブック（iCardbook：Intelligent Card Book）は「タイトル＋150文字程度の本文＋参考文献＋註」がセットになった100枚の「知識カード」で構成されたカード型専門書です。
     - [http://society-zero.com/demo/index.html](http://society-zero.com/demo/index.html)

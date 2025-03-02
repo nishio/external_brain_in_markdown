@@ -1,3 +1,6 @@
+---
+title: "Show, don't tell"
+---
 
 「Show, don't tell」は、説明ではなく、読者が物語を体験するための手法である。著者の分析を説明する形容詞を避け、読者が自分自身の結論を導き出すことができるように、場面を描写する。<img src='https://scrapbox.io/api/pages/nishio/omni/icon' alt='omni.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
 

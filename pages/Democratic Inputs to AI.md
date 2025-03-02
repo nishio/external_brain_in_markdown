@@ -1,3 +1,6 @@
+---
+title: "Democratic Inputs to AI"
+---
 
 OpenAIがAIのルール決定のための[[民主的プロセス]]を推進する助成金プログラムを開始
 [https://openai.com/blog/democratic-inputs-to-ai](https://openai.com/blog/democratic-inputs-to-ai)

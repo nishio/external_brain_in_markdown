@@ -1,3 +1,6 @@
+---
+title: "Scrapbox機械翻訳実験"
+---
 
 Japanese: [文章は順繰りに生まれるのではない - 西尾泰和のScrapbox](https://scrapbox.io/nishio/%E6%96%87%E7%AB%A0%E3%81%AF%E9%A0%86%E7%B9%B0%E3%82%8A%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84)
 

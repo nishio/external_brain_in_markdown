@@ -1,3 +1,6 @@
+---
+title: "pScrapboxAutoTrans2023-03-25"
+---
 
 2023-03-25 [[pScrapboxAutoTrans]]
 

@@ -1,3 +1,6 @@
+---
+title: "Engineer's way of creating knowledge"
+---
 
 English translation of my [book](https://scrapbox.io/nishio/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E8%A1%93_%E8%91%97%E8%80%85%E5%85%AC%E5%BC%8F%E3%83%9A%E3%83%BC%E3%82%B8) originally written in Japanese.
 on_scrapbox

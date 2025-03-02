@@ -1,3 +1,6 @@
+---
+title: "Vandermondeの恒等式"
+---
 
 [[二項係数の公式]]
 - $\sum_{i=0}^k \binom{n}{i}\binom{m}{k - i} = \binom{n+m}{k}$

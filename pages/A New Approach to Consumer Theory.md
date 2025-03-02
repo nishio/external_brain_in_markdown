@@ -1,3 +1,6 @@
+---
+title: "A New Approach to Consumer Theory"
+---
 
 [[Lancaster1966]]
 [[Lancaster]]

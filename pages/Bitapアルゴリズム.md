@@ -1,3 +1,6 @@
+---
+title: "Bitapアルゴリズム"
+---
 
 > Bitapアルゴリズムは、ビット演算の並列性を利用した文字列探索アルゴリズム
 >  Baeza–Yates–Gonnetアルゴリズムや、Shift-andアルゴリズム・Shift-orアルゴリズムとも呼ばれる

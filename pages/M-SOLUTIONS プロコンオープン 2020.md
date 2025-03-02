@@ -1,3 +1,6 @@
+---
+title: "M-SOLUTIONS プロコンオープン 2020"
+---
 
 [M-SOLUTIONS プロコンオープン 2020 - AtCoder](https://atcoder.jp/contests/m-solutions2020)
 - 4連休でのんびりしてたらすっぽかしたので事後的に解いた

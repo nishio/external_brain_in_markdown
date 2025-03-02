@@ -1,2 +1,5 @@
+---
+title: "Keichobot"
+---
 
 see [[かんがえをひきだすチャットボットKeichobot]]

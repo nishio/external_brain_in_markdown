@@ -1,3 +1,6 @@
+---
+title: "ABC140D"
+---
 
 [D - Face Produces Unhappiness](https://atcoder.jp/contests/abc140/tasks/abc140_d)
 - ![image](https://gyazo.com/8e967088bef468ccfed5f2beb01a1dd3/thumb/1000)

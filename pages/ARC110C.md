@@ -1,3 +1,6 @@
+---
+title: "ARC110C"
+---
 
 from [[ARC110]]
 [C - Exoswap](https://atcoder.jp/contests/arc110/tasks/arc110_c) [[ARC110F]]に関連問題

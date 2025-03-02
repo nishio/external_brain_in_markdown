@@ -1,3 +1,6 @@
+---
+title: "Drawing lines"
+---
 
 By drawing lines, we can express the [[relationships between distant objects]].
 

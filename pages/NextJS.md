@@ -1,3 +1,6 @@
+---
+title: "NextJS"
+---
 
 [https://nextjs.org/](https://nextjs.org/)
 

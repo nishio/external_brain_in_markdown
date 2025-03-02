@@ -1,3 +1,6 @@
+---
+title: "embeddingは$0.4 / 1M Token"
+---
 
 [Pricing](https://openai.com/pricing) [[Embedding API]]
 > Model	Usage

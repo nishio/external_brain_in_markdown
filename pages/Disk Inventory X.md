@@ -1,3 +1,6 @@
+---
+title: "Disk Inventory X"
+---
 
 [http://www.derlien.com/index.html](http://www.derlien.com/index.html)
 ディスクの使用状況を可視化するアプリ

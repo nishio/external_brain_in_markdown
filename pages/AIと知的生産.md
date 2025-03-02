@@ -1,3 +1,6 @@
+---
+title: "AIと知的生産"
+---
 
 [[学びのサイクル]]
 - ![image](https://gyazo.com/56c35b870ce8e2e8ddcdadc2e346fd3e/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "PDF.jsでレンダリング"
+---
 
 [PDF を Gyazo に展開して Scrapbox の記事にして全文検索する - Diary](https://diary.app.ssig33.com/474?fbclid=IwAR3TbTubD3eiU_TjTUMsmiwI-1iImJwejshTs4Ob4qRdwNNojd4Z-qVMBd8)
 > PDFをドラッグ&ドロップ

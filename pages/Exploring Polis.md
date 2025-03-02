@@ -1,3 +1,6 @@
+---
+title: "Exploring Polis"
+---
 
 [https://www.youtube.com/watch?v=pVJE6GXqzsw](https://www.youtube.com/watch?v=pVJE6GXqzsw)
 [[Polis]]

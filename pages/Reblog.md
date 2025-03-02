@@ -1,3 +1,6 @@
+---
+title: "Reblog"
+---
 
 [/hub/What is reblog?](https://scrapbox.io/hub/What is reblog?)
 若い人Reblogを知らないのかー

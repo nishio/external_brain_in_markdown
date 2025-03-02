@@ -1,3 +1,6 @@
+---
+title: "Spaced Repetitionに説明を追加"
+---
 
 - [[(3.5) Spaced repetition method that lasts knowledge]]
     - > it is beneficial to raise the score in a week

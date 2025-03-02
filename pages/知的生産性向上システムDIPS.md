@@ -1,3 +1,6 @@
+---
+title: "知的生産性向上システムDIPS"
+---
 
 ![image](https://gyazo.com/241e748e57c0363d6841782d62aaa8b6/thumb/1000)
 - 知的[[生産性向上]]システム [[DIPS]]

@@ -1,3 +1,6 @@
+---
+title: "Kaggle LLMコンペ"
+---
 
 > [tamaki_730](https://twitter.com/tamaki_730/status/1714060628720021510) [1st place. Single model inference | Kaggle](https://www.kaggle.com/code/ybabakhin/1st-place-single-model-inference/notebook) LLMコンペの1位解法すごい。1つのモデルで2種類のembeddingから得たcontextからそれぞれ推論して平均しただけで1位のスコアが出ている。
 

@@ -1,3 +1,6 @@
+---
+title: "Scrapboxで文章オンリーのページを作った際に余白を有効活用する"
+---
 
 after ![image](https://gyazo.com/6d868e8276b873d147656a6f74b56ff9/thumb/1000) before ![image](https://gyazo.com/f24234999ac780ee7ed0ee37737d9584/thumb/1000)
 

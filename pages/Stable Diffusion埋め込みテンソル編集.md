@@ -1,3 +1,6 @@
+---
+title: "Stable Diffusion埋め込みテンソル編集"
+---
 
 ![image](https://gyazo.com/d2fccb42c4aed55486e8f02e613aaec0/thumb/1000)
 - この中央一番上にあるのが"cat"と入れた時に生成される画像

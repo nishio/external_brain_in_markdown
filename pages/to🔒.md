@@ -1,3 +1,6 @@
+---
+title: "to🔒"
+---
 
 Scrapboxのページで実行するとタイトルに鍵をつけたページをprivateプロジェクトに作るUserScript。地球マークが元のページへのリンクになっている。
 ![image](https://gyazo.com/ef344a8d007bee6b11d949c2278d0d88/thumb/1000)

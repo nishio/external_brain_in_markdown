@@ -1,3 +1,6 @@
+---
+title: "SentencePieceのユニグラム言語モデル"
+---
 
 [[SentencePiece]]のユニグラム言語モデルについて
 - ![image](https://gyazo.com/60c096fa001c7a81578e8c1e99c021e7/thumb/1000)

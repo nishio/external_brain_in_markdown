@@ -1,3 +1,6 @@
+---
+title: "Kozaneba修行"
+---
 
 from [[Kozaneba:『華厳経』と『荘子』の融合による中国華厳の形成]]
 > [nishio](https://twitter.com/nishio/status/1472076008216236032): 正しい方向に進んでるとわかったのでKozaneba修行の続きをやろう

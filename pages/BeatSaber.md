@@ -1,3 +1,6 @@
+---
+title: "BeatSaber"
+---
 
 [Beat Saber - VR rhythm game](https://beatsaber.com/)
 

@@ -1,3 +1,6 @@
+---
+title: "PolicyGarage"
+---
 
 [PolicyGarage](https://policygarage.or.jp/)
 

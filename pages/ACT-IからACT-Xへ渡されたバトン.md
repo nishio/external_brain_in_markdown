@@ -1,3 +1,6 @@
+---
+title: "ACT-IからACT-Xへ渡されたバトン"
+---
 
 > [@MasatakaGoto](https://twitter.com/MasatakaGoto/status/1686962621071908864?s=20): 「ACT-IからACT-Xへ渡されたバトン」([[後藤 真孝]]) のVR学会誌記事PDFが [URL](https://www.jstage.jst.go.jp/article/jvrsj/28/2/28_42/_article/-char/ja) に掲載されました！(5ページ、無料閲覧可)
 > JST [[ACT-I]]「情報と未来」研究総括を昨年まで務め、[[ACT-X]]「数理・情報のフロンティア」領域運営アドバイザーを現在務めている経験を踏まえた内容になっています

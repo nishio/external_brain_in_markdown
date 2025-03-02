@@ -1,3 +1,6 @@
+---
+title: "Representativeness has given way to representation"
+---
 
 代議士による有権者の意見の代表は、有権者自身による直接的な意見の表現に道を譲りつつある(西尾の意訳)
 

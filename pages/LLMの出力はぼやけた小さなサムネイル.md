@@ -1,3 +1,6 @@
+---
+title: "LLMの出力はぼやけた小さなサムネイル"
+---
 
 [[ChatGPT]]はウェブのぼやけたJPEG画像
 ChatGPT Is a Blurry JPEG of the Web

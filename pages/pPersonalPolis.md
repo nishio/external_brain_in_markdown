@@ -1,3 +1,6 @@
+---
+title: "pPersonalPolis"
+---
 
 Twitterの次のSNSとして「Personal Polis」はどうかということを考えている
 Polis + Mastodon

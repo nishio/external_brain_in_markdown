@@ -1,3 +1,6 @@
+---
+title: "ZOOM F6"
+---
 
 ![image](https://scrapbox.io/files/60badc362fd39d0022b457bf.png)
 [【藤本健のDigital Audio Laboratory】レベル調整不要!? ZOOM「F6」の32bit Float録音が革命的なワケ-AV Watch](https://av.watch.impress.co.jp/docs/series/dal/1323212.html)

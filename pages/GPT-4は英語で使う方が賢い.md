@@ -1,3 +1,6 @@
+---
+title: "GPT-4は英語で使う方が賢い"
+---
 
 [GPT-4](https://openai.com/research/gpt-4)
 - > Many existing ML benchmarks are written in English. To get an initial sense of capability in other languages, we translated the MMLU benchmark—a suite of 14,000 multiple-choice problems spanning 57 subjects—into a variety of languages using Azure Translate (see Appendix).

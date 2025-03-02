@@ -1,3 +1,6 @@
+---
+title: "GPT4かGPT3.5かを見分ける"
+---
 
 > [ActiveTK5929](https://twitter.com/ActiveTK5929/status/1640713653564604418/photo/1) ...ところで、AI自身は「自分はGPT-3である」と認識されているようですが、これはOpenAI側の問題でしょうか・・。
 >  ![image](https://pbs.twimg.com/media/FsT8GePaQAEMk04?format=png&name=small#.png) ![image](https://pbs.twimg.com/media/FsT8IMraYAIu_ks?format=png&name=small#.png)

@@ -1,3 +1,6 @@
+---
+title: "超AI時代の生存戦略"
+---
 
 ![image](https://gyazo.com/fdf83b806d868a589a7d1751801fdec0/thumb/1000)
 - 超AI時代の[[生存戦略]]

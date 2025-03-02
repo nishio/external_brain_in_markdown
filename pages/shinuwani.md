@@ -1,3 +1,6 @@
+---
+title: "shinuwani"
+---
 
 `$ npx create-react-app shinuwani --typescript`
 `$ cd shinuwani`

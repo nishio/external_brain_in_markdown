@@ -1,3 +1,6 @@
+---
+title: "ABC162C"
+---
 
 > このCythonはTLE  [https://atcoder.jp/contests/abc162/submissions/11811351?lang=ja](https://atcoder.jp/contests/abc162/submissions/11811351?lang=ja)
 > このPyPyは通る(947ms) [https://atcoder.jp/contests/abc162/submissions/11828688?lang=ja](https://atcoder.jp/contests/abc162/submissions/11828688?lang=ja)

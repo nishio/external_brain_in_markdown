@@ -1,3 +1,6 @@
+---
+title: "ScrapboxSRS"
+---
 
 see もっといいやつ→[[Scrapbox振り返り機能]]
 

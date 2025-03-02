@@ -1,3 +1,6 @@
+---
+title: "kawahiiiの思考の結節点"
+---
 
 > [kawahiii](https://twitter.com/kawahiii/status/1646306126491955200) 元論文読めてないけど、これ多分たこやき先生の話だ！！！
 >  [[贈与はエゴから始まる]]

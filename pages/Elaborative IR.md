@@ -1,3 +1,6 @@
+---
+title: "Elaborative IR"
+---
 
 [2016-03-04 Facebook](https://www.facebook.com/1129148772/posts/10207976970718647)
 [[Incremental Reading]]をしばらく試してみていて、いま「アハ！」が起きたのでメモしておく。

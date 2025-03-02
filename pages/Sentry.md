@@ -1,3 +1,6 @@
+---
+title: "Sentry"
+---
 
 [[Sentry Memo]]
 

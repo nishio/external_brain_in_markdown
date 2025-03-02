@@ -1,3 +1,6 @@
+---
+title: "Scrapboxと書籍の知識表現とパーマリンクの活用"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>
 - にしおさんの[[Scrapbox]]は断片的でエッセンシャルな知識が吸収しやすく、考えさせられる。

@@ -1,3 +1,6 @@
+---
+title: "ChatGPT Plus新規申し込みを一時停止"
+---
 
 2023-11-15
 > [sama](https://twitter.com/sama/status/1724626002595471740) we are pausing new ChatGPT Plus sign-ups for a bit :(

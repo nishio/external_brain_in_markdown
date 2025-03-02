@@ -1,3 +1,6 @@
+---
+title: "there are 3 kinds of issues:"
+---
 
 from [[pIntEn]]
 there are 3 kinds of issues:

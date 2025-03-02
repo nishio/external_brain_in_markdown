@@ -1,3 +1,6 @@
+---
+title: "PAST4M"
+---
 
 ![image](https://gyazo.com/3a479f29390ab0ae87d7f2087d5d94d4/thumb/1000)
 from [[第四回 アルゴリズム実技検定]]

@@ -1,3 +1,6 @@
+---
+title: "Glitch"
+---
 
 A-frameで作ったものを試しにデプロイする場合の手軽なサービス
 [https://aframe.io/docs/0.8.0/introduction/hosting-and-publishing.html](https://aframe.io/docs/0.8.0/introduction/hosting-and-publishing.html)

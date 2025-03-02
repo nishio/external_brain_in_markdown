@@ -1,3 +1,6 @@
+---
+title: "Leading Public Sector Innovation: Co-creating for a Better Society"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>『Leading Public Sector Innovation: Co-creating for a Better Society』は、公共部門のイノベーションを促進し、より良い社会を創り出すための共創の方法について論じた本です。著者は以下の主要なポイントを強調しています。
 - 公共部門のイノベーションが必要: 現代の複雑で相互依存する問題に対処するために、公共部門は柔軟で革新的なアプローチが必要です。

@@ -1,3 +1,6 @@
+---
+title: "Should AI be considerate of cultural sensitivity assuming a global readership?"
+---
 
 It's unreasonable to demand from developing AI what even humans haven't mastered.
 
@@ -8,5 +11,5 @@ It's good that Americans carelessly use mushroom cloud motifs to offend Japanese
 related
 - [[If it's a good idea, go ahead and do it. It is much easier to apologize than it is to get permission.]]
 
-<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/bashi/icon' alt='bashi.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/Bashi/icon' alt='Bashi.icon' height="19.5"/>
 Translated from [[AIはグローバルな読者を想定して文化的感受性に配慮すべきか？]]

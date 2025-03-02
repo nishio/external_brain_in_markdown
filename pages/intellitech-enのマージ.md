@@ -1,3 +1,6 @@
+---
+title: "intellitech-enのマージ"
+---
 
 2022-01-20
 - いきさつ: [[ScrapboxAutoTrans開発日記2022-01-20]]

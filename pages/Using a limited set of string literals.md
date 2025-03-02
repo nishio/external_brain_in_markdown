@@ -1,3 +1,6 @@
+---
+title: "Using a limited set of string literals"
+---
 
 en [https://basarat.gitbook.io/typescript/type-system/index-signatures#using-a-limited-set-of-string-literals](https://basarat.gitbook.io/typescript/type-system/index-signatures#using-a-limited-set-of-string-literals)
 ja [https://typescript-jp.gitbook.io/deep-dive/type-system/index-signatures#riteraruwosuru](https://typescript-jp.gitbook.io/deep-dive/type-system/index-signatures#riteraruwosuru)

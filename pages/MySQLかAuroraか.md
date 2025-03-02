@@ -1,3 +1,6 @@
+---
+title: "MySQLかAuroraか"
+---
 
 from [[Amazon RDS Proxy]]
 MySQLかAuroraか

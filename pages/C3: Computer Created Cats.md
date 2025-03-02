@@ -1,3 +1,6 @@
+---
+title: "C3: Computer Created Cats"
+---
 
 ![image](https://scrapbox.io/files/63252c5b175334001d628235.png)
 - Instagram: [https://www.instagram.com/c3_computercreatedcats/](https://www.instagram.com/c3_computercreatedcats/)

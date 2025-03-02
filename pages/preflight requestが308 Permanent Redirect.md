@@ -1,3 +1,6 @@
+---
+title: "preflight requestが308 Permanent Redirect"
+---
 
 > Access to fetch at '[http://localhost:5000/api/web/create'](http://localhost:5000/api/web/create') from origin '[http://localhost:3000'](http://localhost:3000') has been blocked by CORS policy: Response to preflight request doesn't pass access control check: Redirect is not allowed for a preflight request.
 

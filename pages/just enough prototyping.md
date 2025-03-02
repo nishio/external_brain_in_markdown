@@ -1,3 +1,6 @@
+---
+title: "just enough prototyping"
+---
 
 > [kur](https://twitter.com/kur/status/1643790057369931776) そういえば[[プロトタイピング]]界隈で”just enough prototyping”というフレーズをよく耳にするなと思ってたし僕も自然に使っていたんだけど、これってもしかして[[CIID]]（かその前身的な[[IDII]]）あたりが出所の用語なのか…？
 

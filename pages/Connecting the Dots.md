@@ -1,3 +1,6 @@
+---
+title: "Connecting the Dots"
+---
 
 [https://www.youtube.com/watch?v=UF8uR6Z6KLc](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 [[Steve Jobs]]

@@ -1,3 +1,6 @@
+---
+title: "✅flexboxで並べたdivの片方だけscroll"
+---
 
 flexboxで2つのdivを左右に並べた時に、左はテキストエリアでコンテンツによっては縦に長くなるからスクロールしたいのだけど、右はメニューなのでそのスクロールを無視して欲しい→できた
 ![image](https://gyazo.com/760ddd3af20adee6fd532bc56601c690/thumb/1000)

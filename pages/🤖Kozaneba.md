@@ -1,3 +1,6 @@
+---
+title: "🤖Kozaneba"
+---
 
 KozanebaとScrapboxの組み合わせが有効
 - 具体的な方法や効果についてはまだ明らかになっていません

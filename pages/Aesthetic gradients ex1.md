@@ -1,3 +1,6 @@
+---
+title: "Aesthetic gradients ex1"
+---
 
 from [[Stable Diffusion 1.4 / 1.5 Comparison]]
 method: [[Aesthetic gradients]]

@@ -1,3 +1,6 @@
+---
+title: "PyCon JP 2014 基調講演"
+---
 
 - 2014-09-17
     - [PyCon JP Blog: PyCon JP 2014 のキーノート（基調講演）スピーカーが決定しました](http://pyconjp.blogspot.jp/2014/06/pycon-jp-2014.html)

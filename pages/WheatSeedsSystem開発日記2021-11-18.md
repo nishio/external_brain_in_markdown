@@ -1,3 +1,6 @@
+---
+title: "WheatSeedsSystem開発日記2021-11-18"
+---
 
 [[pWheatSeedsSystem]]
 [[複数のリソースパックを組み合わせる仕組み]]

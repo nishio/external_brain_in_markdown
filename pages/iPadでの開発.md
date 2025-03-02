@@ -1,3 +1,6 @@
+---
+title: "iPadでの開発"
+---
 
 - python3 -m http.server
 - 同一ネットワーク内でiPadからMacBookに接続できるならこの工程は必要ない

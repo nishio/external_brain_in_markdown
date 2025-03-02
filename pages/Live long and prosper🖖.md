@@ -1,3 +1,6 @@
+---
+title: "Live long and prosper🖖"
+---
 
 [[Live long and prosper]]
 [[🖖]]

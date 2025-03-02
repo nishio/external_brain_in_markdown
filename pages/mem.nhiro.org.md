@@ -1,3 +1,6 @@
+---
+title: "mem.nhiro.org"
+---
 
 Static hosting of this Scrapbox project on custom domain
 - [https://mem.nhiro.org/](https://mem.nhiro.org/)

@@ -1,3 +1,6 @@
+---
+title: "Aesthetic gradients"
+---
 
 [2209.12330 Personalizing Text-to-Image Generation via Aesthetic Gradients](https://arxiv.org/abs/2209.12330)
 

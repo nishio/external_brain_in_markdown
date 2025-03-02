@@ -1,3 +1,6 @@
+---
+title: "KPI"
+---
 
 - いつ生まれた概念？
     - 1990 Performance Indicator

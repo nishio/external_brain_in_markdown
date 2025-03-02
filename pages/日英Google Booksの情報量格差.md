@@ -1,3 +1,6 @@
+---
+title: "日英Google Booksの情報量格差"
+---
 
 from [/villagepump/2023/02/17](https://scrapbox.io/villagepump/2023/02/17)
 - 海外と日本のGoogle Booksで得られる情報量の差が将来埋められない教育レベルの差となって現れるみたいなことを<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>が書いてた気がする<img src='https://scrapbox.io/api/pages/villagepump/mtane0412/icon' alt='/villagepump/mtane0412.icon' height="19.5"/>

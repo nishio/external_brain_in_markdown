@@ -1,3 +1,6 @@
+---
+title: "fusen"
+---
 
 - Small piece of paper with weak glue
 - Post-it (Registered trademark of 3M)

@@ -1,3 +1,6 @@
+---
+title: "Twitter認証済みアカウント"
+---
 
 しばらく止まってた認証プロセスが仕切り直されて再開したらしい
 - > Starting May 20, 2021, we’ll begin rolling out verification applications to everyone.

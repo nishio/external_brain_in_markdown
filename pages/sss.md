@@ -1,3 +1,6 @@
+---
+title: "sss"
+---
 
 
 [https://cruel.org/books/smith01/smith.pdf](https://cruel.org/books/smith01/smith.pdf)

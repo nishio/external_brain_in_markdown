@@ -1,3 +1,6 @@
+---
+title: "Flexbox"
+---
 
 CSS Flexible Box Layout
 - 2009年にWorking draftが出、2021年現在、2018年のCandidate Recommendationが最新

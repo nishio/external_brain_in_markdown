@@ -1,3 +1,6 @@
+---
+title: "Pragmatism's Conception of Truth"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁Pragmatism's Conception of Truth

@@ -1,3 +1,6 @@
+---
+title: "Finding information is an uncertain task."
+---
 
 "[[Finding information]]" is an [[uncertain task]].
 

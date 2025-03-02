@@ -1,3 +1,6 @@
+---
+title: "凹スタッド-オープンスタッド-T型パイプ"
+---
 
 ![image](https://gyazo.com/4a64d6c337217edf2aaafbdcc08097b9/thumb/1000)
 

@@ -1,3 +1,6 @@
+---
+title: "C-space"
+---
 
 Characteristics Spaceの略。財(具体的にはいろいろな種類のある車など)を、それが持つ特徴の多次元ベクトルで表現するもの。
 [[A New Approach to Consumer Theory]]で導入された。

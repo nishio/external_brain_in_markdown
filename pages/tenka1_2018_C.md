@@ -1,3 +1,6 @@
+---
+title: "tenka1_2018_C"
+---
 
 [C - Align](https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_c)
 - ![image](https://gyazo.com/ded3891efa2ce77c3e1abc6275cdbce5/thumb/1000)

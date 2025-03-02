@@ -1,3 +1,6 @@
+---
+title: "Nattoku"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/GPT-4/icon' alt='GPT-4.icon' height="19.5"/>
 - "納得" (nattoku) is a Japanese term that expresses the feeling of understanding, acceptance, or agreement after consideration or comprehension. It refers to a personal, internal realization or consensus.

@@ -1,3 +1,6 @@
+---
+title: "The New New Product Development Game"
+---
 
 Takeuchi, Hirotaka; Nonaka, Ikujiro (January 1, 1986). "New New Product Development Game". Harvard Business Review. Retrieved June 9, 2010. Moving the Scrum Downfield
 

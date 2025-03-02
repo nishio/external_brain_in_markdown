@@ -1,3 +1,6 @@
+---
+title: "is this only about creativity?"
+---
 
 from [[pIntEn]]
 is this only about creativity?

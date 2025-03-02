@@ -1,3 +1,6 @@
+---
+title: "🌀Scrapbox"
+---
 
 ScrapboxとKozanebaは知識ネットワーク形成と情報整理に有効で、特にScrapboxの情報構造化と共同編集は知的生産効率化に寄与します。
 

@@ -1,3 +1,6 @@
+---
+title: "Google Search Generative Experience"
+---
 
 [[Google SGE]] / [[SGE]]
 [https://www.businessinsider.jp/post-274551](https://www.businessinsider.jp/post-274551)

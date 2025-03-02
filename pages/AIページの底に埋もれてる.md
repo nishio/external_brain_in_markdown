@@ -1,3 +1,6 @@
+---
+title: "AIページの底に埋もれてる"
+---
 
 ![image](https://gyazo.com/e037071cc6413a3061fb7908c73346b0/thumb/1000)
 

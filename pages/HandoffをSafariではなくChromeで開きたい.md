@@ -1,3 +1,6 @@
+---
+title: "HandoffをSafariではなくChromeで開きたい"
+---
 
 デフォルトのWebブラウザをChromeにすれば良い
 

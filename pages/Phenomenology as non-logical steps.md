@@ -1,3 +1,6 @@
+---
+title: "Phenomenology as non-logical steps"
+---
 
 from [[非論理的段階としての現象学]]
 Phenomenology as non-logical steps

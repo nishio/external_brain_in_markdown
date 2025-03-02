@@ -1,3 +1,6 @@
+---
+title: "Twitterの距離感についての議論"
+---
 
 > [kouta_hikichi](https://twitter.com/kouta_hikichi/status/1704319635569705433/history) X(Twitter)はZ世代に言わせれば、「人間の距離感バグった」おじさんだらけの場所らしい。これはほんとそうで、引用リツイートとかで失礼な言葉を会ったことのない人に吐き捨てていける人の感覚って本当バグってるなと思う。
 

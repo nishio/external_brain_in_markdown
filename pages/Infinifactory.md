@@ -1,3 +1,6 @@
+---
+title: "Infinifactory"
+---
 
 from [/villagepump/Infinifactory](https://scrapbox.io/villagepump/Infinifactory)
 ![image](https://gyazo.com/07183f1195c82b36601b8c4a3081d963/thumb/1000)

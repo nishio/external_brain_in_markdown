@@ -1,3 +1,6 @@
+---
+title: "Metaphors in Mind: Transformation through Symbolic Modelling"
+---
 
 ![image](https://gyazo.com/956fff9fe92ad949ad67fec0608a71da/thumb/1000)
 - [[Metaphors in Mind]]: Transformation through [[Symbolic Modelling]]

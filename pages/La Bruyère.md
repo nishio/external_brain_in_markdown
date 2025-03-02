@@ -1,3 +1,6 @@
+---
+title: "La Bruyère"
+---
 
 [https://en.wikipedia.org/wiki/Jean_de_La_Bruyère](https://en.wikipedia.org/wiki/Jean_de_La_Bruyère)
 > Of all the possible expressions which might render our thought, there is only one which is the best. One does not always come upon it in writing or talking: it is nevertheless true that it exists.

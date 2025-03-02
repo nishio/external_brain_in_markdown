@@ -1,3 +1,6 @@
+---
+title: "List of metaphors"
+---
 
 - [[boxes]]
     - [[box]]

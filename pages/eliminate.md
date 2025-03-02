@@ -1,3 +1,6 @@
+---
+title: "eliminate"
+---
 
 from [[pIntEn]]
 eliminate

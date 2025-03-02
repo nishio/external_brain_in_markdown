@@ -1,3 +1,6 @@
+---
+title: "RAKE"
+---
 
 - Rapid Automatic Keyword Extraction (RAKE)
 - [Automatic Keyword Extraction from Individual Documents](https://www.researchgate.net/publication/227988510_Automatic_Keyword_Extraction_from_Individual_Documents)

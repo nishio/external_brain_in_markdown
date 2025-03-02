@@ -1,3 +1,6 @@
+---
+title: "CAN Bus"
+---
 
 [CAN bus - Wikipedia](https://en.wikipedia.org/wiki/CAN_bus) [Controller Area Network - Wikipedia](https://ja.wikipedia.org/wiki/Controller_Area_Network)
 [[RoboMaster S1]]のモジュール間の通信に使われている規格

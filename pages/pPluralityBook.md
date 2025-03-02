@@ -1,3 +1,6 @@
+---
+title: "pPluralityBook"
+---
 
 [[pluralitybook]]の翻訳に関して
 

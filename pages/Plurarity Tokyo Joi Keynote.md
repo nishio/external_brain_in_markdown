@@ -1,3 +1,6 @@
+---
+title: "Plurarity Tokyo Joi Keynote"
+---
 
 from [[簿記と会計の再発明 (確実性を求めて)]]
 Plurarity Tokyo Joi Keynote

@@ -1,3 +1,6 @@
+---
+title: "pseudoforest"
+---
 
 $|V| = |E|$であるグラフ
 

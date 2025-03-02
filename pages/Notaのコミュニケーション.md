@@ -1,3 +1,6 @@
+---
+title: "Notaのコミュニケーション"
+---
 
 [/nota-techconf/Day2 質問・雑談コーナー#6048acd579d3a900009a6181](https://scrapbox.io/nota-techconf/Day2 質問・雑談コーナー#6048acd579d3a900009a6181)
 - GyazoはなるべくGitHub Issues

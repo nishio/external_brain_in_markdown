@@ -1,3 +1,6 @@
+---
+title: "Cloud FunctionsでFirestoreに保存する"
+---
 
 公式のサンプルがあるのでそれを見ると良い
 [functions-samples/quickstarts/uppercase-firestore at main · firebase/functions-samples · GitHub](https://github.com/firebase/functions-samples/tree/main/quickstarts/uppercase-firestore)

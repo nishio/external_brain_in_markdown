@@ -1,3 +1,6 @@
+---
+title: "Embedded Browser"
+---
 
 ![image](https://gyazo.com/e4d65a93ddf4b34aee995e2212fafa8e/thumb/1000)
 

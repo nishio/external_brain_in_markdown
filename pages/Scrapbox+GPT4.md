@@ -1,3 +1,6 @@
+---
+title: "Scrapbox+GPT4"
+---
 
 [[Scrapbox ChatGPT Connector]]を[[GPT-4]]に繋いだ
 - (APIはまだなのでクリップボード経由、このコードもGPT-4に聞いた)

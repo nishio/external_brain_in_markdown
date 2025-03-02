@@ -1,3 +1,6 @@
+---
+title: "ScrapboxAutoTrans開発日記2021-10-30"
+---
 
 案
 ![image](https://gyazo.com/d9fc2917b653842e06c9a9e6701cd270/thumb/1000)

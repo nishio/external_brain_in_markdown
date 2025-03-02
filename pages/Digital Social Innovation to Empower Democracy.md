@@ -1,3 +1,6 @@
+---
+title: "Digital Social Innovation to Empower Democracy"
+---
 
 [https://youtu.be/LscTx6DHh9I?t=416](https://youtu.be/LscTx6DHh9I?t=416)
 

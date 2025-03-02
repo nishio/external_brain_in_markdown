@@ -1,3 +1,6 @@
+---
+title: "RBST"
+---
 
 Randomized Binary Search Tree
 - [[ABC170 E]]の解説で

@@ -1,3 +1,6 @@
+---
+title: "UX FOR LEAN STARTUPS"
+---
 
 ![image](https://images-fe.ssl-images-amazon.com/images/I/51GAwxuhbSL.jpg)
 - [[UX]] FOR [[LEAN]] STARTUPS

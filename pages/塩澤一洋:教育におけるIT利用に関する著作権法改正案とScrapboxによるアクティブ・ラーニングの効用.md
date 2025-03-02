@@ -1,3 +1,6 @@
+---
+title: "塩澤一洋:教育におけるIT利用に関する著作権法改正案とScrapboxによるアクティブ・ラーニングの効用"
+---
 
 [/shiozawa88](https://scrapbox.io/shiozawa88)
 

@@ -1,3 +1,6 @@
+---
+title: "Ising formulations of many NP problems"
+---
 
 - [Ising formulations of many NP problems](https://arxiv.org/abs/1302.5843)
 - Number Partitioning

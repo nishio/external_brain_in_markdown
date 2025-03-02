@@ -1,3 +1,6 @@
+---
+title: "World ID"
+---
 
 ![image](https://gyazo.com/1937d1600c897f2d6cbbccfe768d1140/thumb/1000)
 [World ID](https://worldcoin.org/world-id)

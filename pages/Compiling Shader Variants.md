@@ -1,3 +1,6 @@
+---
+title: "Compiling Shader Variants"
+---
 
 やたら時間がかかる。なぜ？
 

@@ -1,3 +1,6 @@
+---
+title: "How digital innovation can fight pandemics and strengthen democracy"
+---
 
 [https://www.youtube.com/watch?v=IZ2N3tF4W_k](https://www.youtube.com/watch?v=IZ2N3tF4W_k)
 

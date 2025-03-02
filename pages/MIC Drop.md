@@ -1,7 +1,10 @@
+---
+title: "MIC Drop"
+---
 
 [[BTSの曲]]
 - [[アンチ]](Hater)に対するメッセージ
-- [[バルタザール・グラシアン]]の「自分の成功をあいての毒にするのが最も巧妙な罰である」をやってる
+- [[バルタザール・グラシアン]]の「[[自分の成功を相手の毒にするのが最も巧妙な罰]]である」をやってる
 
 [https://ameblo.jp/0kuuuuuumi0/entry-12436627635.html](https://ameblo.jp/0kuuuuuumi0/entry-12436627635.html)
 >  Haters gon’ hate

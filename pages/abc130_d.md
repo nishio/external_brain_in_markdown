@@ -1,3 +1,6 @@
+---
+title: "abc130_d"
+---
 
 [D - Enough Array](https://atcoder.jp/contests/abc130/tasks/abc130_d)
 - 数列が与えられて、その数列の連続部分列で、総和がK以上のものを数え上げる

@@ -1,3 +1,6 @@
+---
+title: "Theatrocracy"
+---
 
 from [[アテンションを集めることによる正統性]]
 Theatrocracy

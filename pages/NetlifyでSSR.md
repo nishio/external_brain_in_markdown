@@ -1,3 +1,6 @@
+---
+title: "NetlifyでSSR"
+---
 
 [[SSR]]: [[Server Side Rendering]]
 - [How to Build a Serverless, SEO-friendly React blog | Netlify](https://www.netlify.com/blog/2017/09/26/how-to-build-a-serverless-seo-friendly-react-blog/)

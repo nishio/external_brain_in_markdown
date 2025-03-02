@@ -1,3 +1,6 @@
+---
+title: "OpenAIの「Democratic inputs to AI」に応募した話"
+---
 
 for [[LLM Meetup Tokyo #3]] 2023-07-05 by 西尾泰和
 - backup from [/omoikane/OpenAIの「Democratic inputs to AI」に応募した話](https://scrapbox.io/omoikane/OpenAIの「Democratic inputs to AI」に応募した話)
@@ -74,7 +77,7 @@ for [[LLM Meetup Tokyo #3]] 2023-07-05 by 西尾泰和
 - [[Polis]]のことはOpenAI自身もグラント解説文の中で名指ししているし、実例としてPolisにインスパイアされたシステムを紹介している、この分野を語る上で重要な要素技術
     - 先日[[Anthropic]]とPolisのジョイントチームからプレプリントが出てたので読むといいかも
         - [/nishio/Opportunities and Risks of LLMs for Scalable Deliberation with Polis](https://scrapbox.io/nishio/Opportunities and Risks of LLMs for Scalable Deliberation with Polis)
-- Polisは複数人が複数の質問にYes/Noで答えることで「投票行列」ができ、これの可視化とクラスタリングをするシステム
+- Polisは複数人が複数の質問にYes/Noで答えることで「[[投票行列]]」ができ、これの可視化とクラスタリングをするシステム
 - ![image](https://scrapbox.io/files/64a1c2e1128d84001bd26066.png)
 - 複数人が複数の質問に答えることで「人々の主観の分布」を得る
     - [[一人の主観から大勢の主観へ]]

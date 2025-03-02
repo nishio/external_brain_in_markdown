@@ -1,3 +1,6 @@
+---
+title: "Small World"
+---
 
 - [日本型雇用を誰が殺したのか - KYの雑記ログ](https://crossacross.org/ky/Who+ruined+Japanese+employment+system+part+1)
 - nishio:

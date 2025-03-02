@@ -1,3 +1,6 @@
+---
+title: "Minecraft Java版サーバにSwitchから繋ぐ"
+---
 
 MinecraftのJava版互換サーバ(Spigot, Paperなど。この記事で使ってるのはPaper)に
 Nintendo Switch(つまりBedrock版)から

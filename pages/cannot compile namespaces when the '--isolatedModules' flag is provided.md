@@ -1,3 +1,6 @@
+---
+title: "cannot compile namespaces when the '--isolatedModules' flag is provided"
+---
 
 - [[React]] [[TypeScript]]
 - [[create-react-app]]した時に自動で'--isolatedModules'フラグがつく

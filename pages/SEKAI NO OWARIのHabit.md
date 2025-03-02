@@ -1,3 +1,6 @@
+---
+title: "SEKAI NO OWARIのHabit"
+---
 
 from [/villagepump/紅白歌合戦2022](https://scrapbox.io/villagepump/紅白歌合戦2022)
 >  【紅】[[SEKAI NO OWARI]]（6）

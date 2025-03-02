@@ -1,3 +1,6 @@
+---
+title: "scrapbox project同士を繋げられない"
+---
 
 from [/villagepump/scrapbox project同士を繋げられない](https://scrapbox.io/villagepump/scrapbox project同士を繋げられない)
 [[scrapbox project]]ごとにページのつながりが分断されることで起こる現象

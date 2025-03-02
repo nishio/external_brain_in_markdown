@@ -1,3 +1,6 @@
+---
+title: "dwango2015_prelims_2"
+---
 
 [B - ニコニコ文字列](https://atcoder.jp/contests/dwango2015-prelims/tasks/dwango2015_prelims_2)
 - 与えられた文字列から「25」の繰り返しの文字列を切り出す方法がいくつあるか[[数え上げ]]る

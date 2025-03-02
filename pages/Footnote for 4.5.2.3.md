@@ -1,3 +1,6 @@
+---
+title: "Footnote for 4.5.2.3"
+---
 
 Footnote for [[(4.5.2.3) Get the tools of thinking]]
 

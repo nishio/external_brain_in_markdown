@@ -1,3 +1,6 @@
+---
+title: "Design rules: The power of modularity"
+---
 
 [[Baldwin&Clerk2000]]
 [[DSM]]

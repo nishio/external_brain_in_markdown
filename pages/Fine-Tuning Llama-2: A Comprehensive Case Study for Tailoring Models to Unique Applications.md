@@ -1,3 +1,6 @@
+---
+title: "Fine-Tuning Llama-2: A Comprehensive Case Study for Tailoring Models to Unique Applications"
+---
 
 [[Llama2]]のFine tuningガイド
 - [Fine-Tuning Llama-2: A Comprehensive Case Study for Tailoring Models to Unique Applications](https://www.anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications)

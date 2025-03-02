@@ -1,3 +1,6 @@
+---
+title: "Duplicateはincoming linkを消す操作"
+---
 
 ![image](https://gyazo.com/4dab94671b058653aa3d63baaa6ef5d7/thumb/1000)
 [[Duplicate this page]]

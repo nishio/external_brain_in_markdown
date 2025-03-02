@@ -1,3 +1,6 @@
+---
+title: "extract"
+---
 
 - [[make extracts]]
 - make [[excerption]]s

@@ -1,3 +1,6 @@
+---
+title: "LLMに教える"
+---
 
 > [@Dr_Kano](https://twitter.com/Dr_Kano/status/1648522827367325696?s=20): 本日の宿題
 > ![image](https://gyazo.com/6b0b8b1784935a0981ea9776c81e7256/thumb/1000)

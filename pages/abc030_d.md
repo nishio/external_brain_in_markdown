@@ -1,3 +1,6 @@
+---
+title: "abc030_d"
+---
 
 [https://atcoder.jp/contests/abc030/tasks/abc030_d](https://atcoder.jp/contests/abc030/tasks/abc030_d)
 考えたこと

@@ -1,3 +1,6 @@
+---
+title: "WebでAR"
+---
 
 [A-FrameとAR.jsで超簡単AR（PC・スマホ・マルチマーカー対応） - Qiita](https://qiita.com/mkoku/items/c635566e829c303a7d3f)
 [AR.js — The Simplest Way to get Cross-Browser Augmented Reality on the Web](https://medium.com/swlh/ar-js-the-simplest-way-to-get-cross-browser-augmented-reality-on-the-web-10cbc721debc)

@@ -1,3 +1,6 @@
+---
+title: "ReactN"
+---
 
 Reactの状態管理を一つのオブジェクトにまとめることでシンプルにする。しばらく使ってるけど便利。
 - [Redux不要論と、グローバル状態管理ライブラリReactNの紹介 - Qiita](https://qiita.com/tuttieee/items/e5b2725b3e58cae9ddd6?fbclid=IwAR0PyerLkVqpkGYfnd6EPGt7IVVBXlc3ei5VkWhMutmX8kKzvL4DridbW_4)

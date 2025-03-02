@@ -1,3 +1,6 @@
+---
+title: "In this era"
+---
 
 from [[pIntEn]]
 In this era

@@ -1,3 +1,6 @@
+---
+title: "the meaning of a word is its use in the language"
+---
 
 - [[Ludwig Wittgenstein]]
     - [Ludwig Wittgenstein (Stanford Encyclopedia of Philosophy) Meaning as Use](https://plato.stanford.edu/entries/wittgenstein/#MeanUse)

@@ -1,3 +1,6 @@
+---
+title: "React Hook useEffect has missing dependencies"
+---
 
 ts
 

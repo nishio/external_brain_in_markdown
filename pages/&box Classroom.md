@@ -1,3 +1,6 @@
+---
+title: "&box Classroom"
+---
 
 [https://classroom.andbox.org/](https://classroom.andbox.org/)
 > 教室で[[生成AI]]を取り入れた[[授業]]を行うことを想定して、先生の監督のもとで生徒が生成AIと協働して学べる環境づくりを目指して開発を行っています。

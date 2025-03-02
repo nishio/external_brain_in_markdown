@@ -1,3 +1,6 @@
+---
+title: "KUPC2016E"
+---
 
 ![image](https://gyazo.com/19a364bf2a992c7c4331dbbf4ef6bb37/thumb/1000)
 [E - 柵](https://atcoder.jp/contests/kupc2016/tasks/kupc2016_e)

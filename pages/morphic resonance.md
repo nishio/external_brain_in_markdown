@@ -1,3 +1,6 @@
+---
+title: "morphic resonance"
+---
 
 ![image](https://gyazo.com/80c776d548433277e090fce18ba69179/thumb/1000)
 

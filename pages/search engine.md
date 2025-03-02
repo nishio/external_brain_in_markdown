@@ -1,3 +1,6 @@
+---
+title: "search engine"
+---
 
 - Softwares to enhance [[information finding ability]]
 - [[search]] in the [[Internet]]

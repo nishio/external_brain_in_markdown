@@ -1,3 +1,6 @@
+---
+title: "DOMの画像化"
+---
 
 - [tsayen/dom-to-image: Generates an image from a DOM node using HTML5 canvas](https://github.com/tsayen/dom-to-image)
 

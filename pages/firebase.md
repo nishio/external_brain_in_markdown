@@ -1,3 +1,6 @@
+---
+title: "firebase"
+---
 
 `$ npm install --save firebase`
 [firebase - npm](https://www.npmjs.com/package/firebase)

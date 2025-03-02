@@ -1,3 +1,6 @@
+---
+title: "Firestore"
+---
 
 - 目次
     - [https://firebase.google.com/docs/firestore/](https://firebase.google.com/docs/firestore/)

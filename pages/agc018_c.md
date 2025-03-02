@@ -1,3 +1,6 @@
+---
+title: "agc018_c"
+---
 
 [C - Coins](https://atcoder.jp/contests/agc018/tasks/agc018_c)
 ![image](https://gyazo.com/a699700f574f70d6d75e4d04dcf31e26/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "Personal Knowledge Base"
+---
 
 > A personal knowledge base (PKB) is an electronic tool used to express, capture, and later retrieve the personal knowledge of an individual. It differs from a traditional database in that it contains subjective material particular to the owner, that others may not agree with nor care about. Importantly, a PKB consists primarily of knowledge, rather than information; in other words, it is not a collection of documents or other sources an individual has encountered, but rather an expression of the distilled knowledge the owner has extracted from those sources or from elsewhere.
 - [Personal knowledge base - Wikipedia](https://en.wikipedia.org/wiki/Personal_knowledge_base)

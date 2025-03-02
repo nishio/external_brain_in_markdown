@@ -1,3 +1,6 @@
+---
+title: "複数言語でScrapboxを運用する"
+---
 
 from [/villagepump/複数言語でScrapboxを運用する](https://scrapbox.io/villagepump/複数言語でScrapboxを運用する)
 - 英語と日本語が混在する様な形でScrapboxプロジェクトを運用することって出来るのかな<img src='https://scrapbox.io/api/pages/villagepump/bluemountain/icon' alt='/villagepump/bluemountain.icon' height="19.5"/>

@@ -1,3 +1,6 @@
+---
+title: "Computer supported brainstorming"
+---
 
 > Brainstorming exists in many forms, but first began to be formalized in graphical representation known as "concept mapping" by [[Joseph D. Novak]] of Cornell University in the 1970s. [[Concept mapping]] involved collecting and organizing information in a hierarchical fashion.
 Computer supported brainstorming - Wikipedia

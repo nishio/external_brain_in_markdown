@@ -1,3 +1,6 @@
+---
+title: "ABC132D"
+---
 
 [D - Blue and Red Balls](https://atcoder.jp/contests/abc132/tasks/abc132_d)
 - ![image](https://gyazo.com/b40880b288c4dd49649f7ecc52b89ecc/thumb/1000)

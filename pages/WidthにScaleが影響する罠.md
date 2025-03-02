@@ -1,3 +1,6 @@
+---
+title: "WidthにScaleが影響する罠"
+---
 
 [[Rect Transform]]のPosにはScaleが影響しないが、WidthにはScaleが影響する
 - これに気付いていないと予期せず小さすぎるWidth, Heightを指定してしまう

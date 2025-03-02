@@ -1,3 +1,6 @@
+---
+title: "AIという異世界カメラ"
+---
 
 [AIと呪文で、もう逢えない妻の新しい写真を捏造した（CloseBox） | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2022/12/17/634.html)
 [AIという異世界カメラ。旅立った妻の美しい姿を写す呪文の唱え方（CloseBox） | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2022/12/27/663.html)

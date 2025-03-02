@@ -1,3 +1,6 @@
+---
+title: "HelpfeelとAI"
+---
 
 2023
 3/8 [FAQシステム「Helpfeel」にChatGPTによるFAQ自動作成機能「Generative Writer」 | IT Leaders](https://it.impress.co.jp/articles/-/24545)

@@ -1,3 +1,6 @@
+---
+title: "Keichobot on GPT-3.5-Turboの開発方針をKeichobot on GPT-3.5-Turboに相談した"
+---
 
 質問して言語化を促す[[かんがえをひきだすチャットボットKeichobot]]を[[GPT-3.5-Turbo]]で実現する実験([[Keichobot on GPT-3.5-Turbo]])の過程で生まれた会話ログ
 

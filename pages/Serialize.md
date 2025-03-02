@@ -1,3 +1,6 @@
+---
+title: "Serialize"
+---
 
 [https://docs.unity3d.com/Manual/script-Serialization.html](https://docs.unity3d.com/Manual/script-Serialization.html)
 > Container field types that can be serialized

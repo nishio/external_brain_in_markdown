@@ -1,3 +1,6 @@
+---
+title: "Wikiモード"
+---
 
 [[Wiki]]の各ページの使われ方を類型化したもの。(世界初のWikiを開発した[カニンガム](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%82%AB%E3%83%8B%E3%83%B3%E3%82%AC%E3%83%A0)のC2 Wikiにまとめられている)
 

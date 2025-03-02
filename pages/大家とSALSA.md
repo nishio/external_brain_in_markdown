@@ -1,3 +1,6 @@
+---
+title: "大家とSALSA"
+---
 
 > [nishio](https://twitter.com/nishio/status/1681374806938361856) 通常の賃貸契約で5万×12ヶ月の60万で1年住める家を[[SALSA]]にした場合、税額が60万になるところまで査定額が上昇しそうだけど、税率が10%の場合それって600万な訳だよね。想定ユーザの大部分は即金で600万出せないし、1年後に売却できないリスクに耐えられるリスク許容度がないんじゃない？？
 
@@ -10,3 +13,6 @@
 - [/tkgshn/Partial Common Ownership/Plural Property: In Conversation with Will Holley, Graven Prest, Kevin Seagraves](https://scrapbox.io/tkgshn/Partial Common Ownership/Plural Property: In Conversation with Will Holley, Graven Prest, Kevin Seagraves)
 
 from [[日記2023-07-19]]
+
+2024-01-26追記
+- [[Curveファイナンス]]みたいにリスク許容度の低い人向けのデリバティブが生まれるのかもな

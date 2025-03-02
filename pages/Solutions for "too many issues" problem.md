@@ -1,3 +1,6 @@
+---
+title: 'Solutions for "too many issues" problem'
+---
 
 
 When we got too many posts, I think the LLM could help us to digest and summarizing people's posts.

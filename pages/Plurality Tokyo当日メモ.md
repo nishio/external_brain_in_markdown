@@ -1,3 +1,6 @@
+---
+title: "Plurality Tokyo当日メモ"
+---
 
 2023-04-12 [[Plurality Tokyo]]当日のメモ
 

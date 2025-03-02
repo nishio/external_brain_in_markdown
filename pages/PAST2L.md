@@ -1,3 +1,6 @@
+---
+title: "PAST2L"
+---
 
 from [[第二回 アルゴリズム実技検定]]
 PAST2L

@@ -1,3 +1,6 @@
+---
+title: "信念が罪であれば私はvillain"
+---
 
 > 신념이 죄면 난 villain
 [[ルセラフィム]]の曲[[UNFORGIVEN]]の歌詞の一節

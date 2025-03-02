@@ -1,3 +1,6 @@
+---
+title: "Jason Warnerとマイクロサービス"
+---
 
 Jason Warner(Now: MD @redpoint, Prior: CTO @github, @heroku, @Canonical)が[[マイクロサービス]]についての考えをツイートしたところ「GithubのCTOが『マイクロサービスは失敗だった』と言っている」みたいに一部分だけ切り取ってバズった。そういうのは本当に良くないのでちゃんと全文を読もうよと言うことでまとめた。
 

@@ -1,3 +1,6 @@
+---
+title: "ReLU"
+---
 
 Rectified Linear Unit
 ![image](https://gyazo.com/848e2236bab02732e1979df7acdf684c/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "Redux化"
+---
 
 こんな感じですかね。 [[Redux]]+[[TypeScript]]
 

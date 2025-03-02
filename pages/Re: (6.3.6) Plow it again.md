@@ -1,3 +1,6 @@
+---
+title: "Re: (6.3.6) Plow it again"
+---
 
 Re: [[(6.3.6) Plow it again]]
 うーん、ちょっと片方に寄りすぎてるかもな。

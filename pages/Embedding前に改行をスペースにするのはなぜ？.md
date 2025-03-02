@@ -1,3 +1,6 @@
+---
+title: "Embedding前に改行をスペースにするのはなぜ？"
+---
 
 [OpenAI API](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings)のサンプルコードではこんなことが書いてある
 python

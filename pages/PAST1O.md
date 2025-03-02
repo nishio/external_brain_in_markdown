@@ -1,3 +1,6 @@
+---
+title: "PAST1O"
+---
 
 [O - 持久戦](https://atcoder.jp/contests/past201912-open/tasks/past201912_o)
 ![image](https://gyazo.com/a96588a2faae92214acd0e7b6e653209/thumb/1000)

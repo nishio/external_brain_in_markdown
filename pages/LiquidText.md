@@ -1,3 +1,6 @@
+---
+title: "LiquidText"
+---
 
 [http://www2.metro-cit.ac.jp/~hkob/2018/12/07/liquidtext.html](http://www2.metro-cit.ac.jp/~hkob/2018/12/07/liquidtext.html)
 

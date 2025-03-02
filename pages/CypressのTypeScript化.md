@@ -1,3 +1,6 @@
+---
+title: "CypressのTypeScript化"
+---
 
 テストコードをTSにするかJSにするかという話、とりあえずデフォルトのJSでやってたけど[[immerで更新してCypressでテスト]]で、型で補完が効かないせいで早速Typoしたので、やっぱり[[Cypress]]の[[TypeScript]]化は必須だという結論になった。
 

@@ -1,3 +1,6 @@
+---
+title: "ChatGPT Retrieval Plugin"
+---
 
 - [[chatgpt-retrieval-plugin]]
     - [GitHub - openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)

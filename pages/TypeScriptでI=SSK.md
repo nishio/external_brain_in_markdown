@@ -1,3 +1,6 @@
+---
+title: "TypeScriptでI=SSK"
+---
 
 [[TypeScriptの型]]
 ts

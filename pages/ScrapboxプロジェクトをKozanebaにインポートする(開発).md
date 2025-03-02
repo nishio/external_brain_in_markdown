@@ -1,3 +1,6 @@
+---
+title: "ScrapboxプロジェクトをKozanebaにインポートする(開発)"
+---
 
 from [/villagepump/ScrapboxプロジェクトをKozanebaにインポートする(開発)](https://scrapbox.io/villagepump/ScrapboxプロジェクトをKozanebaにインポートする(開発))
 サクッとできる話ではないことがわかったので思考過程をここに置いていく<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>

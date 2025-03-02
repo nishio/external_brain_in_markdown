@@ -1,3 +1,6 @@
+---
+title: "kVK JIS"
+---
 
 from [[Lacaille改造]]
 kVK_JIS

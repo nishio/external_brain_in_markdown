@@ -1,3 +1,6 @@
+---
+title: "Linkographic Evidence for Concurrent Divergent and Convergent Thinking in Creative Design"
+---
 
 Linkographic Evidence for Concurrent Divergent and Convergent Thinking in Creative Design
 [[Gabriela Goldschmidt]]

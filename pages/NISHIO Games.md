@@ -1,3 +1,6 @@
+---
+title: "NISHIO Games"
+---
 
 YouTubeチャンネルを作ってみた
 - [NISHIO Games](http://www.youtube.com/channel/UC9JWBESfwOvMnVYBqF8PfQg)

@@ -1,3 +1,6 @@
+---
+title: "CodeMaoIDE"
+---
 
 from [[未踏ジュニア深圳ツアー2019]]
 CodeMaoIDE

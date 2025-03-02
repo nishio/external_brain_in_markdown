@@ -1,3 +1,6 @@
+---
+title: "JimoKids"
+---
 
 > 石蔵秘密基地 by Jimokidsは、北区滝野川にある築60年の蔵を改装してオープンした、大人と子どもの”[[サードプレイス]]”です。
 [https://jimokids.com/](https://jimokids.com/)

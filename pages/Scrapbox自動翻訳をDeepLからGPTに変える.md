@@ -1,3 +1,6 @@
+---
+title: "Scrapbox自動翻訳をDeepLからGPTに変える"
+---
 
 __BELOW_IS_AI_GENERATED__
 # Scrapbox自動翻訳をDeepLからGPTに変える

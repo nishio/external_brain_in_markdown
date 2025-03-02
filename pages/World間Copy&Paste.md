@@ -1,3 +1,6 @@
+---
+title: "World間Copy&Paste"
+---
 
 World間Copy&Pasteできた
 ![image](https://gyazo.com/9232a70499465d09800a27f8530e336b/thumb/1000)

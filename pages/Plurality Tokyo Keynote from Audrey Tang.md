@@ -1,5 +1,8 @@
+---
+title: "Plurality Tokyo Keynote from Audrey Tang"
+---
 
-[https://www.youtube.com/watch?v=JyAJrRFRCiA](https://www.youtube.com/watch?v=JyAJrRFRCiA)
+[https://www.youtube.com/watch?v=O89cDhGfXAg](https://www.youtube.com/watch?v=O89cDhGfXAg)
 [[Plurality Tokyo]] Keynote from [[Audrey Tang]]
 
 動画キャプションの英語を元に翻訳しました
@@ -180,3 +183,5 @@ DM from @AkioHoshi
     - 訳注に入れました
 
 
+2024-07-01
+当初[Code for Japanチャンネルで公開していました](https://www.youtube.com/watch?v=JyAJrRFRCiA)がPlurality Tokyoによる動画が増えてきたことからPluraity Tokyoのチャンネルを作ってそこに動かしました

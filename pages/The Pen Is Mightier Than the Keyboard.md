@@ -1,3 +1,6 @@
+---
+title: "The Pen Is Mightier Than the Keyboard"
+---
 
 ![image](https://gyazo.com/5cf4eb7a6a0d719bd3962ff12afb527c/thumb/1000)
 授業ノートを[[キーボード]]でとった場合と[[手書き]](longhand)でとった場合、事実の記憶を問うテストには大差がないが、概念的な理解を問うテストでは有意な差が出る、という2014年の研究。  #ノート取り

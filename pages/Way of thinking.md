@@ -1,3 +1,6 @@
+---
+title: "Way of thinking"
+---
 
 A name of book by [[Jiro Kawakita]].
 - Original Japanese title: [[発想法―創造性開発のために]] ([[HASSOU-HOU]] --- SOUZOUSEI-KAIHATSU-NO-TAME-NI)

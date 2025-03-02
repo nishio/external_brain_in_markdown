@@ -1,3 +1,6 @@
+---
+title: "Black Cat 42"
+---
 
 著作権のコーナーケース
 ![image](https://gyazo.com/0ed967f2faddaba3bb4b3868949df758/thumb/1000)

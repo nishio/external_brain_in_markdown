@@ -1,3 +1,6 @@
+---
+title: "society"
+---
 
 In Japanese, a person who graduated the university called [[社会人]].
 [[社会]] is society and [[人]] is person. However `society person` does not seem natural English.

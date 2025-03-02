@@ -1,3 +1,6 @@
+---
+title: "Regroupの機能を書き出して整理"
+---
 
 from [[RegroupからMovideaへ]]
 

@@ -1,3 +1,6 @@
+---
+title: "ARC040C"
+---
 
 [C - Z塗り](https://atcoder.jp/contests/arc040/tasks/arc040_c)
 - ![image](https://gyazo.com/766026735d7179c0d4a11f824e20f5e9/thumb/1000)

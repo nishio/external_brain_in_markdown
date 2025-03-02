@@ -1,3 +1,6 @@
+---
+title: "tenka1_2015_qualB_b"
+---
 
 [B - 天下一リテラル](https://atcoder.jp/contests/tenka1-2015-qualb/tasks/tenka1_2015_qualB_b)
 - Pythonのサブセット的な言語をパースして辞書リテラルか集合リテラルか区別する問題

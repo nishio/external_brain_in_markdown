@@ -1,3 +1,6 @@
+---
+title: "TRUTH, TRUST AND HOPE"
+---
 
 ![image](https://gyazo.com/f37f5a18e9cc5231188d08458c6c33c6/thumb/1000)
 [Deliberative Democracy Lab to Demonstrate Deliberative Polling® Method at the 2023 Nobel Prize Summit | FSI](https://cddrl.fsi.stanford.edu/news/deliberative-democracy-lab-demonstrate-deliberative-pollingr-method-2023-nobel-prize-summit)

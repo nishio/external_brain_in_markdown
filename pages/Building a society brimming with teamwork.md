@@ -1,3 +1,6 @@
+---
+title: "Building a society brimming with teamwork"
+---
 
 "Building a society brimming with teamwork" is the vision of Cybozu: [Vision｜Cybozu, Inc.](https://cybozu.co.jp/en/company/vision/)
 - [[チームワークあふれる社会]]

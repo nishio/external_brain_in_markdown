@@ -1,5 +1,8 @@
+---
+title: "OpenAI DevDay"
+---
 
-[[OpenAI DevDay Keynote]]
+[[OpenAI DevDay Keynote(2023-11)]]
 [/work4ai/Open AI DevDay](https://scrapbox.io/work4ai/Open AI DevDay)
 
 

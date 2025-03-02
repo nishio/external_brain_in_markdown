@@ -1,3 +1,6 @@
+---
+title: "EXA KIDS 2022"
+---
 
 [応募者全員にmicro:bitをプレゼント！全国のITキッズによる作品コンテスト『EXA KIDS(エクサキッズ) 2022』開催決定](https://coeteco.jp/articles/12083)
 > 2022年度のアップデート内容

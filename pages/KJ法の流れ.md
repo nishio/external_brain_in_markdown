@@ -1,3 +1,6 @@
+---
+title: "KJ法の流れ"
+---
 
 ![image](https://gyazo.com/72aa3e14846f037223854bb2d895b992/thumb/1000)
 [[知の探検学]] p.18

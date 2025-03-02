@@ -1,3 +1,6 @@
+---
+title: "cat font"
+---
 
 ![image](https://gyazo.com/c0eec61b440463f09eca54c8eba15c00/thumb/1000)
 a picture of a cat and a fish, a silk screen by Osamu Tezuka, featured on pixiv, neo-dada, quantum wavetracing, cyanotype, creative commons attribution

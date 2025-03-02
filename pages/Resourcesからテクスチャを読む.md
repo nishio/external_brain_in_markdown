@@ -1,3 +1,6 @@
+---
+title: "Resourcesからテクスチャを読む"
+---
 
 - [[Resources.Load]]を使って[[テクスチャ]]を読む
 

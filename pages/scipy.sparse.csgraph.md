@@ -1,3 +1,6 @@
+---
+title: "scipy.sparse.csgraph"
+---
 
 > (N x N) [[adjacency matrix]]
 

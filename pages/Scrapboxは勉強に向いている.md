@@ -1,3 +1,6 @@
+---
+title: "Scrapboxは勉強に向いている"
+---
 
 [/sngazm/Scrapboxが勉強に向いてる理由](https://scrapbox.io/sngazm/Scrapboxが勉強に向いてる理由)
 - [[知らないことが可視化される]]

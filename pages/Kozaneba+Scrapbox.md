@@ -1,3 +1,6 @@
+---
+title: "Kozaneba+Scrapbox"
+---
 
 from [/villagepump/Kozaneba+Scrapbox](https://scrapbox.io/villagepump/Kozaneba+Scrapbox)
 <img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>

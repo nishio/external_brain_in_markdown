@@ -1,3 +1,6 @@
+---
+title: "Visual Studio Code"
+---
 
 [[vscode]]
 

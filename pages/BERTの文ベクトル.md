@@ -1,3 +1,6 @@
+---
+title: "BERTの文ベクトル"
+---
 
 BERTを使って文章のベクトル埋め込みを得る場合に、first tokenのhidden stateを使うことが良いのか悪いのかという議論。
 

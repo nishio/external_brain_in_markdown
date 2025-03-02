@@ -1,3 +1,6 @@
+---
+title: "THE CULTURE CODE 最強チームをつくる方法"
+---
 
 ![image](https://images-fe.ssl-images-amazon.com/images/I/517hKYzMgpL.jpg)
 - [Amazon](https://amzn.to/2ELLZBY)

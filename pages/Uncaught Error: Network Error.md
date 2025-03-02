@@ -1,3 +1,6 @@
+---
+title: "Uncaught Error: Network Error"
+---
 
 ![image](https://gyazo.com/e1b043d657fea88b8fb75f94f810873d/thumb/1000)
 

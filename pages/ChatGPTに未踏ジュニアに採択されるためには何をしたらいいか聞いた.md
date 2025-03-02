@@ -1,3 +1,6 @@
+---
+title: "ChatGPTに未踏ジュニアに採択されるためには何をしたらいいか聞いた"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>[[未踏ジュニア]]に採択されるためには何をしたらいいですか？
 

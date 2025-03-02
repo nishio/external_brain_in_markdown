@@ -1,3 +1,6 @@
+---
+title: "scrapbox-keichoの面白い理由を言語化できるといい"
+---
 
 scrapbox-keichoの面白い理由を言語化できるといい
 

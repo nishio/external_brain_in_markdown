@@ -1,3 +1,6 @@
+---
+title: "航空券をApple Walletに入れようとして苦労した話"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>この文章は、あるシステムに関する、ご夫婦間での認知の違いやそれについての議論を表現しています。
 

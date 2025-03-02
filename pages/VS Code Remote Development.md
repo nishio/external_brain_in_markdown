@@ -1,3 +1,6 @@
+---
+title: "VS Code Remote Development"
+---
 
 - [【設定爆速】VS CodeのRemote Developmentを使ってSSH接続したEC2上のファイルを編集する ｜ Developers.IO](https://dev.classmethod.jp/etc/vs-code-remote-development-ec2/?fbclid=IwAR1OFTI57_SSOWQPqMGttmF_FW8cLtq19Y2pC55RizGGGCOwJsqzX3KSGSE)
 - もう通常版で使える

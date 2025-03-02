@@ -1,3 +1,6 @@
+---
+title: "親指シフト+iPhone"
+---
 
 > [[自作キーボード]]を[[iPhone]]につないでネイティブで[[親指シフト]]できるようになったので記事書きました。
 [https://tmrkzr.com/gadget/7173/](https://tmrkzr.com/gadget/7173/)

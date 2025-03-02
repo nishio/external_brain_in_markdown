@@ -1,3 +1,6 @@
+---
+title: "CLIP"
+---
 
 [話題のOpenAIの新たな画像分類モデルCLIPを論文から徹底解説！ | DeepSquare](https://deepsquare.jp/2021/01/clip-openai/)
 

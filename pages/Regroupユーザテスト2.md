@@ -1,3 +1,6 @@
+---
+title: "Regroupユーザテスト2"
+---
 
 - iPad＆Macのユーザが使うところを隣で観察
     - ![image](https://gyazo.com/f10b2de423704d087bad9cd8f0625dfa/thumb/1000)

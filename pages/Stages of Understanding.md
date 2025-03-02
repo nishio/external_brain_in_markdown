@@ -1,3 +1,6 @@
+---
+title: "Stages of Understanding"
+---
 
 What does it mean to [[Understand]]`? While washing dishes, I suddenly thought about the question [What is Understanding?] and quickly jotted down my thoughts.`
 
@@ -43,4 +46,4 @@ This page is written because I have reached a 'Level 2 Understanding' of 'Unders
 - Whether what I have written here is correct or not will be verified after reaching Level 3 Understanding.
 
 Translated from [[理解の段階]]
-<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/bashi/icon' alt='bashi.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/Bashi/icon' alt='Bashi.icon' height="19.5"/>

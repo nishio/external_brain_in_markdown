@@ -1,3 +1,6 @@
+---
+title: "🤔具体的な用途でのRegroupの使い方解説を3つ作る"
+---
 
 from [[pRegroup]]
 🤔具体的な用途でのRegroupの使い方解説を3つ作る

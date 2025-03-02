@@ -1,3 +1,6 @@
+---
+title: "PICSY人事評価"
+---
 
 ![image](https://gyazo.com/2466fde75c671e4718239a67465e7231/thumb/1000) [PDF](https://www.ieice.org/~netsci/wp-content/uploads/2013/08/NetSci201308_Suzuki.pdf)
 [[PICSY]][[人事評価]]

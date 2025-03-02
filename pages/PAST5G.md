@@ -1,3 +1,6 @@
+---
+title: "PAST5G"
+---
 
 [G - ヘビ](https://atcoder.jp/contests/past202012-open/tasks/past202012_g)
 ![image](https://gyazo.com/3790c397c786b793094fb8a7167295bd/thumb/1000)

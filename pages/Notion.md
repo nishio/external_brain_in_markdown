@@ -1,3 +1,6 @@
+---
+title: "Notion"
+---
 
 [https://www.youtube.com/watch?v=CkVjQYu8ZyE&feature=youtu.be](https://www.youtube.com/watch?v=CkVjQYu8ZyE&feature=youtu.be)
 

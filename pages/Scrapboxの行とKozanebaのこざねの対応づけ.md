@@ -1,3 +1,6 @@
+---
+title: "Scrapboxの行とKozanebaのこざねの対応づけ"
+---
 
 [[Scrapboxの行]]と[[Kozanebaのこざね]]を対応づけ
 

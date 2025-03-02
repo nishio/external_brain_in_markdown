@@ -1,3 +1,6 @@
+---
+title: "Google Cloud Vision"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/GPT-4/icon' alt='GPT-4.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
 まず、Google Cloud SDKをインストールし、プロジェクトをセットアップして認証しておく必要があります。

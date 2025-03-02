@@ -1,3 +1,6 @@
+---
+title: "SimCSE"
+---
 
 [SimCSEとベクトル検索で類似内容を掲出し、利便性を改善する（Yahoo!検索の関連検索ワードでの事例） - Yahoo! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/2023050830422060/)
 - [[ベクトル検索]]

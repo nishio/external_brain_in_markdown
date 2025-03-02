@@ -1,3 +1,6 @@
+---
+title: "Kakau.app"
+---
 
 [Kakau.appのα版をリリースしました｜pokarim｜note](https://note.com/pokarim/n/na0c01d42c574)
 

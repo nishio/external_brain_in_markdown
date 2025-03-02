@@ -1,3 +1,6 @@
+---
+title: "PAST1K"
+---
 
 [K - 巨大企業](https://atcoder.jp/contests/past201912-open/tasks/past201912_k)
 - ![image](https://gyazo.com/735b48c1d33a9397fd177016e9fd6b8a/thumb/1000)

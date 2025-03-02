@@ -1,3 +1,6 @@
+---
+title: "MouseMoveを間引いてSentry"
+---
 
 Regroupのテスト自動化をする上で「ドラッグして囲う」というユーザの操作を記録し再現したい。しかしMouseMove系のイベントは大量に出るのですべて記録したくはない。
 ![image](https://gyazo.com/e228c23fff2d61bc95430876234ac701/thumb/1000)

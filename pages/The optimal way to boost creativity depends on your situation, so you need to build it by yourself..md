@@ -1,3 +1,6 @@
+---
+title: "The optimal way to boost creativity depends on your situation, so you need to build it by yourself."
+---
 
 One of important concepts in the book.
 

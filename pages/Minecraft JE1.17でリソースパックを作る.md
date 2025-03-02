@@ -1,3 +1,6 @@
+---
+title: "Minecraft JE1.17でリソースパックを作る"
+---
 
 ![image](https://gyazo.com/ce90a54c8ec00d03eb7769caf37d3428/thumb/1000)
 

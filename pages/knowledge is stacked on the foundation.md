@@ -1,3 +1,6 @@
+---
+title: "knowledge is stacked on the foundation"
+---
 
 [[knowledge]] is [[stack]]ed on the [[foundation]]
 

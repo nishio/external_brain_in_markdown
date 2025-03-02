@@ -1,3 +1,6 @@
+---
+title: "of the people, by the people, for the people"
+---
 
 - > Government of the people, by the people, for the people
 - 人民の、人民による、人民のための政治

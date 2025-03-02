@@ -1,3 +1,6 @@
+---
+title: "Scrapboxで他人のプロジェクトに参加する"
+---
 
 [/blu3mo-public/⭐️inviteした人たちへ](https://scrapbox.io/blu3mo-public/⭐️inviteした人たちへ)
 

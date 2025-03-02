@@ -1,3 +1,6 @@
+---
+title: "2020-02-29 Oxygen Not Included"
+---
 
 [[Oxygen Not Included]]
 ![image](https://gyazo.com/e821ce41ce5f2650955d23ed3720fbf1/thumb/1000)

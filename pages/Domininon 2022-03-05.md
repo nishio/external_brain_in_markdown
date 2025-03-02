@@ -1,3 +1,6 @@
+---
+title: "Domininon 2022-03-05"
+---
 
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>交易路と交易場と交易人があることに気づいた

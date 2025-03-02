@@ -1,3 +1,6 @@
+---
+title: "アウトプット多い人はScrapboxしたらいい"
+---
 
 from [/villagepump/2021/01/23](https://scrapbox.io/villagepump/2021/01/23)
 - ![image](https://i.imgur.com/RgBfpe2.png)

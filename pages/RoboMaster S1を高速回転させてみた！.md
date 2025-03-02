@@ -1,3 +1,6 @@
+---
+title: "RoboMaster S1を高速回転させてみた！"
+---
 
 [https://youtu.be/T_SDf78cK_U](https://youtu.be/T_SDf78cK_U)
 - [[RoboMaster S1]]のScratchっぽい言語でどんな感じでプログラムを書くかの紹介

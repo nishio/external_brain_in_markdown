@@ -1,3 +1,6 @@
+---
+title: "DP D"
+---
 
 [D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)
 - 指定された制限重量以下で価値を最大化する問題

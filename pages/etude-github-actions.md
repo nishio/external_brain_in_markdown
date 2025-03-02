@@ -1,6 +1,10 @@
+---
+title: "etude-github-actions"
+---
 
 [https://github.com/nishio/etude-github-actions](https://github.com/nishio/etude-github-actions)
 
+2023-11-17
 Github Actionのことを全然知らなかったので練習のつもりで作った
 - etude(エチュード)とは楽器の演奏スキルの修得を目的とした曲のこと
 - ところがそこで実験していた[[Github ActionsでのScrapbox自動翻訳]]が思ったよりうまく行ったのでそのまま運用フェーズになった

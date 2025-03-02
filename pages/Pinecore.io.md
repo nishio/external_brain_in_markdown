@@ -1,3 +1,6 @@
+---
+title: "Pinecore.io"
+---
 
 [https://docs.pinecone.io/docs/overview](https://docs.pinecone.io/docs/overview)
 

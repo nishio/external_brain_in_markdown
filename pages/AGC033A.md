@@ -1,3 +1,6 @@
+---
+title: "AGC033A"
+---
 
 [A - Darker and Darker](https://atcoder.jp/contests/agc033/tasks/agc033_a)
 - ![image](https://gyazo.com/7a7d1b269831ffa3937f83c49b7391de/thumb/1000)

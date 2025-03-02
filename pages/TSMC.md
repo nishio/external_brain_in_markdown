@@ -1,3 +1,6 @@
+---
+title: "TSMC"
+---
 
 = [[Taiwan]] [[Semiconductor]] Manufacturing Company
 

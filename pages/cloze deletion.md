@@ -1,3 +1,6 @@
+---
+title: "cloze deletion"
+---
 
 [[fill-in-the-blank]] test
 

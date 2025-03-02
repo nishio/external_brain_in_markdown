@@ -1,3 +1,6 @@
+---
+title: "参加証明NFT発行体験記"
+---
 
 > [@nishio](https://twitter.com/nishio/status/1664149996361633797?s=20): [[貢献の可視化]]や[[参加の可視化]]の実験で[[未踏ジュニア]]コミュニティに参加している人に「[[参加証明NFT]]」を発行してみる実験をした。
 > ![image](https://gyazo.com/f8e4737e338bd2cafe62210577b66f11/thumb/1000)

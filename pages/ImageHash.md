@@ -1,3 +1,6 @@
+---
+title: "ImageHash"
+---
 
 [ImageHash · PyPI](https://pypi.org/project/ImageHash/)
 [GitHub - jgraving/imagehash: A Python Perceptual Image Hashing Module](https://github.com/jgraving/imagehash)

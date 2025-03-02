@@ -1,3 +1,6 @@
+---
+title: "DP K"
+---
 
 [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k)
 - 対戦ゲームの読み切り問題

@@ -1,3 +1,6 @@
+---
+title: "(Column) 7 Habits"
+---
 
 [[Stephen Richards Covey]] introduced [[The 7 Habits]] of supporting growth process. He thinks there are two processes of growth:
 

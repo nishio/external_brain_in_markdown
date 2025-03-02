@@ -1,3 +1,6 @@
+---
+title: "Goals gone wild"
+---
 
 [[目標設定]]が引き起こす[[副作用]]について。
 [[Measure What Matters]]から言及。

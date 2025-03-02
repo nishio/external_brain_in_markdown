@@ -1,3 +1,6 @@
+---
+title: "words.npz"
+---
 
 フォーマットメモ
 python

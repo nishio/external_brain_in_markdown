@@ -1,3 +1,6 @@
+---
+title: "numba contiguous array"
+---
 
 python
 

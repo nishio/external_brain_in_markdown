@@ -1,3 +1,6 @@
+---
+title: "そのXはどこにありますか？"
+---
 
 __BELOW_IS_AI_GENERATED__
 # そのXはどこにありますか？

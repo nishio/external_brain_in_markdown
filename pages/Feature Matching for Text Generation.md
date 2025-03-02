@@ -1,3 +1,6 @@
+---
+title: "Feature Matching for Text Generation"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>Feature Matchingとは何か？
 - [[Salimans+ 2016]]

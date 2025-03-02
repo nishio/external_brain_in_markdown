@@ -1,3 +1,6 @@
+---
+title: 'VSCode: "読み取り専用のエディタは編集できません"の解決法'
+---
 
 高校でVisual StudioでC++を学んでいて、復習のために自宅のMacに開発環境を作りたい、という話を聞いた。
 [C++の開発環境をVisual Studio Codeのみで構築する | クラインのIT備忘壺](https://klein-itblog.com/mac-cplusplus-development/?fbclid=IwAR29XwpqmTBmCDJXmStbNeo5jCzPlvcxQFj4_9Uki67x2hUwTusB7BKn7Vc)

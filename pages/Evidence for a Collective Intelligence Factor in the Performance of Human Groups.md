@@ -1,11 +1,14 @@
+---
+title: "Evidence for a Collective Intelligence Factor in the Performance of Human Groups"
+---
 
-- チームのパフォーマンスは
+- [[チームのパフォーマンス]]は
     - あまり相関しない
         - 平均的な個人の知性
         - 一番賢い人の知性
     - 相関する
         - [[社会的シグナル]]感受性
-        - 発言切り替えの平等さ
+        - [[発言切り替えの平等さ]]
         - 女性比率
 
 [Evidence for a Collective Intelligence Factor in the Performance of Human Groups | Science](https://science.sciencemag.org/content/330/6004/686)
@@ -13,3 +16,4 @@
 
 [[Collective Intelligence]]
 [[発言量のバランス]]
+[[チームワーク]]

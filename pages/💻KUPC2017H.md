@@ -1,3 +1,6 @@
+---
+title: "💻KUPC2017H"
+---
 
 [H - Make a Potion](https://atcoder.jp/contests/kupc2017/tasks/kupc2017_h)
 ![image](https://gyazo.com/f2dc4a6aa7acee93e06792643d101b59/thumb/1000)

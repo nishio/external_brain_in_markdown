@@ -1,3 +1,6 @@
+---
+title: "Scrapboxのprivate→public転送について"
+---
 
 まとめ
 - 僕の状況ではむしろpublic→private

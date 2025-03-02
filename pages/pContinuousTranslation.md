@@ -1,3 +1,6 @@
+---
+title: "pContinuousTranslation"
+---
 
 [[継続的翻訳]]プロジェクトに関する個人的メモのハブページです #pProjectIndex
 - [[Scrapbox自動翻訳]]

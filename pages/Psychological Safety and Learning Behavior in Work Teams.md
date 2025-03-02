@@ -1,3 +1,6 @@
+---
+title: "Psychological Safety and Learning Behavior in Work Teams"
+---
 
 [[心理的安全性]]と呼ばれる概念に言及している1999年の論文
 - Edmondson, A., 1999. [[Psychological safety]] and learning behavior in work teams. Administrative science quarterly, 44(2), pp.350-383.

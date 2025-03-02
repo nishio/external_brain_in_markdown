@@ -1,3 +1,6 @@
+---
+title: "GPT3では情報密度が逆転する"
+---
 
 2023-02-28
 ![image](https://gyazo.com/14e4f77793d723af030402d9042df1bf/thumb/1000)

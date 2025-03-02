@@ -1,3 +1,6 @@
+---
+title: "The Rails Doctrine"
+---
 
 [Ruby on Rails — The Rails Doctrine](https://rubyonrails.org/doctrine)
 

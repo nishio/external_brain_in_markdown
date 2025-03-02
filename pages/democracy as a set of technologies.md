@@ -1,3 +1,6 @@
+---
+title: "democracy as a set of technologies"
+---
 
 > I’m pretty excited about democracy as a social technology.
 >  I don’t think many people see [[democracy]] as a set of technologies yet, but I think that’s a very useful view, because when you analyse democracy in terms of social technology — of [[bandwidth]], of [[latency]], of things like that — then new modes of thought become more natural. ---  [[Audrey Tang]]

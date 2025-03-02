@@ -1,3 +1,6 @@
+---
+title: "ScrapboxをWebVRで見る"
+---
 
 - UserScriptで[[A-Frame]]を読み込む
 - 各カードを [[A-Frame HTML Shader]]でテクスチャにし、それを貼ったPlaneを空間配置

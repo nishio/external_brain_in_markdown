@@ -1,3 +1,6 @@
+---
+title: "KozanebaでScrapboxのリンクを整理"
+---
 
 Scrapboxをヘビーに使ってる人(僕)が欲しかった機能が実現できたぞ。
 KozanebaにScrapboxのURLを貼るとScrapboxこざねができて、それのexpandメニューを押すと2hop以内のすべてのページがこざねになり、自由に動かせる。

@@ -1,3 +1,6 @@
+---
+title: "arc076_b"
+---
 
 [https://atcoder.jp/contests/abc065/tasks/arc076_b](https://atcoder.jp/contests/abc065/tasks/arc076_b)
 考えたこと

@@ -1,3 +1,6 @@
+---
+title: "social inovation legitimates governance"
+---
 
 [[ソーシャルイノベーションが統治を正統化する]]
 

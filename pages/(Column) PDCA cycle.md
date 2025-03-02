@@ -1,3 +1,6 @@
+---
+title: "(Column) PDCA cycle"
+---
 
 Although the [[PDCA cycle]] is a useful concept, many people are confused. There are variations such as A=Action, A=Adjust, S instead of C. What matters is a way of thinking that gradually improves by turning the cycle. The details are not relevant for the purpose of this section. However, since many people are interested, I explain it.
 

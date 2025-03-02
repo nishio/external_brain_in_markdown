@@ -1,3 +1,6 @@
+---
+title: "🌀PRAGMATISM"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁PRAGMATISM

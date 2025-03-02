@@ -1,3 +1,6 @@
+---
+title: "TTPC2015L"
+---
 
 [L - グラフ色ぬり](https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_l)
 ![image](https://gyazo.com/fdaa6debdfe439cb7fd207ada2b49c45/thumb/1000)

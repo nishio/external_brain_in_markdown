@@ -1,3 +1,6 @@
+---
+title: "adaptive boosting"
+---
 
 - [AdaBoost - Wikipedia](https://en.wikipedia.org/wiki/AdaBoost)
 

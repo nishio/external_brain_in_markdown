@@ -1,3 +1,6 @@
+---
+title: "OCR化け検出解消モデル"
+---
 
 ![image](https://gyazo.com/9a0519d3b62a4ff65d87609073152440/thumb/1000)
 

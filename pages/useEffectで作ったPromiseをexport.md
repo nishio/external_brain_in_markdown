@@ -1,3 +1,6 @@
+---
+title: "useEffectで作ったPromiseをexport"
+---
 
 Promiseによって非同期で行われる状態更新の結果をテストしたい。
 前回の話: [[非同期なReactの状態更新をテストする]]で、Promiseを返り値として得られる場合の解説をした。

@@ -1,3 +1,6 @@
+---
+title: "AGC031B"
+---
 
 ![image](https://gyazo.com/1b9bf271902f33d4edff465f40136e47/thumb/1000)
 [https://atcoder.jp/contests/agc031/tasks/agc031_b](https://atcoder.jp/contests/agc031/tasks/agc031_b)

@@ -1,3 +1,6 @@
+---
+title: "🌀交換様式D"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁交換様式D

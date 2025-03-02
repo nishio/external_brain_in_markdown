@@ -1,3 +1,6 @@
+---
+title: "storeのsubscribeとuseEffect"
+---
 
 from [[pRegroup-done-2019]]
 storeのsubscribeとuseEffect

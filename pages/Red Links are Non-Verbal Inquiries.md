@@ -1,3 +1,6 @@
+---
+title: "Red Links are Non-Verbal Inquiries"
+---
 
 [[Red Links]] are [[Non-Verbal Inquiries]]
 
@@ -6,4 +9,4 @@ When writing text in Scrapbox and then [[bracketing]] important keywords, if the
 - [[The inquiry prompts verbalization]].
 
 <img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/>
-<img src='https://scrapbox.io/api/pages/nishio/bashi/icon' alt='bashi.icon' height="19.5"/> Translated from [[赤リンクは非言語的な問いかけ]]
+<img src='https://scrapbox.io/api/pages/nishio/Bashi/icon' alt='Bashi.icon' height="19.5"/> Translated from [[赤リンクは非言語的な問いかけ]]

@@ -1,3 +1,6 @@
+---
+title: "enchi"
+---
 
 Q: enchiとは何？
 A: 「[[エンジニアの知的生産術]]」のコンテンツを用いた実験場です<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>

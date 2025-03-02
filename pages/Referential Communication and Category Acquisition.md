@@ -1,3 +1,6 @@
+---
+title: "Referential Communication and Category Acquisition"
+---
 
 Markman, A.B. and Makin, V.S., 1998. Referential communication and category acquisition. Journal of Experimental Psychology: General, 127(4), p.331.
 - [[the need to establish reference]] in communication also influences [[category coherence]]

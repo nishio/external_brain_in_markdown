@@ -1,3 +1,6 @@
+---
+title: "Japanese-Alpaca-LoRA"
+---
 
 > [Yamkaz](https://twitter.com/Yamkaz/status/1639994678681681921/photo/1) Japanese-Alpaca-LoRA公開！
 >  日本語で会話できるAIモデルが登場

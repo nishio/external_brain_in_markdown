@@ -1,3 +1,6 @@
+---
+title: "Keichobot Premium"
+---
 
 現状の[[Keichobot]]は有償のKeichobot Premiumのお試し用のフリー版である、と位置付ける概念
 

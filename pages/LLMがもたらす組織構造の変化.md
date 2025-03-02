@@ -1,3 +1,6 @@
+---
+title: "LLMがもたらす組織構造の変化"
+---
 
 2023-03-29
 ![image](https://gyazo.com/bd4af120ee0546edc8c92edda89f1df0/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "JEP 286: Local-Variable Type Inference"
+---
 
 [JEP 286: Local-Variable Type Inference](https://openjdk.org/jeps/286)
 

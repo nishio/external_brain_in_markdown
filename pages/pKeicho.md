@@ -1,3 +1,6 @@
+---
+title: "pKeicho"
+---
 
 [[聞き出しチャットシステム]]([[Keicho]])に関するプロジェクトメモ #pProjectIndex
 - 文脈: [[プロジェクトのタスク管理をScrapboxでやる]]

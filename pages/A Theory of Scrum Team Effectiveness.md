@@ -1,3 +1,6 @@
+---
+title: "A Theory of Scrum Team Effectiveness"
+---
 
 > Scrum teams are at the heart of the Scrum framework. Nevertheless, an integrated and systemic theory that can explain what makes some Scrum teams more effective than others is still missing. To address this gap, we performed a 7-year-long mixed-methods investigation composed of two main phases. First, we induced a theoretical model from 13 exploratory field studies. Our model proposes that the effectiveness of Scrum teams depends on five high-level factors ([[responsiveness]], [[stakeholder concern]], [[continuous improvement]], [[team autonomy]], and [[management support]]) and 13 lower-level factors. In the second phase of our study, we validated our model with a covariance-based structural equation modeling analysis using data from about 5,000 developers and 2,000 Scrum teams that we gathered with a custom-built survey. Results suggest a very good fit of the empirical data in our theoretical model (CFI = 0.959, RMSEA = 0.038, SRMR = 0.035). Accordingly, this research allowed us to (1) propose and validate a generalizable theory for effective Scrum teams and (2) formulate clear recommendations for how organizations can better support Scrum teams.
 [A Theory of Scrum Team Effectiveness | ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/doi/10.1145/3571849)

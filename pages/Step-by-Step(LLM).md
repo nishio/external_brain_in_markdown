@@ -1,3 +1,6 @@
+---
+title: "Step-by-Step(LLM)"
+---
 
 Show Your Work: Scratchpads for Intermediate Computation with Language Models
 - Large pre-trained language models perform remarkably well on tasks that can be done “in one pass”, such as generating realistic text (Brown et al., 2020) or synthesizing computer programs (Chen et al., 2021; Austin et al., 2021). However, they struggle with tasks that require unbounded multi-step computation, such as adding integers (Brown et al., 2020) or executing programs (Austin et al., 2021).

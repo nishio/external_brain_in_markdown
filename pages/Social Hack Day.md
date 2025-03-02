@@ -1,3 +1,6 @@
+---
+title: "Social Hack Day"
+---
 
 [[Code for Japan]]が毎月やってる[[継続開催型ハッカソン]]
 

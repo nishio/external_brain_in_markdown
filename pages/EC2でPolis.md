@@ -1,3 +1,6 @@
+---
+title: "EC2でPolis"
+---
 
 まとめ
 - 適当に Ubuntu / t2.medium / 8GB でインスタンスを作る

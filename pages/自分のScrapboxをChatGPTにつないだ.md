@@ -1,3 +1,6 @@
+---
+title: "自分のScrapboxをChatGPTにつないだ"
+---
 
 2023-03-08
 ChatGPTに対する質問がこのScrapboxを参照するようにした

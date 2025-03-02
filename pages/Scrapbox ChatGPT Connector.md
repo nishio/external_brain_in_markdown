@@ -1,3 +1,6 @@
+---
+title: "Scrapbox ChatGPT Connector"
+---
 
 3/8の「[[自分のScrapboxをChatGPTにつないだ]]」を見て、自分もやりたいという人が複数人いた
 ので3/9に手元の実験コードを整理してリリースした

@@ -1,3 +1,6 @@
+---
+title: "How To Become A Hacker"
+---
 
 ![image](https://gyazo.com/8d204895b5a84b9fa0d88de6eb94662f/thumb/1000)
 How To Become A Hacker

@@ -1,3 +1,6 @@
+---
+title: "Jupyter Notebook"
+---
 
 - ブレークポイント
     - 昔 `import pdb; pdb.set_trace()`してたようなことは`import IPython; IPython.embed()`でできる

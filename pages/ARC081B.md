@@ -1,3 +1,6 @@
+---
+title: "ARC081B"
+---
 
 [D - Coloring Dominoes](https://atcoder.jp/contests/arc081/tasks/arc081_b)
 - ![image](https://gyazo.com/075c4e162e79f797c7792309efe6fa3b/thumb/1000)

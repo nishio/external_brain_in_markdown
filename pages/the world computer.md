@@ -1,3 +1,6 @@
+---
+title: "the world computer"
+---
 
 [Explaining Ethereum: Interview with Vitalik Buterin (Part 1)](https://hir.harvard.edu/vitalik-buterin-ethereum-1/) [[Vitalik]]
 (DeepL)

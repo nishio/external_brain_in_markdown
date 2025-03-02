@@ -1,3 +1,6 @@
+---
+title: "Re:カテゴリーの窮屈さ"
+---
 
 from [/unnamedcamp/カテゴリーの窮屈さ](https://scrapbox.io/unnamedcamp/カテゴリーの窮屈さ)
 - <img src='https://scrapbox.io/api/pages/unnamedcamp/rashita/icon' alt='/unnamedcamp/rashita.icon' height="19.5"/>外から見る人に「合わせる」と、内側からの自由な議論の展開がやりにくくなる、ということなのだと予想します。

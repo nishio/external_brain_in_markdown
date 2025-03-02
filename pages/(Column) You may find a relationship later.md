@@ -1,3 +1,6 @@
+---
+title: "(Column) You may find a relationship later"
+---
 
 Originally footnote *8 of [[(5.1.1.5) Do not mind duplication]].
 

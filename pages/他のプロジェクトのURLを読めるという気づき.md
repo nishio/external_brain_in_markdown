@@ -1,3 +1,6 @@
+---
+title: "他のプロジェクトのURLを読めるという気づき"
+---
 
 from [/villagepump/2023/09/02](https://scrapbox.io/villagepump/2023/09/02)
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>

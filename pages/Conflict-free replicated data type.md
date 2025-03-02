@@ -1,3 +1,6 @@
+---
+title: "Conflict-free replicated data type"
+---
 
 Conflict-free replicated data type([[CRDT]])
 

@@ -1,3 +1,6 @@
+---
+title: "DP N"
+---
 
 [N - Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)
 - 隣接するものをくっつける

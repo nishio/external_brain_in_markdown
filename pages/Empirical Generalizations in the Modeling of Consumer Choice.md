@@ -1,3 +1,6 @@
+---
+title: "Empirical Generalizations in the Modeling of Consumer Choice"
+---
 
 Author(s): Robert Meyer and Eric J. Johnson
 Source: Marketing Science, Vol. 14, No. 3, Part 2 of 2: Special Issue on Empirical

@@ -1,3 +1,6 @@
+---
+title: "Kozanebaと「ねりねり」の探求"
+---
 
 [[Kozaneba:ねりねり]]の空間配置を元にGPT4で[[Scrapboxからブログ記事生成実験]]
 

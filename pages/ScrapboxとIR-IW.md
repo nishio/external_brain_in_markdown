@@ -1,3 +1,6 @@
+---
+title: "ScrapboxとIR/IW"
+---
 
 [[Scrapbox]]で[[Incremental Reading]]をどう実現するか～って思ってたけど、[[Slack]]に更新通知させてSlack上でBotがそれをウォッチして、1週間後とかにNotifyすればいいんじゃないかと思った。[[Facebook]]の「[[1年前のできごと]]」みたいなのもできる。
 [https://twitter.com/nishio/status/873475576140406786](https://twitter.com/nishio/status/873475576140406786)

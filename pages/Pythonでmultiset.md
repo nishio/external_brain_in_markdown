@@ -1,3 +1,6 @@
+---
+title: "Pythonでmultiset"
+---
 
 Pythonに[[multiset]]が欲しいという意見がよくある e.g. [[ABC170 E]]
 だいたいのことが[[heapq]]との組み合わせでできる

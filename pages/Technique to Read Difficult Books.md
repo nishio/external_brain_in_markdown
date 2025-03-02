@@ -1,3 +1,6 @@
+---
+title: "Technique to Read Difficult Books"
+---
 
 - Japanese title: [[難解な本を読む技術]]
 - [[難解]] = [[difficult]]

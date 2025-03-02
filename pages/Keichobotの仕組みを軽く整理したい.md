@@ -1,3 +1,6 @@
+---
+title: "Keichobotの仕組みを軽く整理したい"
+---
 
 
 <img src='https://scrapbox.io/api/pages/nishio/kei/icon' alt='/nishio/kei.icon' height="19.5"/>あなたはこの会話で何がどうなるとよいのでしょう？

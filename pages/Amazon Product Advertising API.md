@@ -1,3 +1,6 @@
+---
+title: "Amazon Product Advertising API"
+---
 
 > 商品情報API
 > Product Advertising API (PA-API) は商品情報や販売金額などを取得することができるAPIです。PA-APIはキーワードによる商品検索APIや、特定の商品の詳細情報を取得するAPIを提供しています。このAPIをシステムに組み込むことで、キーワードに連動した商品情報を自動で取得・表示するようなシステムを構築することができます。

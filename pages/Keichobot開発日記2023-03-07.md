@@ -1,3 +1,6 @@
+---
+title: "Keichobot開発日記2023-03-07"
+---
 
 prev [[Keichobot開発日記2023-03-06]]
 Keichobot開発日記2023-03-07

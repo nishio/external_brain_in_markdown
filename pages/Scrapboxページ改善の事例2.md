@@ -1,3 +1,6 @@
+---
+title: "Scrapboxページ改善の事例2"
+---
 
 [[Scrapboxページ改善の事例]]
 

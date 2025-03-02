@@ -1,3 +1,6 @@
+---
+title: "Re:クイズおじさん"
+---
 
 from [/villagepump/クイズおじさん](https://scrapbox.io/villagepump/クイズおじさん)
 <img src='https://scrapbox.io/api/pages/villagepump/sta/icon' alt='/villagepump/sta.icon' height="19.5"/>

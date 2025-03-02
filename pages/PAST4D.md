@@ -1,3 +1,6 @@
+---
+title: "PAST4D"
+---
 
 from [[第四回 アルゴリズム実技検定]]
 PAST4D

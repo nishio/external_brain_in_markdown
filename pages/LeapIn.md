@@ -1,3 +1,6 @@
+---
+title: "LeapIn"
+---
 
 初月のイニシャルコスト
 - (€190) State fee for company registration

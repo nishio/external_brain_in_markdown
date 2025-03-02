@@ -1,3 +1,6 @@
+---
+title: "stateにamend"
+---
 
 from [[付箋の追加をPaper.js上で実装する]]
 stateにamend

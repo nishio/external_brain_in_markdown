@@ -1,3 +1,6 @@
+---
+title: "numba recursion"
+---
 
 [[numba]]
 - [recursion-in-numba Notebook :: Anaconda Cloud](https://anaconda.org/seibert/recursion-in-numba/notebook)

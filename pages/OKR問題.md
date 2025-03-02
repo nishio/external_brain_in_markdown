@@ -1,3 +1,6 @@
+---
+title: "OKR問題"
+---
 
 from [[pRegroup-done-2019]]
 ![image](https://gyazo.com/efcdd0cd2b5cb2e545abd7820b0546c4/thumb/1000)

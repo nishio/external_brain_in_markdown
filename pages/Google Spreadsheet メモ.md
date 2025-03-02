@@ -1,3 +1,6 @@
+---
+title: "Google Spreadsheet メモ"
+---
 
 - 転地: transpose
 - 折り返し

@@ -1,3 +1,6 @@
+---
+title: "Re: Information gathering is an endlessly expanding task"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/kai/icon' alt='kai.icon' height="19.5"/>
 Your reflection on information gathering, particularly in the context of AI and technology, is insightful and highlights several important concepts.

@@ -1,3 +1,6 @@
+---
+title: "AdaBoost"
+---
 
 ![image](https://gyazo.com/42349cc0f811f920dac8139fbc6b40b9/thumb/1000)
 

@@ -1,3 +1,6 @@
+---
+title: "Virtual Reality for Civic Deliberation"
+---
 
 [https://www.youtube.com/watch?v=EynGwOoxlSE](https://www.youtube.com/watch?v=EynGwOoxlSE)
 

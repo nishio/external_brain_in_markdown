@@ -1,3 +1,6 @@
+---
+title: "SampleFramework"
+---
 
 > 'Assets/OVRHarness/Scenes/StartUp.unity' is an incorrect path for a scene file. BuildPlayer expects paths relative to the project folder.
 

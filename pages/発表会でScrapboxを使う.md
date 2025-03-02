@@ -1,3 +1,6 @@
+---
+title: "発表会でScrapboxを使う"
+---
 
 2022-02-19/20 [/mitou2021demoday](https://scrapbox.io/mitou2021demoday)
 - 公開の発表会でScrapboxを視聴者コミュニケーションに利用している例

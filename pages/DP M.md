@@ -1,3 +1,6 @@
+---
+title: "DP M"
+---
 
 [M - Candies](https://atcoder.jp/contests/dp/tasks/dp_m)
 ![image](https://gyazo.com/7f00d3569b97262049eab2547f73d1ad/thumb/1000)

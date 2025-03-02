@@ -1,3 +1,6 @@
+---
+title: "KONO Taro and Information Processing"
+---
 
 "I and Information Processing"
 - Imformation Processing Society of Japan (2017)

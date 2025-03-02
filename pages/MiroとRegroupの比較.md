@@ -1,3 +1,6 @@
+---
+title: "MiroとRegroupの比較"
+---
 
 Miro
 - ![image](https://gyazo.com/c645a4d7213600466502014df428f297/thumb/1000)

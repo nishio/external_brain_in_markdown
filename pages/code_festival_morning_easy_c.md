@@ -1,3 +1,6 @@
+---
+title: "code_festival_morning_easy_c"
+---
 
 [https://atcoder.jp/contests/code-festival-2014-morning-easy/tasks/code_festival_morning_easy_c](https://atcoder.jp/contests/code-festival-2014-morning-easy/tasks/code_festival_morning_easy_c)
 

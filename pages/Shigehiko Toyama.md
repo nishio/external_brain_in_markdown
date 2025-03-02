@@ -1,3 +1,6 @@
+---
+title: "Shigehiko Toyama"
+---
 
 Footnote for [[(4.5.2.2) Make connections]]:
 

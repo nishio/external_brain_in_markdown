@@ -1,3 +1,6 @@
+---
+title: "Local Exchange Trading System"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>
 - Local Exchange Trading System（ローカル・エクスチェンジ・トレーディング・システム）、略してLETSと呼ばれるものは、地域社会の中でグッズやサービスを交換するための地域通貨システムの一つです。LETSは1980年代にカナダで始まり、世界中の多くの地域で利用されています。

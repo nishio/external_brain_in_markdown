@@ -1,3 +1,6 @@
+---
+title: "parable"
+---
 
 In the Japanese version, I choose the word "[[TATOE-BANASHI]]" corresponds to parable stories. It is because the word "metaphor" is not familiar for most Japanese.
 

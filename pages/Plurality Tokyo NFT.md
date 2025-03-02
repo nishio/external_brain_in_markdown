@@ -1,3 +1,6 @@
+---
+title: "Plurality Tokyo NFT"
+---
 
 [[Plurality Tokyo]] 2023の参加者だけに無償配布された[[参加証明NFT]]の話
 

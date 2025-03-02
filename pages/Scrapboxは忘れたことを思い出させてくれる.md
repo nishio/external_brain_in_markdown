@@ -1,4 +1,8 @@
+---
+title: "Scrapboxは忘れたことを思い出させてくれる"
+---
 
+2022-11-25
 ![image](https://gyazo.com/6ba9241aac4a9690481ab95c14175eaa/thumb/1000)
 - サムネイル用
 

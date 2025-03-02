@@ -1,3 +1,6 @@
+---
+title: "Stable Diffusionのシードとプロンプトの関係"
+---
 
 同じプロンプトでも乱数シードによってこれくらい出力にランダムな幅が出る
 - ![image](https://gyazo.com/8a371a254a1acabfdb6bd23d08da3b85/thumb/1000)

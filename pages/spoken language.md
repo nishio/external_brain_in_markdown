@@ -1,3 +1,6 @@
+---
+title: "spoken language"
+---
 
 [[Michael Polanyi]]
 - [[speaking language]]→[[spoken language]]→[[instituted language]]

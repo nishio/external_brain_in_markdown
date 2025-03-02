@@ -1,3 +1,6 @@
+---
+title: "Decentralized Identifiers"
+---
 
 分散型識別子
 [Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/) / [[W3C]] Recommendation 19 July 2022

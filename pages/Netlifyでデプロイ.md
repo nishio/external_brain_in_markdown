@@ -1,3 +1,6 @@
+---
+title: "Netlifyでデプロイ"
+---
 
 Netlifyでデプロイしようとしたらpackage.jsonとかがおかしくて
 すんなりnpm run buildできる状態ではなかった

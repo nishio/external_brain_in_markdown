@@ -1,3 +1,6 @@
+---
+title: "Disruptive innovation can occur even if technology progresses gradually"
+---
 
 - ISPIM Connect Fukuoka
 - [Codes and figures are available on GitHub](https://github.com/nishio/mot)

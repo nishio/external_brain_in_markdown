@@ -1,3 +1,6 @@
+---
+title: "Pragmatism and Common Sense"
+---
 
 ___BELOW_IS_LESS_INTERESTING___
 # 🤖🔁Pragmatism and Common Sense

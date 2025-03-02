@@ -1,3 +1,6 @@
+---
+title: "ARC064A"
+---
 
 [C - Boxes and Candies](https://atcoder.jp/contests/abc048/tasks/arc064_a)
 - ![image](https://gyazo.com/c84644ac1d4a36f657c731f52c30b6eb/thumb/1000)

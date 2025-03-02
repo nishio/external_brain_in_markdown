@@ -1,3 +1,6 @@
+---
+title: "まずHomeがある前提"
+---
 
 from [/unnamedcamp/Campとは何か？](https://scrapbox.io/unnamedcamp/Campとは何か？)
 Unnamed CampにおけるCampは、Homeに対比する意味がある。

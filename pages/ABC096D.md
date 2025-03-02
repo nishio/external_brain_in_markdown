@@ -1,3 +1,6 @@
+---
+title: "ABC096D"
+---
 
 [D - Five, Five Everywhere](https://atcoder.jp/contests/abc096/tasks/abc096_d)
 - ![image](https://gyazo.com/e4a86f67947bdeacf40467275b5a5827/thumb/1000)

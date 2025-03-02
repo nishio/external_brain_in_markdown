@@ -1,3 +1,6 @@
+---
+title: "OpenAI API"
+---
 
 [[Embedding API]]
 [[Completion API]]

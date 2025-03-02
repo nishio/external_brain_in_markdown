@@ -1,3 +1,6 @@
+---
+title: "classification_reportの読み方"
+---
 
 [sklearn.metrics.classification_report](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)の結果の読み方を簡単に解説する
 

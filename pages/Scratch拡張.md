@@ -1,3 +1,6 @@
+---
+title: "Scratch拡張"
+---
 
 [https://www.kodomonokagaku.com/wp-content/uploads/2020/11/第42回2009ジブン専用パソコン単P-1.pdf](https://www.kodomonokagaku.com/wp-content/uploads/2020/11/第42回2009ジブン専用パソコン単P-1.pdf)
 

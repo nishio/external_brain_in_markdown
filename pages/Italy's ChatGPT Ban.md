@@ -1,3 +1,6 @@
+---
+title: "Italy's ChatGPT Ban"
+---
 
 イタリアでのChatGPTの禁止は2日間の間、生産性を50%下げた。その後、検閲回避ツールを使うことによって生産性が元に戻った、という報告。
 - 単に1日分の生産性を捨てただけで終わった、と解釈する人もいるかも知れない
@@ -19,6 +22,6 @@ Google Trendsのデータによると、先週金曜日にイタリアがAIの�
 
 [[censorship bypassing tools]]
 - [[検閲回避ツール]]
-- [[censorship]]
+- [[censorship]] / [[検閲]]
 - [[VPN]]
 - [[Tor]]

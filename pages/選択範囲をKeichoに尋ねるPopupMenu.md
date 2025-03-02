@@ -1,3 +1,6 @@
+---
+title: "選択範囲をKeichoに尋ねるPopupMenu"
+---
 
 [[ScrapboxでKeichoを使う拡張]]
 [/takker/選択範囲をKeichoに尋ねるPopupMenu](https://scrapbox.io/takker/選択範囲をKeichoに尋ねるPopupMenu)
@@ -84,7 +87,7 @@ keicho.json
     - おっと…
     - 角括弧で囲われてるとき、それを明示されたキーワードと解釈するKeichoの仕様
     - じゃあ`(keicho)`でいいか
-[[test]]
+
 できた
 - [[ScrapboxでCtrl+EnterしてKeichoに質問させる]]
 

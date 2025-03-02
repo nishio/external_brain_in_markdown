@@ -1,3 +1,6 @@
+---
+title: "vTaiwan Open Consultation & Participation Officers Training"
+---
 
 [[vTaiwan]] Open Consultation & [[Participation Officers]] Training
 [https://www.youtube.com/playlist?list=PLSL_F7Lwul2fq7IblgXePDmJpA2YbXoKd](https://www.youtube.com/playlist?list=PLSL_F7Lwul2fq7IblgXePDmJpA2YbXoKd)

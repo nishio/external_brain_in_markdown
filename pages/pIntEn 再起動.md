@@ -1,3 +1,6 @@
+---
+title: "pIntEn 再起動"
+---
 
 from [[pIntellitech]]
 pIntEn 再起動

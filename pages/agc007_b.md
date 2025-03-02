@@ -1,3 +1,6 @@
+---
+title: "agc007_b"
+---
 
 [https://atcoder.jp/contests/agc007/tasks/agc007_b](https://atcoder.jp/contests/agc007/tasks/agc007_b)
 - 考えたこと

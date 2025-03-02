@@ -1,3 +1,6 @@
+---
+title: "favicon"
+---
 
 ![image](https://gyazo.com/a673d81cfad1900e856467602dab9653/thumb/1000)
 

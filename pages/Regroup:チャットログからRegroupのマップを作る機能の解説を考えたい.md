@@ -1,3 +1,6 @@
+---
+title: "Regroup:チャットログからRegroupのマップを作る機能の解説を考えたい"
+---
 
 ![image](https://gyazo.com/6b058941321e2b72671b13b3e9de42aa/thumb/1000)
 

@@ -1,3 +1,6 @@
+---
+title: "(Column) The impact of the number of choices on the quality of decision making"
+---
 
 To find out what influences the quality of decision making, researchers Hans Georg Gemünden and Jürgen Hauschildt conducted a study of 83 business decisions made in a company with 1,380 employees over a period of 18 months, asking the same management team eight years later whether the decisions were good or not. *1
 

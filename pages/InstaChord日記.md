@@ -1,3 +1,6 @@
+---
+title: "InstaChord日記"
+---
 
 # 2023-01-09
 from [/villagepump/2023/01/09](https://scrapbox.io/villagepump/2023/01/09)

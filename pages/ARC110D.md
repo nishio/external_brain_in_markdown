@@ -1,3 +1,6 @@
+---
+title: "ARC110D"
+---
 
 ![image](https://gyazo.com/829c06c94c53cc49c05c234e5f3445c5/thumb/1000)
 [D - Binomial Coefficient is Fun](https://atcoder.jp/contests/arc110/tasks/arc110_d)

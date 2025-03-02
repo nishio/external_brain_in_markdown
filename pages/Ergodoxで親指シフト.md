@@ -1,3 +1,6 @@
+---
+title: "Ergodoxで親指シフト"
+---
 
 ![image](https://gyazo.com/25bb95bcf21ce686ff90fc7ccf238e48/thumb/1000)
 

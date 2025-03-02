@@ -1,3 +1,6 @@
+---
+title: "河川管理プラットフォームLASS"
+---
 
 [https://www.facebook.com/groups/LASSnet/permalink/3314297932154127](https://www.facebook.com/groups/LASSnet/permalink/3314297932154127)
 > English Description:

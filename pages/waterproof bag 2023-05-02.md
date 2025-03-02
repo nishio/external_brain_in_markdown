@@ -1,3 +1,6 @@
+---
+title: "waterproof bag 2023-05-02"
+---
 
 A: Please come in. It looks like you're going hiking.
 B: It's a waterproof bag. Because I am an engineer, I usually carry my laptop.

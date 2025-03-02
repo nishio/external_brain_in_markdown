@@ -1,3 +1,6 @@
+---
+title: "information asymmetry"
+---
 
 [Information asymmetry - Wikipedia](https://en.wikipedia.org/wiki/Information_asymmetry)
 

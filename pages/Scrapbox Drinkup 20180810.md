@@ -1,3 +1,6 @@
+---
+title: "Scrapbox Drinkup 20180810"
+---
 
 [[Scrapbox]] Drinkup「[[Scrapbox情報整理術]]」出版記念スペシャル
 [Scrapbox Drinkup「Scrapbox情報整理術」出版記念スペシャル - connpass](https://nota.connpass.com/event/96499/)

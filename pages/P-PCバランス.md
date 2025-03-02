@@ -1,3 +1,6 @@
+---
+title: "P/PCバランス"
+---
 
 Performance / Performance Capablity
 see [[7つの習慣]]

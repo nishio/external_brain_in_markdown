@@ -1,3 +1,6 @@
+---
+title: "WSAFサイクル"
+---
 
 ![image](https://gyazo.com/c6a36f4e36eacfb8abb7cc03756a1bd0/thumb/1000)
 [[Scrapboxing]]で提唱された行動のモデル。

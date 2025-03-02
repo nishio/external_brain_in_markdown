@@ -1,3 +1,6 @@
+---
+title: "TPUからGoogle ColabのローカルFSには書き込めない"
+---
 
 from [[日本語BERTのfine-tuning]]
 BERTのfine-tuningが少し走って死んだ:

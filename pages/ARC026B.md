@@ -1,3 +1,6 @@
+---
+title: "ARC026B"
+---
 
 [B - 完全数](https://atcoder.jp/contests/arc026/tasks/arc026_2)[B - 完全数](https://atcoder.jp/contests/arc026/tasks/arc026_2)
 - ![image](https://gyazo.com/3ce26f4ee4e9e40a944a3ec5ac30aee4/thumb/1000)

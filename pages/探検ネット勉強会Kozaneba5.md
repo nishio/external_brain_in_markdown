@@ -1,3 +1,6 @@
+---
+title: "探検ネット勉強会Kozaneba5"
+---
 
 前 [[探検ネット勉強会Kozaneba4]]
 ![image](https://gyazo.com/be4d554a607cd5d8574ca97d0bf979c1/thumb/1000)

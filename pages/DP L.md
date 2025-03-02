@@ -1,3 +1,6 @@
+---
+title: "DP L"
+---
 
 [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l)
 - 対戦ゲームの読み切り問題

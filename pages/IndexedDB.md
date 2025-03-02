@@ -1,3 +1,6 @@
+---
+title: "IndexedDB"
+---
 
 > IndexedDB API is powerful, but may seem too complicated for simple cases. If you'd prefer a simple API, try libraries such as localForage, dexie.js, ... that make IndexedDB more programmer-friendly.
 - [IndexedDB API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)

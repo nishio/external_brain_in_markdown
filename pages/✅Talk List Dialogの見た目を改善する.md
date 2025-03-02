@@ -1,3 +1,6 @@
+---
+title: "✅Talk List Dialogの見た目を改善する"
+---
 
 from [[✅ダイアログの見た目を改善する]]
 Talk List Dialogの見た目を改善する

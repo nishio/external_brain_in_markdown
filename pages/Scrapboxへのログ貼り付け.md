@@ -1,3 +1,6 @@
+---
+title: "Scrapboxへのログ貼り付け"
+---
 
 from [[かんがえをひきだすチャットボットKeichobot]]
 

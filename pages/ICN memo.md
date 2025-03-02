@@ -1,3 +1,6 @@
+---
+title: "ICN memo"
+---
 
 [/villagepump/ICN](https://scrapbox.io/villagepump/ICN)
 

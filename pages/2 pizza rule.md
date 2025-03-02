@@ -1,3 +1,6 @@
+---
+title: "2 pizza rule"
+---
 
 チームサイズは5〜7人が限度だとする考え [[Jeff Bezos]]
 - > If a team couldn’t be fed with two pizzas, it was too big.

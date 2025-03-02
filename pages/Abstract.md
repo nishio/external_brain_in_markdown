@@ -1,3 +1,6 @@
+---
+title: "Abstract"
+---
 
 - related:
     - [[abstraction]]

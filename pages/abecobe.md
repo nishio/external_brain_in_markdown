@@ -1,3 +1,6 @@
+---
+title: "abecobe"
+---
 
 [https://twitter.com/keidaroo/status/1188353768049348608](https://twitter.com/keidaroo/status/1188353768049348608)
 [[パズルゲーム]]

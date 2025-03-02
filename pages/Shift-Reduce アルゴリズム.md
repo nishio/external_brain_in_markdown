@@ -1,3 +1,6 @@
+---
+title: "Shift-Reduce アルゴリズム"
+---
 
 [http://www.phontron.com/slides/nlp-programming-ja-12-depend.pdf](http://www.phontron.com/slides/nlp-programming-ja-12-depend.pdf)
 

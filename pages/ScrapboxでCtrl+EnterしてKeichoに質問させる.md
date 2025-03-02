@@ -1,3 +1,6 @@
+---
+title: "ScrapboxでCtrl+EnterしてKeichoに質問させる"
+---
 
 ![image](https://gyazo.com/1858e84d0c918645c4c089ec8e92f3ee/thumb/1000)
 ScrapboxでCtrl+EnterしてKeichoに質問させる

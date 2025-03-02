@@ -1,3 +1,6 @@
+---
+title: "iPadからAppleTV経由でワイヤレスプレゼン"
+---
 
 - AppleTVを電源につないでHDMIでプロジェクタに接続
 - iPadから「画面ミラーリング」すればOK

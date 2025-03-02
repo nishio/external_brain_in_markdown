@@ -1,3 +1,6 @@
+---
+title: "2021-08-13Keicho→Keichat日記"
+---
 
 - Keichoのググラビリティ低すぎ
 - chatという言葉と組み合わせるとkeichat?

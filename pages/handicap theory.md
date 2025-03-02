@@ -1,3 +1,6 @@
+---
+title: "handicap theory"
+---
 
 - [https://en.wikipedia.org/wiki/Handicap_principle](https://en.wikipedia.org/wiki/Handicap_principle)
 

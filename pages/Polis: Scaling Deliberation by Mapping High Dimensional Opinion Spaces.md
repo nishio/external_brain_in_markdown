@@ -1,4 +1,9 @@
+---
+title: "Polis: Scaling Deliberation by Mapping High Dimensional Opinion Spaces"
+---
 
+
+[http://dx.doi.org/10.6035/recerca.5516](http://dx.doi.org/10.6035/recerca.5516)
 [[Polis]]の論文
 - [https://www.e-revistes.uji.es/index.php/recerca/article/view/5516/6558](https://www.e-revistes.uji.es/index.php/recerca/article/view/5516/6558)
 - > Deliberative and participatory approaches to democracy seek to directly include citizens in decision-making and agenda-setting processes. These methods date back to the very foun-dations of democracy in Athens, where regular citizens shared the burden of governance and deliberated every major issue. However, thinkers at the time rightly believed that these meth-ods could not function beyond the scale of the city-state, or polis. Representative democracy as an innovation improved on the scalability of collective decision making, but in doing so, sacrificed the extent to which regular citizens could participate in deliberation. Modern tech-nology, including advances in computational power, machine learning algorithms, and data visualization  techniques,  presents  aunique  opportunity  to  scale  out  deliberative  processes. Here we describe Polis, an open source web application capable of collecting and synthesizing feedback from people in a scalable and distributed fashion. Polis has shown itself capable of building  shared  understanding,  disincentivizing  counterproductive  behavior  (trolling),  and cultivating points of consensus. It has done this in the context of journalistic and academic research, and directly as part of decision-making bodies at local and national levels, directly affecting legislation. These  results  demonstrate  that  deliberative  processes  can be scaled up beyond the constraints of in-person gatherings and small groups.Key Words: deliberation, collective intelligence, unsupervised learning, active learning.
@@ -38,3 +43,6 @@ p.9の上半分はスキップ
 ・PCA負荷の高いコメントで増える項
 ・投票が多くなるほど減る項
 を掛けたもの
+
+
+[[Polis論文]]

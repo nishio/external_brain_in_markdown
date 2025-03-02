@@ -1,3 +1,6 @@
+---
+title: "AIとの知的生産とその整理の難しさ"
+---
 
 サマリー: スマホを用いてのAIとの知的対話は新しい気づきをもたらすが、その結果生じる断片の整理や長文の記述には制約が伴う。<img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>
 

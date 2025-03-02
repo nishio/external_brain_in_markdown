@@ -1,3 +1,6 @@
+---
+title: "そのXはどんな種類のXですか？"
+---
 
 __BELOW_IS_AI_GENERATED__
 # そのXはどんな種類のXですか？

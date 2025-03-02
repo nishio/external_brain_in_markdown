@@ -1,2 +1,5 @@
+---
+title: "THE ESSENTIAL DRUCKER ON INDIVIDUALS"
+---
 
 

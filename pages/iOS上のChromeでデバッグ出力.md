@@ -1,3 +1,6 @@
+---
+title: "iOS上のChromeでデバッグ出力"
+---
 
 [Chromium Blog: Debugging Websites in Chrome for iOS](https://blog.chromium.org/2019/03/debugging-websites-in-chrome-for-ios.html)
 リモート接続のためにはChromeをソースからビルドするしかない＆するのがオススメ、とのことだが

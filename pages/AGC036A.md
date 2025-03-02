@@ -1,3 +1,6 @@
+---
+title: "AGC036A"
+---
 
 [A - Triangle](https://atcoder.jp/contests/agc036/tasks/agc036_a)
 - ![image](https://gyazo.com/00c2a55af4f2c2390acec060dac38f9c/thumb/1000)

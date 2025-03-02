@@ -1,3 +1,6 @@
+---
+title: "ABC195F💻"
+---
 
 from [[ABC195]]
 ABC195F

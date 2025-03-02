@@ -1,3 +1,6 @@
+---
+title: "BSJapanext"
+---
 
 [https://www.bsjapanext.co.jp/](https://www.bsjapanext.co.jp/)
 > [[ジャパネット]]ブロードキャスティング

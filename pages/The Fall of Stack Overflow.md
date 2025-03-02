@@ -1,3 +1,6 @@
+---
+title: "The Fall of Stack Overflow"
+---
 
 ![image](https://gyazo.com/8e62c3e47c46f16285368a06d8e7b927/thumb/1000)![image](https://gyazo.com/9e92179f18f35ae7a785d9ff539d4c23/thumb/1000)
 

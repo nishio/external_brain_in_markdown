@@ -1,3 +1,6 @@
+---
+title: "VR Memory Palace"
+---
 
 [https://youtu.be/OYYE3YsaO0Y](https://youtu.be/OYYE3YsaO0Y)
 

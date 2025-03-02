@@ -1,3 +1,6 @@
+---
+title: "code_festival_2017_quala_C"
+---
 
 [C - Palindromic Matrix](https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_c)
 - ![image](https://gyazo.com/c32e2bc86779703edecaefd6b7c69127/thumb/1000)

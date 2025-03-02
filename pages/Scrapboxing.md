@@ -1,3 +1,6 @@
+---
+title: "Scrapboxing"
+---
 
 ![image](https://gyazo.com/2f9077d7ce4fc474360714289b18b594/thumb/1000)
 - [Amazon](https://amzn.to/38kIfbm)

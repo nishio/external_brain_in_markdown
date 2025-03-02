@@ -1,3 +1,6 @@
+---
+title: "Deck archetypes"
+---
 
 Money strategies [http://wiki.dominionstrategy.com/index.php/Big_Money](http://wiki.dominionstrategy.com/index.php/Big_Money)
 ビッグマネーとは、プレイヤーが主にトレジャーカードを購入し、通常少数のアクションカードと一緒に購入する典型的なデッキ構成です。これは通常エンジンと対比され、エンジンのような戦略を取るかビッグマネーのような戦略を取るかは、多くのドミニオンボードにおいて重要な戦略的選択となる。

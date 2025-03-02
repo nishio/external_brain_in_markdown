@@ -1,3 +1,6 @@
+---
+title: "0-originか1-originかは誤った二項対立"
+---
 
 [[0-origin]]か[[1-origin]]かは[[誤った二項対立]]
 

@@ -1,3 +1,6 @@
+---
+title: "ARC036B"
+---
 
 [B - 山のデータ](https://atcoder.jp/contests/arc036/tasks/arc036_b)
 - ![image](https://gyazo.com/4e5ad2ac82cb00be3872a840227593f1/thumb/1000)

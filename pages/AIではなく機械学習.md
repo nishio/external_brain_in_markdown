@@ -1,3 +1,6 @@
+---
+title: "AIではなく機械学習"
+---
 
 > [@kazunori_279](https://twitter.com/kazunori_279/status/1666991583546466304?s=20): このブランディングは尊敬する。 "アップルは正確であることを好んでいて、パーソナライズされた音量やスマートスタックといった機能を、曖昧な「[[AI]]」ではなく、「[[機械学習]]」（7度も言及された）とラベリングする方がより正確だと考えているようだ" [アップルがWWDCで「AI」という言葉を使わなかった理由（海外）（BUSINESS INSIDER JAPAN） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/e0347820270e0fdc61eb9adf3abefd778136ae3f)
 

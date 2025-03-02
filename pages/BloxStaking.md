@@ -1,3 +1,6 @@
+---
+title: "BloxStaking"
+---
 
 > The world’s first non-custodial Ethereum staking platform.
 [[non-custodial]]とは？

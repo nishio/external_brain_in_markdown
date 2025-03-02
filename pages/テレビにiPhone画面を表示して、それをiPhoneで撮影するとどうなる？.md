@@ -1,3 +1,6 @@
+---
+title: "テレビにiPhone画面を表示して、それをiPhoneで撮影するとどうなる？"
+---
 
 [https://www.youtube.com/watch?v=pOtlSCUbxCE](https://www.youtube.com/watch?v=pOtlSCUbxCE)
 

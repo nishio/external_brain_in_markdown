@@ -1,3 +1,6 @@
+---
+title: "Slideshareは設定変更しないと課金ユーザしかスライドを見れない"
+---
 
 > [@tokoroten](https://twitter.com/tokoroten/status/1518778628850712576?s=21&t=tsewUt1L6RCB3-sjFaD3Iw): @nishio
 > 西尾さんのslideshareの資料を読み直したいのですが、slideshareの経営方針の転換で、課金ユーザしかスライドが見れないようになってしまっています。

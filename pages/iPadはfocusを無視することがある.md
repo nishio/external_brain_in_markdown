@@ -1,3 +1,6 @@
+---
+title: "iPadはfocusを無視することがある"
+---
 
 from [[pRegroup-done-2019]]
 iPadはfocusを無視することがある

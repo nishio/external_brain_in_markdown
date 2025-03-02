@@ -1,3 +1,6 @@
+---
+title: "Kozaneba:コンヴィヴィアリティ"
+---
 
 ![image](https://gyazo.com/0512d808ef160414683dc454db877c73/thumb/1000)
 ---

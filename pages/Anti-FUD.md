@@ -1,3 +1,6 @@
+---
+title: "Anti-FUD"
+---
 
 MicrosoftがAIサービスを使った顧客の著作権侵害の訴訟結果はMicrosoftが引き受けるという声明を発表
 [https://gigazine.net/news/20230908-microsoft-copilot-copyright-commitment/](https://gigazine.net/news/20230908-microsoft-copilot-copyright-commitment/)

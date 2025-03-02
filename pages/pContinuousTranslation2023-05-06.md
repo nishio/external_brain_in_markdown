@@ -1,3 +1,6 @@
+---
+title: "pContinuousTranslation2023-05-06"
+---
 
 context [[Continuous Translation]]
 prev [[pContinuousTranslation2023-04-27]]

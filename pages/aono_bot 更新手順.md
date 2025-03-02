@@ -1,3 +1,6 @@
+---
+title: "aono_bot 更新手順"
+---
 
 - `$ choose_aonobook.py`
     - output_aonobook()

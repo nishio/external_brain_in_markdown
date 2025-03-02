@@ -1,3 +1,6 @@
+---
+title: "SHIFT：イノベーションの作法"
+---
 
 ![image](https://gyazo.com/5fe8d6ed342519377d72e8bc0e726d67/thumb/1000)
 - [Amazon](https://amzn.to/3cNyu2N)

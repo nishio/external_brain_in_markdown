@@ -1,3 +1,6 @@
+---
+title: "Cython"
+---
 
 - [Working with Python arrays — Cython 3.0a5 documentation](https://cython.readthedocs.io/en/latest/src/tutorial/array.html)
 - `longest[start]`

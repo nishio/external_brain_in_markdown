@@ -1,3 +1,6 @@
+---
+title: "Python sections"
+---
 
 from [[pIntEn]]
 Python sections

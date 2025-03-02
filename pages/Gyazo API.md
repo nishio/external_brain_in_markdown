@@ -1,3 +1,6 @@
+---
+title: "Gyazo API"
+---
 
 - "Upload with Browser Session API"
     - これを使えば認証なしでアップロードできる

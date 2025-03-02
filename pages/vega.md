@@ -1,3 +1,6 @@
+---
+title: "vega"
+---
 
 - [Greeks (finance) - Wikipedia](https://en.wikipedia.org/wiki/Greeks_(finance)#Vega)
 - [Vega Definition](https://www.investopedia.com/terms/v/vega.asp)

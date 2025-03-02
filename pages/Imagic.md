@@ -1,3 +1,6 @@
+---
+title: "Imagic"
+---
 
 ![image](https://gyazo.com/a9071b76a8340ce7c7506d1cdc22b9a9/thumb/1000)
 

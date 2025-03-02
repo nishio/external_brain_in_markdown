@@ -1,3 +1,6 @@
+---
+title: "Property 'value' does not exist on type 'EventTarget'"
+---
 
 ts
 

@@ -1,3 +1,6 @@
+---
+title: "(Column) Consistency of knowledge"
+---
 
 What guarantees the correctness of knowledge?
 

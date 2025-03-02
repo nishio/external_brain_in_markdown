@@ -1,3 +1,6 @@
+---
+title: "ABC019C"
+---
 
 [C - 高橋くんと魔法の箱](https://atcoder.jp/contests/abc019/tasks/abc019_3)
 ![image](https://gyazo.com/1aaceef3c8e29db0b95df8a27619e4ca/thumb/1000)

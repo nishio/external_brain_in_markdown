@@ -1,3 +1,6 @@
+---
+title: "AIを活用することもできない人"
+---
 
 > [@rootport](https://twitter.com/rootport/status/1631522867115593729?s=20): 「ChatGPTやBingAI、NotionAIは職場のいちばんデキないやつよりもデキる」
 > → 正解

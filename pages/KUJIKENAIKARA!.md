@@ -1,3 +1,6 @@
+---
+title: "KUJIKENAIKARA!"
+---
 
 [https://www.youtube.com/watch?v=kMTTCz6OkjQ](https://www.youtube.com/watch?v=kMTTCz6OkjQ)
 

@@ -1,3 +1,6 @@
+---
+title: "ChatGPTでプログラミング対訳"
+---
 
 ![image](https://gyazo.com/2f3409b40e6a9c58f90665b4bce601fa/thumb/1000)
 - 合ってる

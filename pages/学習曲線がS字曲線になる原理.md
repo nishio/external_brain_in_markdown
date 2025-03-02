@@ -1,3 +1,6 @@
+---
+title: "学習曲線がS字曲線になる原理"
+---
 
 ![image](https://gyazo.com/cc5eda93b5e5b7ccc1bdac3439dc9f03/thumb/1000)
 - 知識の獲得プロセスを以下のようにモデリングする

@@ -1,3 +1,6 @@
+---
+title: "Factorio Seablock"
+---
 
 [[Factorio]]の拡張。[[経営ゲーム]]
 - 海の上の1マスの足場からスタート

@@ -1,3 +1,6 @@
+---
+title: "Transifex"
+---
 
 [[翻訳]]プラットフォーム
 - globalization management system

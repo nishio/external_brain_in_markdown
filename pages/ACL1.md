@@ -1,3 +1,6 @@
+---
+title: "ACL1"
+---
 
 [ACL Contest 1 - AtCoder](https://atcoder.jp/contests/acl1)
 まったく歯が立たなかったことに凹んで18日くらい解説を書かないでほったらかしてました

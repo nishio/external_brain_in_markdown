@@ -1,3 +1,6 @@
+---
+title: "価値観のボトムアップ言語化=氷山モデル=ConnectingDots"
+---
 
 ![image](https://gyazo.com/b2ab3c91e8a21cbb2d9497e5cecb4c52/thumb/1000)
 

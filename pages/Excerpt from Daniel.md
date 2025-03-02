@@ -1,3 +1,6 @@
+---
+title: "Excerpt from Daniel"
+---
 
 from [[pIntEn]]
 Excerpt from Daniel

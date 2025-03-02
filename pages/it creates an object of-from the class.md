@@ -1,3 +1,6 @@
+---
+title: "it creates an object of/from the class"
+---
 
 ofかfromか
 - of

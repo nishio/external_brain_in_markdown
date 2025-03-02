@@ -1,3 +1,6 @@
+---
+title: "Repulsive Curves"
+---
 
 [http://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveCurves/index.html](http://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveCurves/index.html)
 ACM Transactions on Graphics 2021

@@ -1,3 +1,6 @@
+---
+title: "ScrapboxSQUARE#2"
+---
 
 [/scrapbox-square/Scrapbox SQUARE #2 〜開発現場の活用会議〜](https://scrapbox.io/scrapbox-square/Scrapbox SQUARE #2 〜開発現場の活用会議〜)
 - [/scrapbox-square/Scrapbox SQUARE #2 パネルディスカッション](https://scrapbox.io/scrapbox-square/Scrapbox SQUARE #2 パネルディスカッション)

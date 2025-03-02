@@ -1,3 +1,6 @@
+---
+title: "GPT"
+---
 
 2023/7/12
 - ChatGPT / GPT4/ GPT3.5 を使い分けるのが面倒になったのでやめた
@@ -6,7 +9,8 @@
 - ChatGPT Pluginがでて、どうやら裏のモデルが同一ではなさそうだぞとなって、区別が無意味になった
 - ![image](https://scrapbox.io/files/64ae088618e830001b046ea0.png)
 - icon from [Wikimedia](https://commons.wikimedia.org/wiki/File:ChatGPT_logo.svg)
-
+- 表記がGPT4のまま、GPT4-turboに変わったと思う
+- 2024-05-14~ 基本的にはGPT-4oを使っている
 
 
 ![image](https://gyazo.com/d7612730df21f881e7f0e181a18eb92b/thumb/1000)

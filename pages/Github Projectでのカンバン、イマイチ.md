@@ -1,3 +1,6 @@
+---
+title: "Github Projectでのカンバン、イマイチ"
+---
 
 from [[pKeicho]]
 Github Projectでのカンバン、イマイチ

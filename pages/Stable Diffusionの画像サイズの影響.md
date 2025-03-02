@@ -1,3 +1,6 @@
+---
+title: "Stable Diffusionの画像サイズの影響"
+---
 
 サンプリング手法が[[DDIM]]か[[PLMS]]かに関しては多少の差はあるが人の目にはあまりわからない
 ![image](https://gyazo.com/0ed967f2faddaba3bb4b3868949df758/thumb/1000)![image](https://gyazo.com/aa6d3fed9f7d97b07a877b23ea94c4ac/thumb/1000)

@@ -1,3 +1,6 @@
+---
+title: "Kozaneba:IOFI"
+---
 
 prev [[Kozaneba:体験過程と意味の創造]]
 [[「体験過程と意味の創造」勉強会2]]

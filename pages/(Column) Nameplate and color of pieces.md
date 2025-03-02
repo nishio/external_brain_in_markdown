@@ -1,3 +1,6 @@
+---
+title: "(Column) Nameplate and color of pieces"
+---
 
 I was asked about how to distinguish nameplates from other pieces. You can do as you want to do. I introduce my way for your information.
 

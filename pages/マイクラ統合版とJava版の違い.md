@@ -1,3 +1,6 @@
+---
+title: "マイクラ統合版とJava版の違い"
+---
 
 統合版=Bedrock Edition=BE
 Java版=Java Edition=JE

@@ -1,3 +1,6 @@
+---
+title: "conceptual stage of the design process"
+---
 
 Rodgers, P., Patterson, A. and Wilson, D., 1996. A formal method for assessing product performance at the conceptual stage of the design process. In Advances in Formal Design Methods for CAD (pp. 137-164). Springer, Boston, MA.
 

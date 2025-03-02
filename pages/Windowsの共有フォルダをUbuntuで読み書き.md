@@ -1,3 +1,6 @@
+---
+title: "Windowsの共有フォルダをUbuntuで読み書き"
+---
 
 `$ mount -t cifs -o username=***,password=***,uid=$(id -u),gid=$(id -g) //*1*/Users/nishio/Documents/shared ~/shared`
 - *1*: WindowsマシンのIPアドレス

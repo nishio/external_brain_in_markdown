@@ -1,3 +1,6 @@
+---
+title: "Perfect Bayesian equilibrium"
+---
 
 不完全情報でのゲームに置ける均衡
 >  In game theory, a Perfect Bayesian Equilibrium (PBE) is an equilibrium concept relevant for dynamic games with incomplete information (sequential Bayesian games).

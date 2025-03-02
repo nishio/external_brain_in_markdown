@@ -1,3 +1,6 @@
+---
+title: "AGC024C"
+---
 
 [C - Sequence Growing Easy](https://atcoder.jp/contests/agc024/tasks/agc024_c)
 ![image](https://gyazo.com/d9599e3ba6f5347d1b6783f3d3799ca0/thumb/1000)

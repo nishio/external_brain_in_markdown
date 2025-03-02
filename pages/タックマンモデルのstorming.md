@@ -1,3 +1,6 @@
+---
+title: "タックマンモデルのstorming"
+---
 
 チームメンバー間の意見の対立や衝突が生じる。メンバーはチームの目的や役割、それぞれの責任について異なる意見を持っているからだ。<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>
 

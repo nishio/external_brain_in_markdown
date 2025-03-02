@@ -1,3 +1,6 @@
+---
+title: "XORと和の交換"
+---
 
 0/1の列に対して下記が成り立つ
 - $\sum_i^N x_i = K \iff \sum_i^N (1 \oplus x_i) = N - K$

@@ -1,3 +1,6 @@
+---
+title: "const"
+---
 
 :
 | [[ES2015]] | let | const |  |

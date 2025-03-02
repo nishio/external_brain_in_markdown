@@ -1,3 +1,6 @@
+---
+title: "Scrapboxキーフレーズサジェスト"
+---
 
 ![image](https://gyazo.com/d17bcc962b383efe184c4e7a647ff13c/thumb/1000)
 - テキストを入力するといろいろ表示する

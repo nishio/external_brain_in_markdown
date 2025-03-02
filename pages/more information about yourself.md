@@ -1,3 +1,6 @@
+---
+title: "more information about yourself"
+---
 
 from [[pIntEn]]
 more information about yourself

@@ -1,3 +1,6 @@
+---
+title: "PAST5O"
+---
 
 [O - 通知](https://atcoder.jp/contests/past202012-open/tasks/past202012_o)
 ![image](https://gyazo.com/9d380fa7f1c141460e331b7a7e7f8144/thumb/1000)

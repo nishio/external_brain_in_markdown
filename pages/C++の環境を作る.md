@@ -1,3 +1,6 @@
+---
+title: "C++の環境を作る"
+---
 
 `$ sudo docker pull ubuntu`
 `$ sudo docker run -ti ubuntu /bin/bash`

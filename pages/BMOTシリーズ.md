@@ -1,3 +1,6 @@
+---
+title: "BMOTシリーズ"
+---
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>が絡んでいる[[東工大BMOT]]関連のイベントのまとめ。全般的に東工大MOTのOB/OGでなくても参加可能です。
 

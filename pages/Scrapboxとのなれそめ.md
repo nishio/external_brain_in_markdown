@@ -1,3 +1,6 @@
+---
+title: "Scrapboxとのなれそめ"
+---
 
 from [/villagepump/Scrapboxを知った時の高揚感について](https://scrapbox.io/villagepump/Scrapboxを知った時の高揚感について)
 - Scrapboxとのなれそめ(高揚感はない)

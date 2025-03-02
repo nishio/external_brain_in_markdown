@@ -1,3 +1,6 @@
+---
+title: "Positional Encoding"
+---
 
 [[Transformer]]
 ![image](https://gyazo.com/1bc1a16a113f46091aacb7f3fdcb92cd/thumb/1000)

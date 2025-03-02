@@ -1,3 +1,6 @@
+---
+title: "2023-04-10 LLM Meetup"
+---
 
 `LLM Meetup Tokyo #1`
 - [イベント案内](https://lu.ma/llm-meetup-tokyo-1)

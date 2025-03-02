@@ -1,3 +1,6 @@
+---
+title: "Shakyo"
+---
 
 意味がわかりにくい
 [/intellitech-en/Shakyo](https://scrapbox.io/intellitech-en/Shakyo)

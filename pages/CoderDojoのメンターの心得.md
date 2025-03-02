@@ -1,3 +1,6 @@
+---
+title: "CoderDojoのメンターの心得"
+---
 
 from [[日記2022-05-22]]
 CoderDojoのメンターの心得

@@ -1,3 +1,6 @@
+---
+title: "Consider it done"
+---
 
 > Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals.
 [APA](http://psycnet.apa.org/record/2011-12522-001)

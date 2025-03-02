@@ -1,3 +1,6 @@
+---
+title: "ChatGPTが読書感想文を書く"
+---
 
 from [[未踏ジュニアとLLM]]
 [https://twitter.com/zikatu1/status/1631803964470759424](https://twitter.com/zikatu1/status/1631803964470759424)

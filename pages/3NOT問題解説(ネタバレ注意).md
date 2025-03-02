@@ -1,3 +1,6 @@
+---
+title: "3NOT問題解説(ネタバレ注意)"
+---
 
 [[3NOT問題]]
 ![image](https://gyazo.com/10e6d74d0b066e4206ddb5c12faaaabc/thumb/1000)

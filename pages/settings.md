@@ -1,3 +1,6 @@
+---
+title: "settings"
+---
 
 imports
 style.css_disabled
@@ -243,17 +246,32 @@ style.css_disabled
 塩澤先生のプロジェクトから良さそうなものをコピー
 
 ## 3. 文中に引用を挿入
+[/villagepump/インライン引用記法](https://scrapbox.io/villagepump/インライン引用記法)
         - ねこだいすき`[" ねこだいすき]`
         - 例）文章の途中ですがここだけ引用です。
 style.css
 
 ```
-.deco-\" {
-  border-radius: .2em; padding: 0 .4em; background-color: rgba(128,128,128,0.1); 
-  font-size:95%; font-style: italic }
-.deco-\"::before { 
-  color: #a0a0a0; content: '>'; }
+ .deco-\" {
+   	border-radius: .2em;
+   	padding: 0 .4em;
+   	background-color: rgba(128,128,128,0.1); 
+   	font-size: 95%;
+   	font-style: italic;
+ }
+ .line:not(.cursor-line) .deco-\"::before { 
+   	color: #a0a0a0;
+   	font-size: 85%; 
+   	/* font-family: 'FontAwesome'; */
+   	font-family: 'Font Awesome 5 Free';
+   	font-weight: 900;
+   	content: '\f10d';
+     position: relative;
+     top: -0.5em;
+     left: -0.2em;
+ }
 ```
+
 
 
 - オリジナル

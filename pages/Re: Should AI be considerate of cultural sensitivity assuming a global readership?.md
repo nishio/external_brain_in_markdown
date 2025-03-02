@@ -1,3 +1,6 @@
+---
+title: "Re: Should AI be considerate of cultural sensitivity assuming a global readership?"
+---
 
 Re: [[Should AI be considerate of cultural sensitivity assuming a global readership?]]
 

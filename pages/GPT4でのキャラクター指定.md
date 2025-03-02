@@ -1,3 +1,6 @@
+---
+title: "GPT4でのキャラクター指定"
+---
 
 ![image](https://gyazo.com/dd9c3f75638e562bd50fe6c9bd82ee40/thumb/1000)
 ![image](https://gyazo.com/bfad636172ea6850fba55a1bd5919c9d/thumb/1000)
