@@ -25,6 +25,11 @@ title: "Plurality Tokyo Namerakaigi"
 5. ​LT
 
 
+
+
+
+
+
 # 実況チャット
 
 ​1. オープニングセッション
