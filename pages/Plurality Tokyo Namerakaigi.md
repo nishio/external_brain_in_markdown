@@ -8,23 +8,32 @@ title: "Plurality Tokyo Namerakaigi"
 
 ​1. オープニングセッション
 - ​鈴木健 スマートニュース メディア研究所の「[[デジタル民主主義研究ユニット]]」の設立背景とビジョンの紹介
-
-​2. パネルディスカッション: 「[[Funding the Commons Tokyo 2024]]を振り返る」30 mins
-- ​鈴木健（モデレーター）高木 Hamada ​守
-
+- [講演資料](https://docs.google.com/presentation/d/1Snsu2eQJ_vAWgmk3_9eyJnBQ9l8wfpgKfKufkIAkDH4/edit#slide=id.g331ed5c697a_0_928)
+2. パネルディスカッション: 「[[Funding the Commons Tokyo 2024]]を振り返る」30 mins
+- ​鈴木健（モデレーター）濱田太陽 守慎哉 高木俊輔
 ​3. 基調講演​「PluralityメカニズムPMFレポート」の現状共有
 - ​「現場取材からみえた台湾デジタル民主主義の理想と課題、そして日本発『デジタル民主主義2030』への指針」
-    - ​高木
-
+    - 高木俊輔
 ​4. プレゼンテーションセッション (各20分×2セッション)
 - [[デジタル民主主義をスケールさせるには？]]
-    - ​西尾
+    - ​西尾泰和
+    - [講演資料](https://scrapbox.io/nishio/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E3%82%92%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%95%E3%81%9B%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F)
 - [[デジタル民主主義2030]]の紹介
-    - ​安野
+    - 安野貴博
+    - [講演資料](https://docs.google.com/presentation/d/1etZjpfj9v59NW5REC4bOv4QwVq_ApZMFDMQZqPDHb8Q/edit#slide=id.g32f02a385ca_0_55)
 
 5. ​LT
 
-
+# 動画Playlist
+- [https://www.youtube.com/playlist?list=PLHsuZp6_Tsv9RZnyar7J7F8dpbHDwX5Uf](https://www.youtube.com/playlist?list=PLHsuZp6_Tsv9RZnyar7J7F8dpbHDwX5Uf)
+- Plurality Tokyo Namerakaigi 2025-02-25
+- 2025-02-25に行われたPlurality Tokyoとなめら会議の共催イベントです
+- オープニング +  ​鈴木健 スマートニュース メディア研究所の「デジタル民主主義研究ユニット」の設立背景とビジョンの紹介(前半)
+- ​鈴木健 スマートニュース メディア研究所の「デジタル民主主義研究ユニット」の設立背景とビジョンの紹介(後半)
+- パネルディスカッション: 「Funding the Commons Tokyo 2024を振り返る」 ​鈴木健（モデレーター） 濱田太陽 守慎哉 高木俊輔
+- 高木俊輔 基調講演​「PluralityメカニズムPMFレポート」の現状共有
+- ​西尾泰和 デジタル民主主義をスケールさせるには？
+- 安野貴博 デジタル民主主義2030の紹介
 
 
 
@@ -138,6 +147,8 @@ Bitgrit
 
 FtCの時の林さんの講演
 - [[Tackling East Asia’s Population Decline Issues with Local Coop’s Subsystem for Local Governance]]
+
+[民主主義のデジタル化を実現するアンケートフォーム【QuadraticVoting.jp】](https://quadraticvoting.jp/)
 
 QF = Quadratic Funding
 - [/tkgshn/DIG Shibuya 参加型寄付プロジェクト](https://scrapbox.io/tkgshn/DIG Shibuya 参加型寄付プロジェクト)
