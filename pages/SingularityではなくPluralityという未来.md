@@ -2,10 +2,25 @@
 title: "SingularityではなくPluralityという未来"
 ---
 
-LT 3/9
+LT
+- 3/9
+- 5min
 
 ## Making
 
+[[Pluralityとは#6436be24aff09e00006809d3]]
+- 当時知ったばかりの概念なのにいい説明しているなw
+- [[ある概念が既存の言葉で簡潔に説明できるなら、それは新しい概念ではない]]
+- [[Pluralityは新語]]
+
+10分か5分かわかってなかったけど5分だというお知らせが来たので、数分で書籍の告知をしたらしっかりした概念の説明などできないと思う
+
+[https://chatgpt.com/c/67c14807-1574-8011-bee2-ffd8106fa1da](https://chatgpt.com/c/67c14807-1574-8011-bee2-ffd8106fa1da)
+[https://chatgpt.com/c/67c1ce81-48cc-8011-8e3d-58e6e7a03a06](https://chatgpt.com/c/67c1ce81-48cc-8011-8e3d-58e6e7a03a06)
+だいぶこねたんだけど語る暇はなさそうだな
+
+
+---
 タイトル
 
 Plurality本(英語版)の話
@@ -49,3 +64,5 @@ Plurality本
 
 
 [[世界はひとつの声に支配されるべきではない]]
+
+

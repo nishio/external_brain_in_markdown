@@ -213,7 +213,7 @@ Plurality日本語版がサイボウズ式ブックスからでます
 質疑で使う図
 - ![image](https://scrapbox.io/files/6663143a6be53c0022f524ce.png)
     - [/plurality-japanese/多様性を超えたコラボレーションのスペクトラム](https://scrapbox.io/plurality-japanese/多様性を超えたコラボレーションのスペクトラム)
-- ![image](https://scrapbox.io/files/65e09458f840910025c0d29e.png)
+- ![image](https://scrapbox.io/files/67c806c183e2991b9209621b.png)
     - [/plurality-japanese/3-0-⿻とは何か？#660a2224aff09e0000857770](https://scrapbox.io/plurality-japanese/3-0-⿻とは何か？#660a2224aff09e0000857770)
     - ![image](https://scrapbox.io/files/66ab223b3dfe43001cc8a323.png)
     - [/plurality-japanese/Trinity](https://scrapbox.io/plurality-japanese/Trinity)

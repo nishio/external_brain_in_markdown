@@ -87,3 +87,6 @@ Starting: Intent { cmp=com.example.fd.camera/.MainActivity }
 キーコンフィグもできた！
 - これでPCがなくても録画開始できる
 
+---
+2025-03-05
+[FairyDevicesRD/thinklet.app.lifelog: THINKLET ライフログアプリ](https://github.com/FairyDevicesRD/thinklet.app.lifelog)
