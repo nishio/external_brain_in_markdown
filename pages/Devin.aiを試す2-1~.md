@@ -82,3 +82,5 @@ DevinがSonnet3.7ベースになった
 > [GOROman](https://x.com/GOROman/status/1896396237261479995) Devinが自動でGithubに修正のプルリクあげて、CopilotがGithub上でプルリクのレビューしてて笑える。もう俺は要らないのではｗｗ
 >  ![image](https://pbs.twimg.com/media/GlFaMwjaIAA_xIu?format=png&name=900x900#.png) ![image](https://pbs.twimg.com/media/GlFaQdbaEAAsHNe?format=png&name=900x900#.png)
 
+2025-03-06
+[[AIエージェントと研究]]

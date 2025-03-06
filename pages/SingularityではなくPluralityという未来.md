@@ -6,6 +6,13 @@ LT
 - 3/9
 - 5min
 
+![image](https://gyazo.com/d2f99904a8e64eb98ba264e1bfaad1cf/thumb/1000)
+
+![image](https://gyazo.com/d4c2d02ea646b848b355e0b6f76129c9/thumb/1000)
+
+![image](https://gyazo.com/7a70dfa8802f5f27787e2c8b189f12f9/thumb/1000)
+![image](https://gyazo.com/8dc99ad85a7391971d245bbbf180b7cb/thumb/1000)
+
 ## Making
 
 [[Pluralityとは#6436be24aff09e00006809d3]]
@@ -19,6 +26,11 @@ LT
 [https://chatgpt.com/c/67c1ce81-48cc-8011-8e3d-58e6e7a03a06](https://chatgpt.com/c/67c1ce81-48cc-8011-8e3d-58e6e7a03a06)
 だいぶこねたんだけど語る暇はなさそうだな
 
+[[2025-02-16サンデージャポン]]
+技術
+- 多様な人々が協力しやすくなる技術
+
+[[Plurality2025-02-17]]
 
 ---
 タイトル
@@ -48,6 +60,7 @@ AudreyとGlenからも前書きが！
 
 技術はできなかったことを可能にする
 ものごとを作る側の人
+しばしば少数派
 
 テクノリバタリアン批判
 - テックが好きというだけで同一視されるのはまずい
@@ -64,5 +77,5 @@ Plurality本
 
 
 [[世界はひとつの声に支配されるべきではない]]
-
+- 多様な意見がある状態を維持すべきだ
 

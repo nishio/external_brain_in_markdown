@@ -16,7 +16,7 @@ title: "Pluralityとは"
 - 5/20にこの考えをまとめた書籍『[[⿻數位 Plurality]]』が出版される予定である
 - この本に関する日本語フォーラムもある: [/plurality-japanese](https://scrapbox.io/plurality-japanese)
 
-
+2023-04-12
 以下は2023-04-12にnishioが[[Plurality Tokyo]]への参加にあたってまとめたもの
 
 [[Plurality]]とは
