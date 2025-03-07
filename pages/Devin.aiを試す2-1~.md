@@ -84,3 +84,5 @@ DevinがSonnet3.7ベースになった
 
 2025-03-06
 [[AIエージェントと研究]]
+
+[https://x.com/osyoyu/status/1897641413619409296?s=46&t=gkSZtjGEtUZPO0JCzBxCBw](https://x.com/osyoyu/status/1897641413619409296?s=46&t=gkSZtjGEtUZPO0JCzBxCBw)

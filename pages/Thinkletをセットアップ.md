@@ -76,7 +76,7 @@ Android Studioのメニュー上部バーから「Run」→「Edit Configuration
 
 できた！
 ![image](https://gyazo.com/a66536f17227cff98750a2900af35028/thumb/1000)
-Android開発知ろうとなのでプロジェクトの開き方が間違ってたw
+Android開発素人なのでプロジェクトの開き方が間違ってたw
 
 録画もできてた
 
@@ -90,3 +90,85 @@ Starting: Intent { cmp=com.example.fd.camera/.MainActivity }
 ---
 2025-03-05
 [FairyDevicesRD/thinklet.app.lifelog: THINKLET ライフログアプリ](https://github.com/FairyDevicesRD/thinklet.app.lifelog)
+
+![image](https://gyazo.com/d5ef7d577255907bce3ff715364a13e9/thumb/1000)
+一旦スルー
+
+> Could not GET '[https://maven.pkg.github.com/FairyDevicesRD/thinklet.app.sdk/ai/fd/thinklet/sdk-audio/0.1.6/sdk-audio-0.1.6.pom'.](https://maven.pkg.github.com/FairyDevicesRD/thinklet.app.sdk/ai/fd/thinklet/sdk-audio/0.1.6/sdk-audio-0.1.6.pom'.) Received status code 401 from server: Unauthorized
+<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+このエラーは、GitHub Packagesからライブラリを取得する際の認証情報が不足しているために発生しています。以下の手順で対処してください。
+GitHub Personal Access Tokenの作成
+- GitHubの「Settings」→「Developer settings」→「Personal access tokens」で新規トークンを作成します。
+- 作成時に必ず「read:packages」権限を付与してください。
+local.propertiesに認証情報を追加 ...
+
+READMEに書いてあったやつだな
+
+![image](https://gyazo.com/2bc6018940666acaa8c1c3ff63b381f9/thumb/1000)
+<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+> 対応デバイス上でテストを行ってください。
+> adb devices コマンドで認識されているか確認します。
+
+`% adb devices`
+List of devices attached
+emulator-5554	device
+
+あー接続して赤ランプになってるだけでは起動してないか、そうか
+起動して水色→緑になった
+
+`% adb devices`
+List of devices attached
+P16M116D5252823	device
+emulator-5554	device
+
+OK
+
+---
+:
+
+```
+2025-03-07 13:58:51: Launching app on 'QUALCOMM THINKLET LC01'.
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=ai.fd.thinklet.app.lifelog/.MainActivity }
+
+Open logcat panel for QUALCOMM THINKLET LC01 (P16M116D5252823)
+Connected to process 3550 on device 'qualcomm-thinklet_lc01-P16M116D5252823'.
+```
+
+
+できた
+
+![image](https://gyazo.com/12f76352976fb62153a2d6d22e321f64/thumb/1000)
+
+懇親会での会話を拾うなら[[ビームフォーミング]]しない方がいいという話
+- [FairyDevicesRD/thinklet.app.sdk: SDK for THINKLET application](https://github.com/FairyDevicesRD/thinklet.app.sdk?tab=readme-ov-file#%E8%A9%A6%E9%A8%93%E7%9A%84%E6%A9%9F%E8%83%BD-%E9%9F%B3%E5%A3%B0%E5%87%A6%E7%90%86)
+- [disable_beamforming.patch](https://gist.github.com/nishio/1295526320d27da8c6aea80d75525f97)
+
+
+全然何も保存されてなかった、パーミッションの設定が必要ね
+![image](https://gyazo.com/81f992c6b46314ca99c2a3223e98aa3c/thumb/1000)![image](https://gyazo.com/10bd32578804bd182d77e1f90d8bcaef/thumb/1000)
+
+`$ adb shell am start -n ai.fd.thinklet.app.lifelog/.MainActivity --ez enabledMic true`
+`$ adb shell ls /sdcard/DCIM/lifelog/19740103/              `
+19740103_045124.raw
+19740103_045125.gif
+
+<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+転送方法として、主に以下の2通りがあります。
+- adb コマンドを使う方法
+    - ターミナルで以下のコマンドを実行すると、指定ディレクトリに保存されたファイルがPCにコピーされます。
+    - `$ adb pull /sdcard/DCIM/lifelog/ [転送先のPC上のディレクトリパス]`
+
+- MTPモードを使う方法
+    - デバイスをUSB接続し、通知領域から「ファイル転送（MTP）」モードに切り替えます。
+    - PCのエクスプローラー（Windowsの場合）やFinder（Macの場合）でデバイスの内部ストレージにアクセスし、DCIM/lifelog/ フォルダ内のファイルをコピーします。
+
+
+`% adb shell ls /sdcard/DCIM/lifelog/19740103/              `
+19740103_045124.raw
+19740103_045125.gif
+nishio@pc-100022-4 thinklet.app.lifelog % adb pull /sdcard/DCIM/lifelog/ ~/Downloads
+/sdcard/DCIM/lifelog/: 2 files pulled, 0 skipped. 27.3 MB/s (78614272 bytes in 2.748s)
+
+`$ ffmpeg -f s16le -ar 48000 -ac 2 -i ~/Downloads/lifelog/19740103/19740103_045124.raw output.wav `
+
+実際につけて歩いて喋ってを試してみないとだな
