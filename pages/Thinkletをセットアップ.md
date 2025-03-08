@@ -2,8 +2,11 @@
 title: "Thinkletをセットアップ"
 ---
 
+![image](https://gyazo.com/6357de17b18027861f8c2373fdea8fbb/thumb/1000) サムネイル用
+
 from [[THINKLET]]
 Thinkletをセットアップ
+[[LINKLET]]
 
 2024-12-13
 [映像を撮ってみる | THINKLET App Developer](https://fairydevicesrd.github.io/thinklet.app.developer/docs/startGuide/useCamera)
@@ -162,13 +165,58 @@ Connected to process 3550 on device 'qualcomm-thinklet_lc01-P16M116D5252823'.
     - デバイスをUSB接続し、通知領域から「ファイル転送（MTP）」モードに切り替えます。
     - PCのエクスプローラー（Windowsの場合）やFinder（Macの場合）でデバイスの内部ストレージにアクセスし、DCIM/lifelog/ フォルダ内のファイルをコピーします。
 
+:
 
-`% adb shell ls /sdcard/DCIM/lifelog/19740103/              `
+```
+% adb shell ls /sdcard/DCIM/lifelog/19740103/              
 19740103_045124.raw
 19740103_045125.gif
-nishio@pc-100022-4 thinklet.app.lifelog % adb pull /sdcard/DCIM/lifelog/ ~/Downloads
+% adb pull /sdcard/DCIM/lifelog/ ~/Downloads 
 /sdcard/DCIM/lifelog/: 2 files pulled, 0 skipped. 27.3 MB/s (78614272 bytes in 2.748s)
+```
+
 
 `$ ffmpeg -f s16le -ar 48000 -ac 2 -i ~/Downloads/lifelog/19740103/19740103_045124.raw output.wav `
 
 実際につけて歩いて喋ってを試してみないとだな
+
+2025-03-08
+- [[LINKLET]]のテスト運用
+    - マフラーしたらダメかなと思ったが意外と問題ない
+    - ![image](https://gyazo.com/6357de17b18027861f8c2373fdea8fbb/thumb/1000)
+
+:
+
+```
+% adb shell ls /sdcard/DCIM/lifelog/19740104
+19740104_005846.raw
+% adb shell ls /sdcard/DCIM/lifelog/19740103
+19740103_045124.raw
+19740103_045125.gif
+19740103_233158.raw
+19740103_233159.gif
+```
+
+
+ふむ？これは内部的に日付が変わったのか？
+`% adb pull /sdcard/DCIM/lifelog/ ~/Downloads`
+19枚くらいの画像が撮れていた
+5分に1回くらいかな？
+
+<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>写真は何分に一回撮られてるかな？調べて
+<img src='https://scrapbox.io/api/pages/nishio/Roo/icon' alt='Roo.icon' height="19.5"/>調査結果をまとめると：
+1. デフォルト設定：300秒（5分）に1回
+    - LifeLogArgs.ktの21行目で定義されています
+    - `intervalSeconds = max(bundle?.get("intervalSeconds")?.toString()?.toIntOrNull() ?: 300, 10)`
+2. 最小間隔：10秒
+    - 同じくLifeLogArgs.ktの21行目で、最小値として10秒が設定されています
+3. 設定ファイルによる設定：
+    - `keyConfigs/2592_1944_withMic.json`：120秒（2分）に1回
+    - `keyConfigs/1440_1080.json`：30秒に1回
+
+実際にどの設定が使用されているかは、アプリの起動方法によって異なります。アプリが設定ファイルを使用して起動されている場合は、その設定ファイルの間隔が適用されます。設定なしで起動されている場合は、デフォルトの300秒（5分）が適用されます。
+
+---
+
+音声の具合に関しては明日撮ってみないとだな〜
+

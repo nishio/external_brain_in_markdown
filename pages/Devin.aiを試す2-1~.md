@@ -85,4 +85,8 @@ DevinがSonnet3.7ベースになった
 2025-03-06
 [[AIエージェントと研究]]
 
-[https://x.com/osyoyu/status/1897641413619409296?s=46&t=gkSZtjGEtUZPO0JCzBxCBw](https://x.com/osyoyu/status/1897641413619409296?s=46&t=gkSZtjGEtUZPO0JCzBxCBw)
+> [osyoyu](https://x.com/osyoyu/status/1897641413619409296) Devin、かなり加速していて良い
+>  ![image](https://pbs.twimg.com/media/GlXGwjOaMAEPbZA?format=png&name=900x900#.png)
+
+
+[OpenHands(OpenDevin)を使った感想「本家Devinは安い」](https://zenn.dev/dyoshikawa/articles/devin-is-reasonable)
