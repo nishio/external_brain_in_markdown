@@ -220,3 +220,43 @@ Connected to process 3550 on device 'qualcomm-thinklet_lc01-P16M116D5252823'.
 
 音声の具合に関しては明日撮ってみないとだな〜
 
+2025-03-09
+:
+
+```
+% adb shell ls /sdcard/DCIM/lifelog/19740105/
+19740105_033437.gif
+19740105_033437.raw
+19740105_050124.raw
+19740105_062813.raw
+19740105_075501.raw
+19740105_092149.raw
+19740105_104838.raw
+```
+
+音声ファイルがたくさんあるな
+`$ adb pull /sdcard/DCIM/lifelog/ ~/Downloads`
+`$ ls -l ~/Downloads/lifelog/19740105`
+:
+
+```
+total 10122120
+-rw-r--r--  1 nishio  staff    11603521  3  9 23:52 19740105_033437.gif
+-rw-r--r--  1 nishio  staff  1000000512  3  9 23:51 19740105_033437.raw
+-rw-r--r--  1 nishio  staff  1000000512  3  9 23:53 19740105_050124.raw
+-rw-r--r--  1 nishio  staff  1000000512  3  9 23:54 19740105_062813.raw
+-rw-r--r--  1 nishio  staff  1000000512  3  9 23:52 19740105_075501.raw
+-rw-r--r--  1 nishio  staff  1000000512  3  9 23:52 19740105_092149.raw
+-rw-r--r--  1 nishio  staff   130837248  3  9 23:53 19740105_104838.raw
+```
+
+なるほど音声ファイルは1GBで分割か
+![image](https://gyazo.com/0030b9dad8b2ead55b9b0c8743237664/thumb/1000)
+
+![image](https://gyazo.com/bfc03d2ee156b77269b098a1ade20ab6/thumb/1000)
+1GBで1時間半
+MP3にすると120MB
+[[NotebookLM]]に投げる
+- ごく一部
+    - ![image](https://gyazo.com/7afc773fe6d2de8af3911e2f920ab06e/thumb/1000)
+
