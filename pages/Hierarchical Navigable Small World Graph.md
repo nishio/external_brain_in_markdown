@@ -4,8 +4,9 @@ title: "Hierarchical Navigable Small World Graph"
 
 [[HNSW]] ([[Hierarchical Navigable Small World Graph]])
 [1603.09320 Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320)
-
-[[Skip List]]の高次元版だよねーと思ってたら論文自体にもそう書いてあった
+![image](https://gyazo.com/36a75328a6583c73ffe61844d1c4b105/thumb/1000)
+- [[Skip List]]の高次元版だよねーと思ってたら論文自体にもそう書いてあった
+- [[スキップリスト]] / [[スキップグラフ]]
 
 大量のベクトルの中から、与えられたベクトルに近いものを見つけたいというシチュエーションにおいて、素朴に実装するとO(N)になる
 - これでは問題があるケースのためにより良い方法が必要

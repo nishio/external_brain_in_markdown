@@ -5,6 +5,8 @@ title: "Disruptive innovation can occur even if technology progresses gradually"
 - ISPIM Connect Fukuoka
 - [Codes and figures are available on GitHub](https://github.com/nishio/mot)
 - [You can run codes on Google Colab](https://colab.research.google.com/github/nishio/mot/blob/master/DisruptiveInnovation.ipynb)
+- Shuzo Fujimura, Hirokazu Nishio. Disruptive innovation can occur even if technology progresses gradually. ISPIM Connects Fukuoka. Proceedings of ISPIM Connects Fukuoka: Solving Challenges Through Innovation. 2018. Dec.
+
 
 - Presentation slides
     - ![image](https://gyazo.com/38ab508876bdee6bb7d2f5f94ae3147c/thumb/1000)

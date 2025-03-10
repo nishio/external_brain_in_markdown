@@ -2,9 +2,17 @@
 title: "SingularityではなくPluralityという未来"
 ---
 
-LT
-- 3/9
-- 5min
+西尾泰和 "SingularityではなくPluralityという未来"
+2025-03-09 未踏会議2025 懇親会のLightning Talkにて
+
+動画
+- [https://youtu.be/LXZtPZK0lcI](https://youtu.be/LXZtPZK0lcI)
+[Slide](https://www.dropbox.com/scl/fi/9b2kw2zix0sbhe21l9yzs/Singularity-Plurality.pdf?rlkey=q4v81xt1rztqedaztfr8z61ue&dl=0)
+
+
+
+
+## Making
 
 ![image](https://gyazo.com/d2f99904a8e64eb98ba264e1bfaad1cf/thumb/1000)
 
@@ -13,8 +21,8 @@ LT
 ![image](https://gyazo.com/7a70dfa8802f5f27787e2c8b189f12f9/thumb/1000)
 ![image](https://gyazo.com/8dc99ad85a7391971d245bbbf180b7cb/thumb/1000)
 
-## Making
 
+---
 [[Pluralityとは#6436be24aff09e00006809d3]]
 - 当時知ったばかりの概念なのにいい説明しているなw
 - [[ある概念が既存の言葉で簡潔に説明できるなら、それは新しい概念ではない]]
@@ -78,3 +86,4 @@ Plurality本
 [[世界はひとつの声に支配されるべきではない]]
 - 多様な意見がある状態を維持すべきだ
 
+[[ネットワーク形成システムとしての未踏]]
