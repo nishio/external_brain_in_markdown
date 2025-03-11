@@ -3,7 +3,8 @@ title: "SingularityではなくPluralityという未来"
 ---
 
 西尾泰和 "SingularityではなくPluralityという未来"
-2025-03-09 未踏会議2025 懇親会のLightning Talkにて
+2025-03-09 [[未踏会議2025]] 懇親会のLightning Talkにて
+- > 3/9の未踏会議で、技術親和性の高い人向けにPluralityの話をした6分のライトニングトーク "SingularityではなくPluralityという未来" の動画です
 
 動画
 - [https://youtu.be/LXZtPZK0lcI](https://youtu.be/LXZtPZK0lcI)
