@@ -10,6 +10,9 @@ title: "AIのことをツイートしまくってるアカウントはAIの仕�
 [[飽きたのか仕事につながったのか第三者にはわからない]]
 [[仕事してると静かになる]]
 
+関連
+- [[質が向上すると見えなくなる]]
+
 __BELOW_IS_AI_GENERATED__
 # AIのことをツイートしまくってるアカウントはAIの仕事をしていない
  2023-09-17 23:51 <img src='https://scrapbox.io/api/pages/nishio/omni/icon' alt='omni.icon' height="19.5"/>
