@@ -4,7 +4,7 @@ title: "Radical Markets"
 
 ![image](https://gyazo.com/a624221c015a8d80c5354eeb0a35b239/thumb/1000)
 - Radical Markets: Uprooting Capitalism and Democracy for a Just Society
-- [[Eric A. Posner]] & [[E. Glen Weyl]]
+- [[Eric A. Posner]] & [[E. Glen Weyl]] (2018)
 - [Amazon](https://amzn.to/3K1dcBw)
 
 
