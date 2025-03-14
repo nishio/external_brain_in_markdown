@@ -16,3 +16,6 @@ title: "XREAL One"
 2025-01-18 届いた
 [https://www.youtube.com/watch?v=8XzEHMu-cBY](https://www.youtube.com/watch?v=8XzEHMu-cBY)
 
+[[XREAL One インサートレンズ購入]]したら普通に仕事に使えるようになった
+- ボタンの設定で上のボタンをワイドスクリーンモードへの切り替えにするのがおすすめ([[鵜飼さん]]のおすすめ)
+

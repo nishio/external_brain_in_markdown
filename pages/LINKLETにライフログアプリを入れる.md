@@ -194,3 +194,18 @@ done
 
 
 [https://app.devin.ai/sessions/02e8ade3a448425b9c6c178e0db0e236](https://app.devin.ai/sessions/02e8ade3a448425b9c6c178e0db0e236)
+
+2025-03-15
+> [nishio](https://x.com/nishio/status/1900559337145213210) あんまりいい写真がないけど先日の未踏会議未踏ナイトではFairyDevices社さんから貸与いただいてる首かけAndroidデバイスのLINKLETをつけて活動していました。7時間半つけっぱなしにしてたけど問題なく稼働して音声と画像が撮れていました #未踏会議
+>  ![image](https://pbs.twimg.com/media/GmAkIijbsAAjhKz?format=png&name=small#.png)
+
+> [nishio](https://x.com/nishio/status/1900559891317903762) 講演してる側の視点
+>  ![image](https://pbs.twimg.com/media/GmAlIeLawAA_R46?format=png&name=medium#.png)
+
+> [nishio](https://x.com/nishio/status/1900560416574672982) 懇親会
+>  @ukkaripon
+>  @teramotodaiki
+>  ![image](https://pbs.twimg.com/media/GmAlkf6aoAAK__o?format=png&name=medium#.png)
+
+> [nishio](https://x.com/nishio/status/1900562039598456988) 懇親会じゃなくて二次会だった。懇親会でも色々な人が映ってて「そうそう、なになにさんと話したんだった」ってなってよかった。そして単なるライフログカメラと違ってマイクが5~6個も乗ってるので後から処理すれば自分と相手の声を分離できそうなのが良い。
+
