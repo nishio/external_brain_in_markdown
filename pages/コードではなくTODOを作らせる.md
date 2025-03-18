@@ -18,3 +18,5 @@ title: "コードではなくTODOを作らせる"
 
 まあClineとCursorは選択肢が近すぎだろと思うが
 - 僕はDevinとRoo CodeとChatGPT(o1 pro / o3-mini-high)
+
+[[AIがTODOを生成]]
