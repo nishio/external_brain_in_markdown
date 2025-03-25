@@ -36,5 +36,6 @@ TTTC: AIと著作権に関するパブリックコメント
 2024-07-21
 > [nishio](https://x.com/nishio/status/1814932184735830329) 文化庁が行なったAIと著作権に関するパブコメのデータを元に、AI Objectives InstituteのZoeyがTalk to the CityのTurboバージョンでのレポートを作成してくれました！こちらはクラスターを二段階掘り下げることができるなど、Scatter版にはない機能があります
 - [https://talktothecity.org/report/AI%20and%20Copyright%20Public%20Comment%20Analysis%20in%20Japan_large](https://talktothecity.org/report/AI%20and%20Copyright%20Public%20Comment%20Analysis%20in%20Japan_large)
+- [[クラスタを掘り下げる]]
 
 [[aipubcom]]
