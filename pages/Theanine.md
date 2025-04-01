@@ -13,3 +13,7 @@ Theanine (Ong et al., NAACL 2025): 長期対話における[[タイムライン�
 これにより、一見古い出来事でも「ユーザ行動の変化」という文脈手がかりとして活用し、より一貫性ある応答や長期関係の構築に繋げます​。
 
 また、評価手法としてTeaFarmと呼ぶカウンターファクト（反事実）対話生成に基づくスキームを提案し、過去記憶を統合した応答生成を自動評価する工夫も行っています​。Theanineは長期対話の文脈理解力を高める新しい視点として注目されます。
+
+prototype
+[https://github.com/nishio/private/tree/devin/1742967627-prototype-from-paper](https://github.com/nishio/private/tree/devin/1742967627-prototype-from-paper)
+[https://app.devin.ai/sessions/f0a2ea386d10436bb20cb97a02129057](https://app.devin.ai/sessions/f0a2ea386d10436bb20cb97a02129057)
