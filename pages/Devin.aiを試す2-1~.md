@@ -90,3 +90,8 @@ DevinがSonnet3.7ベースになった
 
 
 [OpenHands(OpenDevin)を使った感想「本家Devinは安い」](https://zenn.dev/dyoshikawa/articles/devin-is-reasonable)
+
+2025-04-02
+![image](https://gyazo.com/528c9812aa7783300e5fcd04f86abccc/thumb/1000)
+表示が親切になったね
+- 頭に✅をつけてるのは人間が判断してつけてる
