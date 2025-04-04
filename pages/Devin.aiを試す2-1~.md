@@ -95,3 +95,5 @@ DevinがSonnet3.7ベースになった
 ![image](https://gyazo.com/528c9812aa7783300e5fcd04f86abccc/thumb/1000)
 表示が親切になったね
 - 頭に✅をつけてるのは人間が判断してつけてる
+
+[[Devin.aiを試す4/1~]]
