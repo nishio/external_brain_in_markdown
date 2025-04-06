@@ -14,3 +14,8 @@ title: "AnthropicのMCP"
 [[Claude Desktop]]
 
 [[my-tools]]
+
+
+[https://syu-m-5151.hatenablog.com/entry/2025/03/09/020057](https://syu-m-5151.hatenablog.com/entry/2025/03/09/020057)
+
+Anthropicの」ではなくなってきたので概念のリファクタリングが必要
