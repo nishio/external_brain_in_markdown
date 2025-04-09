@@ -10,7 +10,7 @@ Azure環境の広聴AIに大きなデータを入れたらしばらく実行さ�
 注:
 - [成功したレポートのデータを取り出すスクリプト](https://github.com/digitaldemocracy2030/kouchou-ai/blob/main/scripts/fetch_reports.py)は3/25に作ってある
 - 今回は中間データを取り出したいという話で、これは大部分の人には必要ない作業
-- o3は「<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>Azureの環境なら、Blob Storageへのアップロードが唯一現実的です」とかいってくる面倒なシチュエーションを無理やりハックするメモです
+- o3は「<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>Azureの環境なら、[[Azure Blob Storage]]へのアップロードが唯一現実的です」とかいってくる面倒なシチュエーションを無理やりハックするメモです
 - これをやっている間、管理画面や結果表示画面はもちろんみんな動かなくなる
 - 普通の24時間運用するWebサービスの運用としてはあり得ないことをするのだけど、今回は顧客向けに24時間提供している状況ではないのでやってる
 
