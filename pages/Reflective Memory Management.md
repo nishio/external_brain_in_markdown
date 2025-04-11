@@ -2,7 +2,7 @@
 title: "Reflective Memory Management"
 ---
 
-In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents
+[[In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents]]
 [https://arxiv.org/pdf/2503.08026](https://arxiv.org/pdf/2503.08026)
 <img src='https://scrapbox.io/api/pages/nishio/GPT-4.5/icon' alt='GPT-4.5.icon' height="19.5"/>
 # 論文の概要

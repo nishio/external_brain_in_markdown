@@ -14,3 +14,6 @@ title: "MCPファースト"
 
 <img src='https://scrapbox.io/api/pages/nishio/DR/icon' alt='DR.icon' height="19.5"/>
 - [https://chatgpt.com/share/67f3b21d-8e6c-8011-95b9-0b5d2751be0a](https://chatgpt.com/share/67f3b21d-8e6c-8011-95b9-0b5d2751be0a)
+
+> [nishio](https://x.com/nishio/status/1909616987669778733) AIは「MCPによってWebのフロントエンドのようなUIの工夫は価値を失う」って言うけど、それはCUIで全部操作できるならGUIはいらないって言ってるようなもので、人間の認知のチャンネルは言語だけではないから違うと思うんだよなぁ。あと人間は足並みを揃えて新しいインターフェイスに適応することはない
+> [nishio](https://x.com/nishio/status/1909617856633094240) 身体的な特徴によってか、学習能力によってか、学習する意思の欠如によってかはさておき、人それぞれ生えてるインターフェイスが異なっていたり、一見同じインターフェイスに見えても性能が違ってたりする

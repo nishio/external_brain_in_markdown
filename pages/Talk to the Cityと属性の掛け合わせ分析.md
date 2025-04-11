@@ -2,6 +2,12 @@
 title: "Talk to the Cityと属性の掛け合わせ分析"
 ---
 
+2025-04-11
+- anno-broadlisteningのここで実装している
+    - [https://github.com/takahiroanno2024/anno-broadlistening/issues/9](https://github.com/takahiroanno2024/anno-broadlistening/issues/9)
+- その後階層機能をつけるにあたってUIがPlotlyになって、その時に対応優先度が低かったために一旦OFFになっている
+
+2024-12-06
 [[Talk to the City]]で自由記述データの分布を二次元可視化した上で、特定の属性(例えば年齢層、データソース、アンケートなら自由記述以外の選択肢質問の回答など)と掛け合わせて分析したいというニーズがある
 
 この分析にはいくつもやり方がある
