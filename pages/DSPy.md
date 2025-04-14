@@ -24,6 +24,7 @@ title: "DSPy"
     - 商用LLMにも自己改善や自己修正能力が徐々に組み込まれ始めている。
 
 今後もこの「モデル自身が学習して改善する」という方向性は注目され、外部連携や自己評価の高度化によって、さらに発展すると予測されています。
+<img src='https://scrapbox.io/api/pages/nishio/DR/icon' alt='DR.icon' height="19.5"/>[https://chatgpt.com/share/67fc6ef4-d220-8011-8337-030850f6ed70](https://chatgpt.com/share/67fc6ef4-d220-8011-8337-030850f6ed70)
 
 ---
 2024-05-02
