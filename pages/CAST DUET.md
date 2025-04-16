@@ -2,7 +2,6 @@
 title: "CAST DUET"
 ---
 
-物理[[パズル]] [[キャストパズル]] [[はずる]]
 ![image](https://gyazo.com/226c4891670f934f9451cf0c7e7a8950/thumb/1000)![image](https://gyazo.com/a401b7c611bdef46376408ca360e942a/thumb/1000)
 ![image](https://gyazo.com/faf4db8a9ced4f51d199a30c67f77e7d/thumb/1000)
 [Amazon](https://amzn.to/2JN5LQU)
@@ -90,3 +89,5 @@ title: "CAST DUET"
 - ゴールからの逆算
 - 見落としていることがあるはずだ探索
 - 見落とし発見後、過去の記録から探索
+
+物理[[パズル]] [[キャストパズル]] [[はずる]] [[知恵の輪]]
