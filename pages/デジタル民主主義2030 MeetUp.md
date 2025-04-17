@@ -8,6 +8,10 @@ from [[日記2025-04-12]]
 [デジタル民主主義2030 MeetUp Offline&Online | Peatix](https://dd2030meetup2504.peatix.com/)
 [[デジタル民主主義2030]]
 
+感想記事
+- [デジタル民主主義2030 Meet Upに参加した](https://hanatane.net/dd2030-meetup/)
+
+
 > [blu3mo](https://x.com/blu3mo/status/1910913558902382922) #デジタル民主主義2030 ミートアップ やってます！
 >  "Digital Democracy 2030 Initiative" Meetup / Hackathon in Tokyo!
 >  ![image](https://pbs.twimg.com/media/GoTtuMNWsAAOZwc?format=jpg&name=small#.png)
