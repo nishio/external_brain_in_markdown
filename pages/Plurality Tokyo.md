@@ -4,7 +4,7 @@ title: "Plurality Tokyo"
 
 2023-04-12に開催された
 - Scrapbox: [/plurality-tokyo](https://scrapbox.io/plurality-tokyo)
-- 当日のメモ: [[Plurality Tokyo当日メモ]]
+- 当日のメモ: [[Plurality Tokyo 2023]]
 
 
 > [@0xtkgshn](https://twitter.com/0xtkgshn/status/1629726848220553217?s=20): Plurality Tokyo開催決定！

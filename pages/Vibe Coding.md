@@ -1,0 +1,8 @@
+---
+title: "Vibe Coding"
+---
+
+> [karpathy](https://x.com/karpathy/status/1886192184808149383) There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper so I barely even touch the keyboard. I ask for the dumbest things like "decrease the padding on the sidebar by half" because I'm too lazy to find it. I "Accept All" always, I don't read the diffs anymore. When I get error messages I just copy paste them in with no comment, usually that fixes it. The code grows beyond my usual comprehension, I'd have to really read through it for a while. Sometimes the LLMs can't fix a bug so I just work around it or ask for random changes until it goes away. It's not too bad for throwaway weekend projects, but still quite amusing. I'm building a project or webapp, but it's not really coding - I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works.
+>  私が「バイブコーディング」と呼んでいる新しい種類のコーディングがあり、バイブスに完全に身を任せ、指数関数を受け入れ、コードが存在することさえ忘れます。それはLLMs(例:Cursor Composer w Sonnet)が良くなりすぎているためです。また、SuperWhisperでComposerと話すだけなので、キーボードにはほとんど触れません。「サイドバーのパディングを半分に減らしてください」など、最も愚かなことを求めます。私は常に「すべてを受け入れる」ので、差分はもう読みません。エラーメッセージが表示された場合は、コメントなしでコピーして貼り付けるだけで、通常はそれで修正されます。コードは私の通常の理解を超えて成長し、しばらくの間本当に読み通さなければなりません。LLMsはバグを修正できないこともあるので、それを回避するか、バグがなくなるまでランダムな変更を依頼します。使い捨ての週末のプロジェクトとしては悪くありませんが、それでもかなり面白いです。私はプロジェクトやWebアプリケーションを構築していますが、実際にはコーディングではありません - 私はただものを見て、何かを言い、何かを実行し、何かをコピーして貼り付けます、そしてそれはほとんどうまくいきます。
+
+[[守破離]]な意味でまず提唱者の「型」を確認したんだけど、彼は「キーボードにはほとんど触れません」って言ってるんだよな

@@ -14,3 +14,8 @@ v2.0が来た
 
 [[デジタル民主主義2030勉強会]]
 - ほとんどDevinが書いた
+
+[[V-1グランプリ]]
+- Devin+Xreal One+音声入力
+
+[/shokai/Devinがpdfjs-dist npmの更新でNode.js 20.4以上が必要な事をつきとめ、polyfillを作って解決してくれた](https://scrapbox.io/shokai/Devinがpdfjs-dist npmの更新でNode.js 20.4以上が必要な事をつきとめ、polyfillを作って解決してくれた)
