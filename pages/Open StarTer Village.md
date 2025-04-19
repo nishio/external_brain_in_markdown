@@ -14,6 +14,8 @@ title: "Open StarTer Village"
 オリジナルルールブック
 [https://drive.google.com/file/d/1gBGKhavLdDQ-J1elxQNN6E7Sdz0ZBTeO/view](https://drive.google.com/file/d/1gBGKhavLdDQ-J1elxQNN6E7Sdz0ZBTeO/view)
 
+1ページあんちょこ
+[https://docs.google.com/document/d/17fH5XodRgEVNvre8lPbE7fHP5teBAIhuroLuTYG6vJU/edit?tab=t.0](https://docs.google.com/document/d/17fH5XodRgEVNvre8lPbE7fHP5teBAIhuroLuTYG6vJU/edit?tab=t.0)
 
 
 [[利己的な利他行動]]
