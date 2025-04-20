@@ -21,4 +21,7 @@ title: "Open StarTer Village"
 [[利己的な利他行動]]
 [[経営ゲーム]]
 [[ワーカープレイスメント]]
-[[Social Hack Day #69]]
+
+- [[Social Hack Day #69]]
+- [OSS ボードゲーム、Open StarTer Village で遊ぶ会](https://code4japan-community.notion.site/OSS-Open-StarTer-Village-1d2a6c65652e803cbd68efee41cc806b)
+- [[Social Hack Day #70]]

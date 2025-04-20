@@ -2,7 +2,7 @@
 title: "Virtual Star"
 ---
 
-西尾が作った[[アート]]作品
+西尾が作った[[アート]]作品シリーズ
 [[ASIAGRAPH]]2009優秀作品に選ばれた
 [Virtual Star --- NISHIO Hirokazu](http://nhiro.org/what_i_did/virtual_star/)
 
@@ -18,6 +18,18 @@ title: "Virtual Star"
 >  500年前のダヴィンチの時代には数兆分の一リットルの顔料を毎秒何万回の速度で置いていく絵筆は存在しませんでした。毎秒何十億回もの計算をする人も存在しませんでした。今はどちらも手に入ります。より正確に神様の創り出した美しさを描くことができる時代がやってきたのです。
 - 「x + 1 が x の x 倍になるような x は 1.61803... であり」という表現だと、それが[[黄金比]]だとわからない人がいそう
     - でも円周率の側を「円周率」と呼んでないので、言葉ではなく数値が先に普遍的に存在するという意図か
+
+TAGBOAT SUMMER AWARD 2009
+審査員特別賞≪池内務賞≫
+[https://web.archive.org/web/20100823054152/https://www.tagboat.com/ngs/award/summer/2009/result.html](https://web.archive.org/web/20100823054152/https://www.tagboat.com/ngs/award/summer/2009/result.html)
+> 西尾泰和
+>  Virtual Star
+>  2009年,Python言語を用いてsvgを出力するプログラム/印画紙/フォトアクリル
+>  30cmx42cm
+>  【審査員総評】
+>  「アートのテーマを外（数学）から持ってきたところが評価できる。数学への情念のようなものを感じる。数学への意識が社会において学者だけのものから変わりつつある。」
+>  （審査員 池内務）
+- [アーティストの声　|　TAGBOAT Next GenerationS](https://web.archive.org/web/20130228013256/https://www.tagboat.com/ngs/user_voice/post-23.html)
 
 2022-09-17
 スマートフォンのカメラの解像度が上がったから前よりも綺麗に撮影できるようになったな
