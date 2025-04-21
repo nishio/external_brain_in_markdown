@@ -26,7 +26,7 @@ prev: [[短期的な並行作業の進捗管理]]
 さらに推し進めて、人間と人間の会話もAIが見る方がいいのでは、となると「[[AIが人間の入出力と一体化すべき]]」に近づく
 
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>]一般的な手法は以下の通りです。
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>]一般的な手法は以下の通りです。
 - [[イベントフック]]の実装
     - タスクがemitされる箇所にフックを設け、発生時にAIへ通知する仕組みを導入する。
 - ログ収集と解析

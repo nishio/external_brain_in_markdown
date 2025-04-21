@@ -20,7 +20,7 @@ title: "o1, o3, Deep Researchの比較2025-02-14"
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>3つ提案している、o3-mini-highでも試したがほぼ同じ内容だったので割愛
 
 # o3-mini-high + web
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 この現象は、心理学で「[[下方比較]]」と呼ばれるものに近いです。
 下方比較とは、自分より状況の悪い他者と比較することで、自身の状態を相対的に良く感じ、精神状態が安定・改善するという心理メカニズムを指します。例えば、変化の激しい環境にいるAさんが、変化に鈍感なBさんを見て「自分はまだマシだ」と感じることで安心感を得るという点で、下方比較が働いていると考えられます
 

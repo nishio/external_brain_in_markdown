@@ -4,7 +4,7 @@ title: "ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning"
 
 ![image](https://gyazo.com/67da5e404b24e59a97ceee35850e8fb7/thumb/1000)
 [https://arxiv.org/abs/1811.00146](https://arxiv.org/abs/1811.00146)
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 [[ATOMIC]]は、日常の出来事に対する因果的・推論的常識知識を大量に収集した[[知識グラフ]]です。主なポイントは以下の通りです。
 
 - 大規模データ: 877,000以上の「if‐then」関係（例：「もしXがYに褒め言葉をかけたら、Yはお返しの褒め言葉をするだろう」）を、自然言語のテキストとして収集しています。

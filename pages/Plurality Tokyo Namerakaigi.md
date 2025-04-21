@@ -19,7 +19,7 @@ title: "Plurality Tokyo Namerakaigi"
     - ​西尾泰和
     - [講演資料](https://scrapbox.io/nishio/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E3%82%92%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%E3%81%95%E3%81%9B%E3%82%8B%E3%81%AB%E3%81%AF%EF%BC%9F)
 - [[デジタル民主主義2030]]の紹介
-    - 安野貴博
+    - [[安野貴博]]
     - [講演資料](https://docs.google.com/presentation/d/1etZjpfj9v59NW5REC4bOv4QwVq_ApZMFDMQZqPDHb8Q/edit#slide=id.g32f02a385ca_0_55)
 
 5. ​LT
@@ -524,7 +524,7 @@ yukihoz:
 --- 3次会
 nishio:
 - [[Kleros]]の話してる
-    - > <img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>分散型陪審システムを活用して、透明性・公正性を確保しながら迅速な紛争解決を実現
+    - > <img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>分散型陪審システムを活用して、透明性・公正性を確保しながら迅速な紛争解決を実現
     - [https://chatgpt.com/share/67bdefed-fa14-8011-881d-4b64a90a88c8](https://chatgpt.com/share/67bdefed-fa14-8011-881d-4b64a90a88c8)
     - 面白い
 
@@ -539,3 +539,4 @@ AIは民主主義を悪化させるか
 - そうではない使い方があるはずだ
 
 
+[[Plurality Tokyo 2025-02-25]]

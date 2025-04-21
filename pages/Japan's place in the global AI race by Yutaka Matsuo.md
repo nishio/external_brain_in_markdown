@@ -21,7 +21,7 @@ title: "Japan's place in the global AI race by Yutaka Matsuo"
     - AIのリスクとイノベーションを両立するための法律や枠組みを整備する方針。すでに既存の法体系（詐欺罪や武器製造関連法など）でカバーできるものも多く、必要に応じて情報収集・監視を強化していく。
     - [[広島AIプロセス]]や[[フレンズグループ]]など、国際協調を重視。
         - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>フレンズグループとは？
-        - <img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>「フレンズグループ」とは、広島AIプロセスの精神に賛同する国々が自発的に集まった国際枠組みです。2023年に日本が主導して立ち上げられ、現在は55か国・地域が参加しています。主な目的は、生成AIなど先進技術の安全性や透明性を確保しつつ、イノベーションを促進するために、各国の政府や国際機関、企業が意見交換や協力を行うことです。詳細は、政府広報や外務省の資料などに記載されています
+        - <img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>「フレンズグループ」とは、広島AIプロセスの精神に賛同する国々が自発的に集まった国際枠組みです。2023年に日本が主導して立ち上げられ、現在は55か国・地域が参加しています。主な目的は、生成AIなど先進技術の安全性や透明性を確保しつつ、イノベーションを促進するために、各国の政府や国際機関、企業が意見交換や協力を行うことです。詳細は、政府広報や外務省の資料などに記載されています
             - [生稲外務大臣政務官の「広島AIプロセス・フレンズグループ会合」閉会式出席（結果）｜外務省](https://www.mofa.go.jp/mofaj/press/release/pressit_000001_01825.html)
             - [広島AIプロセス・フレンズグループ会合の開催結果 | FastFact](https://fast-fact.jp/fields/administration/news/8ac336f7-4fcb-44c2-b10d-3b35b2bfe25c)
 

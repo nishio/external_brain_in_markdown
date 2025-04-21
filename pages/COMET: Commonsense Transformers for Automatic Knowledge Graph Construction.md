@@ -5,7 +5,7 @@ title: "COMET: Commonsense Transformers for Automatic Knowledge Graph Constructi
 ![image](https://gyazo.com/fb0e9ead12ab12f78ec1c4b720576632/thumb/1000)
 [https://arxiv.org/abs/1906.05317](https://arxiv.org/abs/1906.05317)
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 - 目的と背景
 - COMETは、[[ATOMIC]]や[[ConceptNet]]といった常識知識グラフの「欠落部分」を自動生成する手法です。従来の知識抽出が明示的な記述に依存していたのに対し、暗黙の常識知識を言語生成モデルで明示化する点が特徴です。
 

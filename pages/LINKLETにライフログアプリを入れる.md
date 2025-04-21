@@ -14,7 +14,7 @@ LINKLETにライフログアプリを入れる
 一旦スルー
 
 > Could not GET '[https://maven.pkg.github.com/FairyDevicesRD/thinklet.app.sdk/ai/fd/thinklet/sdk-audio/0.1.6/sdk-audio-0.1.6.pom'.](https://maven.pkg.github.com/FairyDevicesRD/thinklet.app.sdk/ai/fd/thinklet/sdk-audio/0.1.6/sdk-audio-0.1.6.pom'.) Received status code 401 from server: Unauthorized
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 このエラーは、GitHub Packagesからライブラリを取得する際の認証情報が不足しているために発生しています。以下の手順で対処してください。
 GitHub Personal Access Tokenの作成
 - GitHubの「Settings」→「Developer settings」→「Personal access tokens」で新規トークンを作成します。
@@ -24,7 +24,7 @@ local.propertiesに認証情報を追加 ...
 READMEに書いてあったやつだな
 
 ![image](https://gyazo.com/2bc6018940666acaa8c1c3ff63b381f9/thumb/1000)
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 > 対応デバイス上でテストを行ってください。
 > adb devices コマンドで認識されているか確認します。
 
@@ -71,7 +71,7 @@ Connected to process 3550 on device 'qualcomm-thinklet_lc01-P16M116D5252823'.
 19740103_045124.raw
 19740103_045125.gif
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 転送方法として、主に以下の2通りがあります。
 - adb コマンドを使う方法
     - ターミナルで以下のコマンドを実行すると、指定ディレクトリに保存されたファイルがPCにコピーされます。

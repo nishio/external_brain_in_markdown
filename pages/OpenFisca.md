@@ -14,7 +14,7 @@ title: "OpenFisca"
 
 ## LexImpact
 - [/tkgshn/LaxImpact](https://scrapbox.io/tkgshn/LaxImpact)
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>概要
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>概要
 [[LexImpact]]は、フランス国民議会が運用する社会・財政シミュレーターで、OpenFiscaを基盤に政策変更の影響を計算・可視化するツールです。市民や議員がシナリオを入力することで、税・社会保障制度の各種パラメータ（例：最低賃金、各種社会保険料など）の変更が与える影響をシミュレーションできます
 - [Using AI to update OpenFisca parameters – update_openfisca_with_ai](https://documentation.leximpact.dev/ia/explication-en.html)
 

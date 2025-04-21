@@ -3,7 +3,7 @@ title: "Redis"
 ---
 
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 簡単な方法としては、以下の2つがおすすめです。
 
 - Dockerを利用する:

@@ -4,7 +4,7 @@ title: "10 Years of Git: An Interview with Git Creator Linus Torvalds"
 
 [10 Years of Git: An Interview with Git Creator Linus Torvalds - Linux Foundation](https://www.linuxfoundation.org/blog/blog/10-years-of-git-an-interview-with-git-creator-linus-torvalds)(2015)
 [本の虫: gitの10周年を記念したLinus Torvalsへのインタビューの翻訳](https://cpplover.blogspot.com/2015/04/git10linus-torvals.html)
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 ## 1. 記事全体の解説
 この記事は、[[Git]]の生みの親である[[Linus Torvalds]]([[リーナス・トーバルズ]])氏へのインタビュー形式で、Gitが誕生した背景やその設計思想、現状での運用について語られています。
 - 背景: 当時、Linuxカーネル開発では[[BitKeeper]]というプロプライエタリなツールを使用していましたが、その制約（特に変更権限の管理に関する政治的な問題）に不満があったため、トーバルズ氏は自ら新たな分散型ソース管理システム（Git）を作り上げました。

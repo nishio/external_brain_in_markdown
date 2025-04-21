@@ -24,7 +24,7 @@ from [[OSSで共有地の悲劇が起こることにどう対処するか#61dc73
     - Devinくらいの能力があれば仕組みをつくりさえすれば可能
 
 >  Linus オリジナルの git 観
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 [[Linus Torvalds]] が最初に [[Git]] を設計した際の狙いは、中央集権的な公式リポジトリに依存せず、各開発者が自由に自分のリポジトリを持ち、コミットハッシュという一意な識別子で状態を管理する分散型システムを実現することでした。
 
 具体的には、Linus はLinuxカーネルの膨大な変更を効率よく管理するため、パッチを個々の開発者がローカルで自由に作業し、後で必要に応じて統合（マージ）できる仕組みを求めました。これにより、公式ビルドやリリースに伴う重い責任感を排除し、むしろ各自のコミットハッシュが真の「バージョン」の指標となる世界観を目指していました（​[Git - Wikipedia](https://en.wikipedia.org/wiki/Git))

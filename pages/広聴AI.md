@@ -2,6 +2,10 @@
 title: "広聴AI"
 ---
 
+[[デジタル民主主義2030]]ブロジェクトが開発提供しているオープンソースの[[ブロードリスニング]]ツール
+- [[Talk to the City]]との関係はここに書いた: [Talk to the City と広聴AIの歴史｜NISHIO Hirokazu](https://note.com/nishiohirokazu/n/nb37adf96fe50)
+
+2025-03-16
 > [takahiroanno](https://x.com/takahiroanno/status/1901176284077867218) [[デジタル民主主義2030]]プロジェクトの一貫として『広聴AI』のリポジトリを公開しました。
 >  [https://github.com/takahiroanno2024/kouchou-ai](https://github.com/takahiroanno2024/kouchou-ai)
 >

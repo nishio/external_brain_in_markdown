@@ -4,7 +4,7 @@ title: "LLM APIのタイムアウト対策"
 
 「タイムアウトする可能性があるLLM APIを叩くサービスの設計としてどんな方法がいいかを検索してまとめて」と言ったら、想像以上に壮大な話をされた
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 - 非同期処理とキューの利用
     - API呼び出しを非同期化し、[[RabbitMQ]]や[[Kafka]]などのキューでリクエストを順次処理。
 

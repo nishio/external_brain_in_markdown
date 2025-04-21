@@ -20,7 +20,7 @@ title: "東京都AI戦略会議"
 1:06:00
 
 [https://www.youtube.com/live/9OFWcoZ2XhM](https://www.youtube.com/live/9OFWcoZ2XhM)
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>### 要約（ポイントを簡潔に）
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>### 要約（ポイントを簡潔に）
 - 東京都が「AI戦略策定」に向けて、第2回会議を開催。
     - AIの行政活用に関する論点整理として「使う力」「聞く力」「作る力」の3視点＋ガバナンス整備を提示。
     - 教育や医療など幅広い分野でのAI活用、都職員のインセンティブ設計、海外人材の呼び込み方などが議論された。

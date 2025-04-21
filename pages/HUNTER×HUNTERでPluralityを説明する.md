@@ -5,7 +5,7 @@ title: "HUNTER×HUNTERでPluralityを説明する"
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>Audrey TangのPluralityをHUNTER×HUNTERに例えて解説して
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>Audrey Tangの「Plurality」は、社会や組織が単一の正解や方法に固執せず、異なる意見や才能が共存・協働することで、より強固で柔軟なシステムを作るという考え方です。
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>Audrey Tangの「Plurality」は、社会や組織が単一の正解や方法に固執せず、異なる意見や才能が共存・協働することで、より強固で柔軟なシステムを作るという考え方です。
 
 HUNTER×HUNTERで例えるなら、各ハンターが持つ独自のNen能力がそれぞれの役割を果たす点に似ています。
 

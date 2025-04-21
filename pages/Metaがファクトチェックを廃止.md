@@ -6,7 +6,7 @@ title: "Metaがファクトチェックを廃止"
 [メタがファクトチェックを廃止へ──トランプ政権復活前の大転換 | WIRED.jp](https://wired.jp/article/meta-ditches-fact-checkers-in-favor-of-x-style-community-notes/)
 - > トランプ次期政権への明らかな歩み寄りとして、メタは大規模なコンテンツモデレーション改革を発表した。第三者によるファクトチェックプログラムを廃止し、現在Xが実施している「コミュニティノート」のようなシステムを導入するという。
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 【賛成の意見】
 - 言論の自由の拡大:
     - ユーザー参加型の「Community Notes」により、従来の専門機関に依存せず、多様な視点で情報の補足が行われることで、自由な議論が促進されるとする見方があります。

@@ -3,7 +3,7 @@ title: "LLMを含めたプログラミングの歴史"
 ---
 
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>各パラダイムや技法の大まかな発生年代をまとめます。
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>各パラダイムや技法の大まかな発生年代をまとめます。
 
 - 1940年代
     - 初期のコンピュータ（例：[[ENIAC]]）では、プログラミングは物理的な配線やスイッチの操作、つまり「ケーブルを繋ぐ」作業そのものでした。

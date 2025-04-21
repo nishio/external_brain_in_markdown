@@ -21,7 +21,7 @@ Satya Nadella's statement:
 簡単に言うと、ソフトウェアは「渾然一体の一塊のもの」から「ロジック部分と、データを永続化する部分」という形に分離してきた。それが[[(1.4.4) Model / View / Controller]]だったりとかデータベース(RDBMS)の発明と分離だったりするわけ。で、その構図がシフトして、エージェントの[[オーケストレーション層]]がかつてのロジック層相当になり、SaaSはかつてのデータベース層になる、というわけ。
 個人的にはエージェントのオーケストレーション層には時間とコストと不確実性のオーバーヘッドがあるので、エージェントを通さずに操作したいニーズは残り続けると思う。ただ、オーバーヘッドの縮まる速度が思った以上に速い。
 
-<img src='https://scrapbox.io/api/pages/nishio/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>+<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 サティア・ナデラのインタビュー内容を簡潔にまとめると以下のポイントになります:
 
 - アーキテクチャの進化

@@ -2,7 +2,7 @@
 title: "Tuple Spaces"
 ---
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 Tuple spaces（[[タプルスペース]]）は、[[分散システム]]における[[プロセス間通信]]のための[[共有メモリモデル]]です。基本的な考え方は、[[Linda]]というモデルに基づいており、以下の特徴があります。
 
 - タプル

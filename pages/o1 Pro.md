@@ -11,4 +11,4 @@ title: "o1 Pro"
     - <img src='https://scrapbox.io/api/pages/nishio/GPT-4.5/icon' alt='GPT-4.5.icon' height="19.5"/>OpenAIのo1とo1 proの主な違いは、計算資源の使用量とそれに伴う性能の向上です。 ​o1 pro: o1よりも多くの計算資源を活用し、特に数学、プログラミング、科学研究などの分野で高精度な回答を提供します。
 
 2025-02-01
-- [[o3]]が追加された
+- [[o3-mini-high]]が追加された

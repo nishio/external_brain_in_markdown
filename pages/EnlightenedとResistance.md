@@ -4,7 +4,7 @@ title: "EnlightenedとResistance"
 
 [Enlightened | Ingress Wiki | Fandom](https://ingress.fandom.com/wiki/Enlightened)
 [Resistance | Ingress Wiki | Fandom](https://ingress.fandom.com/wiki/Resistance)
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>この文章は、[[Ingress]]というゲーム内で対立する二大勢力の思想を説明しています。
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>この文章は、[[Ingress]]というゲーム内で対立する二大勢力の思想を説明しています。
 
 ### Enlightened (ENL)
 - シェイパーが古来から存在し、人類の進化（石器時代から現代への移行）を促してきたと信じ、XM（Exotic Matter）を活用して芸術、音楽、科学、教育などを通じた進歩と啓蒙を目指します。XMは、啓示や進化の鍵と捉え、全人類に開放されるべきと主張します。

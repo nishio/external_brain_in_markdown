@@ -18,7 +18,7 @@ title: "Agentic RAG"
 [https://chatgpt.com/share/67a1b286-fe18-8011-ace6-3c432e38d15c](https://chatgpt.com/share/67a1b286-fe18-8011-ace6-3c432e38d15c)
 
 ## [[Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG]]
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 この論文は、従来の[[Retrieval-Augmented Generation]]（[[RAG]]）システムの限界を克服するために、### エージェント（自律的なAI）
 を統合した「### Agentic RAG
 」の概念とその発展、実装手法、応用可能性について網羅的に解説しています。以下、主要なポイントを簡潔にまとめます。

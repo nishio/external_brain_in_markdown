@@ -8,7 +8,7 @@ title: "Intersubjective Model of AI-mediated Communication: Augmenting Human-Hum
 - from [/blu3mo-public/Intersubjective Model of AI-mediated Communication: Augmenting Human-Human Text Chat through LLM-based Adaptive Agent Pair](https://scrapbox.io/blu3mo-public/Intersubjective Model of AI-mediated Communication: Augmenting Human-Human Text Chat through LLM-based Adaptive Agent Pair)
 - [https://arxiv.org/abs/2502.18201](https://arxiv.org/abs/2502.18201)
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>この論文は、各ユーザーが独自のチャット環境で会話を行う際に、LLM搭載のAIエージェントが仲介し、情報を抽出・交換することで、従来の直接的な情報伝達を超えた柔軟な対話を実現する新しいモデル「Intersubjective Model」を提案しています。
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>この論文は、各ユーザーが独自のチャット環境で会話を行う際に、LLM搭載のAIエージェントが仲介し、情報を抽出・交換することで、従来の直接的な情報伝達を超えた柔軟な対話を実現する新しいモデル「Intersubjective Model」を提案しています。
 
 基本構造:
 - 各ユーザーは個別のチャット環境におり、各環境にはAIエージェントが配置されています。エージェントはユーザーの発言から重要な情報を抽出し、相手側のエージェントに送信。受け取った情報を基にユーザーへ返答を生成します。

@@ -49,3 +49,4 @@ AIを使って民主主義を再構築し、クラスター分析で人々の声
 
 
 [How does Memory use past conversations? | OpenAI Help Center](https://help.openai.com/en/articles/10303002-how-does-memory-use-past-conversations)
+全ヒストリー

@@ -5,7 +5,7 @@ title: "タスクをAIに任せる指示をAIに作らせる"
 [[AIタスク管理]]
 prompt: 下記を見てAIに任せられそうなタスクを特定し、小さいものから3つ選んで、AIに任せるためのpromptを作成して
 
-<img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/o3-mini-high/icon' alt='o3-mini-high.icon' height="19.5"/>
 1. 昨日の会話をテキストにまとめる
 タスク概要
 - 昨日の会話ログから主要な議論ポイントや決定事項を抽出し、時系列に沿って簡潔にまとめる。
