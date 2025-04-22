@@ -19,3 +19,11 @@ v2.0が来た
 - Devin+Xreal One+音声入力
 
 [/shokai/Devinがpdfjs-dist npmの更新でNode.js 20.4以上が必要な事をつきとめ、polyfillを作って解決してくれた](https://scrapbox.io/shokai/Devinがpdfjs-dist npmの更新でNode.js 20.4以上が必要な事をつきとめ、polyfillを作って解決してくれた)
+
+2025-04-22
+[[デジタル民主主義2030SlackでのDevinの活躍]]
+- 僕がやりたかった「AIが人間と一緒に働いてる社会を体験できる場を作る」がデジタル民主主義2030のSlackで実現された
+- 600人が目撃する
+
+Devin、僕よりコード書いてるからなw
+![image](https://gyazo.com/a77b6893016413e3ca55811d5b3453bb/thumb/1000)

@@ -20,4 +20,13 @@ title: "Mobile Safariのタブ整理"
 [https://chatgpt.com/c/6801c213-b6c8-8011-b0c7-50688ddbbff9](https://chatgpt.com/c/6801c213-b6c8-8011-b0c7-50688ddbbff9)
 ほほう
 
+![image](https://gyazo.com/a788d7a9619d553f6d323ac134982407/thumb/1000)
+- 全部のタブを新規タブグループに入れることはできた
+- ブックマークにする方法はわからないが、MacBookと共有はできそう
+- わかった
+- ![image](https://gyazo.com/d39eee3a536f017e39633de322a0e585/thumb/1000)
+- ここの長押しか
+- リンクがコピーできるじゃん
+
+
 
