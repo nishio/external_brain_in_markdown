@@ -2,7 +2,7 @@
 title: "AIと著作権に関するパブリックコメント"
 ---
 
-[https://github.com/nishio/aipubcom-data](https://github.com/nishio/aipubcom-data)
+ここにデータを置いた: [https://github.com/nishio/aipubcom-data](https://github.com/nishio/aipubcom-data)
 
 <img src='https://scrapbox.io/api/pages/nishio/SGE/icon' alt='SGE.icon' height="19.5"/>文化庁は「AIと著作権に関する考え方について（素案）」のパブリックコメントの結果を発表した。 意見提出数は2万4938件に上り、そのうち法人・団体数は73だった。 併せて、パブリックコメントの意見を踏まえた「考え方」素案の令和6年2月29日版も公開した。
 
