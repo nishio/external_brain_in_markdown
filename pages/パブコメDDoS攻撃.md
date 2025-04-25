@@ -2,6 +2,9 @@
 title: "パブコメDDoS攻撃"
 ---
 
+![image](https://gyazo.com/9093ea0c0ed51ba9464c5de24ed60f26/thumb/1000)
+- [パブリックコメント「異常件数」相次ぐ　SNSで動員、かすむ民意 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA128RU0S5A310C2000000/)
+
 2025-02-19
 [[生成AIで大量のパブコメ投稿]]
 > [Sankei_news](https://x.com/Sankei_news/status/1892205026602270766) [AI利用で4千件投稿か　エネルギー基本計画の意見公募　46人で全体の1割、反原発大半 - 産経ニュース](https://www.sankei.com/article/20250219-I4WUMKZPUFMO3O5G2BVP7KL7XY/)
@@ -14,7 +17,7 @@ title: "パブコメDDoS攻撃"
 >  以前もＸで投稿しましたが、原口一博議員を支持する陰謀論界隈が、パブコメを大量投稿しています。
 >  中には1000や2000といった「キリ番」のパブコメになれば高評価というゲーム性を持たせて、パブコメを出しています。
 >  こうした陰謀論の大量投稿によって、パブコメが機能不全になっています。
->  ![image](https://gyazo.com/c28c7057f364ce5474ff5ce404830436/thumb/1000)![image](https://gyazo.com/96c16a3f0d4e18bf3c8446c8ea964f48/thumb/1000)![image](https://gyazo.com/3de9ec44d3a0cdfb09bfda2777e6316b/thumb/1000)
+>  ![image](https://gyazo.com/96c16a3f0d4e18bf3c8446c8ea964f48/thumb/1000)![image](https://gyazo.com/c28c7057f364ce5474ff5ce404830436/thumb/1000)![image](https://gyazo.com/3de9ec44d3a0cdfb09bfda2777e6316b/thumb/1000)
 攻撃側が組織化しつつある
 
 2025-03-24
@@ -38,3 +41,4 @@ title: "パブコメDDoS攻撃"
 
 [[DDoS]]
 [[多数派攻撃]]
+[[認知戦]]
