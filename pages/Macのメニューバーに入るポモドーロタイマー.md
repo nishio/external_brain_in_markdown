@@ -56,3 +56,8 @@ Macのメニューバーに入る[[ポモドーロタイマー]]
 
 ---
 Pomodoroタイマー作ってるメーカーの商売あがったりだなw<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+![image](https://gyazo.com/0d786b71e67e29b98617ea21f7e630c5/thumb/1000)
+
+
+![image](https://gyazo.com/8fdbfd2ca1d51da51d40492a1f9e82a1/thumb/1000)![image](https://gyazo.com/a5fa08f7857bd40785af6dafda53b56c/thumb/1000)
+
