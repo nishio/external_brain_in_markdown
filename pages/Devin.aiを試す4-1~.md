@@ -27,3 +27,6 @@ v2.0が来た
 
 Devin、僕よりコード書いてるからなw
 ![image](https://gyazo.com/a77b6893016413e3ca55811d5b3453bb/thumb/1000)
+
+[[Devinクレジット使い切り]]
+
