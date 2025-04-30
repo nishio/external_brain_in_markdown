@@ -49,6 +49,7 @@ history page
 - Websiteに/activityではなく/historyを作った
 - 緊急度が低いのでレビューされてないままになっている
 - 改善案出しといた
+    - ✅2025-05-01
 用語解説ページ
 - [https://app.devin.ai/sessions/a5f207f4b4b142a1a6fa8f6dee1efb33](https://app.devin.ai/sessions/a5f207f4b4b142a1a6fa8f6dee1efb33)
 - 配置場所などをみて「そうじゃない」となりそうな感じのものができている
