@@ -16,6 +16,7 @@ webページタイル表示設定
 - Electron+BrowserViewで複数のウェブページを任意のタイリングで表示するツールができたぞ()
 - テストしてない
 - [https://github.com/nishio/webtiling](https://github.com/nishio/webtiling) にpush
+    - [[webtiling]]
 website README改善
 - [https://app.devin.ai/sessions/1ef3286106e74f8a863a92bb6d8d86dc](https://app.devin.ai/sessions/1ef3286106e74f8a863a92bb6d8d86dc)
     - 作成済み、reviewしてPRする
