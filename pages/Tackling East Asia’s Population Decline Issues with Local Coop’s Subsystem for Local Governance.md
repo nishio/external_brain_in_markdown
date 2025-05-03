@@ -70,7 +70,6 @@ NFTを活用したコミュニティ形成
 [[Local Coop]]@[[FtCTokyo]]
 
 > [forestgtree](https://x.com/forestgtree/status/1816343062874149226) 山越村の錦鯉NFTプロジェクトでデジタル村民と村おこしをしている話しは、今後消滅都市どこにでも当てはまる社会課題だと思ってる。 #FtCTokyo
->  ![image](https://pbs.twimg.com/media/GTTyYy4awAAQmvQ?format=jpg&name=medium#.png)
 - [[Nishikigoi NFT]]
 
 > [nishio](https://x.com/nishio/status/1816343520086802806) #FtCTokyo  @takahiroanno
