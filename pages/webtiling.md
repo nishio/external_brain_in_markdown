@@ -12,6 +12,16 @@ title: "webtiling"
     - 設定ファイル読み込み機能（ConfigLoader）
 
 - 別のconfigファイルを指定して起動：npm run start:custom test-config.json
+- Save as
+
+![image](https://gyazo.com/9012cfc00fb6de286c64d257d0b3fc44/thumb/1000)
+2025-05-04
+だいぶ形になってきた
+- ScrapboxとDevinを並べて、右に隙間があったのでとりあえずYouTubeをおいてみた
+- YouTubeの下半分にも何かをいれるか
+    - やってから思ったけとYouTubeは作業内容と密結合でないからこの仕組みで束ねる必要はないな...
+- 任意のサイズでのブラウザタブの開き方を保存することができる
+
 
 
 
