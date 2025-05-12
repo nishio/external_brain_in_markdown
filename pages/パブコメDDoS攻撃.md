@@ -44,6 +44,9 @@ title: "パブコメDDoS攻撃"
 - [呼びかけ「『放射能汚染土の再利用はやめてください!』と書いて出しましょう」を受信・共有｜まさのあつこ　地味な取材ノート](https://note.com/masanoatsuko/n/nf3175fa8f0e4)
     - 1/22にこれを受領したという記事
 
+SNSでの投稿呼びかけ行動についてDeep Research
+- [https://chatgpt.com/share/681d73a7-924c-8011-95fa-c40335f68867](https://chatgpt.com/share/681d73a7-924c-8011-95fa-c40335f68867)
+
 
 [[DDoS]]
 [[多数派攻撃]]

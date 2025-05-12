@@ -10,6 +10,9 @@ title: "Plurality Tokyo Namerakaigi #2"
 - [Plurality Tokyo Namerakaigi #2「Plurality Book日本語版」出版記念 collaboration with Tokyo Plurality Week · Luma](https://lu.ma/ienn4p0k)
 
 
+[https://youtube.com/live/s_e3kMzjF8M?feature=share](https://youtube.com/live/s_e3kMzjF8M?feature=share)
+
+
 [/plurality-japanese/Plurality Tokyo Namerakaigi #2](https://scrapbox.io/plurality-japanese/Plurality Tokyo Namerakaigi #2)
 
 
