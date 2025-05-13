@@ -17,6 +17,7 @@ title: "Plurality Tokyo Namerakaigi #2"
 
 
 
+[https://notebooklm.google.com/notebook/8328a279-3098-43c1-9af9-236a0ab383a4?_gl=1*17j63de*_up*MQ..*_ga*MjEyMDA4OTU0Ni4xNzQ2OTE1MzE1*_ga_W0LDH41ZCB*czE3NDY5MTUzMTQkbzEkZzAkdDE3NDY5MTUzMTQkajAkbDAkaDA.](https://notebooklm.google.com/notebook/8328a279-3098-43c1-9af9-236a0ab383a4?_gl=1*17j63de*_up*MQ..*_ga*MjEyMDA4OTU0Ni4xNzQ2OTE1MzE1*_ga_W0LDH41ZCB*czE3NDY5MTUzMTQkbzEkZzAkdDE3NDY5MTUzMTQkajAkbDAkaDA.)
 
 ## ver.2
 - これ英語の部分がスルーされてる感じがある

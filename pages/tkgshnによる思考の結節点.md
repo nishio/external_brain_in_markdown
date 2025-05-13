@@ -38,4 +38,4 @@ title: "tkgshnによる思考の結節点"
 - 発展: 身の回りにあるPluralityさを探してみる
     - [[Science of Science]] ([[SciSci]]) について
         - [[DeSci Tokyo]] についての紹介
-    - [[Stigmergy]]と[[創発]]、[[Social Bookmark]]や[[Sense Maker]], [[Optimize by attention]]?
+    - [[Stigmergy]]と[[創発]]、[[Social Bookmark]]や[[Sensemaker]], [[Optimize by attention]]?
