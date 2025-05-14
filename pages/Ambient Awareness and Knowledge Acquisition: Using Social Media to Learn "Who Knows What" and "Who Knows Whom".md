@@ -17,3 +17,4 @@ Leonardi, Paul M.. 2015. "Ambient Awareness and Knowledge Acquisition: Using Soc
 二人の評価者の評価は十分な割合で一致するので評価を信用して良い。評価が食い違う場合にはより保守的な評価(<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>低い評価のこと)を採用した
 
 [[共有の文字コミュニケーションは学びの機会を増やす]]
+[[Ambient Awareness]]

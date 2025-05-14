@@ -8,6 +8,6 @@ title: "Tokyo Plurality Week 2025"
     - 2025-05-09 [[Digital Public Goods & AI : Transforming the Society]]
     - 2025-05-10 [[Plurality Tokyo Namerakaigi #2]]
     - 2025-05-11 [[蔦屋書店PLURALITY刊行記念トークイベント]]
-    - 2025-05-12 [[Tokyo College Seminar on ”Plurality: the Future of Collaborative Technology and Democracy”]]
+    - 2025-05-12 [[東京大学Pluralityセミナー2025-05-12]]
     - 2025-05-12 [[デジタル民主主義の未来(オードリータン/松尾豊/上野山勝也)]]
     - 2025-05-13 [[Towards the realization of "global co-benefits"message]]

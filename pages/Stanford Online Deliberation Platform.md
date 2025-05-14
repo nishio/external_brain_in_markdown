@@ -3,7 +3,7 @@ title: "Stanford Online Deliberation Platform"
 ---
 
 Stanford Online Deliberation PlatformはDeliberation([[熟議]])のためのプラットフォーム
-- [[ノーベル賞サミット2023]]で体験機会が提供されていたから参加した
+- [[ノーベル賞サミット2023]]で体験機会が提供されていたから参加した(2023-05-26)
 - 公式サイト: [Online Deliberation Platform](https://stanforddeliberate.org/)
 
 ![image](https://gyazo.com/8457df5eef689040f782170be700e685/thumb/1000)
