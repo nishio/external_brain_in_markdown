@@ -12,5 +12,13 @@ title: "蔦屋書店PLURALITY刊行記念トークイベント"
 動画は蔦屋書店サイドでオンライン視聴コンテンツとして販売される予定
 - 開始したらリンクを貼る
 
+[[竹下隆一郎]]
+> [ryuichirot](https://x.com/ryuichirot/status/1922632744984605054) オードリータンさん、
+>
+>  グレンワイルさんと
+>
+>  デジタル民主主義を議論
+>  ![image](https://pbs.twimg.com/media/Gq6QSfmWAAA1gWP?format=jpg&name=small#.png)
+
 
 next: [[Audrey+Glen+青野鼎談@サイボウズ]]
