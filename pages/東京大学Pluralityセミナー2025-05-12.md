@@ -10,6 +10,7 @@ Tokyo College Seminar on ”Plurality: the Future of Collaborative Technology an
 - 形式：研究者のみ完全招待制、無料、アーカイブ配信あり、英語のみ
 - 主催：東京大学 東京カレッジ
 
+まとめ(音声経由なので人名に自信なし)
 <img src='https://scrapbox.io/api/pages/nishio/NotebookLM/icon' alt='NotebookLM.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
 > [nishio](https://x.com/nishio/status/1921810802790551882) #TokyoPluralityWeek 東大ナウ！
 >  ![image](https://pbs.twimg.com/media/Gquku_rWcAAzDkn?format=jpg&name=small#.png)
@@ -44,7 +45,7 @@ Pluralityはハンナ・アーレント、ダニエル・アレン、そして�
 - [[Partial Common Property Systems]]（[[部分的共有財産システム]]）: 所有権を絶対的なものとせず、自己申告した価値に基づいて税金を支払い、その価値での売却に同意するシステム。権利の共有を生み出しつつ、経済的な活用を促進する。
     - 関連 [[Partial Common Ownership]]
 
-グレン氏は、日本はこれらのアイデアが主流となる準備が世界中で最も整っている場所であり、日本を世界のリーダーにする助けになると信じていると述べました。[[未来デザイン会議]]（Future Design Councils）、市民集会（Citizens' Assemblies）、AI強化型広聴（AI augmented broad listening）、[[科学未来館]]（Miraikan）、[[チームラボ]]（Team Labs）などの文化機関や、公共の利益に資する新しいデジタルテクノロジー開発モデルを推進するダイナミックな民間セクター（[[Sushi Tech Tokyo]]、[[Startup Shibuya]]、[[Smart News]]、[[Cybozu]], [[Sakana.ai]]など） を挙げ、日本の可能性を高く評価しました。
+グレン氏は、日本はこれらのアイデアが主流となる準備が世界中で最も整っている場所であり、日本を世界のリーダーにする助けになると信じていると述べました。[[未来デザイン会議]]（Future Design Councils）、市民集会（Citizens' Assemblies）、AI強化型広聴（AI augmented broad listening）、[[科学未来館]]（Miraikan）、[[チームラボ]]（Team Labs）などの文化機関や、公共の利益に資する新しいデジタルテクノロジー開発モデルを推進するダイナミックな民間セクター（[[Sushi Tech Tokyo]]、[[Startup Shibuya]]、[[SmartNews]]、[[Cybozu]], [[Sakana.ai]]など） を挙げ、日本の可能性を高く評価しました。
 
 ここで、オードリー・タン氏のショートフィルム（予告編）が上映されました。フィルムは、民主主義が衰退し、権威主義が台頭している世界情勢に触れ、台湾のひまわり運動（Sunflower Movement）が民主主義を進化させることが可能であることを示し、人々が政治システムを共に構築・改善できる「社会技術」として民主主義を見るべきだと訴えました。また、自身の心臓の欠陥の経験から、すべてはリセット可能であるという意識を持ち、簡単に民主主義を失いうるという警告を発しました。台湾は古いOS（250年前）で動く米国とは異なり、21世紀の民主主義のあり方を再考できる場所であり、政府を公開し、データへのアクセスを容易にすることで、台湾は世界で最もエキサイティングな立憲民主主義国家になったと紹介されました。
 - [/plurality-japanese/Good Enough Ancestor](https://scrapbox.io/plurality-japanese/Good Enough Ancestor)のトレイラー: [/plurality-japanese/和訳: Good Enough Ancestor (Trailer)#664b0c3eaff09e0000fc0402](https://scrapbox.io/plurality-japanese/和訳: Good Enough Ancestor (Trailer)#664b0c3eaff09e0000fc0402)

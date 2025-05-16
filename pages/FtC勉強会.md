@@ -2,6 +2,7 @@
 title: "FtC勉強会"
 ---
 
+2024-06-17 ?
 [[Funding the Commons Tokyo 2024]]
 
 by tkgshn

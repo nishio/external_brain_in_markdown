@@ -4,7 +4,7 @@ title: "DigDAOマッチングドネーション"
 
 [デジタル公共財への挑戦：Dig DAOマッチングドネーションとは | Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/72481?utm_source=Twitter_FJ&utm_medium=social&utm_campaign=A_twitter)
 - [[デジタル公共財]] [[Dig Dao]] [[マッチングドネーション]]
-- [[Quadratic Funding]]
+- 暗号通貨ではなく普通のお金([[fiat]])で[[Quadratic Funding]]する仕組み
 
 
 
@@ -18,3 +18,5 @@ title: "DigDAOマッチングドネーション"
 とりあえず[[Gitcoin Grants]]より何倍も手軽だったw
 
 [[参加型予算編成]]
+
+[[Dig DAO]]

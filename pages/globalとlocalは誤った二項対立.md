@@ -4,4 +4,5 @@ title: "globalとlocalは誤った二項対立"
 
 「受益者は世界全体に及びうる」という意味で「グローバル」であるが、立ち上がったばかりで「地理的に密集したメンバー」によって構成されているという意味で「ローカル」なプロジェクトがある
 
-というのをTobanとGitcoin Grantsの話を聞いて思った
+というのを[[Toban]]と[[Gitcoin Grants]]の話を聞いて思った
+- [[Plurality Tokyo Namerakaigi #2]]

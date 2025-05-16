@@ -2,6 +2,9 @@
 title: "パブコメDDoS攻撃"
 ---
 
+まとめ記事を書きました
+- [量産型パブコメの落とし穴──税金と民主主義を守るためにAIが必要な理由｜NISHIO Hirokazu](https://note.com/nishiohirokazu/n/nf9df05119d93)
+
 ![image](https://gyazo.com/9093ea0c0ed51ba9464c5de24ed60f26/thumb/1000)
 - [パブリックコメント「異常件数」相次ぐ　SNSで動員、かすむ民意 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA128RU0S5A310C2000000/)
 
