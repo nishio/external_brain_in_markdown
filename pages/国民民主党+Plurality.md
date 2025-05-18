@@ -23,3 +23,13 @@ title: "国民民主党+Plurality"
 >  ありがとう。
 >  ![image](https://gyazo.com/aaa147c5c07a49ed54bb5cb381a5f602/thumb/1000)
 
+
+> [tamakiyuichiro](https://x.com/tamakiyuichiro/status/1923943966493598013) 先日、オードリー・タンさんやグレン・ワイルさんがきた時に、異なる意見が存在するときに、議論を「分断」ではなく「熟議」につなげる技術は可能だよという話になった。
+>
+>  テクノロジーやSNSは意見を分断しがちだけど、異なる意見をブリッジ（橋渡し）できるのもテクノロジーだと。
+>
+>  いくつか具体例も見せてもらったけど、健全な民主主義の発達のためには不可欠な技術だと思いました。
+>
+>  国民民主党としても試行錯誤していきます。
+>  ![image](https://pbs.twimg.com/media/GrM407tXUAAjwSZ?format=jpg&name=900x900#.png) ![image](https://pbs.twimg.com/media/GrM407XWoAAbpx2?format=jpg&name=900x900#.png)
+
