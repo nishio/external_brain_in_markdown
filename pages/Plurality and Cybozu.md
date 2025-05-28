@@ -63,4 +63,4 @@ Want to know more about Plurality? Please join the forum!
 - [/plurality-japanese](https://scrapbox.io/plurality-japanese)
 
 <img src='https://scrapbox.io/api/pages/nishio/en/icon' alt='en.icon' height="19.5"/>
-- Translated from [[Pluralityとサイボウズ]]
+- Translated from [[Pluralityとサイボウズ(2023)]]

@@ -10,4 +10,4 @@ title: "Pluralityとサイボウズの初出"
 
 2023-12-13
 > [nishio](https://x.com/nishio/status/1734609897889919229) サイボウズ社内でPluralityについて話すために作った資料を公開しました
-[[Pluralityとサイボウズ]]
+[[Pluralityとサイボウズ(2023)]]

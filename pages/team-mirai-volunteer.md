@@ -4,7 +4,8 @@ title: "team-mirai-volunteer"
 
 [https://github.com/orgs/team-mirai-volunteer/repositories](https://github.com/orgs/team-mirai-volunteer/repositories)
 - チームみらいボランティア用のGitHub Organization
-- Team Plan
+    - Team Plan
+    - 長いのでtmvと呼んだりする
 - Q: なぜ [[team-mirai repo]] と別に作られたか？
 - A: volunteer slackにいるDevinを team-mirai に接続できないことがわかったから
     - [[ひとつのGitHubOrgに複数のDevinOrgは接続できない]]

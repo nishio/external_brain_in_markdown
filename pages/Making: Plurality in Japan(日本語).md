@@ -11,7 +11,7 @@ title: "Making: Plurality in Japan(日本語)"
 
 - [[Plurality in Japan(日本語)]]
     - 作りかけていたページ
-        - [[Pluralityとサイボウズ]]と、それを現在の文脈でどう位置づけるか
+        - [[Pluralityとサイボウズ(2023)]]と、それを現在の文脈でどう位置づけるか
     - [[Plurality in Japan]]
 - [[思考の結節点2024-07-20]]
 
