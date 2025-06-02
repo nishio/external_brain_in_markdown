@@ -12,7 +12,7 @@ title: "ひとつのGitHubOrgに複数のDevinOrgは接続できない"
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
 - まあメインの組織の外側にパーミッションレスなボランティア組織がある開発形態は「通常のチーム開発」じゃないってことだよな
 - 方針
-    - team-mirai-volunteersみたいなorgを新しく作る(長いので以下tmv)
+    - [[team-mirai-volunteer]]みたいなorgを新しく作る(長いので以下tmv)
     - DevinがtmvにPRを作ったとしても、それをteam-miraiにmergeすることはできる
     - tmvにはteam-miraiが更新されたらpullするGithub Actionを入れとけばいいのではと思う
 
