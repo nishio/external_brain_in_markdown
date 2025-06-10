@@ -3,7 +3,7 @@ title: "Glen+TBS CROSS DIG"
 ---
 
 [https://www.youtube.com/watch?v=gTWqbdfTc2g](https://www.youtube.com/watch?v=gTWqbdfTc2g)
-
+[[TBS CROSS DIG]]
 <img src='https://scrapbox.io/api/pages/nishio/o3/icon' alt='o3.icon' height="19.5"/>
 対談サマリー
 

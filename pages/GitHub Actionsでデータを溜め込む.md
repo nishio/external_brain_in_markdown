@@ -28,4 +28,4 @@ title: "GitHub Actionsでデータを溜め込む"
 
 - 方法y: GistにUploadする
     - 大きくない「最新データ」をフロントエンドからfetchできるGET API的な形で配信したいときに使える
-
+    - [[Gist as GET API]]
