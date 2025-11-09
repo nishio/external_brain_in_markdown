@@ -3,5 +3,5 @@ title: "Memory Layer"
 ---
 
 - [[MemoChat]]
-- [[Theanine]]
+- [[Theanine(記憶システム)]]
 - [[mem0]]

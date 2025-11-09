@@ -3,7 +3,15 @@ title: "AI and the Future of Digital Public Squares"
 ---
 
 [PDF](https://arxiv.org/pdf/2412.09988)
-[/blu3mo-public/熟議支援系研究サーベイ](https://scrapbox.io/blu3mo-public/熟議支援系研究サーベイ)
+- from [/blu3mo-public/熟議支援系研究サーベイ](https://scrapbox.io/blu3mo-public/熟議支援系研究サーベイ)
+- [[Jigsaw]]の[[Beth Goldberg]]が筆頭著者
+
+- [[集団的対話システム]]（[[Collective Dialogue Systems]] / CDS）
+    - AIがファシリテーションの負担を軽減し、多言語での議論を可能にする
+- [[ブリッジング・システム]]（[[Bridging Systems]]）
+    - 分断を緩和し、共通の理解を促進する
+
+
 
 <img src='https://scrapbox.io/api/pages/nishio/o1 Pro/icon' alt='o1 Pro.icon' height="19.5"/>以下は上記論文の概要と解説です。
 

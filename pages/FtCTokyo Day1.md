@@ -74,12 +74,13 @@ death valley between Academic research and Market
 >  ![image](https://pbs.twimg.com/media/GTOcUufaYAEDrn8?format=jpg&name=medium#.png)
 > [nishio](https://x.com/nishio/status/1815969166828134873) 弁当があることを理解してない僕に「暑い中で歩くの嫌だから買って持ってきた、そこにコンビニあるから買ってきたらいいんじゃない？」と言われて隣のメキシコ料理屋に入った被害者がいる→ @tokoroten
 - "買って持ってきた"と言ってる本人、余剰を見越して保存の効くウィーダーインゼリーとカロリーメイトを選択してたのでノーダメージ、tokorotenだけ損してる、ごめんねw
+    - [[食料の保存]]
 - 結果(16:53)
 - > [blu3mo](https://x.com/blu3mo/status/1816018936770765257) 弁当が余っているので持ち帰り自由らしい。[[交換様式A]]だ！ #FtCTokyo
 - > [nishio](https://x.com/nishio/status/1816044804683489717) ウケる
     - [[Plurality in Japan(日本語)#669f99bfaff09e000075922a]]の話
         - > 食べ物が保存不可能であった場合、一人で食べられる以上のものはみんなで分け合う方が、食べきれない量を腐らせてしまうよりも合理的だった。(交換様式A)
-    - 結果的にtokorotenからblu3moへの見返りを期待しない贈与が発生したw
+    - 結果的にtokorotenからblu3moへの[[見返りを期待しない贈与]]が発生したw
 
 > [nishio](https://x.com/nishio/status/1815967428683391460) Plurality本のパンフレットと、ついでにサイボウズのステッカー配ってるのでぜひ取っていってね at annex　#FtCTokyo
 >  ![image](https://pbs.twimg.com/media/GTOcwF5aYAUUxBw?format=jpg&name=medium#.png)

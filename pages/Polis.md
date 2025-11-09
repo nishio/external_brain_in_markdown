@@ -4,7 +4,7 @@ title: "Polis"
 
 > Polisは高度な統計学と機械学習により、大勢の人々が自分の言葉で何を考えているかを収集、分析、理解するためのリアルタイム・システムです。(DeepL)
 - [Polis | The Computational Democracy Project](https://compdemocracy.org/Polis/)
-- [[Pol.is]]ともよく表記されてるが、本家が自分のことをPolisと呼んでるのでそうした
+- [[Pol.is]]ともよく表記されてるが、本家が自分のことをPolisと呼んでるのでタイトルはそうした
 - [[意見分布の可視化]]
 
 <img src='https://scrapbox.io/api/pages/nishio/nihia/icon' alt='nihia.icon' height="19.5"/>Polis（ポリス）とは、多数の人々の意見や感情を収集し、リアルタイムに分析するシステムです。このシステムは、高度な統計学と機械学習を利用して、集められた意見を理解しやすくすることを目指しています。

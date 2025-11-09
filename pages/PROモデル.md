@@ -2,6 +2,7 @@
 title: "PROモデル"
 ---
 
+2019-02-27
 ![image](https://gyazo.com/2d9c5752c077c195a7a449176334d2fe/thumb/1000)
 
 相手の発話を

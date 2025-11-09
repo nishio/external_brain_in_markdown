@@ -3,9 +3,9 @@ title: "InBody"
 ---
 
 from [/villagepump/InBody](https://scrapbox.io/villagepump/InBody)
-健康診断のオプションとしてつけることができる場合がある少し高級な体組成計
+健康診断のオプションとしてつけることができる場合がある少し高級な[[体組成計]]
 
-家庭用の体脂肪が測れる体重計を使っていたが全然値が違った<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
+家庭用の[[体脂肪]]が測れる体重計を使っていたが全然値が違った<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
 - 体重は標準ちょい上程度だが、実は上半身の筋肉がめちゃくちゃ衰えていた
 - 家庭用では体脂肪率が20%前後だが、上半身の筋肉が少ない分が脂肪になってるので全身では30%を超えていた
 - 特に体幹の脂肪が標準の3倍くらいあるという衝撃の事実を突きつけられて、運動しなきゃと思ったw
@@ -26,3 +26,9 @@ from [/villagepump/InBody](https://scrapbox.io/villagepump/InBody)
 筋肉量自体は減ってない
 - しかし下半身の筋肉に注目すると減ってる
 歩けということだな
+
+2025-09-16
+![image](https://gyazo.com/bd3195906e2bbc4c49166cb6ff1b8da8/thumb/1000)
+- 衰えてる……
+- > 歩けということだな
+    - スクワットだろ自分

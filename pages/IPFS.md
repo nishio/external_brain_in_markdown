@@ -14,3 +14,5 @@ title: "IPFS"
 関連
 - ロケーション指向⇔[[コンテンツ指向]]
     - [[Winny]]っぽさがある
+
+[IPFSよさそう — windymelt](https://mirror.xyz/windymelt.eth/ANy4hYVMEZu6XUEBCSPbZvJ4mjvYmYaNEIueBJTUddk)

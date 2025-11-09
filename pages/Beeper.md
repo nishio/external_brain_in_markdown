@@ -14,3 +14,8 @@ title: "Beeper"
 ![image](https://gyazo.com/2dd4f6a4c236cfe0a7f931c0e01e1c9e/thumb/1000)
 
 そういうわけでもなく、他のチャットにログインする仕組みがPCでしか動かない？
+
+2025-07-12
+- そもそも論としてBeeperを見る習慣が成立しないw
+- BeeperがoutdatedだよといわれてBeeper Desktopなる別アプリを入れることになった
+

@@ -3,6 +3,7 @@ title: "量産型パブコメの落とし穴──税金と民主主義を守る
 ---
 
 [量産型パブコメの落とし穴──税金と民主主義を守るためにAIが必要な理由｜NISHIO Hirokazu](https://note.com/nishiohirokazu/n/nf9df05119d93)
+[[パブコメ大量投稿問題]]
 
 
 以下原稿

@@ -4,6 +4,7 @@ title: "意見分布の可視化がPluralityにつながる"
 
 [[Plurality Tokyo Namerakaigi #2]]の「[[集合知を活用した合意の新しい形]]」セッションでの講演資料
 - 講演として独立してなかったのでタイトルは今つけた
+- [[意見分布の可視化]]が[[Plurality]]につながる
 
 ![image](https://gyazo.com/cca90789d6e45e1f13dcf7fcab31c70d/thumb/1000)
 ![image](https://gyazo.com/8ae6908ba5d6990de10df83b8ace61cb/thumb/1000)

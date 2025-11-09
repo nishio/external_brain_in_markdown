@@ -2,6 +2,9 @@
 title: "Your Priorities"
 ---
 
+![image](https://gyazo.com/d566903fbcc1b957b23371b0bb3be006/thumb/1000)
+- [https://www.yrpri.org/post/26494](https://www.yrpri.org/post/26494)
+
 <img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>Your Prioritiesは、[[市民参加]]型の[[意思決定プラットフォーム]]で、アイスランドの非営利団体[[Citizens Foundation]]によって開発されたオープンソースソフトウェア（OSS）です。このプラットフォームは、民主的な議論や提案の収集、優先順位付けを目的として設計されています。
 - 主な機能
     - 提案と議論: 市民が提案を投稿し、他の参加者が「賛成意見」と「反対意見」を明確に区分して議論できる設計。

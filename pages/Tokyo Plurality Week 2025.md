@@ -18,6 +18,6 @@ title: "Tokyo Plurality Week 2025"
 - [[TBS CROSS DIG]]
 - [[未来館+Audrey]]
 - [[Audrey+Glen+Colin+PMT研究会]]
-- [[国民民主党+Plurality]]
+- [[玉木雄一郎+Plurality]]
 - [[【オードリータン✖️小川淳也】未来を共創するデジタル民主主義]]
 - [[Meetup with Colin]]

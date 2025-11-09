@@ -2,6 +2,7 @@
 title: "Open StarTer Village"
 ---
 
+2025-03-29 [[Code for Japan]]の[[Social Hack Day]]にて
 > [nishio](https://x.com/nishio/status/1903290018757836997) [[オープンソース開発]]をテーマにした[[ワーカープレースメント]]！面白そう！
 >
 >  ![image](https://pbs.twimg.com/media/GmnYLmfa4AABkoD?format=jpg&name=medium#.png)

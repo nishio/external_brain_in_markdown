@@ -3,6 +3,8 @@ title: "Apple Watch"
 ---
 
 [https://www.facebook.com/photo.php?fbid=10221342831296808&set=a.1175498944176&type=3&theater](https://www.facebook.com/photo.php?fbid=10221342831296808&set=a.1175498944176&type=3&theater)
+- > 2020年4月14日
+- >  まだ数ヶ月通勤しない生活が続くとすると、運動習慣をつけないことには体調を崩すよな、ということで設備投資を始めました
 
 [https://www.facebook.com/photo.php?fbid=10221355680458029&set=a.1175498944176&type=3](https://www.facebook.com/photo.php?fbid=10221355680458029&set=a.1175498944176&type=3)
 

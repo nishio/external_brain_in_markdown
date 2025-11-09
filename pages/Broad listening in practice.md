@@ -2,7 +2,7 @@
 title: "Broad listening in practice"
 ---
 
-[[Funding the Commons Tokyo 2024]]
+[[Funding the Commons Tokyo 2024]]における[[安野たかひろ]]と[[Audrey Tang]]の対談
 - [[FtCTokyo Day2]]
 
 [https://youtu.be/k6bZ2qayBQA](https://youtu.be/k6bZ2qayBQA)

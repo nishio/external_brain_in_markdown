@@ -36,7 +36,7 @@ title: "Coordination Mechanisms with Griff Green"
         - 寄付者に報酬を与えることで、寄付を促進する
     - バジェットボックス([[Budget Box]]):
         - 提案を[[ペアワイズ評価]]し、予算配分を決定する
-    - 未来主義([[Futurarchy]]):
+    - 未来主義([[Futarchy]]):
         - 提案の影響力に基づいて投票し、報酬を得る
     - スティグマジー([[Stigmergy]]):
         - 間接的な調整メカニズム。クアドラティック資金調達などに応用可能

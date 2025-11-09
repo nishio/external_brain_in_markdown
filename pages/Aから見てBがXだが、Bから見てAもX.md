@@ -6,6 +6,7 @@ from [/villagepump/Aから見てBがXだが、Bから見てAもX](https://scrapb
 from [/villagepump/ハングル#60f47832aff09e00002e5f59](https://scrapbox.io/villagepump/ハングル#60f47832aff09e00002e5f59)
 [[か/が/가/카]]
 - ![image](https://gyazo.com/9f3961dfc406ed74c62281a7d07ab2fc/thumb/1000)
+    - [[意味の範囲が食い違う図]]
 - 日本語話者から見ると「가」が「か」と「が」を区別していないと見える
 - 韓国語話者から見ると「か」が「가」と「카」を区別していないと見える
 - なのでどちらも「相手方の[[認知の解像度]]が低い」と感じる
@@ -21,6 +22,10 @@ from [/villagepump/それ日本語でよくない？#6274a80faff09e0000454e65](h
 - 英語話者から見ると「計画」が「agenda」と「plan」の複数の意味を持つ単語に見える
     - と書いてみたけどplanは大きな意味にとらえるとagendaを包含するからもっといい例にした方がいいかも<img src='https://scrapbox.io/api/pages/villagepump/nishio/icon' alt='/villagepump/nishio.icon' height="19.5"/>
 - なのでどちらも「相手方の単語が多義的だ」と感じる
+
+![image](https://gyazo.com/1c7f428ca971da064684a45bc283231e/thumb/1000)
+[[scholarshipと奨学金]]
+
 
 
 これらの主張は「対等に考えるならどちらの[[視点]]からみてもXでは？」という構図を持っている

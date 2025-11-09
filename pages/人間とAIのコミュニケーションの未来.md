@@ -45,6 +45,9 @@ from [[日記2023-09-06]]
 - このように、技術や環境の変化は私たちのコミュニケーションや学びの方法に大きな影響を与える可能性があります。
 
 
+next: [[Re:人間とAIのコミュニケーションの未来]]
+
+
 __BELOW_IS_AI_GENERATED__
 # 人間とAIのコミュニケーションの未来
  2023-09-08 14:39 <img src='https://scrapbox.io/api/pages/nishio/omni/icon' alt='omni.icon' height="19.5"/>

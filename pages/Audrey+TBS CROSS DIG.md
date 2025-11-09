@@ -8,3 +8,5 @@ title: "Audrey+TBS CROSS DIG"
 
 [[Glen+TBS CROSS DIG]]
 - [[TBS CROSS DIG]]
+
+[[竹下隆一郎]]

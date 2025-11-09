@@ -4,7 +4,9 @@ title: "Funding the Commons Tokyo 2024"
 
 [[Funding the Commons]] / [[Funding the Commons Tokyo]] / [[FtCTokyo]]
 
-2024-07-24~25 [Tokyo 2024](https://fundingthecommons.io/tokyo-2024)
+2024-07-24~25に開催された[[公共財]]への[[資金分配]]に関する国際会議
+- 公式サイト: [Tokyo 2024](https://fundingthecommons.io/tokyo-2024)
+
 Registration: [https://lu.ma/ftc-tokyo-2024](https://lu.ma/ftc-tokyo-2024)
 - ![image](https://gyazo.com/11b29d6c5abcc79e64b069e74bfc803f/thumb/1000)![image](https://gyazo.com/46ffae3be2b75ee58810877b99b7e38a/thumb/1000)
 - まとめ

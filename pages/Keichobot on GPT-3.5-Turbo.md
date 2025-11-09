@@ -2,6 +2,7 @@
 title: "Keichobot on GPT-3.5-Turbo"
 ---
 
+2023-03-02
 - ChatGPTでKeichobotを実現して、次はGPT3で実験だな、と思っていた([[Keichobot on ChatGPT]])
 - 2023-03-01 OpenAIがChatGPTのAPIを公開した([[GPT-3.5-Turbo]])
 - しかも1/10の値段

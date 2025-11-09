@@ -5,13 +5,18 @@ title: "Polymarket"
 > The worlds largest decentralized prediction market.
 - [Polymarket | The World's Largest Prediction Market](https://polymarket.com/)
 
+2024年の Polymarket の年間取引量（出来高）は 累計で90億ドル（約9 billion USD）を超えました。
+- [Data: Polymarket's cumulative trading volume in 2024 exceeds 9 billion dollars - ChainCatcher](https://www.chaincatcher.com/en/article/2160639)
+
+
+2023-08-15
 [Polymarket | Is the Room-Temp Superconductor real?](https://polymarket.com/event/is-the-room-temp-superconductor-real)
 - ![image](https://gyazo.com/dc13f006b3327771c3b17b87c999a534/thumb/1000)
 - > This market will resolve to "Yes" if the results of the paper titled "The First Room-Temperature Ambient-Pressure Superconductor" ([https://arxiv.org/abs/2307.12008)](https://arxiv.org/abs/2307.12008)) regarding LK99 are replicated at least two times by independent researchers unaffiliated with the authors of this paper by December 31, 2023, 11:59 PM ET. Otherwise, this market will resolve to "No".
     - [[arXiv]]の論文の再現性に対して取引している
 
 「[[逆のポジション]]」を作り出している
-
+- [[アンチポジション]]
 
 
 ---

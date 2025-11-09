@@ -9,3 +9,9 @@ Pureness Desires A Mess
 > [[newmerous]]、2021年秋の最新作。
 > デビューを目前に控えたアイドル達を襲う本格[[マーダーミステリー]]。
 [PURENESS DESIRES A MESS - newmerous　作品通販 - BOOTH](https://booth.pm/ja/items/3445393)
+
+PURENESS DESIRES A MESS
+[https://booth.pm/ja/items/3445393](https://booth.pm/ja/items/3445393)
+
+[[銀座マダミス会]]
+- 同時プレイ: [[ウェンディ、大人になって]]

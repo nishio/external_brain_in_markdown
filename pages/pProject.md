@@ -65,6 +65,13 @@ pKeicho振り返り
 2021-08-20
 - 複数のpProjectをトップにピン留めしてたが、占める面積の割に有益さが低い
 - なので[[pProjectIndex]]を作ってこれ一枚をピン留めし、他のものはここから飛べばいいよね、と言う設計変更をした
+    - 2025-09-22 pProjectIndexをメンテするまめさが存在しなかった
 
 他の人の例
 - [/blu3mo-public/pKineto](https://scrapbox.io/blu3mo-public/pKineto)
+
+from [[日記2025-09-22]]
+pProject
+pProject2025-xx-xx系、pProject2025-xx-xxを作ってそこに書きがちだが、pProjectに書いてから適切な単位で切り出すのが正しいのかもな
+- 明確なタイトルをつけられる意味の塊があるなら良いタイトルをつけるべきで、それがつけられないけど1日にたくさん書いたから分割したい時に日付のタイトルになる
+

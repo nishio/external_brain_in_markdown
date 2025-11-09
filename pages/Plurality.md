@@ -2,6 +2,7 @@
 title: "Plurality"
 ---
 
+2023-07-15
 [[民主主義を発展させるためのテクノロジー「Plurality」]]
 
 see [[Plurality Tokyo Keynote from Audrey Tang]]

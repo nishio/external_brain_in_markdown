@@ -232,7 +232,7 @@ Slidoを確認する
 
 
 質疑で使うかもしれない図
-- ![image](https://scrapbox.io/files/6663143a6be53c0022f524ce.png)
+- ![image](https://scrapbox.io/files/68abf3f915304bc63b3d46cf.png)
     - [/plurality-japanese/多様性を超えたコラボレーションのスペクトラム](https://scrapbox.io/plurality-japanese/多様性を超えたコラボレーションのスペクトラム)
 - ![image](https://scrapbox.io/files/67c806c183e2991b9209621b.png)
     - [/plurality-japanese/3-0-⿻とは何か？#660a2224aff09e0000857770](https://scrapbox.io/plurality-japanese/3-0-⿻とは何か？#660a2224aff09e0000857770)

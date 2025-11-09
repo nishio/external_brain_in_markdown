@@ -5,6 +5,7 @@ title: "columnとrowは誤った二項対立"
 原初の物理世界において[[column]]は「縦に長いもの」であり、当然「横に並ぶ」もの(1)であった。しかし表計算ソフトの普及により「縦に長いもの」を「(中にセルが)縦に並ぶ」もの(2)として解釈する人が生まれ、この2通りの解釈の間の混乱(3)が発生するようになった
 ![image](https://gyazo.com/d7178eeba09badf38f5eb5ed8debb45b/thumb/1000)
 - きっかけが[[表計算ソフト]]かどうかは未検証
+- [[概念の変遷]]
 
 [Grid Row - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Grid_Row)
 > Grid Row

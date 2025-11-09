@@ -2,6 +2,7 @@
 title: "QA with Leon Erichsen"
 ---
 
+[[Leon Erichsen]]
 1. What do you see as the most urgent or overlooked issues in Japanese society today?
 1. 今日の日本社会で最も緊急性の高い、または見過ごされている問題は何だと思いますか?
 
