@@ -153,7 +153,7 @@ Plural Management
     - 雑に言えばたくさんクレジットを持っている個人が他の人の参加のインセンティブを増やすために寄付することができるよ、という感じ
         - ここまでの話で企業内のユースケースを話していたから「参加のインセンティブ？」となりそう
         - 例えば社内の非エンジニア部門が抱えているちょこっとJSを書けば解決したりするような問題をエンジニアたちが解決するハッカソンをしましょう的なシチュエーションを考えると「そういう活動が行われるのはいいことだね」と思った個人が自分のトークンをマッチングプールに入れることができる
-        - そうすると実際にコードを書いて問題を解決するエンジニアに対するとーくんのしはらトークンの支払いが増えるので、より参加を促すインセンティブになる
+        - そうすると実際にコードを書いて問題を解決するエンジニアに対するトークンの支払いが増えるので、より参加を促すインセンティブになる
         - エンジニアがより一層参加するなら、自分の課題をイシューボードに登録しておこうというインセンティブが課題オーナー側でも高まる
         - 結果として「こういう活動が行われるのはいいね」というトークン寄付が活動自体への他のメンバーの参加を促す
 
@@ -169,7 +169,7 @@ Plural Management
     - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>これが<img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/> issueが解決されたという判断はissueの依頼者がするのかなの回答
 - > In addition to casting a vote, each individual can choose to ‘bet’ the number of credits they used to vote that their prediction of acceptance or rejection will suc- ceed. If correct, this bet will pay out double the credits used to vote. This vote prediction allows individuals to be rewarded for correctly anticipating the desires of the full community. We introduce a prediction subsidy parameter that can be set by administrators for each contribution vote that reduces the cost of voting and increases the re- ward from betting. By default, voting and then betting on this is strictly unprofitable. However, in many cases, ad- ministrators may wish to increase the subsidy to allow op- portunities for individuals who can anticipate community needs to gain authority. For example, providing a subsidy can incent individuals with fewer management credits to participate in votes that would otherwise be costly, which means that a larger crowd of individuals is performing due diligence on contributions. If many contributions are being made in a large organization, this is akin to reward- ing individuals for administrative processing that “triages” contributions and thus surfaces important divisive votes to managers with more authority.
 - > このモデルでは、個々の人は投票に加えて、自分の受け入れまたは拒否の予測が成功するかどうかに投票に使用したクレジット数を「賭ける」ことを選択できます。予測が正しい場合、この賭けは投票に使用したクレジットの2倍の支払いをもたらします。この投票予測により、個人はコミュニティ全体の願望を正確に予測することに対して報酬を受け取ることができます。私たちは、投票のコストを削減し、賭けからの報酬を増加させるために、管理者によって各寄稿投票に設定される予測補助パラメータを導入します。デフォルトでは、投票して賭けることは厳密には非収益性です。しかし、多くの場合、管理者はコミュニティのニーズを予測できる個人に権限を与える機会を提供するために補助金を増やすことを望むかもしれません。例えば、補助金を提供することで、管理クレジットが少ない個人が、それ以外ではコストがかかる投票に参加することを奨励できます。これは、より多くの人々が貢献への適切な注意を払っていることを意味し、大きな組織内で多くの貢献が行われている場合、これは「貢献の選別」を行い、より多くの権限を持つ管理者に重要な分岐点の投票を浮き彫りにするための管理処理に対する個人の報酬と見なすことができます。
-    - つまり予測市場の仕組みによって、例えば「一人のコミッターXが受け入れるかどうかを意思決定しているプロジェクト」がこのシステムに移行した場合、他の人たちが「Xの判断が信頼できる」と思っているならXの評価と同じ投票をするので結果的に同じことになる
+    - つまり[[予測市場]]の仕組みによって、例えば「一人のコミッターXが受け入れるかどうかを意思決定しているプロジェクト」がこのシステムに移行した場合、他の人たちが「Xの判断が信頼できる」と思っているならXの評価と同じ投票をするので結果的に同じことになる
     - 個人的には「Xが投票するまで自分の投票を遅らせよう」というインセンティブが発生してしまうのではという気がする
         - Xが一人で判断していた時には、Xに常に判断の重荷が全部集中していた
         - Xが常に評価をする保証がなくなると、強い意見のある人は先に評価投票をするようになる？
@@ -400,7 +400,7 @@ Plural Management
 
 - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/> 慈悲深い独裁者に依存するか、善良なメンバーしかいないことに依存するか、、、
 - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/> 一般の政治でやるならゼロトラスト的な設計をしたい
-- <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/> システムが複雑になると理解できなくて取り残されたり反対して新しいシステムへの移行が厳しくなったりしそうで、未来人と村人の間がちぎれる話が起こりそう(一般的な感想です)
+- <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/> システムが複雑になると理解できなくて取り残されたり反対して新しいシステムへの移行が厳しくなったりしそうで、未来人と村人の間が[[ちぎれる]]話が起こりそう(一般的な感想です)
     - ちぎれるのが統治システムで起こるのはクリティカルに見える
 - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/> 温度感の見える化は有用そう。だけど、共通の数字として見えるわけではなさそう(人によって、テーマとそれに vote した人間の組に対してどのくらいの重みをつけるかは違う)。数字化するのは賛成だけど貨幣的なものでやるのは厳しいんじゃないかという気持ち。
 

@@ -10,3 +10,5 @@ title: "DRY原則"
 - > Most people take DRY to mean you shouldn't duplicate code. That's not its intention. The idea behind DRY is far grander than that. DRY says that every piece of system knowledge should have one authoritative, unambiguous representation. Every piece of knowledge in the development of something should have a single representation. A system's knowledge is far broader than just its code. It refers to database schemas, test plans, the build system, even documentation.
 
 関連 [[Write everything twice]]
+
+[[DRY]]
