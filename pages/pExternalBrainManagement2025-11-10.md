@@ -74,3 +74,5 @@ etude-github-actionsの翻訳パイプラインは低品質だが、全てのペ
 
 作業日記
 - [https://github.com/nishio/external_brain_management/blob/main/docs/diary/2025-11-11.md](https://github.com/nishio/external_brain_management/blob/main/docs/diary/2025-11-11.md)
+
+next: [[pExternalBrainManagement2025-11-11]]

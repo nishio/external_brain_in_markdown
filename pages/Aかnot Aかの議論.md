@@ -12,3 +12,4 @@ title: "Aかnot Aかの議論"
 > [@qnighy](https://twitter.com/qnighy/status/1645070988168790016?s=46&t=gkSZtjGEtUZPO0JCzBxCBw): 見るたびに議論の前提が揃ってないやつ
 > ![image](https://pbs.twimg.com/media/FtR3LP5aIAEEKYy.jpg)
 
+[[二人が違うことを言う絵のシリーズ]]
