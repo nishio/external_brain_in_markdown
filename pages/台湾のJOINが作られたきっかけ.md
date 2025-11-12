@@ -5,7 +5,7 @@ title: "台湾のJOINが作られたきっかけ"
 <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>
 一言で言うと、[[JOIN]]（公共政策網路參與平臺）は、
 - ①2014年の太陽花運動で高まった「公民参加」要求に応える流れの中で、
-- ②2014年7月の「経貿国是会議」が“White HouseのWe the Peopleを参照した常設のオンライン参加窓口を作るべき”と提言し、
+- ②2014年7月の「経貿国是会議」が“White Houseの[[We the People]]を参照した常設のオンライン参加窓口を作るべき”と提言し、
 - ③オープンガバメント推進を掲げた国発会（NDC）が2015年2月10日に立ち上げた――というのが「きっかけ」です。([taspaa.org](https://taspaa.org/Paper_Info.aspx?ID=96))
 
 根拠（原文引用）
