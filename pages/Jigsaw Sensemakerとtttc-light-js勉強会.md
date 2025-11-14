@@ -4,6 +4,7 @@ title: "Jigsaw Sensemakerとtttc-light-js勉強会"
 
 2025-10-31
 - [[サイボウズラボ勉強会]]
+- [[Jigsaw Sensemaker×TTTC勉強会]]
 - ![image](https://gyazo.com/7b116f8c1e37d85ffcdfb89b9a966ef9/thumb/1000)
 - Polisはデータエクスポートができるようになった
     - これを使って色々実験

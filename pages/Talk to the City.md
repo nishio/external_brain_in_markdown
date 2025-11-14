@@ -26,7 +26,7 @@ title: "Talk to the City"
 - [[日テレNEWS×2024衆院選×ブロードリスニング]]
 
 
-> [anderssandberg](https://x.com/anderssandberg/status/1849570772869656662) Talk to the City originally was conceived of by Peter Eckersley in a discussion we had about using AI to elicit preferences from large populations. I am happy to see what it has grown up into.
+> [anderssandberg](https://x.com/anderssandberg/status/1849570772869656662) Talk to the City originally was conceived of by [[Peter Eckersley]] in a discussion we had about using AI to elicit preferences from large populations. I am happy to see what it has grown up into.
 >  「Talk to the City」はもともと、ピーター・エッカーズリーが、AIを使用して大勢の人々から選好を引き出すことについての議論で考案しました。それが何に成長したのかを見るのがうれしいです。
 >  >[nishio](https://x.com/nishio/status/1846185175518269742) Talk to the City was used in a special program by Nippon TV regarding an upcoming election, where live questions were asked to incumbent politicians.
 >  「トーク・トゥ・ザ・シティ」は、日本テレビが控えた選挙に関する特別番組で、現職の政治家に生々しい質問を投げかける番組で使われた。
