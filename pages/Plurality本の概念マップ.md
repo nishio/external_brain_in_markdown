@@ -2,6 +2,7 @@
 title: "Plurality本の概念マップ"
 ---
 
+2025-09-11
 ![image](https://gyazo.com/41a7d813cd80997fd5c17ae233640153/thumb/1000)
 概念と概念の間の関係を[[Plurality本]]の日本語原稿データから抽出して可視化したもの
 - URL: [https://nishio.github.io/plurality-concept-map/](https://nishio.github.io/plurality-concept-map/)

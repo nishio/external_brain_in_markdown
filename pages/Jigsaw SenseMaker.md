@@ -5,6 +5,8 @@ title: "Jigsaw SenseMaker"
 [[Google Jigsaw Sensemaker]]
 - [[SenseMaker]]
 
+
+
 <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>
 [[Jigsaw]]の「[[Sensemaker]]」は、大規模な会話データ（例: Polis）をAIで「分類・要約・合意/相違の可視化」までやるオープンソースのツールキットです（現在β）｡ ([jigsaw-code.github.io](https://jigsaw-code.github.io/sensemaking-tools))
 
