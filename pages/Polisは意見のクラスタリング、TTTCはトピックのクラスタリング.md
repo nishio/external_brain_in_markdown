@@ -2,6 +2,7 @@
 title: "Polisは意見のクラスタリング、TTTCはトピックのクラスタリング"
 ---
 
+2024-06-11
 from [[Talk to the City試す]]
 [[Polis]]は[[意見のクラスタリング]]、[[Talk to the City]]は[[トピックのクラスタリング]]
 

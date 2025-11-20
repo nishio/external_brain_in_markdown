@@ -52,10 +52,15 @@ title: "11/23 11/29 Code for Japan Summit 2025"
 - [[Polisが作られたきっかけ]]
 - [[台湾のJOINが作られたきっかけ]]
 - [[Talk to the Cityが作られたきっかけ]]
+    - [[Talk to the CityのTurboが現れたきっかけ]]
 - [[いどばたシステムが作られたきっかけ]]
-- [[いどばたシステムv2の作られたきっかけ]]
+    - [[いどばたシステムv2の作られたきっかけ]]
 - [[広聴AIが作られたきっかけ]]
 
 [[交渉的 connective action]]
 
 [[2025-11のデジタル民主主義ツールの地図]]
+[[Colin Megill]]
+
+[[ひまわり学生運動]]
+[[Plurality Tokyo 2023]]
