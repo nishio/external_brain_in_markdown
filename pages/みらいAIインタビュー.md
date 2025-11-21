@@ -11,5 +11,15 @@ title: "みらいAIインタビュー"
 > [takahiroanno](https://x.com/takahiroanno/status/1978350694236111131) なお、人工知能基本計画骨子はこちらのURLより参照可能です
 - [https://www8.cao.go.jp/cstp/ai/ai_plan/ai_plan.html](https://www8.cao.go.jp/cstp/ai/ai_plan/ai_plan.html)
 
+> [AoiFurukawa](https://x.com/AoiFurukawa/status/1978350593384292565) こうやってオープンに意見を聞けるツールがあるといいよね、という話をした翌日に安野さんが「作ってみた！」と言って実際に触れるプロトタイプを披露していて度肝を抜かれました
+>  このスピード感と行動力を持つ人が国会にいてよかったなと思います
+
+> [takahiroanno](https://x.com/takahiroanno/status/1978433154902884731) ちなみにこのAIインタビューツールは新幹線移動中にClaude Codeをぶん回して作りました。[[AIによるデプスインタビュー]]は[[ブロードリスニング]]の一つの有望なやり方だと思っています
 
 [[チームみらい]]
+
+表記揺れ
+- [[AIデプスインタビュー]]
+みらいAIインタビュー（仮）
+
+AIデプスインタビュー(仮称)
