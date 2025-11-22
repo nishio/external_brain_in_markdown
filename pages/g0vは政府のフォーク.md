@@ -17,3 +17,4 @@ g0vは、政府のウェブサイトの「.gov.tw」を「.g0v.tw」に置き換
 > Symbolizing the community's efforts to "rethink the role of government from zero," and borrowing the parlance of binary from the digital world of 1s and 0s, the O in "gov" is replaced with a 0 to make "g0v"; for many government agencies in Taiwan which have URLs ending .gov.tw, replacing .gov with .g0v redirects the user to the so-called shadow government, a "forked" version of that agency with contributions by civic hackers.
 - [g0v movement - Wikipedia](https://en.wikipedia.org/wiki/G0v_movement)
 
+[[fork without permission]]

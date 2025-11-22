@@ -6,7 +6,7 @@ title: "shadow government"
 - [[無断fork]]
 
 <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>
-短く答えると：g0vが「.gov.tw → .g0v.tw」に置き換えて“影の行政サイト（shadow government）”を作り始めたのは、2012年末――とくに2012年10〜12月の動きが起点です。([ウィキペディア](https://en.wikipedia.org/wiki/G0v_movement))
+短く答えると：g0vが「.gov.tw → .g0v.tw」に置き換えて“影の行政サイト（[[shadow government]]）”を作り始めたのは、2012年末――とくに2012年10〜12月の動きが起点です。([ウィキペディア](https://en.wikipedia.org/wiki/G0v_movement))
 
 ミニ年表（なぜ・いつ・どう始まったか）
 - 2012/10/16
