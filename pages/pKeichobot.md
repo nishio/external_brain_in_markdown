@@ -4,6 +4,17 @@ title: "pKeichobot"
 
 [[聞き出しチャットシステム]]に関するプロジェクトメモ
 
+2025-11-14~
+- [[一人用Cartographer]]
+
+2025-09-11
+- [[新Keichobot]]
+
+2025-08-09
+- [[2025年のKeichobot]]
+
+---
+2023-11-14
 from [/villagepump/自分がWikiを作る理由](https://scrapbox.io/villagepump/自分がWikiを作る理由)
 - Scrapbox→Keichobot
     - Scrapboxを書いてる最中に「ここまでの話を踏まえて会話しよう」ができるといいけどScrapbox上で動かそうとするとブラウザ拡張などを使うしかない
