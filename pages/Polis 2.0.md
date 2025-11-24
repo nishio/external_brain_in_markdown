@@ -27,3 +27,8 @@ Audrey Tangによる解説 from [Conversation with Yasmin Green and Örkesh Döl
 [/tkgshn/初探 Polis 2.0：邁向關鍵評論網絡](https://scrapbox.io/tkgshn/初探 Polis 2.0：邁向關鍵評論網絡)
 [[Polis]]
 [/plurality-japanese/Talk to the City](https://scrapbox.io/plurality-japanese/Talk to the City)
+
+2025-11-24
+![image](https://gyazo.com/24d3a5050b6c0667c14acd2011ed1e28/thumb/1000)
+![image](https://gyazo.com/b0dfe431308f6ea407d15d20d9bdbfe2/thumb/1000)
+

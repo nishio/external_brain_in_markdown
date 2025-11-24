@@ -21,7 +21,7 @@ title: "11/23 11/29 Code for Japan Summit 2025"
 セッション10分前には会場「ウタント」にお越しください
 
 サミットのセッション用資料は、提出締切が２３日とのことですので、お気をつけください。
-- [https://docs.google.com/presentation/d/17tgJ8fYFwqrICRxSNpkCM4k_OWR5p1DBGJXiZAdSwy0/edit?slide=id.p#slide=id.p](https://docs.google.com/presentation/d/17tgJ8fYFwqrICRxSNpkCM4k_OWR5p1DBGJXiZAdSwy0/edit?slide=id.p#slide=id.p)
+- [slide](https://docs.google.com/presentation/d/17tgJ8fYFwqrICRxSNpkCM4k_OWR5p1DBGJXiZAdSwy0/edit?slide=id.p#slide=id.p)
 
 
 
