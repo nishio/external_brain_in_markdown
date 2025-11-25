@@ -2,8 +2,8 @@
 title: "pKeichobot2025-11-14"
 ---
 
-[[一人用Cartographer]]
-[[一人Cartographer]]
+old title: [[一人用Cartographer]]
+- [[一人Cartographer]]
 
 2025-11-14
 - 青山くんの[[Cartographer]]を一人で使うのをやっている、質問されることによって曖昧だったことが言語化されてとても良い
@@ -126,3 +126,9 @@ yes/noをつけたら「答えやすい質問をする」と解釈された
 ユーザが背景情報を追加した時、それはあいづちモードで語りおわったのと近い状況
 
 "一人用Cartographer"ってページタイトルだったけど、結果的にKeichobotを参考にゼロからvibe codingしてるから名前を変えた
+
+2025-11-25
+開発環境でチャットをして、フィードバックを書いたら自動的にfsに書かれて、
+Claude Codeに「最新のfeedbackを読んで」でそれを読んで開発をする
+
+
