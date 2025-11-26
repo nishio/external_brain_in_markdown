@@ -14,7 +14,7 @@ NISHIO Hirokazu
 
 [[dd2030 slack]]
 - [https://dd2030.slack.com/archives/C09J7A6HKRA/p1762878366280039?thread_ts=1762788281.419449&cid=C09J7A6HKRA](https://dd2030.slack.com/archives/C09J7A6HKRA/p1762878366280039?thread_ts=1762788281.419449&cid=C09J7A6HKRA)
-- nishio: [[11/23 11/29 Code for Japan Summit 2025]]でアラブの春→Polis→vTaiwan→Talk to the City→広聴AI→そして未来へ みたいな話をしようと思ってて、終わってから整理したら第10章になるんじゃないかと思ってます
+- nishio: [[11/29 Code for Japan Summit 2025]]でアラブの春→Polis→vTaiwan→Talk to the City→広聴AI→そして未来へ みたいな話をしようと思ってて、終わってから整理したら第10章になるんじゃないかと思ってます
 - tokoroten: そうか、起点はアラブの春なのか SNSを経由した革命の失敗の反省、みたいなところが原点なのか。
 - nishio: Colin視点で身近なのはOccupy Wall Streetだと思うけどな
 - tokoroten: なるほど、時期的には、アラブの春の直後だったのか

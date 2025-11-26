@@ -1,5 +1,5 @@
 ---
-title: "11/23 11/29 Code for Japan Summit 2025"
+title: "11/29 Code for Japan Summit 2025"
 ---
 
 2025-11-29
