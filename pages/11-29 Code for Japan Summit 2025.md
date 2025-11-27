@@ -2,7 +2,12 @@
 title: "11/29 Code for Japan Summit 2025"
 ---
 
+[slide](https://docs.google.com/presentation/d/17tgJ8fYFwqrICRxSNpkCM4k_OWR5p1DBGJXiZAdSwy0/edit?slide=id.p#slide=id.p)
+
 2025-11-29
+日時：2025年11月29日(土) 10:30〜17:35（開場：10:00）
+懇親会：17:45〜19:25
+
 [[国連大学]]
 [https://luma.com/cfjsummit-2025](https://luma.com/cfjsummit-2025)
 
@@ -20,8 +25,6 @@ title: "11/29 Code for Japan Summit 2025"
 セッション時間: 11/29 12:10-12:50 (40分)
 セッション10分前には会場「ウタント」にお越しください
 
-サミットのセッション用資料は、提出締切が２３日とのことですので、お気をつけください。
-- [slide](https://docs.google.com/presentation/d/17tgJ8fYFwqrICRxSNpkCM4k_OWR5p1DBGJXiZAdSwy0/edit?slide=id.p#slide=id.p)
 
 
 
@@ -65,3 +68,6 @@ title: "11/29 Code for Japan Summit 2025"
 
 [[ひまわり学生運動]]
 [[Plurality Tokyo 2023]]
+
+[https://youtu.be/qW3uzu4uU-A](https://youtu.be/qW3uzu4uU-A)
+
