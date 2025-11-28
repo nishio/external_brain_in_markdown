@@ -71,3 +71,4 @@ title: "11/29 Code for Japan Summit 2025"
 
 [https://youtu.be/qW3uzu4uU-A](https://youtu.be/qW3uzu4uU-A)
 
+[[AI賢王制]]

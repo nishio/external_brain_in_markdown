@@ -2,7 +2,8 @@
 title: "mem/Visual Thinking"
 ---
 
-[https://mem.nhiro.org/ja/vt](https://mem.nhiro.org/ja/vt)
+[https://mem.nhiro.org/en/vt](https://mem.nhiro.org/en/vt)
+
 
 2025-11-12
 [[mem]]/[[Visual Thinking]] ([[mem/vt]])
