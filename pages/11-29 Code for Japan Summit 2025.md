@@ -21,17 +21,19 @@ title: "11/29 Code for Japan Summit 2025"
 >  ![image](https://pbs.twimg.com/media/G3Wcq8QboAAvT6K?format=jpg&name=medium#.png)
 会場参加+懇親会チケット取得済み
 
-
 セッション時間: 11/29 12:10-12:50 (40分)
 セッション10分前には会場「ウタント」にお越しください
 
+のんびりと説明した動画を撮ってみた
+[https://youtu.be/qW3uzu4uU-A](https://youtu.be/qW3uzu4uU-A)
 
 
 
 [[Code for Japan Summit]]
 [[Code for Japan]]
 
-- 民主主義の川
+draft
+- [[民主主義の川]]
 - [[g0v]]
     - 2012年 [[shadow government]]
     - 2013年 [[Audrey Tangとg0v]]
@@ -69,6 +71,6 @@ title: "11/29 Code for Japan Summit 2025"
 [[ひまわり学生運動]]
 [[Plurality Tokyo 2023]]
 
-[https://youtu.be/qW3uzu4uU-A](https://youtu.be/qW3uzu4uU-A)
-
 [[AI賢王制]]
+
+Join Slido at [https://app.sli.do/event/pxg3tcCg7sfp8GoWmBPqMj](https://app.sli.do/event/pxg3tcCg7sfp8GoWmBPqMj)
