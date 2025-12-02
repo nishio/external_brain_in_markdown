@@ -6,6 +6,9 @@ title: "OSSクエスト"
 - オープンソースカルチャーを広めるために台湾の[[Open Culture Foundation]]が作成した[[Open StarTer Village]]
     - これを[[Code for Japan]]の関さんが貰って[[Social Hack Day #70]]で遊んだ、とても面白かったが英語のマニュアルを読み解くのは大変だったので日本語版作成プロジェクトが立ち上がった
 
+2025-12-02
+- [[Code for Japan Summit 2025]]で体験会をした
+- [日本のオープンソースプロジェクト | Japanese Open Source Projects](https://nishio.github.io/oss_quest_projects/)
 
 2025-10-25
 - [[OSC2025 Tokyo/Fall]]

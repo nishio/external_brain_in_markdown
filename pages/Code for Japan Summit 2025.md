@@ -88,13 +88,14 @@ title: "Code for Japan Summit 2025"
 # デジタル民主主義ブームを振り返る
 ![image](https://gyazo.com/73ab3f3dac8c66bab55c12f22f2b10f1/thumb/1000)
 
-# 自分の発表
+# 自分の発表([[デジタル民主主義の川の流れを見る]])
 自分の発表部分が5分で収まらないのでのんびりと説明した動画を撮ってみた
 [https://youtu.be/qW3uzu4uU-A](https://youtu.be/qW3uzu4uU-A)
 slide: [デジタル民主主義の川の流れを見る](https://docs.google.com/presentation/d/17tgJ8fYFwqrICRxSNpkCM4k_OWR5p1DBGJXiZAdSwy0/edit?slide=id.p#slide=id.p)
 draft: [[デジタル民主主義の川の流れを見る(draft)]]
 Slido: [https://app.sli.do/event/pxg3tcCg7sfp8GoWmBPqMj](https://app.sli.do/event/pxg3tcCg7sfp8GoWmBPqMj)
 - [[デジタル民主主義ブームを振り返る(拡張質疑)]]
+
 
 > [jollyjoester](https://x.com/jollyjoester/status/1994614719605625120) 「デジタル民主主義ブームを振り返る」
 >  この4人のお話めちゃめちゃおもしろい！
