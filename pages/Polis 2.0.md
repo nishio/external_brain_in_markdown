@@ -2,6 +2,12 @@
 title: "Polis 2.0"
 ---
 
+2025-12-06
+- Claude Codeで解説させたPolis2.0のクラスタリングアルゴリズム
+- [[EVoC]]が使われている
+- [https://gist.github.com/nishio/820c3d39b81ec3f6e73114d23873b54c](https://gist.github.com/nishio/820c3d39b81ec3f6e73114d23873b54c)
+
+2024-06-10
 Audrey Tangによる解説 from [Conversation with Yasmin Green and Örkesh Dölet｜Background Information - News and Releases｜Ministry of Digital Affairs](https://moda.gov.tw/en/press/background-information/8655)
 <img src='https://scrapbox.io/api/pages/nishio/claude/icon' alt='claude.icon' height="19.5"/>Audrey Tang氏の説明によると、Polis 2.0は以下のような特徴を持っています。
 - 従来のPolisに言語モデル(Language Model)を組み合わせたシステムです。
