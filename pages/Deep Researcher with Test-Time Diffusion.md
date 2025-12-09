@@ -10,7 +10,7 @@ title: "Deep Researcher with Test-Time Diffusion"
 
 安野さんに教えてもらった
 
-<img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>
+<img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/> [https://chatgpt.com/c/6933e66a-47f0-8320-b870-1abc870af634](https://chatgpt.com/c/6933e66a-47f0-8320-b870-1abc870af634)
 一言でいうと、
 「Deep Research系エージェントを“拡散モデルっぽい”テスト時アルゴリズムで強化して、OpenAI Deep Research など既存のDRを上回ったよ」という論文です。([arXiv](https://arxiv.org/html/2507.16075v1))
 
