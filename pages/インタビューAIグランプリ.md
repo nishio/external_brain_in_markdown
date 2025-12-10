@@ -38,3 +38,4 @@ title: "インタビューAIグランプリ"
 - [Slide](https://docs.google.com/presentation/d/1eY1eDnJoYvtCd_eUdXXKiHHKzlhO5_kKS4yBISXosWI/edit?usp=sharing)
 - [https://youtu.be/kwhEdHLs1FU](https://youtu.be/kwhEdHLs1FU)
 
+[[インタビューAIグランプリ2025-12-11]]
