@@ -2,6 +2,7 @@
 title: "Audrey TangのRight Livelihood受賞"
 ---
 
+2025-10-01
 [[Audrey Tang]]の[[Right Livelihood]]受賞
 [オードリー・タン氏らが受賞　「もう一つのノーベル賞」|47NEWS（よんななニュース）](https://www.47news.jp/13232165.html)
 [https://www.youtube.com/watch?v=TKFbQEoMR_s](https://www.youtube.com/watch?v=TKFbQEoMR_s)
