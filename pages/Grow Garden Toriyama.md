@@ -18,3 +18,12 @@ Grow Garden Toriyama（東大和市・日帰りグランピング）
 
 ![image](https://gyazo.com/ed5798f0397ca9e4f08c225f949c2c5a/thumb/1000)
 [【Grow Garden Toriyama】予約・アクセス・割引クーポン - じゃらんnet](https://www.jalan.net/kankou/spt_guide000000225022/?utm_source=chatgpt.com)
+
+![image](https://gyazo.com/4aef7ce26e6fcbbe502042a12840891e/thumb/1000)
+- 一見良さそうだが詳細を読むと
+    - > 【料金】（大人2名様より予約可能 1名あたり）
+    - >  　大人￥5,500-(税込）
+    - というわけなので1名だとそもそも予約を受け付けてくれすらしない
+- あとこう書いているので[[焚き火]]としてそれほど面白くない可能性もある
+    - > 火起こしから片付けまですべてスタッフにお任せください！
+
