@@ -35,3 +35,6 @@ src [https://twitter.com/athlonz/status/909261990538862592](https://twitter.com/
     - では[[タスクの整理]]とは何か？
         - [[タスク管理には2種類ある]]
         - [[計画には二種類ある]]
+
+
+[[MP切れ]]
