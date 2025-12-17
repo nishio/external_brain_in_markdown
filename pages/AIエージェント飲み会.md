@@ -2,7 +2,7 @@
 title: "AIエージェント飲み会"
 ---
 
-
+2025-01-13
 > [nishio](https://x.com/nishio/status/1878722755467915617) 突発AIエージェント飲み会に向かう！場所は把握してません！チャットログをChatGPTに読ませたのでAdvanced Voiceで指示を受けて動きます！！
 > [nishio](https://x.com/nishio/status/1878723814324142158) AIに「Google Mapを見ると良いよ」と言われた
 - 即落ち2コマ漫画かよ
