@@ -1,7 +1,8 @@
 ---
-title: "海で焚き火"
+title: "BONFIRE 一色葉山"
 ---
 
+[[海で焚き火]]
 [BONFIRE 砂浜で焚き火カフェ | 一色葉山](https://www.isshikihayama.com/bonfire)
 
 [[焚き火]]
