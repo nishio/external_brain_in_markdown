@@ -39,3 +39,4 @@ title: "インタビューAIグランプリ"
 - [https://youtu.be/kwhEdHLs1FU](https://youtu.be/kwhEdHLs1FU)
 
 [[インタビューAIグランプリ2025-12-11]]
+[[インタビューAIグランプリ2025-12-20]]

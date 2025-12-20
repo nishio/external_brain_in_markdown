@@ -2,10 +2,10 @@
 title: "farbrain"
 ---
 
+LP: [farbrain - アイデアの発散を加速するAIツール](https://farbrain-lp.netlify.app/)
+
 ![image](https://gyazo.com/023d71d55574f17dc149b869ebbaf413/thumb/1000)
 [FarBrain：俺が考えた最強のブレストソフトを作った話｜tokoroten](https://note.com/tokoroten_jp/n/n8c2b2e6fe35b)
-
-[farbrain - アイデアの発散を加速するAIツール](https://farbrain-lp.netlify.app/)
 
 [https://github.com/tokoroten/farbrain](https://github.com/tokoroten/farbrain)
 

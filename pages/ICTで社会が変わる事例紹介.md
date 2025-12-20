@@ -218,7 +218,7 @@ Platform 30
 •事実としてPlatformを作れてるのかどうかはPlatformの定義次第。僕は議論する気はない。具体的な事実を紹介する。
 
 ![image](https://gyazo.com/9ed09fbd7bf585beec2abca769a1c673/thumb/1000)
-事例紹介: IRODORIシステム　32
+事例紹介: [[IRODORIシステム]]　32
 •過疎化・高齢化の進む上勝町•日本料理の"つまもの"である葉っぱのビジネスで年商3億弱、年収1000万のおばあちゃんも。
 •高齢者がタブレットやPCで全国の市況を見て"葉っぱ"を収穫し出荷する。
 [http://www.irodori.co.jp/asp/nwsitem.asp?nw_id=2&design_mode=0](http://www.irodori.co.jp/asp/nwsitem.asp?nw_id=2&design_mode=0) [https://www.amazon.co.jp/dp/4797340657](https://www.amazon.co.jp/dp/4797340657)
