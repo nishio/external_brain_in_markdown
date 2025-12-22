@@ -40,3 +40,8 @@ title: "インタビューAIグランプリ"
 
 [[インタビューAIグランプリ2025-12-11]]
 [[インタビューAIグランプリ2025-12-20]]
+
+2025-12-21
+- [Slide](https://docs.google.com/presentation/d/1s0RESe9_aADMhOG-gssHa9NvuT9Pm0pTDDdcfx31Zk0/edit?slide=id.p#slide=id.p)
+- [https://youtu.be/KBRT5Bqd6lg](https://youtu.be/KBRT5Bqd6lg)
+
