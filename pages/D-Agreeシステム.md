@@ -6,3 +6,4 @@ title: "D-Agreeシステム"
 - [「AI・マルチエージェント技術」を実用化し、世界のあらゆる課題解決を実現します](https://www.agreebit.jp/news-press)
 
 [[東京都港区]]
+[[D-Agree]]
