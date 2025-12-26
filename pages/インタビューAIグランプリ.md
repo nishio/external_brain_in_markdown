@@ -45,3 +45,6 @@ title: "インタビューAIグランプリ"
 - [Slide](https://docs.google.com/presentation/d/1s0RESe9_aADMhOG-gssHa9NvuT9Pm0pTDDdcfx31Zk0/edit?slide=id.p#slide=id.p)
 - [https://youtu.be/KBRT5Bqd6lg](https://youtu.be/KBRT5Bqd6lg)
 
+2025-12-27
+- ブログを書いたらいいと思っているけど、優先度は[[ブロードリスニング本]]の方が高い
+
