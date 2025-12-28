@@ -15,3 +15,6 @@ title: "If everything seems under control, you're not going fast enough."
     - [[前例主義]]
 - [[コントロールできることに力を注ぎ、コントロールできないことは気にしない]]
     - [[コントロール]]
+- [[スピード]]
+    - [[速度]]
+    - [[アジリティ]]
