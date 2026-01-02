@@ -26,3 +26,9 @@ from [/villagepump/Satisfactory](https://scrapbox.io/villagepump/Satisfactory)
 
 2024-11-30
 [[Satisfactoryマルチプレイ]]
+
+2025-08-10~
+[[Satisfactory flat縛り]]
+
+2026-01-02
+[[Satisfactory2026]]
