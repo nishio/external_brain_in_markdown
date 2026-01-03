@@ -34,4 +34,4 @@ PRO（Problem–Remedy–Outcome）モデルは、[[クリーンランゲージ]
 - 「Problem→対策→結果」という一般的な問題解決手順とは逆で、先にOutcome（意図）を固定してから必要な最小の行動へ降ろす点が特徴。([クリーンラーニング](https://cleanlearning.co.uk/blog/discuss/the-pro-model?utm_source=chatgpt.com))
 
 関連
-- [[PROモデル]]
+- [[Problem-Remedy-Outcomeモデル]]

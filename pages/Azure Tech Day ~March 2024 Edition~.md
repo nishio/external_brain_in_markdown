@@ -24,7 +24,7 @@ AIプロジェクトを進める際は、DXの成果や会社のデータ・シ�
 「[[データ活用が課題だ]]」という人、「[[課題が解決したらどうなるの？]]」に回答できない
 - 課題のイメージが明確でない
 - ここのストーリーを明確にしていくことへのエフォートがかけている
-    - [[PROモデル]]だな<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - [[Problem-Remedy-Outcomeモデル]]だな<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
         - "Problemだ"と思っててRemedyやOutcomeが明確になってない
 - [[コラボレーション層との親和性]]
 
