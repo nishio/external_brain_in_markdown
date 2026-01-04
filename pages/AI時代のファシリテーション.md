@@ -46,3 +46,17 @@ Three core process types
 - Transformative では信頼性や感情的安全性の支援
 - Generative では大量アイデアの収集・整理支援
 - Deliberative では論理やトレードオフ分析の支援
+
+
+
+別の表現
+- Transformative
+    - 「変わる場」
+    - つながる場<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+- Generative
+    - 「出す場」
+    - 「アイデアを出す」とかにしないと伝わらない気がする<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+- Deliberative
+    - 「決める場」
+
+![image](https://gyazo.com/43e6f898383efac7334709acf608519f/thumb/1000)
