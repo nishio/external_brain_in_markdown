@@ -82,8 +82,95 @@ AIエージェントの作業待ちの時に他のプロジェクトに移動し
 pipをinstallして適当なCSVを分析して、結果を受け取ってmatplotlibで可視化する
 
 ---
+
+CLI実行、PyPIからのインストール、プラグイン拡張などを可能にするリファクタリング計画を実行中です(年末に話していたもの)
+- 前2つは動作確認済み
+    - CLIで分析処理が可能になりました
+        - [https://github.com/digitaldemocracy2030/kouchou-ai/blob/refactoring/docs/CLI_QUICKSTART.md](https://github.com/digitaldemocracy2030/kouchou-ai/blob/refactoring/docs/CLI_QUICKSTART.md)
+    - Pythonスクリプトからimportして使うことも可能です
+        - [https://github.com/digitaldemocracy2030/kouchou-ai/blob/refactoring/docs/IMPORT_QUICKSTART.md](https://github.com/digitaldemocracy2030/kouchou-ai/blob/refactoring/docs/IMPORT_QUICKSTART.md)
+- プラグイン拡張機能は実装済みだがまだ実際に差し替えるプラグインがないので試していない
+    - 従来通りの分析も各ステップがプラグインに変わっているが、問題なく通して実行できることを確認済み
+    - プラグイン作成ガイド
+        - [https://github.com/digitaldemocracy2030/kouchou-ai/blob/refactoring/docs/PLUGIN_GUIDE.md](https://github.com/digitaldemocracy2030/kouchou-ai/blob/refactoring/docs/PLUGIN_GUIDE.md)
+- リファクタリングと言っておきながら破壊的更新が入っています、すみません
+    - [https://github.com/digitaldemocracy2030/kouchou-ai/blob/refactoring/docs/refactoring/naming_convention.md](https://github.com/digitaldemocracy2030/kouchou-ai/blob/refactoring/docs/refactoring/naming_convention.md)
+    - pathがserverでDocker名がapiだとか、clientという名前のサーバを建てる必要があるとかの「混乱を招くネーミング」がこの機会にまとめて修正されています
+- pipはどういう形？
+    - pipだけ別のrepoに分かれてはいない
+    - ここがpipの定義[https://github.com/digitaldemocracy2030/kouchou-ai/blob/refactoring/packages/analysis-core/pyproject.toml](https://github.com/digitaldemocracy2030/kouchou-ai/blob/refactoring/packages/analysis-core/pyproject.toml)
+    - まだ0.1.0でとりあえずできた状態
+        - どうアップデートしていくかはあとあと考える
+        - 将来的にはrepo secretにtokenをおいてこのfolder以下が更新されたら自動更新するか？
+        - 自動更新とかしなくてもバージョン番号を振ってリリースするときに一緒にやるのでいいのでは
+
+
+---
 非エンジニア向けUX:
 - YouTube URL を貼る
 - 「レポート生成」クリック
 - 待つ
 - JSON/レポート閲覧
+
+Day 2
+- Day 1の後半は夕食や会議で集中力が途切れて、そうなると「よく理解しないままAIに先に進ませる」をやってしまってよくない
+- 寝て起きてクリアになった脳で「これってなんのために必要なんだっけ？」と質問した
+
+プラグインの仕組み
+- 色々な機能を追加したい v.s. 使わない人にまでデフォルトでONにしたくない
+- pluginがどういう設定を必要とするかはコードで管理され、設定不良で実行された場合にはなるべく早い段階で警告したい
+
+OSSとして、機能追加を気軽にどんどんできるのが好ましい
+- が、どんどん受け入れると依存関係が大きくなっていき、セットアップの時間や失敗確率などの形でデメリットが出てくる
+- プラグインという形にし、境界を明確にする
+- 色々な機能を追加したい v.s. 使わない人にまでデフォルトでONにしたくない
+    - 使いたい機能をプラグイン単位でON/OFFすべき
+- 設定ファイルがどんどん大きくなって混乱
+    - どのプラグインがどの設定を必要とするのかをコードで記述すべき
+    - 設定不良で実行された場合にはなるべく早い段階でわかりやすく警告したい
+
+2025年12月6日 | 広聴AIの方向性について
+- [https://docs.google.com/document/d/1GRHgFn0J4OGyaBd8lcWPEKmjPr2Kjwl2xpzc_i21AuU/edit?tab=t.0](https://docs.google.com/document/d/1GRHgFn0J4OGyaBd8lcWPEKmjPr2Kjwl2xpzc_i21AuU/edit?tab=t.0)
+2025年12月13日 | 広聴AIの方向性について2
+- [https://docs.google.com/document/d/16GMzidgqtxxdIyUnlEsgiAS5j73bd2iAaSgYMMhoSoM/edit?tab=t.0](https://docs.google.com/document/d/16GMzidgqtxxdIyUnlEsgiAS5j73bd2iAaSgYMMhoSoM/edit?tab=t.0)
+
+
+
+
+入力プラグイン・分析プラグイン・可視化プラグイン
+- ![image](https://gyazo.com/70860ea3e16aeb0b87de0d17ebd32a7b/thumb/1000)
+
+![image](https://gyazo.com/76c20716f55e08cbd198343495ef0b42/thumb/1000)
+![image](https://gyazo.com/d81e48795be0e67f5292b7b4ab61541b/thumb/1000)
+![image](https://gyazo.com/487e10522ea2ab6bdef647af1998fbd3/thumb/1000)
+みためはいいんだけどね
+- 「プラグインはコード上で明確に分かれていて、類似のプラグインを作る人が容易に真似をできるのが好ましい」という要件をAdmin UIまで含めて考えた時に満たしているか？
+- Adminのコードに書き込んでる気がするのでapi以下とadmin以下に分散してるよな
+    - そんなことなかった
+
+---
+プラグインには入力プラグイン、分析プラグイン、可視化プラグインの3通りがある
+- 次は可視化プラグイン
+
+![image](https://gyazo.com/af56999b44a99ee8e1497158086cdabe/thumb/1000)![image](https://gyazo.com/43ddac15c0ab52f89a54eb60512a9832/thumb/1000)
+
+
+どの分析がデータに何を要求していて、何を供給するのか
+- どの可視化がデータに何を要求するのか
+
+---
+Claude Max(x5)なのに
+> Limit reached · resets 7pm (Asia/Tokyo) · /upgrade to Max 20x or turn on /extra-usage
+
+今は「可視化プラグインの選択」を更新する機能を追加したが、未テスト
+
+![image](https://gyazo.com/c64e5a85eb9cf5bba0ab80b32b886781/thumb/1000)
+done
+
+予定していた作業完了
+
+あなたはレビュワーです。refactoringブランチに入ってからの全ての修正に関して、まずpatchなどに出力し、それから頭から順に読んでおかしなところがあればREVIEW.mdに書いて。必要に応じて関連したソースコードを調査することは良いことです。あなたが実装の修正をする必要ありません。全部レビューしたら教えて。そのREVIEW.mdを実装者に渡して修正します。
+
+[https://www.youtube.com/watch?v=ZGHbKWGgH_E](https://www.youtube.com/watch?v=ZGHbKWGgH_E)
+
+
