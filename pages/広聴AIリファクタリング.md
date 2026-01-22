@@ -181,6 +181,10 @@ done
 
 ![image](https://gyazo.com/b2e593600396d75c3259395a2f8677f7/thumb/1000)
 
+2026-01-22
+Azure環境へのデプロイをする
+
+
 [https://www.youtube.com/watch?v=ZGHbKWGgH_E](https://www.youtube.com/watch?v=ZGHbKWGgH_E)
 
 
