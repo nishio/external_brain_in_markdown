@@ -2,7 +2,7 @@
 title: "Kozaneba:社会を人間による計算として考える"
 ---
 
-[[社会を人間による計算として考える]]
+[[社会を人間による計算として考える:ドラフト]]
 - [https://kozaneba.netlify.app/#view=7vXIxwQ3mPmVu5AoLRs6](https://kozaneba.netlify.app/#view=7vXIxwQ3mPmVu5AoLRs6)
 
 締切を少し伸ばしてもらって、ちょうどタイミングよくあった社内勉強会でしゃべる
