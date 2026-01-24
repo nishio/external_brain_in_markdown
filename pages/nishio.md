@@ -32,11 +32,19 @@ script.js
 ---
 
 [[pin-diary-X]]
+script.js.disabled
+
+```
+import "/api/code/nishio/pin-diary-X/min.js"
+```
+
+[[日記ページを作る]]
 script.js
 
 ```javascript
-import "/api/code/nishio/pin-diary-X/min.js"
+ import '/api/code/nishio/日記ページを作る/script.js'
 ```
+
 
 
 

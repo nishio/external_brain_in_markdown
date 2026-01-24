@@ -34,6 +34,8 @@ title: "pin-diary-X"
 - 2022-05-30
     - 未踏ジュニアのScrapboxに作業室テンプレートでページを作成するようにした
     - その後「ピン留めしないようにしたい」という本体部分に手を加えるニーズが出てきたのでこのページではなく[/mitoujr-script/times-dev](https://scrapbox.io/mitoujr-script/times-dev)に移した
+- 2026-01-24
+    - disabledした: [[✅日記をprivate化する]]
 
 script.ts
 
