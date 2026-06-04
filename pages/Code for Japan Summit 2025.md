@@ -8,6 +8,8 @@ title: "Code for Japan Summit 2025"
     - 懇親会：17:45〜19:25
     - 登壇した
         - ![image](https://gyazo.com/ee25a69f842247cd44c4fb36e8fc1741/thumb/1000)
+        - 自分の講演部分: [[デジタル民主主義の川の流れを見る]]
+        - パネルディスカッションはいずれ公開される予定
 - [[国連大学]]
 - イベントページ: [https://luma.com/cfjsummit-2025](https://luma.com/cfjsummit-2025)
 

@@ -2,6 +2,7 @@
 title: "最新のChromeはHTTPSのページでHTTPの画像表示を許さない"
 ---
 
+2021-03-20
 最新のChromeはHTTPSのページでHTTPの画像表示を許さない
 - こういうエラーが出る
     - `Mixed Content: The page at 'https://...' was loaded over HTTPS, but requested an insecure element 'http://...'. This request was automatically upgraded to HTTPS, For more information see` [https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html](https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html)

@@ -12,7 +12,7 @@ title: "shadow government"
 - 2012/10/16
     - 内政部の「実価登錄」公式サイトが公開直後に不安定化。エンジニア有志が実価マップを自作（公開データのクロールと地図可視化）。ここで「公的サービスを市民が並行実装する」発想が芽生える。([ウィキペディア](https://en.wikipedia.org/wiki/G0v_movement))
 - 2012/10/19 前後
-    - 政府の「経済動能推升方案」広告が「複雑だから信じて」型だと物議。これに触発され、[[Yahoo! Open Hack Day 2012]]で4人のハッカーが中央政府総予算の可視化（Budget Maps）を急遽制作・受賞。CL Kaoが “市民による政府サイトのリミックス用ドメイン”として g0v.tw を登録。以後、lvr.land.moi.g0v.tw / budget.g0v.tw など、公式と“1文字違い”の市民版サイトが次々と公開される。これが俗に言う「無断 fork」の始まり。([ウィキペディア](https://en.wikipedia.org/wiki/G0v_movement))
+    - 政府の「経済動能推升方案」広告が「複雑だから信じて」型だと物議。これに触発され、[[Yahoo! Open Hack Day 2012]]で4人のハッカーが中央政府総[[予算の可視化]]（Budget Maps）を急遽制作・受賞。[[CL Kao]]が “市民による政府サイトのリミックス用ドメイン”として g0v.tw を登録。以後、lvr.land.moi.g0v.tw / budget.g0v.tw など、公式と“1文字違い”の市民版サイトが次々と公開される。これが俗に言う「無断 fork」の始まり。([ウィキペディア](https://en.wikipedia.org/wiki/G0v_movement))
 - 2012/12/01
     - 「第零回（Hackath0n）」を開催。以降、隔月の大規模ハッカソンが定着し、「.gov を .g0v に替えれば影の行政サイトに行ける」という文化が広がる。([ウィキペディア](https://en.wikipedia.org/wiki/G0v_movement))
 - 2012/11 〜 2013

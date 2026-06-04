@@ -12,6 +12,7 @@ title: "Scrapbox期"
     - 2007-10 [[はてなダイアリー期]] 2018-03 → [[Scrapbox期]]
     - 2007-04 [[Twitter期]]→2013-02 [[Facebook期]]
 - 2024-09-04 Scrapbox期終了 → [[外部脳期]]
+    - 使わなくなったのではなく[[Scrapbox→Cosense名称変更]]の影響
 
 まとめた: [[Scrapboxとのなれそめ]]
 

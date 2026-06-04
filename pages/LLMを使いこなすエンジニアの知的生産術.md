@@ -2,8 +2,6 @@
 title: "LLMを使いこなすエンジニアの知的生産術"
 ---
 
-[[エンジニアの知的生産術5刷記念イベント]]やります！(6/6)
-
 目次
 - [[LENCHI_前書き]]
     - [[LENCHI_前書き生成過程]]
@@ -40,4 +38,17 @@ title: "LLMを使いこなすエンジニアの知的生産術"
 2024-12-08
 ChatGPT o1 pro modeリリース(12/5)
 
+2025-06-06
+- [[エンジニアの知的生産術5刷記念イベント]]
+
+2026-05-01
+第二部開始
+[https://github.com/nishio/lenchi/blob/main/wiki/overview.md](https://github.com/nishio/lenchi/blob/main/wiki/overview.md)
+- <img src='https://scrapbox.io/api/pages/nishio/KarpathyのLLM Wiki/icon' alt='KarpathyのLLM Wiki.icon' height="19.5"/>
+- > 書籍プロジェクト 「LLMを使いこなすエンジニアの知的生産術」 （略称: LENCHI）。著者は 西尾泰和。2024年4月に着手し、2024年6月の5刷記念講演を経て、2024年12月の Day10 まで進めた後、約17か月の中断期間を経て、2026-05-01 (Day 11) に再起動。並走していた デジタル民主主義 活動が一段落し、関連書籍を別途 2026-09 出版予定。
+- >  本書は、著者の前著 『エンジニアの知的生産術』(2018) を、LLM 時代の視点から問い直す。単なる「LLM 活用ノウハウ本」ではなく、LLM との対話・協働それ自体を本書執筆のプロセスとし、その記録から LLM 時代の新しい知的生産モデル を立ち上げようとする実験である。
+
+
 [[LENCHI_MEMO]]
+[[LENCHI]]
+

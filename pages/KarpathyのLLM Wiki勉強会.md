@@ -1,0 +1,586 @@
+---
+title: "KarpathyのLLM Wiki勉強会"
+---
+
+- イメージ図
+    - ![image](https://gyazo.com/6f567b7bf594538a9f1724f9d97bbf01/thumb/1000)
+- [[サイボウズラボ勉強会]] 2026-05-22
+- [[KarpathyのLLM Wiki]]について話す
+- 今回<img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>アイコンのついているツリーはChatGPT 5.5 Pro、<img src='https://scrapbox.io/api/pages/nishio/KarpathyのLLM Wiki/icon' alt='KarpathyのLLM Wiki.icon' height="19.5"/>/<img src='https://scrapbox.io/api/pages/nishio/Karwi/icon' alt='Karwi.icon' height="19.5"/>がついているアイコンはKarpathyのLLM Wikiが生成しています
+    - 「<img src='https://scrapbox.io/api/pages/nishio/KarpathyのLLM Wiki/icon' alt='KarpathyのLLM Wiki.icon' height="19.5"/>」は、何らかアイコンがないと出力したAIを明示しにくいので適当に生成させたもの
+
+[[KarpathyのLLM Wiki]]
+- <img src='https://scrapbox.io/api/pages/nishio/gpt5/icon' alt='gpt5.icon' height="19.5"/>Karpathy = [[Andrej Karpathy]]（アンドレイ・カルパシー）。現代AI界隈ではかなり影響力のある研究者・教育者です。
+    - 2015年のOpenAI立ち上げ時のメンバー。
+    - 2017年にTeslaへ移り、Autopilotのコンピュータビジョン系AIを率いました。
+    - Stanfordの有名講義 CS231n: Convolutional Neural Networks for Visual Recognition の中心人物でもあり、YouTubeやGitHubでもニューラルネット、LLM、nanoGPTなどをかなりわかりやすく教える人として知られています。
+    - 2024年にEureka Labsを創業: 現在はAI教育プラットフォーム Eureka Labs を作っていて、LLM101nなどの教育コンテンツを展開しています。
+    - 「[[vibe coding]]」という言葉を広めた人でもある
+    - LLM Wiki文脈でのKarpathyは、ざっくり言うと 「チャットを一過性の会話で終わらせず、LLMが読み書きできるMarkdown Wikiとして知識を蓄積する」方向を提案・実践している人 です。
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>この資料を作った後5/20にKarpathyがAnthropicに入社したニュースが流れてきたw
+        - ここで解説する「KarpathyのLLM Wiki」の仕組みは、より一層Claudeとセットで動くようにチューニングされてClaudeの標準機能としてリリースされるかもな
+- 2026-04-03 に [KarpathyがX.comに投稿した「LLM Knowledge Bases」と題する投稿](https://x.com/karpathy/status/2039805659525644595)が大バズり
+    - 2026-04-05に[フォローアップの投稿](https://x.com/karpathy/status/2040470801506541998)で[ブートストラップのGist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)が共有された、このGistが"LLM Wiki"というタイトルなのでこの名前で呼んでいる
+- 理論の新しさよりも、実装負荷の低さ
+    - [[マイナスのデザイン]]
+        - 気をつけないと、どんどんと色々な要素を付け加えてゴテゴテしたシステムになってしまう
+        - [[ボタンが大量についたテレビのリモコン]]
+    - 多くのニーズに対してそんな複雑なシステムは必要なくGist1枚でOKであることを示した
+    - [[RAG]]と言う言葉がバズり出した2023年前半には確かにコンテキスト長が4Kしかなかった(GPT-3.5)ので「色々工夫してなんとか実現するしかない状況」だった。2026年現在は256倍の1Mになってる(Claude Opus 4.7)
+        - この件については以前まとめた: [[ロングコンテキスト時代のベクトル検索型RAGの卒業]]
+        - 歴史的に見れば「リソースが限られている状態で目的を達成するために色々試行錯誤して複雑なノウハウの塊ができるが、リソースが潤沢になったらそれらはほとんど必要なくなり潤沢なリソースでシンプルに処理すれば良い」という頻出パターン
+            - [[富豪的プログラミング]]
+        - もちろん周縁部でこういう工夫の必要なユースケースは残るが「多くのニーズに対して」はシンプルな方法でOK
+    - 以前[[概念マップ勉強会]]で話したGraphRAGの頂点やエッジがとてもリッチになったものとも解釈できる(=Markdownのページとページ間のリンクになった)
+        - GraphRAGに関しては「三つ組」のレベルまで簡素化することが性能を落とすという議論もあり、「グラフ」ってとこまで抽象化しないでリッチな文脈を保ってた方がいいんじゃないのという方向性があった
+            - <img src='https://scrapbox.io/api/pages/nishio/Karwi/icon' alt='Karwi.icon' height="19.5"/>Wu et al., "Memory in the LLM Era" (PVLDB 2026, arXiv:2604.01707) — 10手法の統一比較で 「Mem0g(graph版) より Mem0(非graph版) が上回る場面が多い、情報損失が少ないから」 と報告
+- これを面白いと思っていろいろ試してみている
+    - リリースから1ヶ月、2026-05-07時点で20個以上作ってるのでいろいろ比較して語れそう
+    - (内容を語れないものも多い / ちょっと試してみただけであまり発展していないものもある)
+
+Wikiについて
+- 「Wiki」という言葉にもつイメージが人によって割と異なっていると思う
+    - A: 他人が作ったものを読むイメージ
+        - このイメージの人が一番多いと思う、具体例はWikipedia
+        - コンテンツ文中の単語から他のページへのリンクがある情報表現形態
+        - <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>Wikipedia によって広まった後発のイメージです。Wikipedia はWiki技術の成功例ですが、「Wikiの本来」ではなく、「Wikiを百科事典制作に適用した巨大な派生形」と見る方がよい。
+    - B: チームでの情報共有のために書く場所のイメージ
+        - これはAと違って「自分が書くこと」がイメージに含まれている
+        - だがその書き方はチーム/組織のカルチャーによってまちまち
+            - B-1: Aのスタイルの「リンクの豊富なドキュメントによる知識のネットワーク」を共同生産してるケース
+                - <img src='https://scrapbox.io/api/pages/nishio/gpt5/icon' alt='gpt5.icon' height="19.5"/>(本来の)WikiWikiWeb はソフトウェア設計パターンをめぐるプログラマ共同体の知識形成の場だったので、B-1に近い。
+            - B-2: 「単なる共有のドキュメント置き場」になってるケース
+                - "リンクの豊富なドキュメント"でないただのレポートがフォルダで階層管理されてたりするやつ
+        - 暗黙の前提として「他のチームメンバーに共有するため」という目的が仮定されがち
+    - C: 個人での情報整理のために作るもののイメージ
+        - 本来のWikiから「未完成の知識をページとリンクで育てる」の要素が残り「著者と読者を分けない共同編集の場」の要素が消えたもの
+        - Bと違って「他人に共有するため」が前提ではない
+            - C-1: 非公開で他人に見せないケース
+                - こちらがメイン
+            - C-2: 「[[読んでもよいが、読む必要はない]]」というノリで公開されているケース
+                - Cのごく一部が著者のノリで公開されており、そういうものだけが読者の観測範囲に入る
+                - このCosense「[[西尾泰和の外部脳]]」は基本はC-2のスタンスで公開されている場で、たまにB的に今回のように「他人に共有するため」の講義資料を置いている
+            - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>社員みんなでウィキをメンテする
+                - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>これは根本的な勘違いで、人間はWikiをメンテしない
+                    - Wikiの3パターンの議論で「B: チームでの情報共有のために書く場所」のイメージを引きずると「人間が手で書く」と思いがちだが、本資料の文脈での「メンテ」はLLMの仕事
+                    - 人間がやるのは ingest 指示・対話・file back の判断
+            - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>C1で始めたが、いいところだけをBで公開するのもアリかなと思い始めた
+                - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>選択的公開がやりやすい形にできるといいね
+                    - 将来的には自分のものも部分公開したいが「部分的に公開、他は非公開、それを適切にアップデート」を運用するのが面倒で、今は「自分が見るだけ」に倒している
+- 今回の文脈「KarpathyのLLM Wiki」では、メインフォーカスは「C-1: 非公開で他人に見せない」だ
+    - データのフォーマットが「コンテンツ文中の単語から他のページへのリンクがある情報表現形態」なのでWikiと呼ばれているが、個人的には投稿1の"LLM Knowledge Base"の方が適切な表現で、さらに言えばほとんどの場合で"Personal LLM Knowledge Base"だと思う
+    - Personalなので当然「実物をありのままに」他人に共有することが困難で、公開しやすいものだけ公開され、公開されたものだけを見る人は公開によるバイアスが乗ったものしか観測できない
+    - だからみんな自分で色々なデータで試してみるべきだと思う
+
+作ってみよう
+- 個人的なデータが入ってるものは見せられないし、作るプロセスを紹介した方がいいので新しく作る
+- テーマは適当に決める、ちょうどgpt-realtime-2が周囲で話題になってたのでこれにしてみよう
+- 適当にフォルダを作って、llm-wiki.md を置く。ついでにrawフォルダも作っておく
+- ![image](https://gyazo.com/b39242d40b510719b20d68f2ec87dfa8/thumb/1000)
+- なにかrawに入れよう
+    - 個人的なWikiなら個人的なデータを入れたりする
+        - 今回はそれだとデモできないのでGPT 5.5 Proに解説させてみる
+    - ![image](https://gyazo.com/37cceb611f68ecee8f7e59d755b361d9/thumb/1000)
+    - Markdownでコピーしてrawに置く
+        - ![image](https://gyazo.com/cb727acccee6e716b5ff34d91dcc2e0a/thumb/1000)
+    - Claude Codeに整理してという
+        - ![image](https://gyazo.com/ced2d804a048be2995fd31907ef5beba/thumb/1000)
+            - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>Q: `@llm-wiki.md`って何？
+                - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>VS Codeのclaude code拡張の@記法
+                    - @ でファイル一覧、選んだファイルへのポインタが入る
+                    - 明示的にatで指定したファイルと、暗黙的(VS Codeで開いてるファイル)の両方がコンテキストに入る
+            - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>何か専用のスキルを入れている？
+                - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>専用のスキルは入れていない
+                    - Gistにスキル相当のことが書いてあるのでそれを見てやってもらっている
+                    - なんからのコーディングエージェントがあれば大丈夫、Skillsとかへの入れ方を知らない初心者でも動く
+                    - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>コーディングエージェント何を使っている？
+                        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>Claude Max Pro でやることが多いけどClaude Teams Standard でも動くはず
+                            - Claude CodeとCodexが同じWikiを読み書きしながら動いている
+        - ![image](https://gyazo.com/ce04191d4a624344eb0eddd74f7f498f/thumb/1000)
+            - この提案も面白いけど、まずは一旦Wiki整備に集中することにする
+        - ![image](https://gyazo.com/62b570083f4619f5a168cbf1ad3c4802/thumb/1000)
+            - 今回の目的だと「サーベイ」なので僕の手元にあるデータは少なくネット上にあるデータが多いからWebSearchはやってもらった方がいいね
+        - ![image](https://gyazo.com/94ab497cdcc3be09adc97148d5657679/thumb/1000)
+            - プロトタイプ案も作ってくれるんだ、親切〜
+    - しばらく待つ
+        - ![image](https://gyazo.com/5c152b42ed8a2febc560c36b2f436fb3/thumb/1000)
+        - CLAUDE.md
+            - ![image](https://gyazo.com/ed3e983b664a9b20fc08ed0765ea6276/thumb/1000)
+- データ追加の例
+    - GPT Proで追加でサーベイした想定
+    - ![image](https://gyazo.com/5efb57cc21016612c01f7d377920e31c/thumb/1000)
+    - またrawにおいてingestを指示する
+        - ![image](https://gyazo.com/a07b6747ad7bbf88565e2dce72d362ac/thumb/1000)
+        - ![image](https://gyazo.com/c2603195b66473a92d81bd45aba2b304/thumb/1000)
+        - <img src='https://scrapbox.io/api/pages/nishio/KarpathyのLLM Wiki/icon' alt='KarpathyのLLM Wiki.icon' height="19.5"/>取り込みで見えた論点
+            - thinker-responder(後述) が「速い音声 + 深い思考」の事実上のベスト構成として複数事例で示唆されており、wiki の concept として独立ページに昇格させた
+            - 評価軸が「自然さ」より通話成功率・割り込み回復率・タスク完了率にシフトしている（Genspark / Bluejay / Zillow）
+            - Sokuji の整理(後述)は wiki の comparisons ページに足りていなかった「実装視点」を補ってくれる
+        - thinker-responder
+            - ![image](https://gyazo.com/d2ff02eb82999a94d72b831d7f23f289/thumb/1000)
+        - 質問回答できる
+            - ![image](https://gyazo.com/1016c38f7cba7269e587d40b0c459161/thumb/1000)
+- 新しいアイデアを思いついた想定
+    - 「スマートスピーカーのようなウェイクワード呼びかけでセッションが始まって音声でやりとりできるプロトタイプを作りたかったらどうしたらいいかな？」
+    - ![image](https://gyazo.com/60a0f7dd706986c37e79d7b37b97d723/thumb/1000)
+    - 詳しいことを聞いてくる
+        - ![image](https://gyazo.com/518dbf3d18d4d1ed1b2d9d805ff38b62/thumb/1000)![image](https://gyazo.com/1b943befaf80aace991cb0651383a35e/thumb/1000)![image](https://gyazo.com/c64e14e5761b675d11b4c5775aadef01/thumb/1000)
+    - 設計メモのページができた
+        - ![image](https://gyazo.com/0ed257613074a27fcd8282ede8e8bdaf/thumb/1000)
+    - 見てみる
+        - ![image](https://gyazo.com/069983bf145b796268cc42cbc1aee9d1/thumb/1000)
+            - なるほど〜
+    - 同一内容をGPT Proに投げたもの
+        - [https://chatgpt.com/s/t_6a014f55d58c8191aa26086faaee578a](https://chatgpt.com/s/t_6a014f55d58c8191aa26086faaee578a)
+        - こちらはClaude Codeが途中で挟んできたような「今回は実装したいのか設計ドキュメントを作りたいのか」という質問が挟まらずに大体同程度の時間(7分)走って、疑似コードや設定ファイルが出力されている
+        - これもingestしておけばいい
+        - ![image](https://gyazo.com/f69d30a0d81d50257d587acef8b244cd/thumb/1000)![image](https://gyazo.com/fb3920c65891eacd221c0b4775584800/thumb/1000)
+- すぐにでもプロトタイプ作成に着手できそうだけど、今日は他にすることがあるから一旦ここで保留
+    - 保留している間に関連した記事を見かけたりしたらingestしたらいいし、質問やアイデアが生まれたらClaude Codeに話しかければいい
+- こういうイメージ
+    - ![image](https://gyazo.com/68facfcbbdee7330773daa45bfaf20e2/thumb/1000)
+        - 1: まずスタートがある(今回は「gpt-realtime-2ってのが出たらしいな」)
+        - 2: AIにサーベイさせたり考察させたりして「探索」が行われ、マップが広がっていく
+            - どういうことが可能なのか、どういう部品が必要なのか、の地図ができる
+            - たとえば、部品「ローカルでのウェイクワードエンジン」を実現するには2つ選択肢があり、それぞれどういうメリットがあるか
+        - 3: いつかのタイミングでもっと具体的なゴール「こういうものが作りたい」が生まれてから
+        - 4: 今までの探索範囲の中からそれに関係するものを集めて形にする
+    - もう少し補足
+        - ![image](https://gyazo.com/32264e3c37cb725ba214740678f764ff/thumb/1000)
+        - A: LLM以前、Google以降の時代
+            - 何か知りたいことSがあったらそれで検索してヒットしたものを読む
+            - 複数のドキュメントで共通して書いていることは重要なことだな〜
+            - 前提知識なしでわかるように書かれてないブログ記事があったりする
+                - 初見の時には意味がわからないが、他の記事を読んだあとで意味がわかるようになったりする
+            - このプロセスで個人の中に知識のネットワークが育っていく
+        - B: [[Deep Research]]以降、または検索エンジン以前の時代
+            - 何か知りたいことSがあったらそれでDeep Researchすると整理されたドキュメントが出てくる
+                - (検索エンジン以前の時代は何か知りたいことSがあったら図書館や書店に行ってSに関する「整理されたドキュメント」としての書籍を入手していたので獲得コストを度外視したら似た形)
+            - これを読んで個人の中に知識のネットワークを作ることができるか？
+                - 1回さらっと読んだだけでは知識のネットワークが育たない
+                - 結局、何度もいろいろなものを読んで、重要なものが繰り返し出現することで定着していくのだと思う
+        - LLM Wikiは、この「知識のネットワーク」を人間の外側で作っている
+            - 特にハブ的になっているページや頻繁に更新されるページを繰り返し読むことことは効率良い知識獲得につながりそう
+            - 「人間の中」ではなく「外」にあるので、それをAIが読んで回答することができる
+- <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>人間の中に知識のネットワークができにくくなるのは、まあ大した問題にならない？
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>確かに何かを成し遂げる上で、AIが全部の作業をするのであれば、究極人間の中に知識のネットワークが構築されなくても目的が達成されることはあり得る。
+        - その「目的」が目的であり、「人間の中に知識のネットワークができること」は従来型の目的達成の手段にすぎない
+        - ただし人間の「目的」や「期待」は AI に分からないので、人間が言語化して伝える必要がある。
+        - 人間が目的を言語化して伝えることができていない、そこでAIと対話していくことが目的の言語化の支援になっている
+
+KarpathyのLLM Wikiの3つのアクションの定義
+- Ingest
+- > Ingest. You drop a new source into the raw collection and tell the LLM to process it. An example flow: the LLM reads the source, discusses key takeaways with you, writes a summary page in the wiki, updates the index, updates relevant entity and concept pages across the wiki, and appends an entry to the log. A single source might touch 10-15 wiki pages. Personally I prefer to ingest sources one at a time and stay involved — I read the summaries, check the updates, and guide the LLM on what to emphasize. But you could also batch-ingest many sources at once with less supervision. It's up to you to develop the workflow that fits your style and document it in the schema for future sessions.
+    - > 取り込み。新しいソースを「raw collection」に追加し、LLMに処理を指示します。処理の流れの一例：LLMがソースを読み込み、重要なポイントをユーザーと議論し、Wikiに要約ページを作成し、インデックスを更新し、Wiki内の関連するエンティティや概念のページを更新し、ログにエントリを追加します。1つのソースで、10～15のWikiページに影響を与えることもあります。 個人的には、ソースを1つずつ取り込み、その過程に関与し続けることを好みます。つまり、要約を読み、更新内容を確認し、LLMに対して何を強調すべきかを指示するのです。しかし、監督を最小限に抑えて、多くのソースを一度にバッチ処理することも可能です。自分のスタイルに合ったワークフローを構築し、将来のセッションのためにスキーマに文書化するのは、あなた次第です。
+    - <img src='https://scrapbox.io/api/pages/nishio/KarpathyのLLM Wiki/icon' alt='KarpathyのLLM Wiki.icon' height="19.5"/>1ソースが10〜15ページに触れる という量的記述が重要。単発の要約ではなく既存ネットワークへの編み込み作業であることを示唆している。
+        1. raw/の新ファイルを読む
+        2. 既存wikiページと照合
+        3. 関連ページを更新 or 新規作成
+        4. index.mdを更新
+        5. log.mdに記録
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>僕はオリジナルのものに加えてこう追記してある
+        - > If given file is like `a.txt` rename properly.
+- Query
+- > Query. You ask questions against the wiki. The LLM searches for relevant pages, reads them, and synthesizes an answer with citations. Answers can take different forms depending on the question — a markdown page, a comparison table, a slide deck (Marp), a chart (matplotlib), a canvas. The important insight: good answers can be filed back into the wiki as new pages. A comparison you asked for, an analysis, a connection you discovered — these are valuable and shouldn't disappear into chat history. This way your explorations compound in the knowledge base just like ingested sources do.
+    - > クエリ。ウィキに対して質問を投げかけます。LLMは関連するページを検索し、それらを読み込み、出典を明記した回答を生成します。回答は質問の内容に応じて、マークダウンページ、比較表、スライド資料（Marp）、グラフ（matplotlib）、キャンバスなど、さまざまな形式で出力されます。重要な点は、優れた回答は新しいページとしてウィキに保存できるということです。 あなたが求めた比較、分析、発見した関連性——これらは貴重なものであり、チャットの履歴の中に埋もれてしまうべきではありません。このようにして、取り込まれた情報源と同様に、あなたの探求の成果もナレッジベースに蓄積されていきます。
+    - <img src='https://scrapbox.io/api/pages/nishio/KarpathyのLLM Wiki/icon' alt='KarpathyのLLM Wiki.icon' height="19.5"/>Karpathyの記述では Query の中に filing back が埋め込まれている。回答が「チャット履歴に埋もれて消える」のを防ぐ仕掛け。
+        - 回答が次の回答の文脈になる → 複利効果の中核
+        - 同じ質問を繰り返さなくて済む
+        - 探索 = wiki強化 という正のフィードバックループ
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+        - 質問をして、出てきた回答を見て人間が「それをfile backしといて」というケースだけでなく
+        - 「これはfile backしときましょうか？」とAIの側が言ってくるケース
+        - ひと段落ついた時に僕が「このログにfile backすべき知見はある？」と聞くケース
+            - 特に実装的なやり取りをした後にやる
+            - 「3つあります、1は新規ページの追加で〜、2と3は既存ページの更新です」みたいなことをAIが言う
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+        - これは人間のアナロジーだと[[質問は言語化を促す]]だ
+            - 目的が明確になってからその目的達成のための生成をしているとも言える
+- > Lint. Periodically, ask the LLM to health-check the wiki. Look for: contradictions between pages, stale claims that newer sources have superseded, orphan pages with no inbound links, important concepts mentioned but lacking their own page, missing cross-references, data gaps that could be filled with a web search. The LLM is good at suggesting new questions to investigate and new sources to look for. This keeps the wiki healthy as it grows.
+    - > Lint: ：定期的にLLMにウィキの健全性チェックを依頼しましょう。具体的には、ページ間の矛盾、新しい情報源によって古くなった主張、外部リンクのない孤立ページ、言及されているにもかかわらず専用ページがない重要な概念、欠落している相互参照、ウェブ検索で補えるデータの欠落などを確認します。LLMは、調査すべき新たな質問や探すべき新しい情報源を提案するのが得意です。これにより、ウィキが成長するにつれて健全な状態を維持することができます。
+    - <img src='https://scrapbox.io/api/pages/nishio/KarpathyのLLM Wiki/icon' alt='KarpathyのLLM Wiki.icon' height="19.5"/>
+        - 機械的検出=孤立ページ、壊れたリンク、未登録
+        - 意味的検出=矛盾、stale claim、概念不足の判断、新質問の提案
+        - > The LLM is good at suggesting new questions to investigate and new sources to look for.
+            - → Lintは単なる健全性チェックではなく、wikiの成長方向の提案 までやる。
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>AIが自動的に呼び出してることもある
+        - Wiki横断で「しばらくLintをやってないものを発見する仕組み」を作って、寝る前に実行するつもりだったが、予想よりも自動的に整えられていることが多い
+- <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>file backは必須？
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>必須かというと必須ではないが、AI要約をするときに個人的コンテキストを入れて要約した方が入れないで要約するより個人にとって有用なものが得られるのと同じ意味で「やった方がいい」と思う
+    - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>自分のために使うなら、読んだ結果のフィードバックをしない理由はない
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>そこは同意なのだけど「フィードバック(感想)」と「File back(操作)」の話が混ざって混乱が起きそう
+            - 「フィードバック」は「AIの出力に対する感想」のこと
+            - 「[[File back]]」(ログから知見を抽出して恒久化する操作) とは別物
+            - フィードバックしている
+                - 僕はAIが面白い出力を返してきたときには「面白いね」と言ってるし、イマイチだなと思ったら「イマイチだな」って言ってる
+                - イマイチだなと言ってから事後的に「どうイマイチか」が言語化される
+                - AIが代案を出してきたりして「お、それの方がいいね」となったりする
+                - こういう情報こそ言語化された情報ソースにない重要な情報なので積極的に入れる必要がある
+- <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>グループウェアのコメントを片っ端から突っ込んだらいい感じになるか?
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>いい感じにならないと思う
+        - 目的が定義されてないと評価できない、「要約」以上のものにならない
+        - フロー情報を全部突っ込むスタイルでやると早く限界に到達する
+            - 大前提としてindex.mdに全ページのサマリーを置くので、雑多なものが多すぎるとキャパが圧迫される
+            - CLAUDE.mdに雑な物が大量に突っ込まれている状態と同型で良くない
+            - この問題を解決するためにAgent Skillsが生まれてきた歴史を無視している
+        - 対策案
+            - 目的を絞る (例「XXXを改善するための議論だけ入れる」)
+            - グループウェアのログに対する横断検索をエージェント自体にさせて、目的に関連したものを集約する
+    - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>データを一方向で取るのではなく、グループウェアとAIで合体したシステムにして、流通のサイクルを作りたい(=これを「フィードバック」と呼ぶ)
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>同感だが、長期的な目標。最初の一歩は人間側の利用から
+
+共通する運用方針: 「事前にやろうとしない」
+- <img src='https://scrapbox.io/api/pages/nishio/Karwi/icon' alt='Karwi.icon' height="19.5"/>Ingest/Query/Lintを実際に回す中で気づくのは、多くの運用判断が「事前計画/事前検証/事前判別を放棄する」で揃うこと。
+_
+| 局面 | 「事前にやる」発想 | 実運用 |
+| -- | -- | -- |
+| ingest検証 | 更新10〜15ページを毎回チェック | しない。間違いに気づいたら一括修正 |
+| Wiki配分 | どのWikiに入れるか最初に決める | 迷ったら両方。rawがimmutable |
+| 凍結判別 | 短命/長命を最初に見分ける | 思いつかなくなったら自然停止 |
+| kabuwake | 実装系/研究系を最初から別Wiki | 育ってから「目的の言語化」で分ける |
+- 成立条件は事後修正コストの低さ = [[LLMによるcost inversion]]の帰結。
+- 事前計画/検証/判別のコストは下がっていないので、放棄が合理的になる。
+- 猫Wikiの「rawに入れさえすれば後で構造化される」も同じ原理。
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>例えば
+    - ingestで10〜15ページが更新されるが、それを毎回チェックはしない
+        - 間違いに気付いたタイミングで指摘すれば、AIが10〜15ページをガリガリ修正してくれる
+    - どのwikiに入れるか最初に決める必要はない、迷ったら両方に入れたらいい
+        - それぞれのWikiで目的や文脈が異なることによって、異なる側面が切り出されて発展していく
+        - どっちのWikiにとっても有益なので両方したらいい
+
+体験談
+- 家計Wiki: 「必要な情報」が後から分かる
+- 猫Wiki: 高速膨大な情報インプットから心を守る
+- [[dd2030-wiki]]での具体例: 経緯を思い出す
+- LLM Wiki自体のLLM Wiki: 研究目的のWikiとプロジェクト目的のWikiの区別
+- 中にコードリポジトリを持つパターン
+
+
+家計Wiki
+- LLM Wiki以前から確定申告を手伝わせるつもりでClaude Codeに色々な詳細データを与えていた
+    - ソフトウェアプロジェクトみたいにフォルダを作ってCLAUDE.mdとデータを置いて処理
+- 確定申告とは違うけど友達がGPTの指示の通りに株取引したら自分より儲けるって言ってて興味を持ったので自分の資産を分析させたかった
+- これをLLM Wiki化した。初期の3〜4個のうちの一つ
+- 「必要な情報が後からわかる」
+    - 「他に必要なデータある？」とLLM Wikiに聞くことで何が必要なデータかわかる
+    - 人間は事前に「適切な判断に必要なコンテキスト情報」を特定して全部渡すことが難しい
+    - 具体例「家族構成は？年齢は？」
+        - 確かにそれを把握しないで将来の計画ができるわけがないね
+    - 具体例「保険金の支払いがあるが、この保険契約の内容は？」
+        - 即答できない
+        - 保険証書を出してきて概要を読ませたら解約返戻金テーブルも見せてと言われた、解約した方が良い可能性を検討されてる！
+    - 具体例「年金ねっとの情報を見て」
+        - 言われるまで思いつかなかったが「株式と債券のバランス」という文脈において年金は強い債券的性質を持っている
+            - 年金額が利息になるような債券とみなせる
+        - もらえるのかどうかは疑問だけどもw
+            - <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>
+                - 年金をまったくもらえない確率はかなり低い。私の見立てでは 1〜5%未満。
+                - 一方で、今の高齢者や現在の制度説明から期待する水準より、実質的・相対的に少なく感じる確率は高い。70〜90%程度。
+                - 財政検証の低成長側では、国民年金の積立金が2059年度に尽き、完全な賦課方式へ移行するケースも示されています。その場合でも、保険料と国庫負担で賄える給付水準は所得代替率37〜33%程度、機械的調整を続けた場合は2059年度時点で50.1%、さらに調整した場合45.3%という記述になっています。
+            - こういう情報を与えて参考にさせることができる
+
+
+猫Wiki
+- 「高速膨大な情報インプットから心を守る」
+- 2026-04-27に緊急入院して毎日血液検査をしてる猫の情報を整理
+    - 多い時には1日2〜3枚の血液検査結果のデータと、医師の話、GPT Proによる各種の概念の解説
+- まず初日に検査データをGPT Proに与えて解説させたが、未知概念が急激に増えるので人力での整理の速度が追いつかない
+    - 追いつかないまま翌日にはまた新しい検査結果がくる
+    - 「[[知識は恐怖の解毒剤]]」
+        - 状況を理解できないのは強いストレス
+    - 2026-04-30
+        - > 毎日20個も数字が書かれた検査データの紙をもらう上に今日は元々の病院の1枚に加えて大学病院でも2枚もらった(し多分明日以降2枚ずつ来る)
+        - > 先生の解説やデータの読み方は人間(僕)が手動で整理してたんだけど、妻が状況を把握して安心したり、先生の話を聞いて理解しやすいようにまとめることまで射程に入れるともうキャパオーバーなので、ここでLLM Wikiを使えばいいのではないかという気持ちになっている
+        - このとき緊急入院から4日目
+        - 14個目のLLM Wikiを作った
+- [[KarpathyのLLM Wiki]]によるタイムラインまとめからの<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>の要約
+    - 2026-04-27(月) 朝9時 — かかりつけ病院
+        - 朝にかけてたくさん嘔吐
+        - 来院 → 輸液を投与
+    - 2026-04-27(月) 17時 — 容態悪化、紹介
+        - 嘔吐が止まらない(1時間に1回ペース) / よだれが止まらない
+        - 別の病院に移送
+        - 低カリウム血症、急性腎不全の可能性
+    - 2026-04-28(火) 血液検査(2回目)— 「何らかの炎症」の判断
+        - 急性腎不全というほどではないがなんらか他の臓器に炎症がありそう
+    - 2026-04-28(火) 画像検査— 膵炎判明
+        - 膵臓の腫れ → 急性膵炎
+    - 2026-04-29(水) 13時
+        - 抗炎症薬が膵炎に効かない
+        - 別途ビリルビン値が上昇、肝臓・胆管の問題の可能性
+        - 16時なら大学病院が受け入れ可能とのこと
+    - 2026-04-29(水) 大学病院 — 入院後のエコー所見
+        - 心肥大が見られる
+        - 腹腔内の脂肪の炎症(膵周囲脂肪の炎症と推定)— 中等症以上の膵炎で見られる所見
+        - 胸水(胸腔内に液体貯留)
+    - ~2026-05-02
+        - 腎臓は安定
+        - fPL上限越え: 膵炎を強く支持
+        - 改善: SAA 136.9 → 68.7、WBC 217 → 209.9 → 全身炎症は下がってきている
+        - 悪化(肝胆道系): 総ビリルビン 2.5 → 5.3、ALP 157 → 334(いずれも大きく悪化)
+        - 血糖と貧血がで始める
+        - 医師所見
+            - 肝臓に肥満細胞腫(MCT)がありそう
+            - 胆管が太くなっている
+        - ステロイドの点滴で肥満細胞腫と炎症を抑える
+    - ~2026-05-04
+        - 「全身炎症・腎臓・電解質はかなり改善してきたが、胆汁うっ滞/黄疸だけがまだ進んでいる」という結果
+        - 治療が効いている部分(SAA・K・腎数値・血糖・Alb・Hct・嘔吐)と、まだ効いていない/遅れて悪化している部分(T-Bil・ALP・fPL高値)が分かれる
+    - 2026-05-05
+        - 大幅改善(肝胆道系) :
+            - 総ビリルビン 7.6 → 1.5(劇的に低下) — 黄疸の山を越え始めた
+            - ALP 450 → 148(同じく大幅低下)→ 完全な胆管閉塞が進行し続けるシナリオは大きく弱まった
+        - 貧血は進行している
+        - 自力での摂食がみられる
+    - ~2026-05-07
+        - fPL(膵炎の指標)が計測範囲内に戻り始める
+    - 2026-05-10
+        - 退院
+- 感想
+    - 序盤(急性腎不全~急性膵炎)がやばい
+        - 猫が明日にも死ぬかもしれない状況で、何が起きてるのかを理解するために未知の用語が数十個出現する
+        - 時間と精神の余裕があるならGPT Proに聞けば説明はしてくれるが、情報量の多さを精神が受け止めきれない
+        - 4日の血液検査の結果を1日分ずつGPT Proが解説した、これを個別に人間が読むのではなくLLM Wikiが読んで「どのようなことが起きているか、それを示しているのはこの値で、時系列ではこう変化している」のように再構成して示してくれる。人間にとっての飲み込みやすさが違う。
+            - (ログ取りに気を回す余裕がなくてgit管理してなかったから初期に自分が見ていたものを復元できない)
+            - ![image](https://gyazo.com/beab364975a5e740d79382d21c7b9923/thumb/1000)
+    - 長期的視点
+        - ChatGPT 5.5 Proのコンテキスト長さがいくら長くても、初期に書いた情報を覚え続けてくれるか信用できない
+            - Claude Codeみたいにコンテキストが埋まって自動でcompactionがかかって、昔のことはぼんやりとしか覚えてない状態になるのではという不安感がある
+        - それに対してこちらはrawファイルは一切いじられることなく手元のファイルシステムにあるので「何も消えない」という安心感がある
+            - GitHubにpushするなりDropboxの中に置くなり任意のバックアップ方法でバックアップすればいい
+        - 特に異なる日にちょっとずつ足していったデータが時系列で整理されてるのが振り返るのにとても良い
+            - ![image](https://gyazo.com/ee066e5b8a1fc7136c68b232bde4991f/thumb/1000)
+            - fPLとは何をはかってるのか、どういう病気を見るためのものなのか、どう値が変化したかetc.
+
+
+[[dd2030-wiki]]での具体例: 経緯を思い出す
+- プロジェクトの過去の経緯をみんな忘れている状態で、AIを過去ログにアクセス可能にして[[Agentic Retrieval]]させる
+- 出来事
+    - 昨年11月ごろに「新規参加者向けの解説ページが必要では」という話題になる
+    - 2025-11-22— NISHIO さんが Slack#コミュニティ運営で「GPT-5.1 に新規参加者向け解説を作らせた」と投稿
+    - その後Aさんがこの内容をWebページに追加するPRを作成、Bさんがマージ
+    - 2025-12-02— C さんが deno lume への大規模リニューアルでパス修正
+    - 2026年5月に「このページってなんだっけ？」「最新の情報に追従してない」と話題になった
+        - 僕もBさんもCさんも「なんだっけ？」となった
+    - SlackログとGitHubの両方を読めるLLM Wikiに質問したら上記のような経緯ですよと教えてくれた
+- 考察
+    - こういう「目立った名前のついているプロジェクト」の隙間のタスクが複数人の手によってちょっとずつ進んだようなケースでは、議事録に全体像が残らないので半年後に由来がわからなくなりがち
+        - 僕はGitHubを軽く調査して「12/1ぐらいにCさんがやったと思う」と思ったのだが結果的にそれは間違いだった
+    - これは「すべてのデータをインデクシングする必要はない、AI Agentにrawデータを検索する手段があればいい」の実例
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>Q: これをどうやって突き止めたのかのプロセスの解説が欲しい
+    - <img src='https://scrapbox.io/api/pages/nishio/KarpathyのLLM Wiki/icon' alt='KarpathyのLLM Wiki.icon' height="19.5"/>
+        - 2つのソースがある:
+            - /tmp/oss_weekly_reporter/data/ — Slack/GitHubの週次アーカイブ（要約あり）
+            - GitHubリポジトリ本体 — コミット履歴の真実
+        - まずアーカイブ側で議論の文脈を、後でリポジトリ側でコミット事実を確認する2段構えにした。
+        - 議論の発生時期を絞る
+            - 「12/1ぐらい」を信じすぎず、前後（11月後半〜12月前半）の週をまとめてgrep
+            - → ヒットしたのは 11月19-26週。これで「12/1」の記憶は1〜2週ずれていることが判明。
+        - ヒットしたファイル github_report-website.md を文脈付きで読むと、`Issue #180` が見つかった:
+            - 起票者: Bさん（Cさんではない）
+            - 起票日: 2025-11-22
+            - 内容: 「NISHIOさんがGPT-5.1で生成した文章をそのままサイトに載せるのはどうか」
+            - この時点で「CさんがAI生成した」という仮説は崩れた。
+        - コミット履歴で裏取り
+            - 議論だけでは「実際に誰がページを作ったか」は不明。リポジトリをcloneして git log:
+                - →初出はBさん、Cさんは後の構造リニューアル時の運搬役と確定
+        - 内容の同一性確認
+            - 初出コミットの中身が「NISHIOさんがGPT-5.1で生成した文章」と一致するかを git show d686234 -- markdown/newcomer.md で目視確認
+
+
+LLM Wiki自体のLLM Wiki
+- LLW Wikiを知ったとき、まずGrokでKarpathyの投稿に対する反応をかき集めてLLMにingestさせた
+    - その後LLM Wiki自体の体験談や関連しそうな論文サーベイなどをなんでも突っ込んでいった
+    - だいぶ大きくなってきた中で、別のWikiに「株分け」したくなった
+- 研究(サーベイ)目的のWikiとプロジェクト目的のWikiの区別
+    - 体系化された知識ネットワーク自体が目的であるケース
+        - 整合性のある大きなネットワークが目的
+        - ChatGPT Proなどでのサーベイからのingestが多い
+        - 人間が哲学的な質問をしてAIが回答してfile back
+    - なんらかの目的(ソフトウェア開発etc)があるケース
+        - 知識ネットワークの拡大が主目的ではなく、例えば実装などが目的
+        - その過程で経験したトラブルや試行錯誤などの知識を保存したい
+        - 作業から得られた具体的知識をfile back
+- 前者はどんどん抽象的になっていく
+    - 抽象的な知識の方が広い範囲に応用しやすい(=違う知識と結合しやすい)のでWikiの中心的ページになっていく
+- 後者は具体のレイヤーに接続する必要がある
+- ![image](https://gyazo.com/29c3e4fa3acb342d44a566345ce5eaad/thumb/1000)
+    - from [[根無し草の知識]]
+- ![image](https://gyazo.com/1b407815bfa704fcfa4154739f7ab42e/thumb/1000)
+    - [[畑村洋太郎]] [[技術の創造と設計]] p.207
+- 1: サーベイのWikiから具体的なプロジェクトを明示して「関連しそうなページをコピーして」と言えばOK
+- 2: 最初にやった時は(1)のやり方をしたが、のちに逆の方が良いのではと思った
+- <img src='https://scrapbox.io/api/pages/nishio/Karwi/icon' alt='Karwi.icon' height="19.5"/>
+    - (1) 最初のやり方 = page-source kabuwake（5/06 ケース, LLM-Wikiから[[注釈駆動Wiki]]開発プロジェクトへの[[株分け]]）
+        - 親wiki（サーベイ）内で「関連しそうな既存wikiページをコピー」
+        - 112ページ → 21ページを Tier 別に厳密選別
+        - broken wikilink 51件発生
+    - (2) 逆のやり方 = raw-source kabuwake（5/15 ケース, 別WikiからLLM-Wikiの資料の[[吸い取り]]）
+        - 「既存wikiページは1ページもコピーせず」、raw/ の原資料だけを新wikiに複製
+        - 新wikiは raw を自分の文脈でingest し直す
+        - broken wikilink は構造上0件
+- Wiki AからWiki Bにコピーする場合に
+    - Wiki Aに短い文章でWiki Bのことを伝える(1)よりも
+    - 自分のプロジェクトの目的などを詳細に知ってるWiki BがWiki Aのナビゲーションを使って自分に関係する資料を取ってくる(2)の方が良さそう
+- 相互にお互いのWikiのことを知っているのでfile backする時に「あっちに書こうか？」という問いかけが発生することもある
+    - 複数のWiki間の連携は面白さを感じるが、まだ良い方法が固まってはいない
+    - 各フォルダにllm-wiki.mdがあるのを利用してClaude CodeにfindさせてWiki一覧は作ってある
+- (追記)AI自身がingest停止を判断したエピソード
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>LLM Wikiを知ったときにまず[[Grok]]でKarpathyの投稿に対する反応をかき集めてingestした
+        - Gistの1000件超のコメントやX上のリプライ・リツイートが膨大
+    - 1週間後、2週間後にも追加で外部サーベイをingest
+        - <img src='https://scrapbox.io/api/pages/nishio/KarpathyのLLM Wiki/icon' alt='KarpathyのLLM Wiki.icon' height="19.5"/>「あんまり新規の情報が増えないから外サーベイはもう要らない、あなた個人の実験からの知見の方がウェイトが大きい」
+    - → それ以降はAIの自己評価に従って外部サーベイのingestを停止している
+- (追記)「(2) raw-source kabuwake」の方が良い理由「会場メタファー」
+    - Wiki AにWiki Bのことを短い文章で伝えるのは、人間がうまく言語化できないことが多い
+    - すでに活動しているWiki Bの方が「自分に何が必要か」をよく理解している
+    - Wiki BにWiki Aのナビゲーションを使わせて、自分に関連する資料を取りに行かせる方が良い
+        - 「うちの本棚を見て気になった本持っていきなよ」というスタイル
+            - おすすめの本をこっちが勝手に決めて送りつけるんではなく
+- (追記) 株分け後の[[書き戻し]]
+    - 具体的なソフトウェア開発wikiで得た知見が汎用的に有用な場合、AI側から「研究wikiの方に書き戻しましょうか」と提案してくる
+        - 「やっといて」で書き戻される
+    - 複数wiki間の連携は面白さを感じているが、まだベストプラクティスは固まっていない
+- (追記)LLM Wiki = ペルソナという捉え方
+    - 勉強会会場での議論
+        - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>LLM Wikiは『ファイルの集合』であって、能動性がないと捉えている。「もう一人のLLM Wikiが読む」のニュアンスがわからない
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>僕の中ではLLM Wikiの知識を持ったエージェントがそこにいる、というメタファー
+            - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>「弁護士が六法全書を片手に抱えている」イメージ？
+            - <img src='https://scrapbox.io/api/pages/nishio/human/icon' alt='human.icon' height="19.5"/>「スーファミにソフトのカートリッジが刺さっている」イメージ
+                - ソフトのカートリッジが刺さったスーファミが家に何体もあり、しかも平行で立っていて、それぞれが違うことをしている
+                - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>今の瞬間、デスクトップにVS Codeが11個開いていて、それぞれ違うプロジェクトの別のことを考えている
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>「クロードコード君1人」ではなく、wikiごとに別人という認識
+            - 情報を共有していない別プロセスとして走っているクロードコードは、別個体と認識している
+            - 広聴AI開発wikiでは4インスタンスを並列で立ち上げて並列実装していることもある
+                - 開始時点まで共通の知識を持っていた人格が4つに分身して作業をしている
+                    - コンテキストの中身は共有していない=記憶は共有していない
+                    - 学んだことを日記(=wiki)に書いて終了する
+                    - 明日のインスタンスは今日の4インスタンスの活動の記憶を持って開始する
+
+
+
+中にコードリポジトリを持つパターン
+- いくつかのWikiで新規開発をしていた
+- [[dd2030-wiki]]での「リポジトリをrawの中にcloneして分析させた」経験から、既存のソフトウェアの開発でも開発対象のソースコードをWikiの参照対象すればいいじゃないかと考える
+- ![image](https://gyazo.com/27423bbb1fd5b1d040d54bcb525b817a/thumb/1000)
+    - 仕組みの解説: [https://nishio.github.io/kouchou-ai-developer-wiki/concepts/wiki-driven-workflow/](https://nishio.github.io/kouchou-ai-developer-wiki/concepts/wiki-driven-workflow/)
+- 下記「Coding Agentの歴史の振り返り」のもっと簡潔なイメージ図
+    - ![image](https://gyazo.com/6f567b7bf594538a9f1724f9d97bbf01/thumb/1000)
+- Coding Agentの歴史の振り返り
+    - ![image](https://gyazo.com/78d55ef4a3fac2f662ef8079a5c94527/thumb/1000)
+    - 1: コンテキストサイズが小さく、短いコンテキストでの補完などしかできなかった時代
+        - 2021年6月: GitHub Copilot technical preview
+    - 2: コンテキストサイズが大きくなったので対話的に実行可能になったが、[[Needle in a Haystack]]性能が高くなくてコンテキストが増えると方向を見失って混乱し始める時代
+        - 2023年5月: Claude が 100K context window を発表
+        - 2023年6月: [[Lost in the Middle]]、迷子になるよね問題
+    - 3: コンテキストを使い切るレベルまで有用な性能を保ち続けられるようになった時代
+        - コンテキストを使い切って急に作業中断されると困るのでコンテキストのコンパクションが行われるようになった
+            - が、実感としてコンパクションすると過去の記憶がぼんやりして混乱しがち
+        - 2024年3月: Claude 3 "Long context and near-perfect recall"
+            - [Introducing the next generation of Claude \ Anthropic](https://www.anthropic.com/news/claude-3-family)
+            - 2024年3月: [[Devin]]
+                - Cognition は Devin を “first AI software engineer” として発表
+                - 「10ACUを超えると失敗しがちなのでそこまでいかないコンパクトなタスクをやらせるのがおすすめ」
+                    - 関連: [[Devinで4万溶かす方法]]
+        - 2025-04-02 Claude Code “Automatic conversation compaction for infinite conversation length” が[追加](https://code.claude.com/docs/en/changelog)
+    - 4: コンテキストの外に知識を外部化する流れ
+        - あるスレッドで得た知識を他のスレッドに渡せるように / コンパクション後に迷子にならないように
+        - 2024年5月: Devin Knowledge
+            - <img src='https://scrapbox.io/api/pages/nishio/gpt5/icon' alt='gpt5.icon' height="19.5"/>[Devin の release notes](https://docs.devin.ai/release-notes/2024) では、2024年5月29日に Knowledge 機能が追加されています。Knowledge は、tips、instructions、organizational context を蓄積し、Devin が関連する知識を自動的に思い出せる仕組みとして説明されています。
+                - 2024年9月：Devin Knowledge Suggestions。
+                    - 作業中のフィードバックから、将来役立つ Knowledge を Devin が提案するようになった。これは、実装中に得られた知見を永続記憶へ変換する方向。
+            - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>この分野の先駆けだったと思うが、Devinが高価であったので体験した人は少なく、あまり言及されてない。広く普及したのはこの「システムでのサポート」ではなく下記の「運用での対処」
+        - 2024年10月ごろ: まず計画をPLAN.mdに書かせる運用
+            - <img src='https://scrapbox.io/api/pages/nishio/gpt5/icon' alt='gpt5.icon' height="19.5"/>[2024年10月24日の Cursor 利用記事](https://kvz.io/blog/2024-10-24-cursor)では、Cursor にまず PLAN.md を書かせ、よく反復してから、その後のプロンプトで @PLAN.md を参照させ続ける運用が説明されています。
+            - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>手軽なハウツーとして広く普及することになった
+                - ただし「最初に書いた計画」はしばしば作業中に発見した知識によって陳腐化される
+                - そのままだと「当初の計画」と「直近の学び」が矛盾して混乱し始める
+                - 適宜計画のアップデートをする必要がある
+    - 5: 手続き的知識の外部化・提案と検索の仕組みの発展
+        - DevinのKnowledgeから1年経って、2025年10月 Anthropic が Agent Skills を発表する
+            - [Introducing Agent Skills | Claude](https://claude.com/blog/skills) / [Agent Skills Overview - Agent Skills](https://agentskills.io/home)
+            - <img src='https://scrapbox.io/api/pages/nishio/gpt5/icon' alt='gpt5.icon' height="19.5"/>Skills は SKILL.md を中心に、instructions、scripts、resources をまとめる仕組みで、必要時にだけ load される。
+            - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> 人間が読めるMarkdownをindexに使って、[[Agentic Retrieval]]で状況に適したコンテンツを発見してロードする仕組み
+                - Devinがサービスとして実現してブラックボックスにしていたものを、オープンなデータの持ち方のスタンダードと、それを想定したLLMのトレーニングで吸収してしまうアプローチ
+                - ![image](https://gyazo.com/4ea6b86fecea4acd91bd90b1aac43641/thumb/1000)
+                - 大人気になったiPhoneアプリを見てからApple公式が同等機能をシステムにより連携する形で作り直して公式リリースしちゃう系の戦略だよね
+                    - プラットフォーマーの強みだと思う
+    - 6: 同じ変化の水平移動
+        - LLM Wikiはこの「Markdownをindexに使って、[[Agentic Retrieval]]で状況に適したコンテンツを発見」というメカニズムをスキル(=howの知識)に限定しないで広く使う発想と言える
+            - ![image](https://gyazo.com/84d4c3415d65d1e22fff51cf1fda37a2/thumb/1000)
+                - why / what / how
+                - SKILLSはhowにフォーカスが当たりがちだったが、whatやwhyも扱うことができる
+                - PLAN.mdは元々「細かいhowをやってる間に『そもそも何を作ろうとしているのか』(=what)を忘れないようにしよう」というアプローチだったとも言える
+            - 「CLAUDE.mdに全部のノウハウを書くのではなくSKILLS.mdをindexとして個別の知識に振る」という構造を、PLAN.mdに応用したものが可能なはず
+- というわけでようやくやったことの話に戻る
+    - ![image](https://gyazo.com/27423bbb1fd5b1d040d54bcb525b817a/thumb/1000)
+    - workの下にソースコードのリポジトリがあり、rawの中に過去の議事録やSlackのログがあり、wikiの中に両方から抽出されたより抽象度の高いwhyやwhatがある
+    - 今週は2026-05-15にリリースされた[[Codex Mobile]]でこれを叩きまくることをしていて、快適にたくさん溜まっていたPRを処理して、懸案だったでかいリファクタリングを完了することができた
+        - Codexが賢いのか、「LLM Wikiと合体したこと」が良いのかは切り分けられていないw
+        - 実装中に何かが発覚した時に「今は対処しない、Wikiに書いといて」ができるのは楽
+    - 肌感はとてもいい
+        - 本業が忙しくないときに隙間時間で時々進めてるOSSプロジェクトは、記憶が飛んで「どうしてこうなってるんだっけ」「何をしてたんだっけ」となるのが大きな問題。
+        - Wikiは人間の代わりに知識をストックしてくれる
+            - rawデータの[[Agentic Retrieval]]を繋いでいるので気になったことを聞いたら検索して答えてくれる(dd2030-wikiの事例と同様)
+            - 答えてくれたものをWikiにfile backすることでだんだん有機的な知識のネットワークが育っていく
+                - =「開発者が疑問に思うこと」に対する解説が溜まっていく
+        - こんな感じのイメージ
+            - ![image](https://gyazo.com/3dbf710adc203aab3fc5b6d3557fe571/thumb/1000)
+            - ソースコードに具体的な実行のhowが書かれているが、[[何を作るか]]、なぜ作るのか、は人間とのコミュニケーションのデータにありがち
+                - SlackやGitHubでやりとりして満足して議事録に転記し忘れがち
+                - 議事録に転記したところで毎週1枚追加されていくので流れ去りがち
+            - 昔から「コミットログにwhyを書け」とか「コメントにwhyを書け」とか「ちゃんとドキュメントを書け」と言われてきた
+                - それが理想なことはみんなわかってるけど結局みんなできてない
+                - 書いたところでそれらの記述断片が整合性を持っているか検証されない
+                    - N箇所に書かれていて、1箇所だけ更新して残りを更新し忘れ、不整合になりがち
+                    - LLM Wikiは人間が編集するものではないので、何かを更新する指示をしたら関連箇所をまとめて更新する
+                        - もちろんこれが網羅できてる保証はないわけだが、人間よりはだいぶマシだと思う
+
+2026-05-22のLLM Wiki
+- ![image](https://gyazo.com/f757e335abb1ecfa26dd9c8590509390/thumb/1000)
+
+
+25件のWikiの集計(2026-05-21)
+- 有用な目的で日々使っているものの中で一番多いのは188ページ(llm-wiki)
+    - 次が100ページ
+    - 「改善しなくて大丈夫かな？」と不安には思ってるが「大丈夫じゃないな」と思う現象はまだ経験してない
+        - 約 12K tokens = Opus 4.7 の 1.2% (深刻でない)
+            - Gemma 4 等ローカル LLM では超過確定 (8-32K context に対し 38-150%)
+            - 人間の可読性を捨ててAI用に書き換えることで 1/8 に圧縮可能 (~1.5K tokens)
+- 実験的にTwitterのブックマーク/投稿を流し込んだやつが232と349
+    - これはそもそも「流し込んで何をするのか」を決めてなかったので、できなくなったかどうかもわからんな
+    - 独立してブックマークしてたTweetの間の関連を見出したりしてきて面白い
+- TOTAL (25 wikis)   1647 page 7953+6613 links
+    - link密度 top:
+        - llm-wiki(3413/188=18.2/page)
+        - blindspot(1414/43=32.9/page) — blindspotがpage当たりリンク数で実は最強
+            - [[盲点カード]]のシリーズが密度高い、なるほど
+            - もともとWiki上でリンクし合ってるからな
+- raw 1 pageあたりのwiki pageは平均1、上記188ページのやつは2
+    - 0.05から349まである、コア部分は1〜5
+    - GitHubからcloneしたソースコードがあるようなケースで < 1 になる
+    - CosenseのExport for AIなどから作られているものは1つのファイルからたくさんの概念が切り出されるので > 1になる
+    - 平均を計算してもあんまり意味ないなw
+
+20件の観察から
+- 2026-05-10に<img src='https://scrapbox.io/api/pages/nishio/Karwi/icon' alt='Karwi.icon' height="19.5"/>自身にこれまでの20件のWikiでの活動ログを見てnishioが何か新しいことに気づいてそうなところを抽出させた
+- <img src='https://scrapbox.io/api/pages/nishio/KarpathyのLLM Wiki/icon' alt='KarpathyのLLM Wiki.icon' height="19.5"/>実験を通じて nishio のメンタルモデルが更新された箇所
+    - 気づき1:
+        - 事前は「LLM Wiki は継続的に育てるもの」というイメージがあったが、実測すると 対象が固定/有限なwikiは1日で立ち上げて凍結するのが自然 だった。これらは「途中で飽きた」のではなく「対象が有限で網羅完了した」もの
+    - 気づき2: 個人系の wiki は予想以上に育つ
+        - 個人系の wiki はいずれも raw データが小さいのに wiki が膨らんだ。個人データそのものは少量でも、一般知識との接続点が多数生まれる（[[個人的データを土台にして一般的な専門知識が再構築・再配置される]] の実証）。
+        - これは「LLM Wikiが最も価値を出すのは個人系」という仮説を強く裏付けた。
+        - 事前は「組織系・書籍系の方が大規模なデータを扱えるので有利」と思っていたが、逆転した。
+    - 気づき3:
+        - 2026-04-20 に4件、2026-05-02 に3件の量産日がある。当初は「外部刺激（記事・投稿・締切）が偶然集中した」と思っていたが、ingest対象を見ると 対象がバラバラ（書籍/組織/思想/設計）。つまり外部要因ではなく 自分側のメンタルエネルギーや「思いつきの収束」が同期している。これは「LLM Wikiを作るコスト」が十分下がったため、思考がある臨界を超えると複数を同時に立ち上げる行動が出る、という仮説を生む。
+    - 気づき4: [[kabuwake]] は「育った結果」、計画的分割ではない
+        - annotation-wiki への kabuwakeは、事前計画で分けたのではなく 本wikiが膨らんで「実装フェーズの議論が研究wikiを汚染し始めた」結果として 発生した。
+        - これは事前は「最初から実装wikiを別に作る」発想で対応しようとしていたが、実際は 「育ってから分ける」方が、何を分けるべきかが明確になる（**ishoku** のYAGNI性と同型）。
+    - 気づき5: wiki森は「自然に役割分担する」
+        - 事前は「23個もあると管理コストが膨大」という直感があったが、実測すると 同時にactiveなのは6件のみ、残りは休んでいる。人間の注意配分は wiki数ではなく active数で決まる。「wiki森は自然に注意配分を圧縮する」という運用知見。
+
+
+
+
+実験メモ
+- [[複数のLLM Wikiに共通のインプット]]

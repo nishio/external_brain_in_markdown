@@ -2,6 +2,7 @@
 title: "Claude Codeにdiaryを書かせる"
 ---
 
+2025-12-02
 [[Claude Code]]に[[diary]]を書かせる
 - [[日報]]
 

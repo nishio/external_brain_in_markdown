@@ -11,3 +11,5 @@ title: "iPhone11ProMaxのカメラの解像度"
 - Live PhotosはHEICとMOVの入ったZIP
     - HEICは3024 × 4032
     - MOVは1440 × 1920
+
+[[iPhone 11 Pro Max]]

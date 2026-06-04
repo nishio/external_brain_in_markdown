@@ -27,3 +27,7 @@ title: "Code for Japan Summit 2024"
 
 [https://www.youtube.com/live/kEPMyeROaCE](https://www.youtube.com/live/kEPMyeROaCE)
 
+
+[https://www.youtube.com/watch?v=eia0HjcqCN0](https://www.youtube.com/watch?v=eia0HjcqCN0)
+- [[安野貴博]] [[オードリー・タン]]
+

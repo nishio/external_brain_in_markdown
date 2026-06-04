@@ -2,6 +2,14 @@
 title: "d/acc"
 ---
 
+[[My techno-optimism]]
+- [[Vitalik Buterin]] 2023-11-27
+- > d/acc: Defensive (or decentralization, or differential) acceleration
+    - [My techno-optimism](https://vitalik.eth.limo/general/2023/11/27/techno_optimism.html)
+
+> 「危険な技術よりも安全・防御・民主化に資する技術を速く進める」という [[Nick Bostrom]] の “[[differential technological development]]”（[[DTD]]）を、[[Audrey Tang]] や Vitalik Buterin が 防御（defense）・分散（decentralization）・民主主義（democracy）の文脈で実装しようとしている、という位置づけです。
+- from [[Audreyとd/accとdifferential]]
+
 ![image](https://gyazo.com/9bbb3c4cddca7017358c55e0a411b8dc/thumb/1000)
 
 

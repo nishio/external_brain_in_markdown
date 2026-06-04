@@ -5,6 +5,9 @@ title: "Jigsaw SenseMaker"
 [[Google Jigsaw Sensemaker]]
 - [[SenseMaker]]
 
+2024-08-21 [Initial empty commit](https://github.com/Jigsaw-Code/sensemaking-tools/commit/d740ad4095c18d0b54a10fd5f74211e18ea762f5) リポジトリは作られているが中身はない
+2024-12-10 [Commit e1b8354](https://github.com/Jigsaw-Code/sensemaking-tools/commit/e1b835425e1b2596f100334fbd2952283f4a1dea#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5) まとまって大量のソースコードなどがcommitされた
+2024-12-19 [Making Sense of Large-Scale Online Conversations | by Jigsaw | Jigsaw | Medium](https://medium.com/jigsaw/making-sense-of-large-scale-online-conversations-b153340bda55)
 
 
 <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>

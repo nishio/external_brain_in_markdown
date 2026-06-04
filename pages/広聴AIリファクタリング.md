@@ -184,7 +184,3 @@ done
 2026-01-22
 Azure環境へのデプロイをする
 
-
-[https://www.youtube.com/watch?v=ZGHbKWGgH_E](https://www.youtube.com/watch?v=ZGHbKWGgH_E)
-
-

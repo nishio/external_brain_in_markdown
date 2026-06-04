@@ -2,6 +2,10 @@
 title: "vTaiwan"
 ---
 
+トピック一覧
+- [https://www.vtaiwan.tw/topics](https://www.vtaiwan.tw/topics)
+
+
 <img src='https://scrapbox.io/api/pages/nishio/gpt/icon' alt='gpt.icon' height="19.5"/>vTaiwanは、台湾の政府が市民参加を促進するために設立したオンラインプラットフォームです。主に[[公共政策]]や法案について市民からの意見を収集し、討論を行う場として利用されています。このプラットフォームは、[[オープンガバメント]]と[[デジタルデモクラシー]]の一環として運営されており、透明性と参加型民主主義の向上を目指しています。
 
 具体的な特徴としては、以下の点があります：

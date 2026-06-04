@@ -2,6 +2,341 @@
 title: "settings"
 ---
 
+[/customize/Auto Dark Themes](https://scrapbox.io/customize/Auto Dark Themes)
+style.css
+
+```
+@import url('./var.css') (prefers-color-scheme: dark);
+
+:root {
+	color-scheme: light dark;
+
+	/* light */
+	--body-bg: #88cc88;
+	--card-bg: #eeffee;
+	--card-title-bg: #eeffee;
+}
+
+body {
+	background-color: var(--body-bg);
+}
+ 
+.grid li.two-two.page-list-item a .title {
+	background-color: var(--card-title-bg);
+}
+
+.grid li.page-list-item a .content {
+	background-color: var(--card-bg);
+}
+```
+
+
+
+var.css
+
+```
+:root {
+	--body-bg: #202228;
+	--card-bg: #373b44;
+	--card-title-bg: #2b2e38;
+}
+/* default-dark */
+/* eksklusive hacker1 */
+html[data-project-theme=default],
+html[data-project-theme=default-minimal],
+html[data-project-theme=blue],
+html[data-project-theme=purple],
+html[data-project-theme=green],
+html[data-project-theme=orange],
+html[data-project-theme=red],
+html[data-project-theme=spring],
+html[data-project-theme=summer],
+html[data-project-theme=autumn],
+html[data-project-theme=winter],
+html[data-project-theme=tropical],
+html[data-project-theme=kyoto],
+html[data-project-theme=paris],
+html[data-project-theme=mred] {
+	--body-bg: #202228;
+	--brand-icon-y-first-stop-opacity: 0.3;
+	--brand-icon-y-last-stop-opacity: 0.6;
+	--brand-icon-x-first-stop-opacity: 0.2;
+	--brand-icon-x-last-stop-opacity: 0.3;
+	--navbar-bg: rgba(55, 59, 68, 0.5);
+	--navbar-title-color: #fff;
+	--navbar-icon-color: #fff;
+	--navbar-icon-active-color: #338c46;
+	--navbar-icon-hovered-color: #338c46;
+	--search-form-bg: rgba(255, 255, 255, 0.13);
+	--search-form-icon-color: #fff;
+	--search-form-icon-focus-color: #4a4a4a;
+	--2hop-search-bg: rgba(255, 255, 255, 0.15);
+	--card-title-color: #f0f0f0;
+	--card-title-bg: #2b2e38;
+	--card-bg: #373b44;
+	--card-hover-bg: rgba(0, 0, 0, 0.1);
+	--card-active-bg: rgba(229, 229, 229, 0.1);
+	--card-backside: #545860;
+	--card-description-color: #c4c4c4;
+	--card-description-link-color: #80c9fe;
+	--card-description-code-color: #ccc;
+	--card-box-shadow-color: #000;
+	--card-box-shadow: 0 2px 0 var(--card-box-shadow-color);
+	--card-box-hover-shadow: 0 2px 0 rgba(0, 0, 0, 0.23);
+	--card-title-bg-pinned: #2b2e38;
+	--relation-label-bg: #2b2e38;
+	--relation-label-text: #dddede;
+	--relation-label-links-bg: #80c9fe;
+	--relation-label-links-text: #202228;
+	--relation-label-empty-bg: #fb7476;
+	--relation-label-empty-text: #fff;
+	--tool-color: #535863;
+	--tool-light-color: #353b48;
+	--tool-badge-bg: #2b2e38;
+	--tool-bg: #2b2e38;
+	--tool-text-color: #dddede;
+	--new-button-vertical-color: #fff;
+	--new-button-horizontal-color: #fff;
+	--new-button-bg: hsl(227 51% 56% / 1);
+	--new-button-hover-bg: hsl(227 51% 50% / 1);
+	--new-button-active-bg: hsl(227 51% 45% / 1);
+}
+/* inkluzive hacker1 */
+html[data-project-theme=default],
+html[data-project-theme=default-minimal],
+html[data-project-theme=blue],
+html[data-project-theme=purple],
+html[data-project-theme=green],
+html[data-project-theme=orange],
+html[data-project-theme=red],
+html[data-project-theme=hacker1],
+html[data-project-theme=spring],
+html[data-project-theme=summer],
+html[data-project-theme=autumn],
+html[data-project-theme=winter],
+html[data-project-theme=tropical],
+html[data-project-theme=kyoto],
+html[data-project-theme=paris],
+html[data-project-theme=mred] {
+	--telomere-border: #545863;
+	--page-text-color: rgba(255, 255, 255, 0.87);
+	--page-link-color: #80c9fe;
+	--page-link-hover-color: #6a9ec6;
+	--page-link-color-cursor-line: #a985e4;
+	--page-bg: #373b44;
+	--empty-page-link-color: #fb7476;
+	--empty-page-link-hover-color: #b47576;
+	--line-title-color: rgba(255, 255, 255, 0.87);
+	--line-permalink-color: rgba(234, 218, 74, 0.35);
+	--code-color: #ccc;
+	--code-bg: rgba(0, 0, 0, 0.18);
+	--quote-bg-color: rgba(0, 0, 0, 0.2);
+	--page-image-loading-border-color: #555;
+	--cursor-color: #fff;
+	
+	--hashtag-color: lime;
+	--hashtag-hover-color: olive;
+	--empty-hashtag-color: magenta;
+	--empty-hashtag-hover-color: deeppink;
+	
+	& code.highlight {
+		color: #ccc
+	}
+	& code.highlight .hljs {
+		display: block;
+		overflow-x: auto;
+		padding: .5em;
+		background: #fdf6e3;
+		color: #657b83
+	}
+	& code.highlight .hljs-comment,
+	& code.highlight .hljs-quote {
+		color: #93a1a1
+	}
+	& code.highlight .hljs-keyword,
+	& code.highlight .hljs-selector-tag,
+	& code.highlight .hljs-addition {
+		color: #859900
+	}
+	& code.highlight .hljs-number,
+	& code.highlight .hljs-string,
+	& code.highlight .hljs-meta .hljs-meta-string,
+	& code.highlight .hljs-literal,
+	& code.highlight .hljs-doctag,
+	& code.highlight .hljs-regexp {
+		color: #2aa198
+	}
+	& code.highlight .hljs-title,
+	& code.highlight .hljs-section,
+	& code.highlight .hljs-name,
+	& code.highlight .hljs-selector-id,
+	& code.highlight .hljs-selector-class {
+		color: #268bd2
+	}
+	& code.highlight .hljs-attribute,
+	& code.highlight .hljs-attr,
+	& code.highlight .hljs-variable,
+	& code.highlight .hljs-template-variable,
+	& code.highlight .hljs-class .hljs-title,
+	& code.highlight .hljs-type {
+		color: #b58900
+	}
+	& code.highlight .hljs-symbol,
+	& code.highlight .hljs-bullet,
+	& code.highlight .hljs-subst,
+	& code.highlight .hljs-meta,
+	& code.highlight .hljs-meta .hljs-keyword,
+	& code.highlight .hljs-selector-attr,
+	& code.highlight .hljs-selector-pseudo,
+	& code.highlight .hljs-link {
+		color: #cb4b16
+	}
+	& code.highlight .hljs-built_in,
+	& code.highlight .hljs-deletion {
+		color: #dc322f
+	}
+	& code.highlight .hljs-strong {
+		font-weight: bold
+	}
+}
+
+/* paper-dark-dark */
+html[data-project-theme=paper-light],
+html[data-project-theme=newyork],
+html[data-project-theme=lgreen] {
+	--body-bg: #192f3d;
+	--2hop-search-bg: rgba(255, 255, 255, 0.15);
+	--card-title-bg: #294252;
+	--card-title-color: rgba(255, 255, 255, 0.9);
+	--card-bg: #395666;
+	--card-hover-bg: rgba(0, 0, 0, 0.1);
+	--card-active-bg: rgba(193, 203, 213, 0.1);
+	--card-backside: #5c96b6;
+	--card-description-color: rgba(255, 255, 255, 0.9);
+	--card-description-link-color: #6bb8ed;
+	--card-description-code-color: #ccc;
+	--card-box-shadow-color: rgba(0, 0, 0, 0.2);
+	--card-box-shadow: 0 2px 0 var(--card-box-shadow-color);
+	--card-box-hover-shadow: 0 2px 0 var(--card-box-shadow-color);
+	--card-title-bg-pinned: #294252;
+	--relation-label-bg: #294252;
+	--relation-label-text: #fff;
+	--relation-label-links-bg: #5c96b6;
+	--relation-label-links-text: #fff;
+	--relation-label-empty-bg: #fb7476;
+	--relation-label-empty-text: #fff;
+	--tool-color: #578eac;
+	--tool-light-color: #294252;
+	--tool-badge-bg: #294252;
+	--tool-bg: #294252;
+	--tool-text-color: rgba(255, 255, 255, 0.87);
+}
+html[data-project-theme=paper-light],
+html[data-project-theme=paper-dark],
+html[data-project-theme=hacker2],
+html[data-project-theme=newyork],
+html[data-project-theme=lgreen] {
+	--brand-icon-y-first-stop-opacity: 0.75;
+	--brand-icon-x-first-stop-opacity: 0.4;
+	--navbar-bg: hsl(203deg 38% 22% / 80%);
+	--navbar-title-color: #fff;
+	--navbar-icon-color: #5c96b6;
+	--navbar-icon-active-color: #5c96b6;
+	--navbar-icon-hovered-color: #8bc7e8;
+	--search-form-bg: #395666;
+	--search-form-icon-color: #fff;
+	--search-form-icon-focus-color: #444;
+	--new-button-vertical-color: #fff;
+	--new-button-horizontal-color: #fff;
+	--new-button-bg: #192f3d;
+	--new-button-hover-bg: #466a7d;
+	--new-button-active-bg: #395666;
+	--telomere-border: #4a6e83;
+	--telomere-unread: #86a8bb;
+	--telomere-updated: #6bb8ed;
+	--page-text-color: rgba(255, 255, 255, 0.95);
+	--page-link-color: #68b3e5;
+	--page-link-hover-color: #5c96b6;
+	--page-link-color-cursor-line: #ae8de4;
+	--page-bg: #395666;
+	--empty-page-link-color: #fb7476;
+	--empty-page-link-hover-color: #cf554d;
+	--line-title-color: rgba(255, 255, 255, 0.95);
+	--line-permalink-color: rgba(234, 218, 74, 0.35);
+	--code-color: #ccc;
+	--code-bg: rgba(0, 0, 0, 0.18);
+	--page-image-loading-border-color: #888;
+	--quote-bg-color: rgba(0, 0, 0, 0.2);
+	--cursor-color: #fff;
+	
+	--hashtag-color: lime;
+	--hashtag-hover-color: olive;
+	--empty-hashtag-color: magenta;
+	--empty-hashtag-hover-color: deeppink;
+	
+	& code.highlight {
+		color: #ccc
+	}
+	& code.highlight .hljs {
+		display: block;
+		overflow-x: auto;
+		padding: .5em;
+		background: #fdf6e3;
+		color: #657b83
+	}
+	& code.highlight .hljs-comment,
+	& code.highlight .hljs-quote {
+		color: #93a1a1
+	}
+	& code.highlight .hljs-keyword,
+	& code.highlight .hljs-selector-tag,
+	& code.highlight .hljs-addition {
+		color: #859900
+	}
+	& code.highlight .hljs-number,
+	& code.highlight .hljs-string,
+	& code.highlight .hljs-meta .hljs-meta-string,
+	& code.highlight .hljs-literal,
+	& code.highlight .hljs-doctag,
+	& code.highlight .hljs-regexp {
+		color: #2aa198
+	}
+	& code.highlight .hljs-title,
+	& code.highlight .hljs-section,
+	& code.highlight .hljs-name,
+	& code.highlight .hljs-selector-id,
+	& code.highlight .hljs-selector-class {
+		color: #268bd2
+	}
+	& code.highlight .hljs-attribute,
+	& code.highlight .hljs-attr,
+	& code.highlight .hljs-variable,
+	& code.highlight .hljs-template-variable,
+	& code.highlight .hljs-class .hljs-title,
+	& code.highlight .hljs-type {
+		color: #b58900
+	}
+	& code.highlight .hljs-symbol,
+	& code.highlight .hljs-bullet,
+	& code.highlight .hljs-subst,
+	& code.highlight .hljs-meta,
+	& code.highlight .hljs-meta .hljs-keyword,
+	& code.highlight .hljs-selector-attr,
+	& code.highlight .hljs-selector-pseudo,
+	& code.highlight .hljs-link {
+		color: #cb4b16
+	}
+	& code.highlight .hljs-built_in,
+	& code.highlight .hljs-deletion {
+		color: #dc322f
+	}
+	& code.highlight .hljs-strong {
+		font-weight: bold
+	}
+}
+```
+
+
 imports
 style.css_disabled
 
@@ -20,6 +355,14 @@ li.page-list-item.grid-style-item[data-page-title="nishio"]
  {
   display: none;
 }
+```
+
+
+2026-02-14 [/villagepump/曇りガラス記法](https://scrapbox.io/villagepump/曇りガラス記法)
+style.css
+
+```
+.line:not(.cursor-line) .deco-\~:not(:hover) { filter: blur(5px); }
 ```
 
 
@@ -307,15 +650,12 @@ style.css
 
 
 色を緑にする
-style.css 
+style.css-disabled 
 
 ```
 body {
 	background-color: #88cc88;
 }
-#.grid li.page-list-item a .header{
-#	background-color: #eeffee;
-#}
 .grid li.two-two.page-list-item a .title {
 	background-color: #eeffee; !important
 }

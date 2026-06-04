@@ -10,3 +10,9 @@ refered from [[Quadratic Payments: A Primer]]
 
 [[アテンション購入]]
 [[アテンション]]
+
+2026-05-16
+- quadratic ad とかで検索して発見できなかった
+- Vitalikの2019年の [Quadratic Payments: A Primer](https://vitalik.eth.limo/general/2019/12/07/quadratic.html) 関連
+    - [[Quadratic Payments]]
+    - [[二乗コスト]]

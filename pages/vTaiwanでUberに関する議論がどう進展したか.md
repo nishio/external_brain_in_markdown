@@ -8,6 +8,8 @@ from [[vTaiwan]]
 [[vTaiwan]]で[[Uber]]に関する議論がどう進展したか
 - ([[オードリー・タン]]の記事をDeepLして西尾が抜粋した)
 - [Uber responds to vTaiwan’s coherent blended volition | by Audrey Tang 唐鳳 | pol.is blog](https://blog.pol.is/uber-responds-to-vtaiwans-coherent-blended-volition-3e9b75102b9b)(2016)
+    - ![image](https://gyazo.com/8bb1817c892959a10927e9917550b4e9/thumb/1000)
+    - [[Uber responds to vTaiwan’s coherent blended volition]]
 
 > Pol.isがどのように人々の気持ちを効果的に伝えることを促したかを見てみましょう。
 
@@ -37,4 +39,119 @@ from [[vTaiwan]]
 - > vTaiwanは、Facebook広告を利用して国民をpol.isでの議論に引き込み、その結果を利用して関係者との議論を組み立て、すべてライブストリーミングで国民に公開しました。
 - > 心のウイルスをハッキングする
 - > 私たちの社会を支配している現在の分極化の影響を鋭く観察している誰もが指摘しているように、[[イデオロギーは「心のウイルス」]]であるとタンは指摘しています。私たちを取り巻く世界をより良いものにするためには、政治に関するこの古い考え方にハックされるのを止める必要があり、ここにはそれを実現するためのフリー、オープンソース、スケーラブルな方法があるのです。台湾の歴史が示すように、市民社会が民主主義に対するインターネットアプリケーションの力を理解することで、ボトムアップで参加を生み出すより良い方法を組織し、実証することができるようになるのです。
+
+---
+2015-06-26 が一つの区切り
+
+
+
+
+
+---
+<img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>
+
+以下は「2015-06-26 時点まで」に限定して、誰が／どの状況で／何をしたかを「人物（＋組織）別」に並べたものです。
+一次ソースとしては、当日の議事メモ（Hackpad静的版）と、行政院の公式リリース、vTaiwanの成り立ちを記録した資料（OCFレポート等）を軸にしています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+
+まず前提：2015-06-26 は「何の日」か
+- 2015-06-26 は、g0v / vTaiwan 側のメモでは 「小松」（g0vの小規模ハッカソン的な集まり）として記録されており、そこで vTaiwanの次の議題として「UberX 自用車載客（白牌車の有償運送）」をどう立ち上げるかが議論されています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- 同メモには、この時点での設計判断（「通案ではなく個案に寄せる」「先導問題（最初の10問）の設計」「多様な当事者を集める」「論拠URL投げ箱」「Pol.is と Hackpad の見せ方」など）と、担当者別のアクションアイテムが書かれています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+
+主要人物・組織（この時点までに “行動” が一次ソースで追える範囲）
+- 蔡玉玲（行政院・政務委員）：虚擬世界（デジタル領域）法規調適の推進、vTaiwan導入の“政治側起点”。 ([ey.gov.tw](https://www.ey.gov.tw/Page/9277F759E41CCD91/681e1ca6-d0b3-4455-8195-479bcc1acdc8))
+- 國發會（国家発展委員会 / NDC）：2014年から調整会議を回し、第一段階(1.0)の枠組みを作った中核。 ([ey.gov.tw](https://www.ey.gov.tw/Page/9277F759E41CCD91/681e1ca6-d0b3-4455-8195-479bcc1acdc8))
+- 資策會 科技法律研究所（STLI / 科法所）：vTaiwanの「編集群」として論点整理・編集を担う（メモ上でもタスクが付与）。 ([TNL The News Lens 關鍵評論網](https://www.thenewslens.com/article/12363))
+- vTaiwan / g0v 側の運営・モデレータ（唐鳳、pm5、clkao 等）：議題設計、Pol.is運用、翻訳・論点の“転写（転訳）”、参加者多様性設計など。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- 交通部（MOTC）＋利害関係者（計程車業界、Uber側）：Uberをめぐる対立の当事者であり、vTaiwan側は「どう参加させるか」をこの時点で議論している。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+
+人物別タイムライン（〜2015-06-26）
+
+1) 蔡玉玲（行政院・政務委員）
+
+2014年：虚擬世界法規調適を「政策プロジェクト化」し、官側で動かす
+- 行政院の発表によると、國發會が2014年6月から協調会議を複数回開催し、蔡玉玲が主持して、目標設定と第一段階(1.0)の推進テーマをまとめていった、とされます。 ([ey.gov.tw](https://www.ey.gov.tw/Page/9277F759E41CCD91/681e1ca6-d0b3-4455-8195-479bcc1acdc8))
+
+2014-12-20：g0vハッカソンに政府側として持ち込み、vTaiwanへ接続
+- OCFのレポートでは、2014-12-20 に蔡玉玲がg0vハッカソンで「可以不去開曼設公司嗎？」（なぜスタートアップはケイマン等を使うのか＝制度側の課題）を投げたことが転機として描かれています。ここで「答えを閉じる」よりも「問いを開いて、多くの人と一緒に答える」方向に転換し、vTaiwanを作る流れになった、と記述されています。 ([opengovreport.ocf.tw](https://opengovreport.ocf.tw/assets/pdf/report-zh.pdf))
+- The News Lens の記事も、蔡玉玲が2014年12月のg0vハッカソンで vTaiwan を提案し、政府とネットコミュニティの対話回路を作ろうとした、という趣旨で整理しています。 ([TNL The News Lens 關鍵評論網](https://www.thenewslens.com/article/12363))
+
+2015-06-23（発表は06-24）：2.0に「共享經濟（シェアリング・エコノミー）」を正式に追加
+- 行政院の公式リリースでは、蔡玉玲が2015-06-23 に関係部会を集めて 1.0 の成果を点検し、共有経済・デジタル通貨等を 2.0 の対象に正式追加したと明記されています。
+これが、UberX を「単なる炎上案件」ではなく、虚擬世界法規調適 2.0 の射程に置くための官側の位置づけになっています。 ([ey.gov.tw](https://www.ey.gov.tw/Page/9277F759E41CCD91/681e1ca6-d0b3-4455-8195-479bcc1acdc8))
+
+2) 國發會（NDC：国家発展委員会）
+
+2014-06〜：官側の調整体制を作り、計画（規劃方案）を策定
+- 行政院リリースによれば、國發會が2014年6月から協調会議を重ね、蔡玉玲主持のもとで、3大目標と10項主題を含む第一段階(1.0)の計画を作った、とされています。 ([ey.gov.tw](https://www.ey.gov.tw/Page/9277F759E41CCD91/681e1ca6-d0b3-4455-8195-479bcc1acdc8))
+
+3) 資策會 科技法律研究所（STLI / 科法所）
+
+vTaiwan全体の「編集群」としての役割（〜2015-06-26時点で既に制度化）
+- vTaiwanの運用体制は「提案方（行政院の関係部会）／編集群（科法所）／版主群（コミュニティ）」の三者分担で回す、という説明が複数資料にあります。 ([TNL The News Lens 關鍵評論網](https://www.thenewslens.com/article/12363))
+
+2015-06-26：UberX議題の“論点 → 先導問題”変換を担うタスクを引き受ける
+- 06-26メモのアクションアイテムで、STLIは
+    - 「参考論述（根拠リンク）投げ箱」の“関連チェック”設計
+    - 交通部の争点を列挙し、それを先導問題に書き換える
+を担当する、と明記されています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+
+4) 唐鳳（Audrey Tang）／vTaiwanモデレーター（メモ上は “唐鳳” や “au” で登場）
+
+2014-12-20以降：政府×市民ハッカーの協作で vTaiwan を作り、運用へ
+- OCFレポートは、2014-12-20 のハッカソン後に vTaiwan を構築し、さらに当時g0v参加者だった唐鳳が運用（維運）を担う比重が大きかったと述べています。 ([opengovreport.ocf.tw](https://opengovreport.ocf.tw/assets/pdf/report-zh.pdf))
+
+2015-06-26：UberX議題での「設計判断」に直接コミット
+06-26メモから、唐鳳（および au）がその場で行っている／方向性を出していることは主に以下です。
+- 「通案（共享経済という抽象）」より「個案（白牌車＝UberX）」に寄せる方向に傾く
+    - 共有経済は認知がバラバラで揉めやすいので、まずは個案に焦点化したい、というニュアンスが記録されています（「唐鳳傾向先不去處理」）。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- 先導問題（最初の10問）を重視
+    - 「事実を見せた後、いきなり政策提案を問うのではなく、まず感覚（feeling）を問う」など、Pol.isの質問設計思想が書かれています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- “争点の転訳（専門語→ふつうの言葉）”をやる
+    - 争点（例：表示、保険、納税、紛争解決）を、法律家だけが参加する状態にしないため、分かる言葉に直す必要がある、という議論があり、**「科法が争点を列挙→ au と clkao が転訳」**と役割が書かれています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- 参加者の多様性（Diversity）を明示的に設計
+    - 司機・乘客・一般の関心層など、500人の中で偏らないようにしたい（“embodiment representation”）という記述があります。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- 「500人」などの規模感について、敷居を上げすぎない議論
+    - 参加閾値が高すぎると誰も来ない、という懸念とともに、後半も遊べるようにする、という運用方針が書かれています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- Hackpad + Pol.is の見せ方を相談する（Peggyに相談）
+    - “Write” に論述を紐付けるやり方、スマホでの使いづらさ、意見箱方式などを検討し、Peggy（別案件の意見整理の先行事例がある人物）に相談するタスクが付与されています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+
+5) pm5（vTaiwan側の参加者：ハンドル名で登場）
+
+2015-06-26：設計上の提案と技術タスク
+- 共有経済の抽象論は、問いたい人が追加で第11・第12問として自分で出せばよい、という提案が pm5 の発言として記録されています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- アクションアイテムとしては **「政誌（タイムライン）内嵌Demo とスマホ体験確認」**が割り当てられています。
+ここでいう「充分告知（状況理解）」を支える“時系列・現況分析”を、政誌＋Wikipedia等で見せる、という構想の一部です。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+
+6) clkao（vTaiwan側の参加者：ハンドル名で登場）
+
+2015-06-26：争点の「転訳」側として登場
+- 06-26メモでは、争点を一般人が理解できる言葉にするために **「au と clkao が転訳」**すると書かれています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+（この時点の一次ソース上はハンドル名中心なので、ここでは「誰＝実名」までは断定せず、メモに出てくる主体として扱っています。）
+
+7) 交通部（MOTC）／計程車業界／Uber（当事者側の状況）
+ここは「誰が何をした」のうち、**vTaiwanが立ち上がる“背景としての圧力”**を作った側です。
+
+計程車業界（工会等）：2014年夏の抗議で対立が可視化
+- 公視（PTS）の報道では、2014-07頃に計程車側が Uber を「違法白牌車」等として問題視し、交通部周辺で抗議行動が起き、交通部側が「租賃車に偽装した自用車の取締」等に言及する様子が報じられています。 ([公視新聞網 PNN](https://news.pts.org.tw/article/273264))
+
+Uber（台湾での展開）：2013〜2014にサービス拡大し、法規との摩擦が前景化
+- 科法所（STLI）の解説では、Uberが台湾でサービスを開始し（2013年頃）、2014年に “菁英優步（UberX）” を開始、以後「自用車の有償運送（白牌車問題）」として法制度・既存産業と衝突していく流れが整理されています。 ([stli.iii.org.tw](https://stli.iii.org.tw/article-detail.aspx?d=6644&no=64&tp=1&utm_source=chatgpt.com))
+
+交通部（MOTC）：当事者調整と「どう参加させるか」が06-26時点で論点化
+- 06-26メモでは、「計程車司機はネットに来ないかもしれない→どう入口を開く？」、一方で Uber司机にはLINE群組がある、さらに交通部→車隊という導線で当事者に届けられる可能性、など “参加設計” が議論されています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- また交通部側のアイデアとして、市場を分級（高級・一般）し、標示（ラベリング）で選べるようにするといった方向性も、当日の議論メモ内で言及されています。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+
+06-26時点で固まっていた「設計判断（なぜそうしたか）」まとめ
+最後に、西尾さんの関心（設計判断の “なぜ”）に合わせて、06-26時点で一次ソースから読み取れる「理由」を短く整理します。
+- 通案（共有経済の定義論）を避け、個案（UberX白牌車）に寄せた
+    - 理由：共有経済は人によって認知が違い、抽象論で割れやすい／先に個案で具体の共通経験と感情から入ったほうが参加しやすい、という判断。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- 先導問題（最初の10問）を重視し、「事実→感情→価値」の順で入る
+    - 理由：最初から政策案（decisional）に飛ぶと議論が硬直・対立しやすいので、Pol.is向きの入口（共通経験・感情）を設計する必要がある、という考え。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- 争点の“転訳”を明示的にタスク化
+    - 理由：専門語のままだと「法律家・専門家しか来ない」構図になるため。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- 多様な当事者が混ざるように設計（embodiment representation）
+    - 理由：特定派閥／特定ファン層だけの意見収集にならないようにするため（Diversityを500人の中で確保）。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+- 十分な状況説明（タイムライン等）を付ける
+    - 理由：当事者が前提を共有できないと、回答が感情的対立に流れやすい。そこで政誌＋Wikipedia等の大事記を埋め込む案。 ([g0v.hackpad.tw](https://g0v.hackpad.tw/ep/pad/static/X4bWlGs0MuJ))
+
 

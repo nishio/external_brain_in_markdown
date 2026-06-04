@@ -2,6 +2,7 @@
 title: "n月刊ラムダノート「特集：計算とは何か」"
 ---
 
+2026-01-23
 [[n月刊ラムダノート]]「[[特集：計算とは何か]]」Vol.6, No.1（2026）
 ![image](https://gyazo.com/2a36bbbe2ca411bcf1ad6acd17695fd6/thumb/1000)
 [n月刊ラムダノート「特集：計算とは何か」発行のお知らせ – 技術書出版と販売のラムダノート](https://www.lambdanote.com/blogs/news/n-3)

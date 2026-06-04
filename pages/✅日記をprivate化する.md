@@ -2,6 +2,7 @@
 title: "✅日記をprivate化する"
 ---
 
+2026-01-23
 [[AIと今年の目標を語り合った]]結果、「公開Cosenseに日記ページが置かれているのは悪い習慣なのでは？」という具体的な気づきがあった
 
 ---
@@ -23,6 +24,7 @@ title: "✅日記をprivate化する"
 >  Q23やQ26で、公開プロジェクトと非公開プロジェクトの混在が「負の習慣」を招いていることが示唆されました。同じツール内の別プロジェクトでは、検索やブラウザのタブ、UIの共通性が無意識の「公開意識」を呼び覚まします。物理的・システム的に異なる道具を使うことで、心理的な境界線をより強固にすべきです。
 根拠かそうであるかはさておき、無意識に"privateなCosenseプロジェクトにpin-diaryをインストールする"という実装方法に囚われていた
 
+[[private-note]]
 [https://github.com/nishio/private-note](https://github.com/nishio/private-note) 作った
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>GitHubにprivate projectを作って非公開のメモを書く場所とする。ここにスマートフォンから手軽にメモをするにはどうするのがいい？
 <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>

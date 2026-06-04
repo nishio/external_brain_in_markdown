@@ -2,7 +2,7 @@
 title: "Devin使ってみてどうだった？ ～活用事例と導入時のポイント～"
 ---
 
-
+2025-02-17
 ![image](https://gyazo.com/f3b8d0246d703b05b959d3d60738e815/thumb/1000)
 [https://findy.connpass.com/event/344270/](https://findy.connpass.com/event/344270/)
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>昨日FindyでDevinの座談会をしたんですけど反響はどんな感じ？

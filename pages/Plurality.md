@@ -2,6 +2,9 @@
 title: "Plurality"
 ---
 
+ここ(西尾の外部脳)で使われる場合、Audrey TangとGlen Weylによる2024年の[[Plurality: Technology for Collaborative Diversity and Democracy]]のPluralityを指すことが多い。
+英語で使われる投票における相対多数のことを指すPluralityとは関係ない
+
 2023-07-15
 [[民主主義を発展させるためのテクノロジー「Plurality」]]
 

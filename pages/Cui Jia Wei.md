@@ -12,3 +12,4 @@ title: "Cui Jia Wei"
 [AI Governance: How Public Participation Can Improve AI Governance: vTaiwan’s Initiatives](https://www.freiheit.org/taiwan/how-public-participation-can-improve-ai-governance-vtaiwans-initiatives)
 
 [[Peter]]
+[[Jia-Wei Cui]]と書かれていることもある

@@ -18,3 +18,8 @@ title: "AOIのTTTCページにAudrey Tangのコメントがある"
 - しかし、今では言語モデル（AI）の進歩により、この問題が解決されました。
 - 2014年には、多くの人々の意見を集めて、全ての微妙なニュアンスを保持することは不可能でしたが、現在では「Talk to the City」というツールのおかげで、それが非常に簡単かつ安価にできるようになりました。
 - このツールは広範な意見を集めることができ、その結果、公共の議論のあり方を変える可能性があります。
+
+2026-02-10
+> Back in 2014, it was impossible to interview a mini public of people and aggregate their ideas while preserving the full nuance. But now, with Talk to the City's help, that cost has been reduced to essentially zero. It's broad-listening, and it can change the nature of this recursive public. --- Audrey Tang, Taiwan's 1st Digital Minister and co-author of Plurality.net
+ちょっとアップデートされてるな
+- 2014年当時、ミニバブリックにインタビューし、その意見をニュアンスを損なわずに集約することは不可能だった。しかし今や、Talk to the Cityの支援により、そのコストは実質ゼロにまで削減された。これはブロードリスニングであり、そして再帰的な公共の本質を変えうる。
