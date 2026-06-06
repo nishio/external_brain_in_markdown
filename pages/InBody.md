@@ -32,3 +32,6 @@ from [/villagepump/InBody](https://scrapbox.io/villagepump/InBody)
 - 衰えてる……
 - > 歩けということだな
     - スクワットだろ自分
+
+スーパー銭湯で体重計に乗ったら82キロでびっくり
+
