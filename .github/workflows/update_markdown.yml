@@ -19,12 +19,12 @@ jobs:
 
     steps:
       - name: Checkout data repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
       - name: Checkout Scrapbox export tools
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: nishio/from_scrapbox
           ref: main
@@ -36,7 +36,7 @@ jobs:
           git -C _tools/from_scrapbox submodule update --init tasks/json_to_markdown/ScrapboxToObsidian
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.10"
 
