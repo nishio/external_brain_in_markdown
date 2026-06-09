@@ -2,6 +2,7 @@
 title: "Codex"
 ---
 
+![image](https://gyazo.com/a4e4bb1e567a9e012c13d702aff5c6f8/thumb/1000)
 
 <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>
 Codex（2025年版）概要

@@ -2,10 +2,12 @@
 title: "複数AIエージェントに共通のDBを読ませる"
 ---
 
-[agmsg](https://x.com/fujibee/status/2059357190725783892) 2026-05-27
+[agmsg](https://x.com/fujibee/status/2059357190725783892) 2026-05-27 [[agmsg]]
 > (GPT)特徴はまさに：
 > Claude Code, Codex, Gemini CLI などのCLIエージェントが、共有SQLite DB 経由でメッセージをやり取りする。
 > READMEにも「No daemon, no network」「shared SQLite database」「Claude Code, Codex, Gemini CLI…」とあります。
+- [(4) XユーザーのKoichiさん: 「Claude Code と Codex の往復コピペをやめたくて、agmsg を作った」 / X](https://x.com/fujibee/status/2059357190725783892)
+
 
 [[kouchou-ai-developer-wiki]]では[[KarpathyのLLM Wiki]]をClaude CodeとCodexが読んで開発をしている
 - これは「ファイルシステム上のWiki」というデータベースを各エージェントが共有している仕組み
