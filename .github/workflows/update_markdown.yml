@@ -1,0 +1,81 @@
+name: Update Markdown Files
+
+on:
+  schedule:
+    # Run every day at JST 05:00 (UTC 20:00).
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-markdown-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  update-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout data repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout Scrapbox export tools
+        uses: actions/checkout@v4
+        with:
+          repository: nishio/from_scrapbox
+          ref: main
+          path: _tools/from_scrapbox
+          fetch-depth: 1
+
+      - name: Checkout Scrapbox converter
+        run: |
+          git -C _tools/from_scrapbox submodule update --init tasks/json_to_markdown/ScrapboxToObsidian
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r _tools/from_scrapbox/requirements.txt
+
+      - name: Set up Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v1.x
+
+      - name: Export Scrapbox and convert to Markdown
+        working-directory: _tools/from_scrapbox
+        env:
+          SID: ${{ secrets.SID }}
+        run: |
+          if [ -z "$SID" ]; then
+            echo "::error::Missing SID repository secret."
+            exit 1
+          fi
+          python -m tasks.export_json.main --project nishio
+          deno run --allow-run --allow-read --allow-write tasks/json_to_markdown/mod.ts nishio.json nishio
+
+      - name: Sync generated pages
+        run: |
+          mkdir -p pages
+          rsync -a --delete _tools/from_scrapbox/quartzPages/ pages/
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A pages/
+
+          if git diff --cached --quiet; then
+            echo "No page changes to commit."
+          else
+            git commit --quiet --no-status -m "Update Markdown files from Scrapbox export $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
