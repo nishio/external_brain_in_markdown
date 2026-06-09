@@ -29,3 +29,9 @@ title: "GitHub Actionsでデータを溜め込む"
 - 方法y: GistにUploadする
     - 大きくない「最新データ」をフロントエンドからfetchできるGET API的な形で配信したいときに使える
     - [[Gist as GET API]]
+
+2026-06-09
+- [[external_brain_in_markdownの更新が止まっている]]
+- data / code 分離構成の場合、code側でGithub Actionsを動かしていると下記が発動する
+    - > public repo では「60 日間 repository activity がない scheduled workflow は自動で無効化される」
+- <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>結論から言うと、GitHub ActionsでSlack/ScrapboxログをGitHub上に溜めるなら、コード用repoとデータ用repoを分け、workflowはできればデータ用repo側に置くのがよいです。
