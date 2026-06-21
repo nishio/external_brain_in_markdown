@@ -2,6 +2,10 @@
 title: "WheatSeedsSystem"
 ---
 
+created 2021-11-14
+2026-06-21
+- [https://github.com/nishio/wheat_seeds_system/blob/main/GUIDE.md](https://github.com/nishio/wheat_seeds_system/blob/main/GUIDE.md)
+
 Wheat Seeds System is a mechanism to place custom models on minecraft worlds.
 See all packages:
 - [https://www.planetminecraft.com/member/nishiohirokazu/submissions/?morder=order_latest](https://www.planetminecraft.com/member/nishiohirokazu/submissions/?morder=order_latest)
@@ -11,6 +15,20 @@ See all packages:
 - > Each chair can be rotated 45 degrees. Each chair is actually a wheat seeds item in an invisible item frame which put on an invisible barrier block. So if you use some plugin to sit on blocks (for example GSit), you can sit on a chair.
     - [https://www.planetminecraft.com/texture-pack/colorful-chairs/](https://www.planetminecraft.com/texture-pack/colorful-chairs/)
 
+2026-06-21
+## Minecraft 1.21.4+ / component format
+- Items use the new component syntax (NBT {...} was removed in 1.20.5):
+    - `/minecraft:give @s wheat_seeds[minecraft:custom_model_data={floats:[<ID>]}]`
+    - If you use EssentialsX, use `/minecraft:give` (plain `/give` is taken over by EssentialsX -> 'unknown item name').
+- Invisible item frame:
+    - `/minecraft:give @s item_frame[entity_data={id:"minecraft:item_frame",Invisible:true}]`
+- Make the nearest placed frame invisible / fixed (entity NBT, unchanged):
+    - `/data modify entity @e[type=minecraft:item_frame,nbt={Invisible:0b},limit=1,sort=nearest] Invisible set value 1b`
+    - `/data modify entity @e[type=minecraft:item_frame,nbt={Fixed:0b},limit=1,sort=nearest] Fixed set value 1b`
+
+
+
+old description(2021-11-18):
 ### Commands for Resource Pack Users
 
 To get custom item with ID=12345:
