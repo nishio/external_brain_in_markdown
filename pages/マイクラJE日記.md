@@ -99,7 +99,7 @@ $ sudo kill <PROCESS_ID>
 - javaの起動をbashのwhileで包むことで自動的に再起動できる [src](https://raw.githubusercontent.com/Zachoz/CrashPrevention/master/start.sh)
 - 設定ファイルをGithub管理にした
     - RCONもオンにした `server.properties` の `enable-rcon=true` `rcon.password=XXX`
-- ![image](https://scrapbox.io/files/613edb268b15b5001d7dc906.png)
+- ![image](https://scrapbox.io/files/6a42b8912ba3627f4edad0ac.png)
 
 2021-09-14
 - 拠点の隣にSlimefunの研究施設を建ててくれた
@@ -108,7 +108,7 @@ $ sudo kill <PROCESS_ID>
 - 苗木自動回収植林場を作ってくれた
     - ![image](https://gyazo.com/673abd87cf0c4da5cdb9b21f4b8493d4/thumb/1000)
     - 取ったら植える。白樺とオークならOK
-- ![image](https://scrapbox.io/files/613fb818832489001d5044f2.png)
+- ![image](https://scrapbox.io/files/6a42b8a12ba3627f4edad0b4.png)
 
 2021-09-15
 - [[マイクラのサボテン]]
@@ -252,6 +252,6 @@ pyautogui.mouseDown()
         - 放置するとツルハシは割とすぐ壊れる
             - 石のツルハシは3分ちょいで壊れる、鉄でも2倍ない、ダイヤなら10倍以上ある
         - 自動クラフトが可能なのだから定期的に作って投げつければ良いのでは
-- ![image](https://scrapbox.io/files/614636760e598200232f6e01.png)
+- ![image](https://scrapbox.io/files/6a42b9612ba3627f4edad137.png)
 
 [[マイクラJE日記week2]]
