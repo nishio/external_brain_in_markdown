@@ -6,9 +6,34 @@ title: "OSSクエスト"
 - オープンソースカルチャーを広めるために台湾の[[Open Culture Foundation]]が作成した[[Open StarTer Village]]
     - これを[[Code for Japan]]の関さんが貰って[[Social Hack Day #70]]で遊んだ、とても面白かったが英語のマニュアルを読み解くのは大変だったので日本語版作成プロジェクトが立ち上がった
 
+2026-07-19
+> [nishio](https://x.com/nishio/status/2078768953070080380) 昨日家内制手工業してたボードゲームはこのイベントに持って行きます！![image](https://gyazo.com/b983a00598d9f4fdd613a26b5f0e355c/thumb/1000)
+- [ボードゲーム「OSSクエスト」完成披露会 · Luma](https://luma.com/9cemww3a?tk=yCp2Tg)
+
+2026-07-18
+> [nishio](https://x.com/nishio/status/2078313225461121148) [[家内制手工業]]している
+>  ![image](https://pbs.twimg.com/media/HNem3KAbcAATm2x?format=jpg&name=900x900#.png) ![image](https://pbs.twimg.com/media/HNem3KDaEAACvd0?format=jpg&name=900x900#.png) ![image](https://pbs.twimg.com/media/HNem3J_aEAEU3qn?format=jpg&name=small#.png)
+> [nishio](https://x.com/nishio/status/2078316233813062058) 隣で同じ作業をしてる関さん。同じ目的でも人によって具体的なプロセスが異なっていて面白い。僕はこの並べるスタイルを最初試して手が滑ってクラッシュしたので諦めましたw
+>  ![image](https://pbs.twimg.com/media/HNepmUUbQAADrHQ?format=jpg&name=medium#.png)
+> [nishio](https://x.com/nishio/status/2078327555954999623) 家庭内手工業、割と面白い(1〜2時間やって終わりならば)
+>  [[禅]]の一種の感じ
+
 2026-02-21
 - [[Social Hack Day]]でウェブサイトができた(僕はお休み)
 - [https://ossquest.com/ja/](https://ossquest.com/ja/)
+
+2026-01-19
+> [nishio](https://x.com/nishio/status/2013222025930658210) オープンソースマインドを学べるボードゲーム、45人もの方にご支援いただいてもうすぐ目標達成です！
+>  ![image](https://pbs.twimg.com/media/G_BmwsBWkAElwZx?format=jpg&name=medium#.png)
+
+2025-12-28
+> [nishio](https://x.com/nishio/status/2005278424332681308) エンジニアでなくても「オープンソース開発」がどのようなものなのかを疑似体験できるボードゲームです！教育的ゲームって面白くないんでしょと思う人もいるかもしれませんが、結構面白いです！！
+>  ![image](https://pbs.twimg.com/media/G9QtsFrasAET7Hn?format=jpg&name=medium#.png)
+> [nishio](https://x.com/nishio/status/2005278639961813266) 興味のある方はこちらのページをみてください！
+>  [遊びながら“協働”を学ぶ。日本中の学校・地域に『オープンソースの入口』を届けたい - CAMPFIRE (キャンプファイヤー)](https://camp-fire.jp/projects/895927/view?utm_campaign=895927)
+> [nishio](https://x.com/nishio/status/2005279088081293732) オープンソースプロジェクトはエンジニアだけで作るものではないってところがすごく面白いところで、これがゲームのメカニクスにもしっかり絡んできます
+>  ![image](https://pbs.twimg.com/media/G9Quk-naUAEcMS7?format=jpg&name=medium#.png)
+
 
 2025-12-02
 - [[Code for Japan Summit 2025]]で体験会をした
