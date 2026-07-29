@@ -3,7 +3,7 @@ title: "自作電子的KJ法ツールgrouping"
 ---
 
 ![image](https://gyazo.com/48d4e95e3be528f6df0e715a39b1c902/thumb/1000)
-
+- [[Grouping]]と読んでいた初期の電子的KJ法ツール
 
 - 2013-08~
 - [Demo](http://nishio.github.io/idea-generation/grouping/#fileIds=0ByJEiOHyOVoPNC15OXFRR2tOSm8) 今は動かない
@@ -22,3 +22,6 @@ title: "自作電子的KJ法ツールgrouping"
     - ![image](https://gyazo.com/48d4e95e3be528f6df0e715a39b1c902/thumb/1000)
     - [[やる気システム2013-09-14未整理のアイデア]]
 
+
+系譜: [[考えを整理するツールの系譜]]（[[Grouping]]→[[Regroup]]→[[Movidea]]→[[Kozaneba]]）
+共同編集は[[Google Realtime API]]依存で、同APIの2019-12停止により動作不能。nhiro.orgからは2026-07-29に削除
