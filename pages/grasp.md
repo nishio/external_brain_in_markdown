@@ -12,5 +12,5 @@ title: "grasp"
 [/villagepump/grasp](https://scrapbox.io/villagepump/grasp)
 
 2026-07-30
-- 数日前からOpus5と組み合わせて使っている
+- 数日前から[[Opus5]]と組み合わせて使っている
     - その前にはFableと組み合わせていることを<img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/><img src='https://scrapbox.io/api/pages/nishio/Fable/icon' alt='Fable.icon' height="19.5"/>という形で表現していたが面倒になったので<img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/>だけで表現している

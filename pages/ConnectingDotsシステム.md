@@ -65,3 +65,37 @@ title: "ConnectingDotsシステム"
 
 2026-07-30
 - [[何がDotsであるか]]
+
+2026-07-31
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>現時点で「トップからリンクしてるストーリーに含まれるドット」でないとしても、将来振り返ったときにつながる可能性があるドットに関して、AIのクロールや検索で発見可能な対象として整備されているべき
+- <img src='https://scrapbox.io/api/pages/nishio/Opus5/icon' alt='Opus5.icon' height="19.5"/>
+    - dots.json  # ★AIクロールの一次面: 全Dotのマニフェスト（全フィールド+status+verifiability）
+        - LLM は数百〜数千 Dot なら manifest を読んで推論・grep で足りる。主オーディエンス（未来の後ろ向き接続者＝AI）にはこれが本命。まずこれだけで要件を満たす。
+    - sitemap.xml  # 全Dot URLを列挙 → クローラが漏れなく辿れる
+    - llms.txt  # 「Dotの一次データは /dots.json」をAIに明示（クロール誘導の作法）
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>なるほどね〜
+    - この後、Webサイトの自己紹介でStoryを生成した時に使われたDotsを抽出してみる
+    - 当初「Dotsを作る、それを並べてStoryを作る」と考えていた
+        - 暗黙に「人間がそれを並べてStoryを作る」だった
+        - AIが膨大なデータからDotsの抽出とStory作成までを一気にやったのが今回の自己紹介update
+
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>旧プロトタイプにある自己紹介 Dot と今回自己紹介作成にあたってStory生成した結果としてpick upされたDotsとの間にどのような差があるか検討したい
+    - <img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/>
+        - Set A（旧プロトタイプの profile Dot）＝約15件。「最近の活動＋基本経歴」をマイルストーン単位で上から選んだもの（born / 博士 / 入社 / 著書 / 学位 / 理事就任 / 近年のブロードリスニング活動）。
+        - Set B（今回の5 facet Story の Dot）＝約40件（重複除く）。テーマの縦糸を辿った結果、中間・連結の Dot まで湧き出したもの。
+        - つまり A は「プロフィール枠を先に決めて代表イベントを摘む」トップダウン、B は「縦糸を辿って必要な点を掘り出す」ボトムアップ。これが一番効いている差です。縦糸を通すには支える点が要るので、Story 生成そのものが Dot 発見装置になっている（「[[線を引く行為が点を発見させる]]」の実証）。
+    - 深い差：同じ出来事が Story の高度で別 Dot になる
+        - 24歳博士（2006）：A では「博士取得」という経歴マイルストーン Dot。B（highdim）では「球面SOM で高次元遺伝子発現を可視化する研究」＝ベクトル可視化の縦糸の起点として再枠付け。同じ時期でも Story の角度が違えば別 Dot。
+        - word2vec本（2014）：A＝著書 Dot、B-intellectual-production＝著書、B-highdim＝「単語を高次元ベクトルで表現」。1出来事が3つの枠で現れる。
+        - 未踏理事（2015）：A＝就任 Dot、B-mentoring＝2015–2025 の期間 Dot（退任込み）。
+    - 24歳博士のように「A ではマイルストーン、B では研究の起点」と枠がかなり違う場合、本当に1 Dot＋2 caption で足りるか、それとも event 文言が枠に引きずられて事実部分を切り出しにくいか。
+        - word2vec本（2014）→ 畳める
+        - 未踏理事（2015–2025）→ 畳める
+        - 24歳博士（2006）→ 畳めない
+            - 畳もうとすると event を「博士取得（credential）」にするか「球面SOM研究（research）」にするか選ばされる
+            - さらに mentoring 用の「NAIST で後輩に教える立場に」も同期間の第3の事実。博士期は最低3つの sub-fact の container
+        - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>未踏の理事も「理事をやっていた期間」と「未踏ジュニアの設立」と「未踏ジュニアのメンター(継続中)」は別factじゃない？
+            - <img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/>私が間違えた根因は、元の facet Story の <li> 項目「2016年– 未踏ジュニア コファウンダー・メンター」自体が2つの fact を束ねていたこと。
+        - <img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/>mentoring「ITスクール2004・2005／ICTスクール2006 チューター」＝3回のチューター
+            - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>分けて語るエピソードがないからまとめといていいんじゃないかな
+
