@@ -2,8 +2,7 @@
 title: "Facebook期"
 ---
 
-それまでTwitterに投稿していたのが、Facebookに切り替わった。2012年ごろTwitterからFacebookに移動することを検討し始め、2013年2月に、Twitterから25万件のパスワード流出の可能性で、該当ユーザーが強制的にパスワードリセットされる事件で
-一時期Twitterが使えない状態になったのをきっかけにFacebookに移動。
+それまでTwitterに投稿していたのが、Facebookに切り替わった。2012年ごろTwitterからFacebookに移動することを検討し始め、2013年2月に、Twitterから25万件のパスワード流出の可能性で、該当ユーザーが強制的にパスワードリセットされる事件で一時期Twitterが使えない状態になったのをきっかけにFacebookに移動。
 - [Twitterユーザー約25万人分のパスワード流出の危険あり、該当ユーザーは強制的にパスワードリセット済み - GIGAZINE](http://gigazine.net/news/20130202-twitter-hacked/)
 
 Twitterがただ流れ去るものだったことに対し、Facebookが一年に一度巡ってくるものだったことで、アウトプットの[[螺旋階段]]的積み上げ効果が起きた
@@ -35,3 +34,5 @@ Twitterがただ流れ去るものだったことに対し、Facebookが一年�
 - [Facebookに書き続けることは損失なのではと思い始めた - 西尾泰和のはてなダイアリー](http://d.hatena.ne.jp/nishiohirokazu/20150426/1430059628)
     - [[はてなダイアリー]]の更新頻度が落ちている、Facebookに書いてしまうから、というブログ記事
     - 関連 [[はてなダイアリー期]]
+
+そもそもいつTwitterを使い始めたのか #Twitter期

@@ -8,9 +8,10 @@ title: "Twitter期"
 - > [nishio](https://twitter.com/nishio/status/19960741/quick_promote_web/intro) twitter
 
 > [Yappo](https://twitter.com/Yappo/status/1296115271740997632) どれも違くね？
->  2007年の4月頭にYAPC::Asia @ dankogai邸 hackathon してた時にながやまんが「TwittetていうおもろいAPI作ってるからそれ使ってなんかつくろ」て言うてたからみんなでアカウント取って遊んでた記憶。そん時はaudreytもおったな
+>  2007年の4月頭に[[YAPC::Asia @ dankogai邸 hackathon]] してた時にながやまんが「TwittetていうおもろいAPI作ってるからそれ使ってなんかつくろ」て言うてたからみんなでアカウント取って遊んでた記憶。そん時はaudreytもおったな
 >
 >  [https://togetter.com/li/1578715](https://togetter.com/li/1578715)
+- [[YAPC::Asia 2007 Tokyo]]
 
 > [otsune](https://twitter.com/otsune/status/1296116193271529472) オレが4回目にtweetしたのがこれなので、明らかにdankogai宅にたむろっていたタイミングで登録してる
 >  >otsune: YAPC::Asia
