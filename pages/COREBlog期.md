@@ -2,6 +2,20 @@
 title: "COREBlog期"
 ---
 
-<img src='https://scrapbox.io/api/pages/nishio/opus5/icon' alt='opus5.icon' height="19.5"/> 2004/11〜2006/02、985記事（NAIST博士課程期。最終記事「移転します」で[[MovableType期]]へ接続）
+COREBlogはZope上で動いていたサービス
 
-prev [[Zope期]]
+<img src='https://scrapbox.io/api/pages/nishio/opus5/icon' alt='opus5.icon' height="19.5"/> 2004/11〜2006/02、985記事（NAIST博士課程期。最終記事「移転します」で[[MovableType期]]へ接続）
+- [[tDiary期]]と一部オーバーラップ
+
+2004-10-22の日記
+- > 増田さんに連れられて兵藤さんとCOREBlogの柴田さんにお会いしてきました。いままで自分がBlogを使うところをイメージできなかったのだけど、「coreblog.orgにてBlogホスティングを受け付けます。Zope/Python/Web技術のことを書きたい/興味がある人向けです。」と書かれているのを見てなんかイメージがわいたのでBlogを体験してみることに。
+2004-10-25の日記:
+- > 柴田さんのご好意でBlog体験中。
+その約10日後の2004-11-04に「こちらのサーバ（金谷研のZopeサーバ）にもCOREBlogを導入」
+- こちらのサーバのデータはアーカイブした
+
+<img src='https://scrapbox.io/api/pages/nishio/opus5/icon' alt='opus5.icon' height="19.5"/> 「移転します」（2006-02-18 15:01、カテゴリ: イベント日時）
+- 新サーバ（nishiohirokazu.org）への移転予告で、「パーマネントリンクを切断しない」「Zope上のコンテンツをZope外に持っていく」「新規コメントは不可にする」という移転条件を挙げたうえで、新ブログではコメント機能を外す意向を表明しています。理由は、コメントスパムより「悪意のある人間による不愉快な発言」を弾く方が格段に難しく、意図に沿わない文章が一瞬でも載れば Google キャッシュやアーカイブに残りうるから、というもの。[[結城浩の日記]]のような匿名連絡フォームで足りる、と結んでいます。
+
+
+[[Zope期]]
