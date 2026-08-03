@@ -11,6 +11,7 @@ title: "Twitter期"
 >  2007年の4月頭に[[YAPC::Asia @ dankogai邸 hackathon]] してた時にながやまんが「TwittetていうおもろいAPI作ってるからそれ使ってなんかつくろ」て言うてたからみんなでアカウント取って遊んでた記憶。そん時はaudreytもおったな
 >
 >  [https://togetter.com/li/1578715](https://togetter.com/li/1578715)
+- > ながやまんがTwitter作ってるように見える文だこれ！正しくは「Twitterっていうおもろいのある。おもろいAPIも出してるから遊ぼー」ってノリや！w
 - [[YAPC::Asia 2007 Tokyo]]
 
 > [otsune](https://twitter.com/otsune/status/1296116193271529472) オレが4回目にtweetしたのがこれなので、明らかにdankogai宅にたむろっていたタイミングで登録してる
