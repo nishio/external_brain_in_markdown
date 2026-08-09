@@ -2,7 +2,10 @@
 title: "Visual Thinking系の検討とConnectingDotsの検討を組み合わせて考察"
 ---
 
+2026-08-01
 Visual Thinking系の検討と、ConnectingDotsの検討を組み合わせて考察
+
+(未整理ログ)
 <img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/>
 考察を書きました → 2026-08-01-ConnectingDotsのB面.md。結論を先に言うと：ConnectingDots は「A系（言語）の知識編集システム」で、その3層それぞれに西尾さんが別々に作ってきたB系（言語以前）の対応物が既に実在している。VT はその Dot層です。両 wiki は現時点で相互言及ゼロでした（grep確認済み）。
 
