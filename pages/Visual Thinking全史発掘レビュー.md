@@ -49,3 +49,18 @@ title: "Visual Thinking全史発掘レビュー"
 
 
 GitHubに10枚x30ページのMarkdownが用意された
+
+![image](https://gyazo.com/08f4929afeca3808cbe713ab053428e9/thumb/1000)
+- from [[同調圧力は善意の引き戻し]]
+- パネル数: 2
+- 要素: 人型7、外周境界2、三角形状のリンク3
+- トポロジー: 強調された1人が、囲まれた集団の内側から外側へ移る
+- 矢印: 収束する矢印3本
+- 変形: 強調された人物が境界の外へ出る
+- 構造式: highlighted figure inside boundary → highlighted figure outside boundary
+- 束の構造ラベル: boundary-crossing containment
+
+privateなindex
+- [https://github.com/nishio/vt-wiki/tree/main/data/review-queue](https://github.com/nishio/vt-wiki/tree/main/data/review-queue)
+
+
