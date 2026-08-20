@@ -83,9 +83,15 @@ privateなindex
 既存345件に grasp の育ち層を足して、その順で選別を再開する
 →これはイマイチ、確かに育ってるものは見つかるのだけど、それは「意識的・明示的にリンクをつないだ」ものなので、上位のものを見ても「意外な接続」の発見(0→1)にならない。
 
+2026-08-19
+- [https://github.com/nishio/vt-wiki/tree/main/data/review-queue](https://github.com/nishio/vt-wiki/tree/main/data/review-queue)
+
 batch-002
 - 2はかなり具体度が高い、もっと抽象化された断片があるかも？作るべきかも？採用
 - 3は分布図のところだけの図があるかも？不採用だが、ないなら作ってそれを採用
+    - [[濃い集団と広い集団]]
+    - [[pTTTC2024-11-12]]
+    - 意外とイメージしたものは描いてないのか
 - 1,4採用
 - 5,6は関連したもの、採用
 - 7採用
@@ -103,4 +109,10 @@ batch-002
 - 3以降、OK
 
 005
-- 1OK、
+- 1OK、知識のピラミッド図だね
+- 残りもOK
+
+急いで進めようとすると雑になるし、思考しなくなる
+
+
+[https://github.com/nishio/vt-wiki/tree/main/data/review-queue-kj-2026-08-19](https://github.com/nishio/vt-wiki/tree/main/data/review-queue-kj-2026-08-19)
