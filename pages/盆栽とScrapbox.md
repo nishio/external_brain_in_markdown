@@ -4,6 +4,8 @@ title: "盆栽とScrapbox"
 
 ![image](https://gyazo.com/3b28ce4a3f9188918cc937a0267f73b6/thumb/1000)
 
+[[伸びるに任せてから剪定]]
+
 from [[植物のメタファーあつめ]]
 盆栽とScrapbox
 ## [[盆栽とScrapbox]]

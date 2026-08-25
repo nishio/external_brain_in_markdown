@@ -2,6 +2,9 @@
 title: "Visual Thinking全史発掘レビュー"
 ---
 
+2026-08-10~24に行った、過去の図解の600枚レビュー
+- next [[Visual Thinking全史発掘レビュー・その2]]
+
 2026-08-10
 <img src='https://scrapbox.io/api/pages/nishio/Codex/icon' alt='Codex.icon' height="19.5"/>
 - Visual Thinking全史発掘レビュー
@@ -115,6 +118,42 @@ batch-002
 
 急いで進めようとすると雑になるし、思考しなくなる
 
+2026-08-19
+- KJ法キューを作った
+<img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/>
+- [[VTレビューキュー]]は採否ゲートではなく振り返り装置である（2026-08-13 の方針転換）
+    - AI-only 全自動化を撤回した理由は精度ではなく、「過去を自分のペースで振り返る＝思考の発展」という人間側の価値を消してしまうから
+- 旧 TF-IDF 30束×10件キューは先読みで待ち時間ゼロだったのに 10/345 で停止した
+    - 診断：TF-IDF＋構造ファミリー束は「乾いた分類」で、束を眺めても発見が起きない
+    - → 束ね方そのものを作り直したのが KJ法型キュー（2026-08-19 生成）
+- KJ法型キューとは、画像だけを直接比較して可変サイズの束を作り、名付けを最後に回した先読みキューである
+    - membership 決定に使うのは card ID と画像 pixel だけ。ページタイトル・本文・構造description・既存family・TF-IDF・embedding は隠す
+    - 束は固定10件でなく可変。312件 → 27束・300件を freeze、freeze 後に構造ラベル、その後に page_ja 由来の主題副ラベル。[[名付けを急がない]]
+    - singleton 5・曖昧境界 32・代替grouping 6 を潰さず manifest に残す
+    - 人間には束の境界を見せず 44ページ・各最大10件の連続キューとして出す
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> Q: なぜ旧TF-IDFを一旦やめたのか？
+    - <img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/> A: TF-IDF・embedding・特徴距離は、記述語彙に先回りして分類を固定する
+        - 束ねの入力は画像ではなく、AIが書いた構造description（formula / topology / arrows / transform / elements）だった
+        - →言語化を一度通してから所属が決まる
+            - 語彙が近い図が近くなる。図として近い図が近くなるとは限らない
+                - 事後検証はこの読みと整合：旧束では skip された図の記述が accept されたものより平均 12.11語多い（p<0.00005）＝細部の語の一致で束に入った図が、人間には関係が弱い
+        - 順序を逆にする
+            - card ID と画像 pixel だけを直接見比べ、「なぜか近い」関係から寄せる
+            - membership freeze 後に構造ラベル、さらに後に主題副ラベル
+                - これは KJ法の「大分けから小分けはまったく邪道」をそのまま適用したもの
+        - 固定サイズのクラスタは、枠を埋めるために無関係な図を混ぜる圧を作る
+            - 「10件は発見時のクラスタ容量ではなく、人間への提示単位だけ」（西尾, 明示）
+            - よって KJ 版の束は可変件数（312件→27束）。10件は 44ページへ割る表示上限としてのみ使う
+        - 孤立例・曖昧な境界・別の寄せ方案を捨てない
+            - 30束×10件の排他的分割は、この3つを構造的に表現できない
+            - KJ版は singleton 5 / 曖昧境界 32 / 全体代替案 6 を manifest に保存
+- 旧TF-IDF 30束は削除せず対照として残す（同日決定）
+    - 「今回は利用可能・ただし次回以降の標準にはしない」——置き換えでなく併存
+    - この判断があったから後日の記述長比較（08-24）が成立した
+(2026-08-25補足)
+- この意図で「新しいキュー」を作ったのは事実だが、クラスタリングの差異だけではなく「前者はMarkdown on GitHub」「後者はローカルで見ることができるHTML」という差異が生まれた
+    - 新幹線移動でレビューする旨の意図を伝えてCodex Sol Ultraに「準備しといて」とふわっと依頼したらオフラインでレビューできるようにそうしてくれた
+    - 振り返って考えるとこの違いが大きい(後にTF-IDF側も同様にローカルHTMLにしてレビュー完走したので)
 
 [https://github.com/nishio/vt-wiki/tree/main/data/review-queue-kj-2026-08-19](https://github.com/nishio/vt-wiki/tree/main/data/review-queue-kj-2026-08-19)
 KJ法キュー
