@@ -7,6 +7,7 @@ title: "THINKLET"
 [[Fairy Devices]]
 
 related [[LINKLET]]
+- デバイスの名前がTHINKLETで、それが手軽につながるサービスがLINKLET
 
 [THINKLET App Developer | THINKLET App Developer](https://fairydevicesrd.github.io/thinklet.app.developer/)
 
