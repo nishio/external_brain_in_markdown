@@ -2,6 +2,8 @@
 title: "THINKLET"
 ---
 
+![image](https://gyazo.com/86f8ae879e32e5413b1a27d49ae6bfa2/thumb/1000)
+
 ![image](https://gyazo.com/aeb0f389345197a9b502550ac060847a/thumb/1000)
 [THINKLET®︎ | mimi®︎](https://mimi.fairydevices.jp/technology/device/thinklet/)
 [[Fairy Devices]]
@@ -15,3 +17,5 @@ related [[LINKLET]]
 メモ
 `$ adb shell ls /sdcard/Android/data/com.example.fd.camera/files/`
 `$ adb pull /sdcard/Android/data/com.example.fd.camera/files/aaa.mp4`
+
+[[THINKLETで読書支援]]
