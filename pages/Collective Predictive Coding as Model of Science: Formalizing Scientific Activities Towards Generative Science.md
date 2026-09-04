@@ -16,7 +16,7 @@ title: "Collective Predictive Coding as Model of Science: Formalizing Scientific
 
 > [HiroTHamadaJP](https://x.com/HiroTHamadaJP/status/1831179077023310010) 共著である Collective Predictive Coding as Model of Science がarxivに公開されました！
 >  谷口さん @tanichu リードの元、[[集団的予測符号化]]を科学的行為について当てはめた論文です
-- [[谷口忠大]]
+- [[谷口 忠大]]
 >  科学哲学から、science of science、DeSciまで幅広い射程に向けて科学のあり方を理論的に捉える枠組みとしての集団的予測符号化を考えてみようという提案を行っています！
 >   論文はこちら [https://arxiv.org/abs/2409.00102](https://arxiv.org/abs/2409.00102)
 >   谷口さんの近著 『[[記号創発システム論]]』もぜひお手に取ってみてください！
