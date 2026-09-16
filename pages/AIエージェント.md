@@ -47,3 +47,5 @@ Googleの出しているWhite Paper(2024-09)
 [AIエージェントの評価｜Weights & Biases Japan](https://note.com/wandb_jp/n/nf563ea9d3096?sub_rt=share_pb)
 
 [The Shift from Models to Compound AI Systems – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
+
+[[AI Agent]] / [[AI Agents]]
