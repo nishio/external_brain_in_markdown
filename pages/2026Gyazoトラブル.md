@@ -2,6 +2,11 @@
 title: "2026Gyazoトラブル"
 ---
 
+[[最も広い問題を最も安い手段で]]
+[https://youtu.be/3YlYrPGbluA](https://youtu.be/3YlYrPGbluA)
+
+
+
 <img src='https://scrapbox.io/api/pages/nishio/GPT/icon' alt='GPT.icon' height="19.5"/>2026年9月11日、Gyazoの画像アップロードサーバーの脆弱性が突かれ、攻撃者がデータベースへ侵入しました。侵入経路は翌日に遮断・修正されています。
 
 流出が確認されたのは主に次の情報です。

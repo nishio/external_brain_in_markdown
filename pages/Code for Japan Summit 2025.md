@@ -97,7 +97,9 @@ slide: [デジタル民主主義の川の流れを見る](https://docs.google.co
 draft: [[デジタル民主主義の川の流れを見る(draft)]]
 Slido: [https://app.sli.do/event/pxg3tcCg7sfp8GoWmBPqMj](https://app.sli.do/event/pxg3tcCg7sfp8GoWmBPqMj)
 - [[デジタル民主主義ブームを振り返る(拡張質疑)]]
-
+- ▼ セッション当日の録画（Code for Japan 公式、39分）
+    - 鈴木健さん・関治之さん・山口さんとの4人セッション全体です。
+    - [https://www.youtube.com/watch?v=Laef392EX6g](https://www.youtube.com/watch?v=Laef392EX6g)
 
 > [jollyjoester](https://x.com/jollyjoester/status/1994614719605625120) 「デジタル民主主義ブームを振り返る」
 >  この4人のお話めちゃめちゃおもしろい！
