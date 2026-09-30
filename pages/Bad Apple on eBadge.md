@@ -2,6 +2,9 @@
 title: "Bad Apple on eBadge"
 ---
 
+2026-10-01
+[https://youtu.be/0eZnS1jooaM](https://youtu.be/0eZnS1jooaM)
+
 2026-09-26
 > [nishio](https://x.com/nishio/status/2103656705901133979) Bad Apple on eBadge、白黒だと思ってたけど意外とグレースケールの表現が多い、対応した
 >  ![image](https://scrapbox.io/files/6ab8d12fb4cccb6ce7e009b2.png)
