@@ -38,6 +38,7 @@ title: "Code for Japan Summit 2026"
 [AIにはつくれないもの ― AIを受け止める社会を、シビックテックで](https://summit.code4japan.org/program/session-glenweyl)
 15:20-16:00 3F HALL
 
+[「AIの進歩を社会の豊かさにつなぐために — Glen Weyl講演メモ」 / X](https://x.com/nishio/status/2106562751296647279)
 
 [[Code for Japan Summit]]
 
