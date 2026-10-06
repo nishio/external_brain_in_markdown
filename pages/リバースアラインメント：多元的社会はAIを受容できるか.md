@@ -7,6 +7,9 @@ PRANCE国際シンポジウム
 - Reverse Alignment: Can Pluralistic Societies Accept AI?
 - International Symposium at Keio University
 
+公式ページ
+- [【開催案内】PRANCE国際シンポジウム「リバースアラインメント：多元的社会はAIを受容できるか」（2026.10.4開催） | イベント | 慶應義塾](https://www.keio.ac.jp/ja/org/kgri/event/20260918-01/)
+- [Program (Reverse Alignment: Can Pluralistic Societies Accept AI?) - Google ドキュメント](https://docs.google.com/document/d/1ABJu-ZVwjQtvXI_pVU1AFjK0-f2s-jJjNiRC8lHrRAM/edit?tab=t.0#heading=h.af2wqgjleqqs)
 
 12:30　開場・受付開始（北館 3階 大会議室前）
 
@@ -24,3 +27,5 @@ PRANCE国際シンポジウム
 
 [[PRANCE2026-10-04]]
 [[PRANCE]]
+
+[[リバースアライメント]]

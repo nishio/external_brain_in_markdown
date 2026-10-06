@@ -2,6 +2,9 @@
 title: "Bad Apple on eBadge"
 ---
 
+2026-10-06
+- [https://github.com/nishio/ebadge-badapple](https://github.com/nishio/ebadge-badapple)
+
 2026-10-01
 [https://youtu.be/0eZnS1jooaM](https://youtu.be/0eZnS1jooaM)
 

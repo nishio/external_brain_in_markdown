@@ -2,6 +2,10 @@
 title: "ESP32-S3-Touch-AMOLED-1.75C"
 ---
 
+CPUは240MHzのデュアルコア、作業用メモリは内蔵512KB＋[[PSRAM]] 8MBです。
+- チップ	[[ESP32-S3R8]]
+- CPU	[[Xtensa LX7]]、32ビット、2コア
+
 ![image](https://gyazo.com/ded4f432113eda794ff1ecaa31598a57/thumb/1000)
 [ESP32-S3 1.75inch AMOLED Round Touch Display Development Board, 466 × 466 resolution, Aluminum Alloy Case, Onboard Dual Microphones Array, Portable Mini Display | ESP32-S3-Touch-AMOLED-1.75C](https://www.waveshare.com/esp32-s3-touch-amoled-1.75c.htm)
 <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>
