@@ -2,6 +2,8 @@
 title: "リバースアラインメント：多元的社会はAIを受容できるか"
 ---
 
+2026-10-04に開催されたイベント
+
 [[リバースアラインメント]]：[[多元的社会]]はAIを受容できるか
 PRANCE国際シンポジウム
 - Reverse Alignment: Can Pluralistic Societies Accept AI?
