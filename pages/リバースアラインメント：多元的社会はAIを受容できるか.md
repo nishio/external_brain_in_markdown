@@ -31,3 +31,7 @@ PRANCE国際シンポジウム
 [[PRANCE]]
 
 [[リバースアライメント]]
+
+> [takerunakao](https://x.com/takerunakao/status/2106719758897021208) 【PRANCE国際シンポジウム「リバースアラインメント：多元的社会はAIを受容できるか」】AIの実装された社会に求められるのは、人間側の価値観へのアラインメント（調律）と、爆発的に進化するAIを受容する仕組み作りとそれらの規範を認識・共有する状態になること。 #リバースアラインメント
+>  ![image](https://pbs.twimg.com/media/HTySdACbcAAOXsw?format=jpg&name=medium#.png)
+

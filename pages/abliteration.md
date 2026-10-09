@@ -2,6 +2,8 @@
 title: "abliteration"
 ---
 
+[[AIの拒否]]を下げる技術
+
 <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>
 abliteration研究はどう発展したか
 1. 出発点は「拒否は一つの方向に載っている」

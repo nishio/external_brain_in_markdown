@@ -39,6 +39,9 @@ title: "Code for Japan Summit 2026"
 15:20-16:00 3F HALL
 
 [「AIの進歩を社会の豊かさにつなぐために — Glen Weyl講演メモ」 / X](https://x.com/nishio/status/2106562751296647279)
+- ![image](https://scrapbox.io/files/6ac8d0e36bd7d205ec6ace4f.png)
+
+[AIをつくるだけでは足りない。「AIを受け止める社会」をどうつくるか 「リバース・アラインメント」｜Code for Japan Summit 2026参加レポート｜伴野 智樹](https://note.com/tomoki_banno/n/n6debc871ef0f)
 
 [[Code for Japan Summit]]
 
