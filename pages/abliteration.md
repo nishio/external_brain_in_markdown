@@ -3,6 +3,7 @@ title: "abliteration"
 ---
 
 [[AIの拒否]]を下げる技術
+- <img src='https://scrapbox.io/api/pages/nishio/sge/icon' alt='sge.icon' height="19.5"/> Abliteration（アブリテレーション）は、英語の "ablate"（外科的に切除する） と "obliterate"（抹消する・消し去る） の2つの言葉を組み合わせた造語です。
 
 <img src='https://scrapbox.io/api/pages/nishio/GPT5/icon' alt='GPT5.icon' height="19.5"/>
 abliteration研究はどう発展したか
@@ -26,3 +27,8 @@ abliteration研究はどう発展したか
     - 2025年末から2026年初頭の比較プレプリントは、Heretic、DECCP、ErisForge、FailSpyの4実装を16モデルで比較しています。単純なsingle-pass方式は一部の評価で能力を比較的保存しましたが、数学能力は特に敏感で、モデルと方式の組み合わせによってGSM8Kが+1.51ポイントから−18.81ポイント、相対では最大−26.5%変化しました。([arXiv](https://arxiv.org/abs/2512.13655))
     - この論文は単著のarXivプレプリントであり、評価対象も7B〜14B中心なので、Tongyi 30B-A3Bにそのまま外挿はできません。それでも、拒否率だけを見て「成功」と判定すると、推論能力の損傷を見落とすという警告にはなります。
 
+[[Heretic]]
+- 層ごとにどの次元を潰せばいいのかを[[Optuna]]で探索することで自動化
+
+[[huihui]] 系は全層ではなく層の帯（例: 18〜51）だけ抜く方向に寄っています。
+[[Abliterix]] は可逆な rank-1 LoRA と、拒否ベクトルから能力側の回路を剥がす SRAを足した先の実装です。
