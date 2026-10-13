@@ -12,6 +12,35 @@ title: "VSCode Remote ターミナル永続化"
 
 スクリプト: [vscode-tmux-tab](https://gist.github.com/nishio/815b90c837e1d70ebcb85ca94fd51e88)
 
+2026-10-12: タブに作業内容を出す（タイトル転送）
+- これまでタブ名が `bash` 固定で、どのタブがどの作業か分からなかった。
+- 伝達経路は Claude Code → tmux → VSCode タブ の3段。調べたら中間だけ塞がっていた。
+    - Claude Code: 各ペインの pane_title (#T) に作業内容を既に設定済み（例 `✳ GLM拒否実験`）
+    - tmux: `set-titles off` で外側へ転送していなかった ← 主犯
+    - VSCode: タブ名を `${sequence}` から取る設定がなく既定の `${process}`＝bash を表示
+- 対処は配管2箇所だけ。pane_title は Claude が入れてくれるので中身の生成は不要。
+~/.tmux.conf(追記)
+
+```
+set -g set-titles on
+set -g set-titles-string "#T"      # #T = pane_title = Claude が入れた作業内容
+```
+
+settings.json(Machine, 追記)
+
+```
+"terminal.integrated.tabs.title": "${sequence}",
+"terminal.integrated.tabs.description": "${process}"
+tmux 側は `tmux set-option -g ...` で稼働中サーバに即時適用できる。VSCode 側は Reload Window が必要。
+Claude が走っていないペインは #T がホスト名になるので素の bash かどうかも一目で分かる。
+```
+
+
+
+
+
+
+2026-06-12
 何が起きているか（settings.json）
 - "terminal.integrated.defaultProfile.linux": "tmux-tab"
     - VS Code でターミナルを新規に開くと、shell の代わりに毎回 /home/ubuntu/bin/vscode-tmux-tab が起動します。
