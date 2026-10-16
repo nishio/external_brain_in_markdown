@@ -4,7 +4,7 @@ title: "(Column) In the hippocampus time is compressed"
 
 Theta wave occurs in the hippocampus when inputting information. This theta wave works to compress time to about ten times.
 
-![image](https://gyazo.com/057170079724e3b15c1d07b73a422a74/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d196bd7d205ec7eb2f4.jpg)
 Fig: Time compression by the hippocampus
 
 - Horizontal arrow: Time series

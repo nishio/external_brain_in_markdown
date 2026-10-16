@@ -2,7 +2,7 @@
 title: "flexboxで頭が変にズレる"
 ---
 
-![image](https://gyazo.com/8b4090e732de5400efd7e902063fa21a/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf76bd7d205ec7ead62.jpg)
 こういう現象の相談を受けてしばらく悩んだのだが謎が解けたのでまとめ
 
 再現コード
@@ -21,7 +21,7 @@ title: "flexboxで頭が変にズレる"
         - ![image](https://gyazo.com/8535a9689e88fc53afe874c8fbdf5654/thumb/1000)
 
 インライン要素のベースライン揃え
-- ![image](https://gyazo.com/de07862ebf5706f4860cd1454ad705f9/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18cf86bd7d205ec7ead89.jpg)
 - [https://www.google.co.jp/amp/s/html5experts.jp/takazudo/13339/amp/](https://www.google.co.jp/amp/s/html5experts.jp/takazudo/13339/amp/)
 
 [[flexbox]]

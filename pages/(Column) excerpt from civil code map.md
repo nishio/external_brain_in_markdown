@@ -4,7 +4,7 @@ title: "(Column) excerpt from civil code map"
 
 Here I would like to introduce the actual civil code map. However, the map is on the large paper which joined several sheets of A4 paper. So, I introduce the excerpt version I used to explain the concept of the [[claim]] for engineers.
 
-![image](https://gyazo.com/8e36001c1a00ea8aa8b180bbe021950e/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1d6bd7d205ec7eb3e2.jpg)
 Fig: Excerpt from my civil code map
 
 There are five sections in the Civil Code. This time, we focus only on section 2 and 3.

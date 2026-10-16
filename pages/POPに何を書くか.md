@@ -2,7 +2,7 @@
 title: "POPに何を書くか"
 ---
 
-![image](https://gyazo.com/065599db228860f5292d3138b74859ea/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cef6bd7d205ec7eac16.png)
 書くネタを断片的にメモしておいて後でまとめる
 - コーディングを支える技術の著者による　最　新　作
 - 陳腐化しない技術書を目指しました

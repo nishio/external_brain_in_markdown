@@ -2,7 +2,7 @@
 title: "Raven's Progressive Matrices"
 ---
 
-![image](https://gyazo.com/cf452f514709c228d16b7be229d99f29/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ced6bd7d205ec7eabc0.png)
 [https://en.wikipedia.org/wiki/Raven's_Progressive_Matrices](https://en.wikipedia.org/wiki/Raven's_Progressive_Matrices)
 
 IQテストでよく使われるやつ

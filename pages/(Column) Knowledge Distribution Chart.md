@@ -7,7 +7,7 @@ I drew a chart in [[(6.3.4) You can learn from anyone]] with the field of knowle
 [[Radar chart]]s are used for similar purposes. There may be many readers familiar with radar charts. The two radar charts in the figure below represent the knowledge amount of each five field of two people with different fields of expertise.
 
 
-![image](https://gyazo.com/c1dc70a839ae9e3a08dcd4832ac155f7/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1f6bd7d205ec7eb435.jpg)
 Relationship between distribution chart of radar chart and knowledge
 
 The pointed part is that person's strength. Five graduated line represent five knowledge fields. Next to the radar chart, I draw a line chart with five knowledge fields on the horizontal axis and knowledge volumes in that field on the vertical axis. This expresses exactly the same content. This line chart is smoothed and the two are superimposed is the distribution chart of the knowledge of the right end.

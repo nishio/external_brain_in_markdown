@@ -54,7 +54,7 @@ python tools/conv_cmap.py -c KSC-EUC=euc-kr -c KSC-Johab=johab -c KSCms-UHC=cp94
 
 
 抽出例
-![image](https://gyazo.com/ace0fa36a067600a48c2ea4e4b9391db/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cec6bd7d205ec7eaba9.png)
 cmap生成後のPDFMinerでの結果
 > この本の目的
 >

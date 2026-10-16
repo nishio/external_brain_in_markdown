@@ -4,7 +4,7 @@ title: "Kozane method"
 
 <img src='https://scrapbox.io/api/pages/nishio/jaen/icon' alt='jaen.icon' height="19.5"/>Machine Translation from [[こざね法]]
 - Methods of [[organizing thought]] introduced by [[Tadao Umesao]] in [[The Art of Intellectual Production]]. p.202
-- ![image](https://gyazo.com/3f79670a7f18423e3c645f0effa41bcd/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18ce16bd7d205ec7ea99b.png)
 - > The following techniques may be helpful in constructing coherent thoughts and sentences.
 - > First, prepare a piece of paper... and write on it a word, a phrase, or a short sentence, one item at a time, that is relevant to the subject at hand. Write as you see fit, in any order....
 - > When you have finished, put the sheets of paper on the table or on the tatami mat...

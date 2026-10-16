@@ -5,7 +5,7 @@ title: "Javaを知らない人がJavaScriptをJavaと略す"
 WikipediaをWikiと略すのも同じ
 ![image](https://gyazo.com/4a23663112b858995e4d0a9bd1d6a215/thumb/1000)
 で、JavaScriptをJavaと略さずにJSと略したBさんがAさんのことを馬鹿にすることがあるのだけど、そのBさんもJSが日本総合住生活株式会社という従業員1000人を超え、50年以上の歴史がある企業の著名な略称であり、Yahooで「JS」を検索するとこちらがヒットするということを知らないケースが多い。
-![image](https://gyazo.com/808e91cfacb2434583c57e99641bc5a3/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d176bd7d205ec7eb295.jpg)
 この指摘を受けたBさんが「文脈で区別できる」と主張した場合、「だったら『ブラウザで再生してる動画をJavaで制御する』という使い方は文脈でJavaScriptのことであることが明らかなのだからJavaと略していいだろ」と切り返されることになる。
 
 関連

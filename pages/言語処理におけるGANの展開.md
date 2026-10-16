@@ -2,7 +2,7 @@
 title: "言語処理におけるGANの展開"
 ---
 
-![image](https://gyazo.com/89f4af857610ae486f09b7f2598cd5dd/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cee6bd7d205ec7eabed.png)
 - [Slideshare](https://www.slideshare.net/mamoruk/jsai2018gan4nlp)
 - [[小町 守]]
 - [[自然言語処理]]における[[GAN]]
@@ -27,7 +27,7 @@ SeqGAN: 系列データのための GAN の古典的論文
 - ポイント
     - • 系列を扱う場合 Generator の出力が離散値なの で、Discriminator の学習が困難 →強化学習を用いて Generator を学習
     - • Discriminator は完全な系列しか評価できない →モンテカルロ探索を行う
-![image](https://gyazo.com/394f2cbcea32a9323ea1a3f673976664/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cef6bd7d205ec7eac05.png)
 
 - 単語列を「強化学習における行動の連続」と解釈
 - ある単語列が出た後の、次の単語の出現確率の分布

@@ -4,7 +4,7 @@ title: "NoCode"
 
 ## ![image](https://gyazo.com/a1b579c15c3a9eb487eb50a3c41a2e5c/thumb/1000)
 ## ![image](https://gyazo.com/e5d2eb5b040cd7a25408f8c409c5569e/thumb/1000)
-## ![image](https://gyazo.com/a5acb46a233422c87d9bf12ae02535a1/thumb/1000)
+## ![image](https://scrapbox.io/files/6ad18cf56bd7d205ec7ead07.jpg)
 
 NoCodeに関して、新しく書かれるプログラムの集合を頭に浮かべて「NoCodeでできることは一部に過ぎない」「NoCodeではカバーできないようなものがある」みたいな話を見たけど、これは視野が限定的だと思う。
 
@@ -19,7 +19,7 @@ NoCodeに関して、新しく書かれるプログラムの集合を頭に浮�
     - 紙とペンだったりExcelと電子メールだったり
     - もともと「新しくプログラムを書く」ではない選択肢がある
     - ここに新たなNoCodeツール(N)が加わることは、顧客視点では何も特殊なことではない。
-        - ![image](https://gyazo.com/a5acb46a233422c87d9bf12ae02535a1/thumb/1000)
+        - ![image](https://scrapbox.io/files/6ad18cf56bd7d205ec7ead07.jpg)
     - 顧客は自分の用事を片付けるのに便利な道具があれば使う
 
 技術的には、NoCodeツールを使うことによって解決できる問題は、プログラムを書くことによっても解決できる。
@@ -41,7 +41,7 @@ NoCodeツールがクラウド上にあってAPIリッチである場合、プ�
 - この「LowCode領域が作り出されること」がプログラマ視点では面白いんだけど、顧客視点ではピンとこない人が多い。
     - 長期的に見ると「用事の自動化」が入手しやすくなる効果がある
     - まだまだ認知に手間と時間をかけないと認知してもらえない感じ
-- ![image](https://gyazo.com/1308327aa2f5b32ba0009c97c3278003/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18cf66bd7d205ec7ead3b.jpg)
     - この図はイマイチだと思う、定義域が不明瞭
     - NoCode普及後に生まれる仕事が同じ図に書かれてるのがおかしい
     - ![image](https://gyazo.com/a910fd27040cb58063af7aeaff0d4722/thumb/1000)

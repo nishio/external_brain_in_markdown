@@ -6,7 +6,7 @@ I used the method described in this chapter for years. I use the method for prep
 
 So, as a concrete example here, I show you some pieces for the chapter.
 
-![image](https://gyazo.com/e9f5bb041ededf27c04c0a116d4b5f13/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1e6bd7d205ec7eb3e7.jpg)
 Fig: the actual pieces for writing this chapter
 
 Rough translation of each piece for English readers is as follow. The broken grammar is intentional because I didn't care about grammatical correctness when I made the real Japanese pieces.):

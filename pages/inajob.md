@@ -2,5 +2,5 @@
 title: "inajob"
 ---
 
-![image](https://gyazo.com/b8becd2c877f971d4092f3cb17cbcdf2/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d266bd7d205ec7eb558.png)
 [/inajob/inajob](https://scrapbox.io/inajob/inajob)

@@ -9,7 +9,7 @@ after
 - ![image](https://gyazo.com/de44ba66120e18f25139076911555b8e/thumb/1000)
 
 before
-- ![image](https://gyazo.com/6047f8b775caaac14548d4269dbbd426/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18d146bd7d205ec7eb23c.png)
     - 考えたこと
         - リスト冒頭のマージンが無駄
         - タイトルをリンクにしたらShowLogボタンは不要？
@@ -34,7 +34,7 @@ before
 - ![image](https://gyazo.com/ae01e39e383ecb4621a638308abf68e2/thumb/1000)
 
 - 実機で確認
-    - ![image](https://gyazo.com/0771827811547cdaf231128ea8e29856/thumb/1000)
+    - ![image](https://scrapbox.io/files/6ad18d156bd7d205ec7eb26a.png)
         - あー、テキストの長さがまちまちだとそうなるのかー
 - スマホのローカルストレージに保存されてるトークリストを開発PCに持ってきて試したい
 - [[✅トークリストのエクスポート/インポート]]

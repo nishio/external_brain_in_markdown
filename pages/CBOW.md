@@ -2,5 +2,5 @@
 title: "CBOW"
 ---
 
-![image](https://gyazo.com/11ed89fd2b46770c70567529b44fda9e/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf06bd7d205ec7eac33.png)
 [[word2vecによる自然言語処理]] p.41

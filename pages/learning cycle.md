@@ -4,7 +4,7 @@ title: "learning cycle"
 
 The figure comes in [[(0.2) How to learn programming]], and comes again in [[(1.1) The learning cycle]].
 
-![image](https://gyazo.com/d8fa43c8a552b976951921757cb5b25a/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1d6bd7d205ec7eb3b7.jpg)
 Fig: Learning process is a repetition of three phases: [[information gathering]], [[modeling]], [[verification]]
 
 - [[具体]] = [[concrete]] phase

@@ -123,22 +123,22 @@ Aの左に壁がある
 - もし横に伸びるとすると7と2の達成のために壁がどんどん決まっていって、壁が輪になってしまう
     - ![image](https://gyazo.com/c89f286ca2a905941b8a646b715b6197/thumb/1000)
 - よって3は縦に伸びる
-- ![image](https://gyazo.com/6eae57fa455c33bab468c3fd2fb1b3ec/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18cf66bd7d205ec7ead3d.jpg)
 - 下の2は
     - 角に線が触れたら対角は2
     - 左に伸びると3になる
 - ので上に伸びる
-- ![image](https://gyazo.com/34e5c2b0329491884d44178a283f63f2/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18cf76bd7d205ec7ead6a.jpg)
 
 塗る
-- ![image](https://gyazo.com/af21a06d070a33279ef9e1e7828017f2/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18cf86bd7d205ec7ead9a.jpg)
 - 上辺の4に注目
     - 青の時、縦4か112かのどちらか。112だと2がNGなので縦4、黄色は止まる
     - 黄色の時、黄色を引き出そうとしても下の4が横4になって止まる
 - よってこちらサイドから黄色を引き出すことはできず、右辺の黄色はつながらなければならない
 
 右辺に注目
-- ![image](https://gyazo.com/eb5b85250de022db8265e2cc74da60c8/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18cf96bd7d205ec7eadc9.jpg)
 
 - この6マスを、黄色をつなげつつ、4の制約を満たすように塗る問題
 - もし上4が青なら
@@ -152,7 +152,7 @@ Aの左に壁がある
 - よって下4は黄色に確定
 - その上のマスは青に確定
 - 下4は横31に確定するので、上4が縦4に確定する
-- ![image](https://gyazo.com/2255fd37f7338f0ceccc9a6aae2ad4b1/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18cfa6bd7d205ec7eadec.jpg)
 
 - 4が青に確定する。
     - 上の図を描いた時に見落としていた
@@ -182,7 +182,7 @@ Aの左に壁がある
 ![image](https://gyazo.com/b41a01aff4769cd233980ad14ddcef0e/thumb/1000)
 
 4は青か黄色か
-- ![image](https://gyazo.com/7fb28ae28ac233eb465fef9181507a70/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18cfb6bd7d205ec7eae18.jpg)
 - もし黄色なら
     - 右は青
     - 3が縦に確定、左が青

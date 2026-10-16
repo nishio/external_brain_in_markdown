@@ -138,7 +138,7 @@ title: "BMOT特別授業第4回「知的生産」"
     - [/bmot-nishio-series/BMOT特別授業第3回「知的生産」](https://scrapbox.io/bmot-nishio-series/BMOT特別授業第3回「知的生産」)
 
 - 次回のアナウンス
-![image](https://gyazo.com/c862e8d729786aa10b045a75d88ee072/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cee6bd7d205ec7eabd7.png)
 
 フィードバック
 - [/otakumesi/2018/10/10 西尾泰和さんが東工大BMOTで開催している「知的生産」という授業に参加してきた](https://scrapbox.io/otakumesi/2018/10/10 西尾泰和さんが東工大BMOTで開催している「知的生産」という授業に参加してきた)

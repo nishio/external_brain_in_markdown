@@ -7,7 +7,7 @@ title: "Equality v.s. Equity"
 ![image](https://cdn-images-1.medium.com/max/2000/1*d7_IphwHToS2OETu2i1xRw.png)
 [src](https://artplusmarketing.com/equality-equity-freedom-55a1d675b5d8)
 
-![image](https://gyazo.com/4b5d5540df154a296d3b21aa9c77f31c/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cea6bd7d205ec7eab47.png)
 [src](http://www.gcorr.org/equity-vs-equality/)
 
 こういう絵を見て「なるほど、Equityの方がいいね！」と思ってしまうのはミスリーディング

@@ -35,7 +35,7 @@ title: "BMOT特別授業第1回「知的生産」"
     - 「Q: 会社は副業に関して何も言わないんですか？」「A: 会社は副業超ウェルカムです」
 
 - 知的生産を考えるようになった一番最初のきっかけはドラッカーだった
-    - ![image](https://gyazo.com/3f00253d373d817846db5cae9c1ae5e0/thumb/1000)
+    - ![image](https://scrapbox.io/files/6ad18ce16bd7d205ec7ea997.jpg)
     - 人が1人作業をして靴下が1つ出来る
     - 機械が導入されて生産性が向上する
     - このころ、マルクスとかはこの生産性の向上分を装置を所有している資本家が取ることによって格差が増加して社会が不安定になるとか言ったわけだけども、現実には大きな問題は起きなかった、なぜか
@@ -183,18 +183,18 @@ title: "BMOT特別授業第1回「知的生産」"
 - ホワイトボードは「全員の目線を合わせる」意味では有用
 ーーーーー
 手書きノート
-![image](https://gyazo.com/c43f94ec379c50fa1953fff425f21de4/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce26bd7d205ec7ea9c9.jpg)
 
-![image](https://gyazo.com/3f00253d373d817846db5cae9c1ae5e0/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce16bd7d205ec7ea997.jpg)
 
-![image](https://gyazo.com/31e5b54a1b64c760f33d9c1622d72fe9/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce36bd7d205ec7ea9f3.jpg)
 
-![image](https://gyazo.com/83c16f5b4095ed1575baa4dbb13c8706/thumb/1000)
-![image](https://gyazo.com/bdae91bd56620e2a41b727f1b36dbd58/thumb/1000)
-![image](https://gyazo.com/5c8ed9474ff3b9d26150495cfe2ca6e3/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce46bd7d205ec7eaa18.jpg)
+![image](https://scrapbox.io/files/6ad18ce56bd7d205ec7eaa3c.jpg)
+![image](https://scrapbox.io/files/6ad18ce66bd7d205ec7eaa5f.jpg)
 
 ーーーーー
-![image](https://gyazo.com/eeb8344eefcb74bd4bea43713b02e44c/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce66bd7d205ec7eaa85.jpg)
 
 ーーーーー
 - 立川さんによるアナウンス

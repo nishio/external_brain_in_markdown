@@ -8,7 +8,7 @@ title: "Dyson Sphere Program Day3"
 ![image](https://gyazo.com/94086589849934fe939c4138a8c4c237/thumb/1000)
 
 いい送電設備であの遠くの発電所から一発で送れる
-![image](https://gyazo.com/9454b14626f7c33e06f020b80441dfb9/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cfc6bd7d205ec7eae55.png)
 
 電力が十分になった
 ![image](https://gyazo.com/18b6639d38658d58126f1604443b02a4/thumb/1000)

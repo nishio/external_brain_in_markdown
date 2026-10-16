@@ -2,5 +2,5 @@
 title: "Key-Value Memory Networks for Directly Reading Documents"
 ---
 
-![image](https://gyazo.com/6cab73f357d43fd6bfa2e717c085e336/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf06bd7d205ec7eac31.png)
 [1606.03126 Key-Value Memory Networks for Directly Reading Documents](https://arxiv.org/abs/1606.03126)

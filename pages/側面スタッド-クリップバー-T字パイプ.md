@@ -2,7 +2,7 @@
 title: "側面スタッド-クリップバー-T字パイプ"
 ---
 
-![image](https://gyazo.com/71b24703b3dc20cbd70d0c91519cc2c7/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d066bd7d205ec7eb009.jpg)
 
 [[側面スタッド]]から生やした[[クリップバー]]で[[T字パイプ]]を掴むパターン
 1×2ブロックから2本生やせばT字パイプを1自由度で保持できる

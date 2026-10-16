@@ -41,7 +41,7 @@ Githubに置いてNetlifyでデプロイする
 次にやること
 - スマホで開くと文字が小さいときはズームしてしまう
     - 直した
-    - ![image](https://gyazo.com/07cce875ba995cb4ed0d7c3d656f46bf/thumb/1000)
+    - ![image](https://scrapbox.io/files/6ad18cfb6bd7d205ec7eae3b.png)
     - ボットの発言だけ伸びるのも嫌だったので全部伸ばしてみた
 
 - テキストエリアでの改行で発言追加
@@ -63,7 +63,7 @@ Githubに置いてNetlifyでデプロイする
     - ローカル
         - ![image](https://gyazo.com/8b13f63872d28ec0d8caa502f21e399b/thumb/1000)
     - サーバー
-        - ![image](https://gyazo.com/2703587bc408d7c3c5157aacbee267e7/thumb/1000)
+        - ![image](https://scrapbox.io/files/6ad18cfc6bd7d205ec7eae67.png)
 - ローカルとかサーバーとかの表現が微妙なので整理した
     - ![image](https://gyazo.com/032a384998c7547e0048897b9549e552/thumb/1000)
     - 上記のスクショはTypeScriptのクライアントをローカルとリモートと両方で試して問題なく動いたって話

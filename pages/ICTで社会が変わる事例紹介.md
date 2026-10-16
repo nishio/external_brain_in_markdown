@@ -9,7 +9,7 @@ title: "ICTで社会が変わる事例紹介"
     - 受講学生の主体は経済学研究科の大学院生
     - PCだと右のノートアイコンからStart Presentationできる
 
-![image](https://gyazo.com/9e04ce553ccbe8f0b4ba226d7a58fde7/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cdf6bd7d205ec7ea921.png)
 ICTで社会が変わる事例紹介
 東京大学大学院経済学研究科・経済学部オムニバス講義「ICTと産業」第2回@2018-04-17
 
@@ -17,13 +17,13 @@ ICTで社会が変わる事例紹介
 ビープラウド技術顧問/一般社団法人未踏理事
 博士(理学)/技術経営修士(専門職)西尾泰和
 
-![image](https://gyazo.com/7a6e6576a206187ee2415033c549e191/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce06bd7d205ec7ea949.png)
 Facebook非公開グループ　2
 授業後のアフターサービス
 (講義資料の共有、補足、質問に答えるなど)
 のためにFacebookグループが作ってあります
 
-![image](https://gyazo.com/ea8982860a45568f6a1df886260fdc62/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce06bd7d205ec7ea968.png)
 自己紹介　3
 働き方改革を自分の身で実験中
 - 東京工業大学 特定准教授
@@ -32,22 +32,22 @@ Facebook非公開グループ　2
 - サイボウズ・ラボ 主幹研究員
 副業(サブワーク)ではなく複業([[パラレルワーク]])
 
-![image](https://gyazo.com/cf78bf843bf9cc1ff433a8b46d9615d8/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce16bd7d205ec7ea991.png)
 著書　4
 
-![image](https://gyazo.com/c322e18532cb58c5138657f182c3a7bc/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce26bd7d205ec7ea9b9.png)
 コーディングを支える技術　5
 2013年発売
 陳腐化しにくい知識にフォーカス
 5年経った今でも売れ続けている
 
-![image](https://gyazo.com/ea208b30f5f97d6dd502cc646d5ff329/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce36bd7d205ec7ea9ea.png)
 小学生向け　6
 “30日でできる! OS自作入門"の川合さん(同僚)と共著
 "コーディングを支える技術"を小学生向けにしたような本
 2018-03-28発売
 
-![image](https://gyazo.com/fb0eb8a7080887d081bea53823d47133/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce46bd7d205ec7eaa0f.png)
 東京工業大学特定准教授　7
 
 東京工業大学環境・社会理工学院
@@ -57,14 +57,14 @@ Facebook非公開グループ　2
 ICT技術がもたらす社会の変化
 (特に組織構造と知性のありかたの変化)に興味あり!
 
-![image](https://gyazo.com/847215778666f9c389a4361408e952f0/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce56bd7d205ec7eaa2c.png)
 一般社団法人未踏理事　8
 
 •未踏とは?
 •一般社団法人とは?
 •理事とは?
 
-![image](https://gyazo.com/1aadc1929d3eb1503ccc2f7149e501ba/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce56bd7d205ec7eaa50.png)
 未踏事業とは何か?　 9
 
 経済産業省所管の独立行政法人
@@ -74,7 +74,7 @@ ICT技術がもたらす社会の変化
 2000年現在のべ1600人超の卒業生
 発掘しただけでは散逸する。核が必要
 
-![image](https://gyazo.com/578a5b1cdbf076911241f2e4923e7914/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce66bd7d205ec7eaa7e.png)
 一般社団法人未踏　10
 
 2014年、未踏の卒業生を中心に
@@ -89,10 +89,10 @@ ICT技術がもたらす社会の変化
 法人の意思決定をつかさどる役職(株式会社でいう所の取締役)
 第4回の久池井さんは本業の関係で理事になっていないが、運営にアドバイスを頂いている。
 
-![image](https://gyazo.com/306682ad106ac5be8a1d9ab7ffca1ad8/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce76bd7d205ec7eaaa7.png)
 11
 
-![image](https://gyazo.com/b6ae093d0eecb631fc07676ec7b3c504/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce86bd7d205ec7eaac9.png)
 一般社団法人未踏の目的　12
 
 創造的人材の業界横断的ネットワーク
@@ -101,7 +101,7 @@ ITを中心としたイノベーション
 
 “未踏事業のOB/OGを中心に、創造的人材を多角的に支援し、業界横断的なネットワークをつくることで、ITを中心としたイノベーションを加速することを目的に設立された社団法人です" [http://www.mitou.org/](http://www.mitou.org/)
 
-![image](https://gyazo.com/29889d70dbb7a4bdb8edfba391b93927/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce96bd7d205ec7eaaec.png)
 日本経済の発展の為に未踏と連携　13
 
 2017年、一般社団法人未踏主催のイベント「未踏ナイト」にて、
@@ -117,7 +117,7 @@ ITを中心としたイノベーション
 一般社団法人未踏で未踏クリエータと大臣のトークした甲斐があった!素晴らしい. #未踏会議 」
 [https://twitter.com/ochyai/status/840153093933154305](https://twitter.com/ochyai/status/840153093933154305)
 
-![image](https://gyazo.com/9e9d7c4fadcddce036892ea5f123f1f0/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce96bd7d205ec7eab0d.png)
 自己紹介　14
 半分終わった
 •東京工業大学特定准教授
@@ -125,14 +125,14 @@ ITを中心としたイノベーション
 •ビープラウド技術顧問
 •サイボウズ・ラボ主幹研究員
 
-![image](https://gyazo.com/83cfcf16e89a22a96c75ba076876efdd/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cea6bd7d205ec7eab3b.png)
 ビープラウド技術顧問　15
 
-![image](https://gyazo.com/9ad980597d7de6ed1acd3d63a5ff256c/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ceb6bd7d205ec7eab6d.png)
 PyQ機械学習コースの監修　16
 西尾監修で初心者でも1から機械学習を学べる
 
-![image](https://gyazo.com/dd4565752444ccee8ae74d5867a78896/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cec6bd7d205ec7eab97.png)
 参考: “if文から機械学習への道"　17
 機械学習を身近に感じられない聴衆のために、
 if文と機械学習の間を一歩ずつ進むことで地続きにする講演をビープラウド主催で行った。
@@ -142,33 +142,33 @@ if文と機械学習の間を一歩ずつ進むことで地続きにする講演
 8万view以上ある人気の講演資料
 [https://www.slideshare.net/nishio/if-80195170](https://www.slideshare.net/nishio/if-80195170)
 
-![image](https://gyazo.com/70e0dcff6576cb2d1b95711c8f2e46e4/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ced6bd7d205ec7eabba.png)
 ビープラウドの複業の取材記事　18
 [https://cybozushiki.cybozu.co.jp/articles/m001358.html](https://cybozushiki.cybozu.co.jp/articles/m001358.html)
 
-![image](https://gyazo.com/065f99aa13a9e5662e8f3fe2331d9b77/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ced6bd7d205ec7eabd4.png)
 複業は学びの速度を上げる　19
 
-![image](https://gyazo.com/876edf40afabfd1a82d25dcb98594097/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cee6bd7d205ec7eabf2.png)
 サイボウズ・ラボ主幹研究員　20
 サイボウズという会社の研究部門
 「サイボウズ・ラボ」にて中長期的に研究開発をしている
 2007年、博士(理学)取った後1年間東京大学でのポスドクを経て新卒なのか中途なのかよくわからん入社
 
-![image](https://gyazo.com/41702c092a4cb10f7264b48b387df40c/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cef6bd7d205ec7eac0a.png)
 サイボウズとは? 　21
 社員がこんな複業をすることを許す「サイボウズ」って会社は何なんだ?
 
-![image](https://gyazo.com/1aaf339265aea98d0befc4e8f24cd82a/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf06bd7d205ec7eac34.png)
 紹介しようと自社サイト見たら　22
 何の会社なんだ?!
 
-![image](https://gyazo.com/77993d307bf1c3f01db6b2e2808921c4/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf16bd7d205ec7eac62.png)
 kintoneという製品を作ってて…　23
 東京駅などの交通広告で見た人もいるかも?
 でも「キントーン」と「サイボウズ」がつながってないかも?
 
-![image](https://gyazo.com/77231f433a363ccc3c57af182fc11644/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf26bd7d205ec7eac8a.png)
 真面目に説明すると　24
 •創業20年(2000年に上場、'06から東証一部)
 •グループウェア国内シェアNo.1 (11年連続)
@@ -177,70 +177,70 @@ kintoneという製品を作ってて…　23
 ←クラウド
 [https://cybozu.co.jp/company/job/recruitment/business/](https://cybozu.co.jp/company/job/recruitment/business/)
 
-![image](https://gyazo.com/6d1143c336fcec26a8b21fda6fbc0ab2/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf36bd7d205ec7eaca9.png)
 グローバル展開25
 サンフランシスコ、ロサンゼルス、ニューヨーク
 上海、深セン、台湾、ホーチミン、シンガポール
 フィリピン、インドネシア、タイ、ミャンマーインド、シドニー
 [https://cybozu.co.jp/company/job/recruitment/global/](https://cybozu.co.jp/company/job/recruitment/global/)
 
-![image](https://gyazo.com/18a0af1ef539bec807e145b4108d3c83/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf46bd7d205ec7eacd5.png)
 Platform　 26
 日本企業がプラットフォームを作ることができてない、
 なぜか、という議論があったりする?
 
-![image](https://gyazo.com/561fd0390f10d5cc2c60cc0b8fab1aad/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf56bd7d205ec7eacfc.png)
 Platform 27 [http://group.cybozu.jp/news/16042501.html](http://group.cybozu.jp/news/16042501.html)
 
-![image](https://gyazo.com/8254de4404fcf2931adef4de200e31fe/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf66bd7d205ec7ead33.png)
 Platform 28
 •アメリカのガートナー社のレポート
 •aPaaS(application platform as a service)
 •主要なエンタープライズ・ベンダーの一つとして日本企業で唯一掲載
 [http://group.cybozu.jp/news/16042501.html](http://group.cybozu.jp/news/16042501.html)
 
-![image](https://gyazo.com/2a8858d2b8ca7191db3597680c78be62/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf76bd7d205ec7ead5b.png)
 Platform 29
 [https://topics.cybozu.co.jp/news/2017/07/14-4153.html](https://topics.cybozu.co.jp/news/2017/07/14-4153.html)
 
-![image](https://gyazo.com/84ae440d588e64ad2123ddc1dfaebec8/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf86bd7d205ec7ead85.png)
 Platform 30
 •クラウドネイティブなWebアプリケーション開発プラットフォームである「kintone」
 •2017年追加された「エンタープライズ高生産性アプリケーションプラットフォーム」
 •ガートナーにより主要14ベンダーの1つに選出
 [https://topics.cybozu.co.jp/news/2017/07/14-4153.html](https://topics.cybozu.co.jp/news/2017/07/14-4153.html)
 
-![image](https://gyazo.com/438fecc2f5cb686deb9548b91c15666f/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf96bd7d205ec7eadaf.png)
 事実と解釈　31
 •サイボウズ社内では事実と解釈の区別を重視
 •“日本企業はPlatformを作れていない"は解釈そう解釈する人がいるのは事実
 •ガートナーは"サイボウズはPlatformを作っている主要14ベンダーの1つ"と解釈した。そう彼らが公表しているのは事実
 •事実としてPlatformを作れてるのかどうかはPlatformの定義次第。僕は議論する気はない。具体的な事実を紹介する。
 
-![image](https://gyazo.com/9ed09fbd7bf585beec2abca769a1c673/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cfa6bd7d205ec7eaddc.png)
 事例紹介: [[IRODORIシステム]]　32
 •過疎化・高齢化の進む上勝町•日本料理の"つまもの"である葉っぱのビジネスで年商3億弱、年収1000万のおばあちゃんも。
 •高齢者がタブレットやPCで全国の市況を見て"葉っぱ"を収穫し出荷する。
 [http://www.irodori.co.jp/asp/nwsitem.asp?nw_id=2&design_mode=0](http://www.irodori.co.jp/asp/nwsitem.asp?nw_id=2&design_mode=0) [https://www.amazon.co.jp/dp/4797340657](https://www.amazon.co.jp/dp/4797340657)
 
-![image](https://gyazo.com/80fbd52399d9cb78d7f4837ed9be1249/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cfa6bd7d205ec7eae07.png)
 33
 
-![image](https://gyazo.com/8b08524e43b84f54f5896bbd7d68db09/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cfb6bd7d205ec7eae37.png)
 情報システムによる市場の誕生　34
 •情報システムの導入によって情報の流通がスムーズになった
 •需要の情報がすぐに供給者に伝わることでタイムリーな生産が行われる
 •タイムリーに生産されることで需要が増加する
 •ポジティブフィードバックが起きて3億円市場が誕生した
 
-![image](https://gyazo.com/5969a8c7eceb8281923e7a3a4a3b4257/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cfc6bd7d205ec7eae6a.png)
 事例紹介:三浦市農協の配車予定作成システム　35
 
-![image](https://gyazo.com/f17726d8a4581204938ec51f088a8a62/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cfd6bd7d205ec7eae84.png)
 「出荷作業8時間を1秒に」三浦市農協で起きた驚異の進化　36
 [http://wedge.ismedia.jp/articles/-/12062](http://wedge.ismedia.jp/articles/-/12062)
 
-![image](https://gyazo.com/fd27f971f30942a4ae49b4266bc3401f/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cfe6bd7d205ec7eaeb1.png)
 アルゴリズムで8Hの仕事を消す　37
 •“農協の業務の中でもやっかいな出荷物の配送予定の作成"
 •“1日8時間かかっていた作業がわずか1秒で済む"
@@ -250,7 +250,7 @@ Platform 30
 「出荷作業8時間を1秒に」三浦市農協で起きた驚異の進化
 [http://wedge.ismedia.jp/articles/-/12062](http://wedge.ismedia.jp/articles/-/12062)
 
-![image](https://gyazo.com/f87bf625d3d5a1b726c578aa1236c2f4/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cff6bd7d205ec7eaedf.png)
 “配送予定の作成"とは　38
 •“翌日に農家から出荷される出荷物の量を把握し、
 市場などの配送先ごとの出荷数量と、荷物をどの運送会社のトラックにどう積み分けるかを決める。"
@@ -260,26 +260,26 @@ Platform 30
 「出荷作業8時間を1秒に」三浦市農協で起きた驚異の進化
 [http://wedge.ismedia.jp/articles/-/12062](http://wedge.ismedia.jp/articles/-/12062)
 
-![image](https://gyazo.com/0dcb761f966841ed571e7b356a74887d/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d006bd7d205ec7eaf18.png)
 “[[AIが仕事を奪う]]"って悪いの?　 39
 •“AIが仕事を奪う"をネガティブなニュアンスで使う人がいる。
 •今回の1日8時間、人間およそ1人分の仕事を奪ったが…
 •“同農協共販部長補佐の飯島昌祥さんは「労働時間の短縮が一番大きい。職員の負担が減るし、空いた時間を営業などに効率的に使えるので期待している」"とポジティブ
 
-![image](https://gyazo.com/1d4cfb8a226efc39277fe55394ff8a54/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d016bd7d205ec7eaf38.png)
 人口ピラミッド　40
 出典:国立社会保障・人口問題研究所
 [http://www.ipss.go.jp/site-ad/TopPageData/pyra.html](http://www.ipss.go.jp/site-ad/TopPageData/pyra.html)
 
-![image](https://gyazo.com/81aa595a870f2813faaa5d2cedf44575/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d026bd7d205ec7eaf61.png)
 人口の変化　41
 僕や僕より若い世代は毎年人数が減る環境で育ってきた
 
-![image](https://gyazo.com/29a52770804e3646f73075d070deb0d0/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d036bd7d205ec7eaf88.png)
 7人に1人いなくなる　42
 今後15年で7人に1人の割合で20代人口が減る。
 
-![image](https://gyazo.com/f2cdefc4941aa7a700f88c9e6b65dfeb/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d046bd7d205ec7eafaf.png)
 7人に1人いなくなると…　43
 今7人チームでやっている仕事は、
 チームの年齢構成が変わらないなら15年後には6人でやらなければならない
@@ -289,7 +289,7 @@ Platform 30
 月20日×8時間働いている人は仕事が17%アップで月に+27時間。
 毎日残業+1時間か、毎月休日-3日
 
-![image](https://gyazo.com/8db3e3aa4220c64a7358fbf36db1db9c/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d056bd7d205ec7eafca.png)
 現状維持とは　44
 「今までと同じ仕事の仕方をする」は現状維持ではない。
 
@@ -298,23 +298,23 @@ Platform 30
 これ以上人間の負担を増やさず、仕事を回し続けるためには、
 7人に1人の仕事が“AIに奪われる"必要がある。
 
-![image](https://gyazo.com/2fc7776a41178a84cb34d9a3b9c80c2b/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d066bd7d205ec7eaff6.png)
 3人に1人いなくなった　45
 
 2000年からの15年で3人に1人いなくなった。
 もっと早く"仕事を奪われる"べきだった。
 過去を嘆いても無益なので今から大急ぎでやる!
 
-![image](https://gyazo.com/84203e714abc3da2c5b3b761fb9aced0/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d076bd7d205ec7eb01f.png)
 何がボトルネックか?　 46
 
-![image](https://gyazo.com/d5713edfd11986c134498eeec96a818a/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d086bd7d205ec7eb048.png)
 何がボトルネックか?　 47
 •データがない
 •データがデジタル化されてない
 •データがデジタル化されてても分析に使えるきれいなものではない
 
-![image](https://gyazo.com/85eeafd3f1b0a200ac9017400b7a47dc/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d096bd7d205ec7eb071.png)
 機械学習コンペと実社会の違い　48
 
 (Kaggleなど)機械学習コンペでの機械学習
@@ -323,7 +323,7 @@ Platform 30
 実社会での機械学習
 データ収集→綺麗に整理された十分な量のデータ→機械学習→結果
 
-![image](https://gyazo.com/b89645ccbbc4079461568d4f2e41fdef/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d0a6bd7d205ec7eb0a5.png)
 きれいなデータを得るしくみ　49
 きれいなデータを得るしくみ作りが必要。
 情報系の学生に講義をする時には
@@ -332,27 +332,27 @@ Platform 30
 ```
 って言ってるけど、ここは経済学部だからわかるよね?
 
-![image](https://gyazo.com/ace58c84599ce4d0d9661ec72a3eae0c/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d0b6bd7d205ec7eb0c5.png)
 インセンティブが必要　50
 •「データが必要です」と口で言うだけではデータの収集は進まない、仕事が増えるから
 •8時間の作業が一瞬になり仕事が減るなら、人間がデータ収集に時間を使うようになる
 •これによってデータが集まり始める
 データ収集→綺麗に整理された十分な量のデータ→解く→結果→データ収集に戻る
 
-![image](https://gyazo.com/e91815df910a24ed7eb747f3089f5831/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d0c6bd7d205ec7eb0f7.png)
 悪いサイクル　51
 •きれいなデータは経営資源である
 •しかし資源を持たない人は、その資源から価値を得られない
 •その結果、その資源を持つために人や時間など他の資源を使う投資が、魅力的でないように見える
 
-![image](https://gyazo.com/13f852f16b45761ca1665fff8f1f4486/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d0d6bd7d205ec7eb134.png)
 良いサイクル　52
 •データ収集のインセンティブを作る
 •データを収集するようになる
 •蓄積されたデータが具体的な価値を生む
 •データ収集に価値を感じるようになる=インセンティブ
 
-![image](https://gyazo.com/c8a3d9cdeee3d240636050a0ad370acd/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d0f6bd7d205ec7eb161.png)
 段階的成長のメンタルモデル　53
 •最初から完成形を作ろうとするのではなく将来大きく育ちうる「種まき」をする
 •スモールスタート:最初の一歩が小さくなることで、顧客が一歩踏み出しやすくなる
@@ -360,35 +360,35 @@ Platform 30
 
 エリック・リース「リーン・スタートアップ」
 
-![image](https://gyazo.com/6f4adb7c9520393fc05b99c916b41651/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d106bd7d205ec7eb18f.png)
 ここまでのまとめ　54
 •情報の流通が価値を生む
 •情報の蓄積が価値を生む
 •どちらの事例も小さく始めて大きく育てる
 
-![image](https://gyazo.com/bb27349299809104d5e0fa0a94486670/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d116bd7d205ec7eb1b2.png)
 ICTによる組織構造の変化　55
 ここまでの話はいったん伏線としておいて
 ここからは別のことを考えてみよう
 
-![image](https://gyazo.com/f1350516d05fc013149d19d971c65609/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d126bd7d205ec7eb1d7.png)
 グループウェアって何?　 56
 
-![image](https://gyazo.com/554553676509245ad2d46f43c3c35719/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d136bd7d205ec7eb1f7.png)
 グループウェアって何? 　57
 
 グループ+ソフトウェア
 複数人で使うソフトウェアのこと
 
-![image](https://gyazo.com/1deb4809e44e3e808048e26622b6cb43/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d146bd7d205ec7eb21d.png)
 何のために複数人で使うのか?　 58
 
-![image](https://gyazo.com/17e38ebf828715aaa619dc76fa683632/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d156bd7d205ec7eb24c.png)
 何のために複数人で使うのか? 　59
 情報の流通
 情報の蓄積
 
-![image](https://gyazo.com/dede2f6e4ba5ce6c2dd3ad4b770c4642/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d166bd7d205ec7eb27a.png)
 情報の蓄積と流通　60
 サイボウズが使ってるkintone上の「2018年新入社員」という場(スペース)では
 今年の新入社員が日々いろいろ書いていて他の社員がコメントやイイネをしている。
@@ -399,12 +399,12 @@ ICTによる組織構造の変化　55
 それから今までに22376件の書き込みがある。
 今この場から接続して10年前の新入社員(僕)が日々どんなことを考えてたか見ることも可能。
 
-![image](https://gyazo.com/b75f14686f23b0e0399a796e5cc58217/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d176bd7d205ec7eb2a1.png)
 ICTによる組織構造の変化　61
 グループウェアの導入によって情報の流通・情報の蓄積が起こる
 これがどういう効果を生むのか考えるうえで少し昔と比較してみよう
 
-![image](https://gyazo.com/e2029e31afdb0e9939ecb1ef8df7486f/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d186bd7d205ec7eb2c1.png)
 思考実験:大人数への情報伝達　62
 
 BC3500年頃のメソポタミアでは大規模な組織的農業が行なわれるようになった。
@@ -414,7 +414,7 @@ BC3500年頃のメソポタミアでは大規模な組織的農業が行なわ�
 大勢の農民が正しい時期に種まきをするためには
 天文観測ができる人から大勢の農民への情報伝達が必要だ。どうすればできるか?
 
-![image](https://gyazo.com/e5fa81c16e7ef9f1259a1c6590803c93/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d196bd7d205ec7eb2e7.png)
 思考実験:大人数への情報伝達　63
 
 当時情報通信技術はあまり発達しておらず[[生身の人間]]による情報通信が主で、
@@ -425,11 +425,11 @@ BC3500年頃のメソポタミアでは大規模な組織的農業が行なわ�
 
 この条件下で大人数に情報伝達するにはどうすればよいか?
 
-![image](https://gyazo.com/afa3723a52d457c8a056abd48db645c4/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1a6bd7d205ec7eb313.png)
 ツリー構造の発生　64
 - 1人から情報を受け3人に伝達する「中間管理職」を置けばよい
 
-![image](https://gyazo.com/eed3781b4c0bf505ea0ff5837c22a5ac/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1b6bd7d205ec7eb33f.png)
 階層ごとの役割分担　65
 A)「やること」(いつ何をどうやるか)を決める人
 B)「やること」を正確に伝える人
@@ -438,7 +438,7 @@ C)「やること」を正確に実行する人
 上の人がやることを決め、中間の人が正確に伝達し、
 末端の人が正確に実行する「階層組織」のメンタルモデル
 
-![image](https://gyazo.com/bd027047a0694586d6a1f8b607a68395/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1b6bd7d205ec7eb36e.png)
 情報伝達力の改善　66
 今、僕は50人くらいに情報伝達している
 同じ時刻に同じ場所に集まれば1人1人個別に話すよりも効率的に伝達できる
@@ -447,7 +447,7 @@ C)「やること」を正確に実行する人
 マイクとスピーカーによって、さらに大勢に伝えられる。
 アドルフ・ヒトラーはマイクを使うことで1000人以上に声を届けることができた
 
-![image](https://gyazo.com/701d073d81ae501724958b5617b1f226/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1c6bd7d205ec7eb39b.png)
 場所の制限をなくす　67
 
 動画を中継すれば同じ場所にいなくてもよい
@@ -457,7 +457,7 @@ C)「やること」を正確に実行する人
 
 場所の制約のない同期的メディアは歴史的には、ラジオ、テレビ、と来てから、インターネットによる通信コストの激減でテレビ局でなくても動画中継が可能になった。
 
-![image](https://gyazo.com/d77a9a33ae3175495015988cea0ecf2f/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1d6bd7d205ec7eb3c4.png)
 時間の制限をなくす　68
 
 動画をサーバに置けば、いつでも好きな時に見ることができる。
@@ -468,7 +468,7 @@ C)「やること」を正確に実行する人
 
 もちろん動画サーバより前に、文字を使う「御触書」の掲示や、号外新聞などの形があった。
 
-![image](https://gyazo.com/c42744d973326acf6cc7876be12eb18d/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1e6bd7d205ec7eb3ed.png)
 情報発信のコストの低下　69
 •動画中継は機材や人員のコストが高いが文字での情報発信は低コスト
 •複雑な手続きなしに誰もが情報発信できる場ができることで情報発信が増加
@@ -476,12 +476,12 @@ C)「やること」を正確に実行する人
 
 Twitterを知らない人はいないよね?
 
-![image](https://gyazo.com/040e5420cfadbb6be93ccd097b072130/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1f6bd7d205ec7eb424.png)
 ここまでのまとめ　70
 階層組織は情報通信技術が未発達な状況で大規模な情報伝達をする際に有益だった
 情報通信技術の進歩により情報伝達・情報発信のコストが下がった。
 
-![image](https://gyazo.com/7e765a045ea21bc1dbb4f83aa539e614/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d1f6bd7d205ec7eb44e.png)
 当たり前?　 71
 
 僕が大学生だった2000年、
@@ -493,7 +493,7 @@ Twitterを知らない人はいないよね?
 
 僕はICQとYahooメッセンジャーだったけど、今だとLINEとかSlackなのかな?
 
-![image](https://gyazo.com/9981e6b5d60d7fd71d411b87caa885eb/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d206bd7d205ec7eb482.png)
 25年ほど前の話　72
 
 1992年発売
@@ -502,7 +502,7 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 
 溝口文雄,児西清義“チームの知的生産技術"
 
-![image](https://gyazo.com/d925ed67c308b9179d9429e0da13219a/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d216bd7d205ec7eb4ac.png)
 25年ほど前の話　73
 
 この本が紹介する進んだICT利用事例(DTP)
@@ -512,7 +512,7 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 
 「チームの知的生産技術」
 
-![image](https://gyazo.com/deed331626581e80330872c4717a0a35/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d236bd7d205ec7eb4e5.png)
 ツールは変わった。ルールは? 　74
 
 25年前に既に大規模だった組織は当時の技術力で
@@ -520,29 +520,29 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 
 情報通信技術、ツールの進歩に合わせて、そのルールを改善してきたか?
 
-![image](https://gyazo.com/c3b8ccfdbf833414a36f730dd4f34b6e/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d246bd7d205ec7eb51c.png)
 これは当たり前?? 　75
 •子供ができる
 •子育てのために1日8時間勤務ができない
 •だから退職する
 
-![image](https://gyazo.com/9efb59a396df851b1cee40fde1d71d0a/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d266bd7d205ec7eb543.png)
 •子供ができる　76
 •子育てのために1日8時間勤務ができない
 •だから退職する
 •↑なんでだよ!
 
-![image](https://gyazo.com/b42db04104ef46291a2befac146befa0/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d276bd7d205ec7eb56a.png)
 当たり前ではない　77
 •人が足りない
 •業務を覚えた人が辞めるともったいない
 •「8時間労働できない」が理由なら8時間労働を求めるルールがおかしい
 •時短勤務、リモートワーク、育児休暇6年取っていいから一段落ついたらぜひ戻ってきて!とするのが当たり前では?
 
-![image](https://gyazo.com/760daa896dc359bba1e4c3f6997f9635/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d286bd7d205ec7eb596.png)
 “100人いたら100通りの働き方" 　78
 
-![image](https://gyazo.com/de83f6a460418daaea1e17ec1857ca0c/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d296bd7d205ec7eb5ad.png)
 新しいマネジメントの仕事　79
 
 「1日8時間同じ場所に集合する」という前提を取り払ったマネジメント
@@ -552,18 +552,18 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 
 人間で構成されたシステムの設計変更をする“人間システムエンジニア"
 
-![image](https://gyazo.com/81df719e92040754477f8302cb0c5116/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d2a6bd7d205ec7eb5c1.png)
 「部署の壁」問題　80
 階層組織のもう一つの問題点
 他部署が遠い
 
-![image](https://gyazo.com/90dc0fc0af2c58928ab97965f3c7e5e6/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d2b6bd7d205ec7eb5d6.png)
 ジョブローテーション　81
 この問題に対する昔の対処法がジョブローテーション
 定期的に職場の異動や職務の変更を行う
 これによって他部署との間に人的ネットワークを作ることができる
 
-![image](https://gyazo.com/b9db8bcd739aaeb2bd8b53693ec93b7c/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d2d6bd7d205ec7eb5e9.png)
 アクセス権の概念　82
 
 なぜ隣の部署の情報にアクセスができないか
@@ -574,7 +574,7 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 デジタルの時代、アクセス権の設定で、
 情報の一部の見せられない部分だけ部分的に隠すことができる
 
-![image](https://gyazo.com/ffcb40513786c08797ce9b83a0881416/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce36bd7d205ec7ea9d0.png)
 アクセス権　83
 
 データの一部のみの公開・非公開ができる
@@ -582,40 +582,40 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 列や行に対して人や部署に対してアクセス可否を設定できるようにしたようなもの。
 [https://jp.cybozu.help/ja/k/user/rights](https://jp.cybozu.help/ja/k/user/rights)
 
-![image](https://gyazo.com/b01f452167c5ec5625ec97687b359935/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d2e6bd7d205ec7eb610.png)
 アクセス権による情報流通促進　84
 •アクセス権設定によって「見せてはいけないところ」だけ隠す
 •それ以外は全社公開する
 •「見なくてもよいが見ることが可能な情報」の社内での流通が促進される
 
-![image](https://gyazo.com/48e18dce4e41fd68e5d477d2118126f5/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d2f6bd7d205ec7eb62e.png)
 事例1　 85
 サイボウズの本部長会議などの議事録は
 一部を除いて全社員に公開されていて誰でもコメントを付けられる
 
 大部分はここでは公開できない話題だけども、一部の議論を許可を得て紹介[https://cybozushiki.cybozu.co.jp/articles/m001358.html](https://cybozushiki.cybozu.co.jp/articles/m001358.html)
 
-![image](https://gyazo.com/63f130c2a0ba19096ad039350d3e24f3/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d2f6bd7d205ec7eb63f.png)
 事例2　 86
 •研究部門の僕の週報は一部の非公開情報以外は共有されている
 •あるA社さんから技術的な相談を受けてそれを週報で報告した
 •営業本部のBさんは、A社についてグループウェアを全文検索して
 これを発見しグループウェア上で僕にメッセージを送信
 
-![image](https://gyazo.com/f151be5dafd6e575a4c7dc7bbe9520de/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d306bd7d205ec7eb65b.png)
 事例3 　87
 •営業本部のCさんは、D社について全文検索
 •人事のデータからEさんが以前D社に勤めていたことが分かった
 •Eさんの知識が有効に生かせる可能性がある
 
-![image](https://gyazo.com/d847bfea4abfbe590cb91a78589e29ae/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d316bd7d205ec7eb670.png)
 「意外な結合」という価値　88
 •先入観で対象を絞らずに検索すると意外な情報が手に入る
 •情報システムが特定の部署に閉じてるとこういう意外な発見は起こりにくい
 •「隠すべきところ」だけを隠して残りを全社公開することで、
 部署をまたいだ情報の流通が促されて価値を生んでいる
 
-![image](https://gyazo.com/9e35c4d0273112082ac216c5361c0c18/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d316bd7d205ec7eb689.png)
 カジュアルな情報発信　89
 
 •「見なくてもよいが見ることが可能な情報」の流通促進のために、
@@ -629,7 +629,7 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 逆に「全社投稿には事前に上司の許可を得ること」ってルールにすれば
 カジュアルな情報発信は簡単に死ぬ。ツールで可能でもルールで死ぬ。
 
-![image](https://gyazo.com/779f4bb27206760f70c643e5b6f891ad/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d326bd7d205ec7eb697.png)
 ここまでのまとめ　90
 ツールの進歩に合わせてルールの進歩が必要
 •「1日8時間同じ場所に集まる」という前提を置かないマネジメント
@@ -637,7 +637,7 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 •カジュアルな情報発信を勇気づける
 →これによって容易になるものは?
 
-![image](https://gyazo.com/9cf7b5ac0cc1ebd59e8161ef13ef180c/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d336bd7d205ec7eb699.png)
 複数部署の兼任　91
 
 •他部署の業務がカジュアルに発信されることで「隠れたニーズ」が発見されやすくなる*
@@ -647,16 +647,16 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 *たとえば経理部で毎週丸1日かけて行っている作業が、開発部のエンジニアから見ると「それ自分が1日使えば自動化できるのに」となったりする。
 しかしその自動化タスクがどの程度の難易度であるのか見積もることが経理部側では困難なため、フォーマルに依頼を出すことが難しい。→付録C
 
-![image](https://gyazo.com/4ce4eb63db9898723934cb51604f37bd/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d346bd7d205ec7eb6a9.png)
 人が点ではなく広がりを持つ　92
 個人が複数組織をブリッジする
 
-![image](https://gyazo.com/94c77687c2243992aa40c7bbc5c42795/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d346bd7d205ec7eb6be.png)
 個人が先、組織が後　93
 ブリッジする個人が増えてきた後で、
 事後的に「組織」の形になることもあるが個人主体のスモールスタートが先に起きやすい
 
-![image](https://gyazo.com/6e0489cb3a3794fc658c0d89b561386a/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d356bd7d205ec7eb6d2.png)
 誤った二分法　94
 
 •「階層組織である?階層組織でない?」
@@ -667,69 +667,69 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 
 •組織の「事実」が、階層組織という「解釈」からゆっくりと離れていく
 
-![image](https://gyazo.com/5c9d993c22b61d580ba6f29ed8b6daf0/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d366bd7d205ec7eb6e6.png)
 育児などのための時短勤務　95
 社外プロジェクトに責任ある立場で参画している
 これも個人が複数プロジェクトをブリッジ
 
-![image](https://gyazo.com/6f02712d3aae448c821166c64208c446/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d376bd7d205ec7eb6ff.png)
 パラレルワーク　96
 複数の企業・組織に参加する
 これも同じ構造
 
-![image](https://gyazo.com/9c0138805451ae432fd589fe9ccf3ddd/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d376bd7d205ec7eb70e.png)
 知識の分布　97
 組織が異なると知識の分布が異なる
 
-![image](https://gyazo.com/a472611cd29b0c0fab7f78a46c2ba13a/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d386bd7d205ec7eb722.png)
 知識分布の異なる組織をブリッジ　98
 
-![image](https://gyazo.com/d91d94d3f45102ad4f81bfc953fb1f52/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d396bd7d205ec7eb73e.png)
 複数の組織に所属するメリット　99
 知識の交換には周囲が持っていない知識をあなたが持つことが必要
 その「周囲」が複数あると?
 
 
-![image](https://gyazo.com/096fbd4d5222312e20e44fec45153927/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d396bd7d205ec7eb75a.png)
 それぞれの組織で知識交換可能　100
 
 これを与えて
 これを貰う
 これを繰り返すと…
 
-![image](https://gyazo.com/07ede15abd4474ada95f023a98350aac/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d3a6bd7d205ec7eb768.png)
 複数の分野を知ってる人材　101
 
 「連続スペシャリスト」や「π型人材」とも呼ばれる
 
-![image](https://gyazo.com/d41f7953a8da1a0a10fba60c10352304/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d3b6bd7d205ec7eb773.png)
 パラレルワーク　102
 パラレルワークを実践しているのはなぜか?
 それが自分個人にとって有益な戦略だと考えているから。
 
-![image](https://gyazo.com/c7feb378a98bc7be859b2244517b3766/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d3c6bd7d205ec7eb783.png)
 ブルーオーシャン　103
 
 かつて軸周辺にしか仕事がなかった
 
 パラレルワークが可能になったことでこのあたりにブルーオーシャンができた
 
-![image](https://gyazo.com/f13d6a33aefb97a2eb5984262a5f060b/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d3c6bd7d205ec7eb78b.png)
 一般的な研究室のメンタルモデル　104
 大学の中に、部分集合として、研究室がある
 
 これもパラレル化すると有益なのではないか?
 
-![image](https://gyazo.com/d874f5ab9f87c05482cd88cb2b67c900/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d3d6bd7d205ec7eb78e.png)
 組織横断型バーチャル研究室　105
 
-![image](https://gyazo.com/65d014bfb10a0e0a1b1b45f6851aac56/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d3e6bd7d205ec7eb7a6.png)
 現状の実装　106
 •Facebook上に非公開グループを作った
 •今回のこの授業を聞いた人は参加できる
 •後で入会用リンクをこの授業のFacebookグループに書いておく
 
-![image](https://gyazo.com/b4f3ee06d37b2144a249806ac9045535/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d3f6bd7d205ec7eb7ba.png)
 ここまでのまとめ　107
 
 •技術の進歩に合わせてルールが変化すると複数部署の兼務や、
@@ -741,7 +741,7 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 •複数組織をまたぐ非公開Facebookグループを
 カジュアルに作ったりするとよい。実際に作ってみたので興味があればどうぞ。
 
-![image](https://gyazo.com/ebd9fbdd120b24096f682e7efaef3ac0/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d3f6bd7d205ec7eb7c6.png)
 ルールは交渉の産物　108
 
 •ルールとは、過去に誰かが交渉や議論をし合意に至ったので仮に定めたものに過ぎない
@@ -751,7 +751,7 @@ NTTの研究所所属の著者らが実験的にファイル添付を体験し�
 「サイボウズはすごい会社だなぁ、うちの会社も同じようになればいいのになぁ」
 とぼんやり待っていても「うちの経営陣は馬鹿だ」と飲み屋で愚痴っても勝手に変わったりはしない。
 
-![image](https://gyazo.com/d1ca400518e90f4f4102b69c0638a99a/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d406bd7d205ec7eb7d8.png)
 奪われやすい仕事、残る仕事　109
 A)「やること」を決める人
 B)「やること」を正確に伝える人
@@ -761,21 +761,21 @@ C)「やること」を正確に実行する人
 「やること」を正確に伝える仕事は情報通信技術を活用する方が有利
 「やること」を決める仕事をより多くの人がやることになる
 
-![image](https://gyazo.com/1c6a0f21b269646807aae2d16fb60713/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d416bd7d205ec7eb7e8.png)
 ここまでのまとめ　110
 •人口が減少していて、人間の仕事を機械がもっと奪う必要がある
 •ツールの進化にあわせたルールの変化が必要
 •「やること」を決める仕事の必要性増加
 =ルール変更を交渉し、議論する仕事
 
-![image](https://gyazo.com/2d9e59c9cc016b402fc9e32a31c16b97/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d426bd7d205ec7eb7fd.png)
 一言にまとめると　111
 ルール変更の交渉をしよう
 
-![image](https://gyazo.com/a4c68eb7591d27898c45fbb83f914de1/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d426bd7d205ec7eb80d.png)
 以下付録　112
 
-![image](https://gyazo.com/0c9ef92fcf11a0ff5da1ae4eff41924a/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d436bd7d205ec7eb817.png)
 付録A:三浦市の問題の規模　113
 •出荷所が21カ所
 •市場は約50か所
@@ -785,27 +785,27 @@ C)「やること」を正確に実行する人
 
 レディはサラダ専用の赤い大根(知らなかった)
 
-![image](https://gyazo.com/a6f164b4a3f4619775ba1f3d564fe564/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d446bd7d205ec7eb823.png)
 付録B 114
 要約して伝えることはまだ人間の仕事
 言語になっていないものを観察や問い掛けで引き出したり
 
-![image](https://gyazo.com/2d3dd6aa6042c0bef18ae903cfec03af/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d446bd7d205ec7eb839.png)
 付録C:課題の提出と解決　115
 課題を提出する部署の「課題の解決によって減少するコスト」と
 課題を解決する部署の「課題の解決に掛かるコスト」
 
-![image](https://gyazo.com/d67dde731d58febaa261bd53608a0724/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d456bd7d205ec7eb847.png)
 116
 課題提出部署が課題解決コストを把握できないと自分たちの「削減されるコスト」が最も大きい
 選択肢が最も良いと判断する。局所最適
 
-![image](https://gyazo.com/a961c3178a65c7d60083bbf50b0f439b/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d466bd7d205ec7eb850.png)
 117
 全体最適を考えた場合
 「小さいコストで大きなコスト削減になる」が好ましい選択肢
 
-![image](https://gyazo.com/38d369ffcf828f1ea03e7607f9f5466c/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d476bd7d205ec7eb857.png)
 118
 実際には問題が大きくなるにつれて一定量のコスト削減に掛かるコストが増える
 
@@ -813,11 +813,11 @@ C)「やること」を正確に実行する人
 エンジニアの言葉でいうと「システム内の要素の個数Nが増加すると
 要素間相互作用はN^2のオーダーで増加する」となる。
 
-![image](https://gyazo.com/263a0d7e7306c50eca4b342f50e09fa0/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d476bd7d205ec7eb859.png)
 付録D:サイボウズの企業理念　119
 チームワークあふれる社会を創る
 
-![image](https://gyazo.com/978b708d5e36c2c23b24521fbfa7acfa/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d486bd7d205ec7eb85c.png)
 付録E: ICTはB層の仕事を全部奪うか? 　120
 
 本編では分量の関係で全部奪うかのような表現になってしまったがもちろんそんなことはない。
@@ -825,7 +825,7 @@ C)「やること」を正確に実行する人
 一つの入力を大勢に伝える(左図)は情報通信技術によって置き換わるが、
 多くの入力を得て伝えるべきところだけを抜き出す(右図)はまだまだ。
 
-![image](https://gyazo.com/b3f735e7bebc427baa16af7bde1d2b67/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d496bd7d205ec7eb863.png)
 残されたニーズ　121
 
 •多くの入力を要約して少ない出力を出す
@@ -835,7 +835,7 @@ C)「やること」を正確に実行する人
 •質問や観察によって「まだ言語化されていない情報」の言語化を行い、
 流通可能にするこれらのニーズは技術的に解決されておらず、今後重要度が上がっていくだろう
 
-![image](https://gyazo.com/a261d4d2876b565b624b3a2740581abe/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d4a6bd7d205ec7eb867.png)
 出力先は上だけではない　122
 
 ただし、伝える相手は上司とは限らない
@@ -843,7 +843,7 @@ C)「やること」を正確に実行する人
 部署をまたぐ働き方が増えることで部署Aの情報を引き出し、
 要約して、部署Bに伝えるニーズが増える。
 
-![image](https://gyazo.com/5e965f63d6b972ca2bd01dddd9fd2865/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d4a6bd7d205ec7eb86d.png)
 付録X: 123
 MANABIYA基調講演
 「[[エンジニアのための自分経営戦略]]」

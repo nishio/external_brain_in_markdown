@@ -41,9 +41,9 @@ title: "Regroupを使った文章整理プロセス"
 
 詳細な順番
 - 最初に書き出された順番
-    - ![image](https://gyazo.com/f8c14ecbcd429aefc264c051e162de37/thumb/1000)
+    - ![image](https://scrapbox.io/files/6ad18cfc6bd7d205ec7eae48.jpg)
 
 - 完成した文章中の順番
-    - ![image](https://gyazo.com/8be52be6623baf69488bec83be954e09/thumb/1000)
+    - ![image](https://scrapbox.io/files/6ad18cfc6bd7d205ec7eae74.jpg)
 
 from [[機械的分割と職人技分割]]

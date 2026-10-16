@@ -19,7 +19,7 @@ So, what can we do in areas where we can not do experiments? One of the criteria
 
 For example, the knowledge that is consistent across books written by different authors is likely to be correct. When the knowledge written in the book matches well with your experience, you feel a sense of comprehension. Suppose you give a lecture. The audience is very pleased when what you talked fits well with the experience of the audience.
 
-![image](https://gyazo.com/4169ef3a64097dd3dcd5ad1de5a26496/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cf16bd7d205ec7eac77.jpg)
 Fig: Knowledge in books should connect with your own experience
 
 - A: You read book, got some pieces of knowledge, but those are not connected.

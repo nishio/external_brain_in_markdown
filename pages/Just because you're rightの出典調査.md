@@ -3,11 +3,11 @@ title: "Just because you're rightの出典調査"
 ---
 
 Twitterで流れてきたこの画像について
-![image](https://gyazo.com/bae77a6fecfc8c8a238e5c4152e49786/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ce76bd7d205ec7eaa94.png)
 - [https://twitter.com/aspergirl_114/status/1037267308232597505](https://twitter.com/aspergirl_114/status/1037267308232597505)
 - Education Treeが出典とされる（し絵にもクレジットが入っている）が出典が確認できない
 - Gooleイメージ検索では類似の絵がいくつか見つかる
-- ![image](https://gyazo.com/56a3d3a916abafa292b9912aeb1d23ac/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18ce76bd7d205ec7eaab7.png)
 2015年以前、この絵はなかった
 - 2008年のよく似たフレーズ [The Triangle of Truth: Just Because I'm Right Doesn't Mean You're Wrong | HuffPost](https://www.huffingtonpost.com/lisa-earle-mcleod/the-triangle-of-truth-jus_b_123349.html)
 - 2016年のよく似たフレーズ [Just Because You're Right, Doesn't Mean They're Wrong | Brian Walker | Pulse | LinkedIn](https://www.linkedin.com/pulse/just-because-youre-right-doesnt-mean-theyre-wrong-brian-walker)

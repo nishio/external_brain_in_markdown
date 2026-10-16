@@ -2,7 +2,7 @@
 title: "タイルクリップ-クリップバー-T型パイプ"
 ---
 
-![image](https://gyazo.com/7f9b5055227aa80c3939be5de9e90b85/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d046bd7d205ec7eafa7.jpg)
 「タイルクリップ-クリップバー-T型パイプ」を2回使って、T型パイプを[[側面スタッド]]で支えてる
 
 [[タイルクリップ]]-[[クリップバー]]-[[T型パイプ]]

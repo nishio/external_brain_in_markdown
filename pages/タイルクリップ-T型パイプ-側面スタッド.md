@@ -2,7 +2,7 @@
 title: "タイルクリップ-T型パイプ-側面スタッド"
 ---
 
-![image](https://gyazo.com/e700c099522dae2a01c90ab9ed3cde3c/thumb/1000)
-![image](https://gyazo.com/92dc072dd88703ca48ba652d415dd89f/thumb/1000)
+![image](https://scrapbox.io/files/6ad18d036bd7d205ec7eaf89.jpg)
+![image](https://scrapbox.io/files/6ad18d046bd7d205ec7eafb1.jpg)
 
 [[レゴ:パターン]]

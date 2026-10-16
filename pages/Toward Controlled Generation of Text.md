@@ -11,10 +11,10 @@ Discriminatorは文章を入力として受け取ってcを作る
 赤矢印は変分近似で可能になるバックプロパゲーション
 [[GAN]]的構成
 
-![image](https://gyazo.com/a10a9ee3a963b880f7470373c273ddb5/thumb/1000)
+![image](https://scrapbox.io/files/6ad18ced6bd7d205ec7eabc3.png)
 
 学習アルゴリズムは、GeneratorとDiscriminatorを交互に学習させる
-![image](https://gyazo.com/c2129280c86d21571c7e765c095b00d9/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cee6bd7d205ec7eabdd.png)
 
 > Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing
 > (Submitted on 2 Mar 2017 (v1), last revised 13 Sep 2018 (this version, v4))

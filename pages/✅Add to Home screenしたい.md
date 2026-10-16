@@ -6,7 +6,7 @@ from [[pKeicho]]
 [[Add to Home screen]]したい
 - [[✅アイコンを子供っぽい見た目にする]]
 - ✅マニフェストのタイトルを変える
-- ![image](https://gyazo.com/50638968ef44e55955367a72cc9d4965/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18d126bd7d205ec7eb1dc.png)
 - 高さに問題がでる
     - 適切な高さを設定で記憶するか…
     - 問題が何なのか確認

@@ -3,7 +3,7 @@ title: "Positional Encoding"
 ---
 
 [[Transformer]]
-![image](https://gyazo.com/1bc1a16a113f46091aacb7f3fdcb92cd/thumb/1000)
+![image](https://scrapbox.io/files/6ad18cef6bd7d205ec7eac1c.png)
 [https://arxiv.org/pdf/1706.03762.pdf](https://arxiv.org/pdf/1706.03762.pdf)
 
 要するにi個の回転する単位ベクトルで、それぞれの回転周期は

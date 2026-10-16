@@ -37,7 +37,7 @@ title: "Builderscon 2018"
 
 木曜日
 - 前夜祭
-    - ![image](https://gyazo.com/6abd61366b3b4e754c54aed9b1c5be54/thumb/1000)
+    - ![image](https://scrapbox.io/files/6ad18ce76bd7d205ec7eaa92.png)
     - 「uzulla: 乾杯＆ウェアラブル謎ガジェット」
     - 「cho45: 自作 BLE キーボードのその後」
         - > 長らく遠ざかってたけど、もっと頻繁にこういうイベントに参加するべきだなぁという気持ちがして来た
@@ -57,7 +57,7 @@ title: "Builderscon 2018"
     - とにかく光らせる必要がある
 
 金曜日
-- ![image](https://gyazo.com/f6432693f40b72608c2fa3fa9b9dabca/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18ce86bd7d205ec7eaabe.png)
     - [https://twitter.com/jollyjoester/status/1037873641541623808](https://twitter.com/jollyjoester/status/1037873641541623808)
 - 「産業でガチ利用されるRaspberry Piの話」
     - > 組み込みでもCI、設置済みデバイスのマイコンにラズパイ直結、リポジトリにpushするとJenkinsがバイナリ作ってラズパイがマイコンに書き込み、なるほど超便利だ

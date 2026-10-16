@@ -20,7 +20,7 @@ title: "Apple Pencilで描いてScrapboxに貼る"
 
 
 - > (masui) Scrapboxのドロー機能が一番楽だと思います。すごい絵を描く場合はGyazo経由になるでしょうか...
-    - ![image](https://gyazo.com/d056997ef80893378c2230a940ce06ef/thumb/1000)
+    - ![image](https://scrapbox.io/files/6ad18cdf6bd7d205ec7ea925.png)
     - Scrapboxで文章を作ってて、ちょっと図を描きたいって時にはこれもよいかも
     - 見た目がダサい
     - まあでも、きれいにしたければ僕が頑張るのではなくイラストレータに清書をお願いすべきか

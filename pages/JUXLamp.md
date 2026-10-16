@@ -39,16 +39,16 @@ title: "JUXLamp"
     - [季節性感情障害(SAD) (きせつせいかんじょうしょうがい) | 社会福祉法人 恩賜財団 済生会](https://www.saiseikai.or.jp/medical/disease/seasonal_affective_disorder/)
 
 予期しないよい副作用として、ビデオ会議の時の顔色がとてもよい
-- ![image](https://gyazo.com/c94cd37be32eebf751be32c0b1cdd58d/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18cf96bd7d205ec7eadb9.jpg)
 
 12000ルクスと「窓から差し込んだ冬の朝日が壁に反射している」の比較
-- ![image](https://gyazo.com/592d10fa3045f684405deb0dc9cb5d56/thumb/1000)
+- ![image](https://scrapbox.io/files/6ad18cfa6bd7d205ec7eadee.jpg)
 - 1月2日10時10分東京、雲ひとつない快晴
 - 朝日の方が少し明るい
 - 窓が東を向いているから、昼になると日光が差し込まなくなる
 - これはレースのカーテンも開けている
     - 1月6日曇りの朝10時
-    - ![image](https://gyazo.com/1c8cf46c8df167c6de4adbc0f769509f/thumb/1000)
+    - ![image](https://scrapbox.io/files/6ad18cfb6bd7d205ec7eae2b.jpg)
     - これは一番暗いモード。曇りの光はそれよりさらに暗い
 
 
