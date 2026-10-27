@@ -1,5 +1,5 @@
 ---
-title: "AIアラインメント"
+title: "AIアライメント"
 ---
 
 > Japan Alignment Conferenceは、米国や英国のAIアラインメント研究者と日本のAI研究者や起業家が一堂に会する2日間のワークショップです。

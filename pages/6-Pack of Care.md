@@ -10,7 +10,7 @@ title: "6-Pack of Care"
 6pack.care PDF要約（日本語）
 
 6-Pack of Care — Institute for Ethics in AI
-- 目的は、[[ケア倫理]]と[[Plurality]]の視点で[[AIアラインメント]]を「[[関係性のプロセス]]」として捉え直し、[[水平的協調]]を促す市民的AI（[[Civic AI]]）を構想すること。
+- 目的は、[[ケア倫理]]と[[Plurality]]の視点で[[AIアライメント]]を「[[関係性のプロセス]]」として捉え直し、[[水平的協調]]を促す市民的AI（[[Civic AI]]）を構想すること。
 - 6つの原理（Attentiveness/Responsibility/Competence/Responsiveness/Solidarity/Symbiosis）を、複数主体が協調するための“コア筋群”として提示。
 - アラインメントは固定目標への最適化ではなく、信頼できる熟議・協働プロセスへの整合（alignment-by-process）と位置づける。
 - 「[[局所的な神]]（kami）」の比喩で、AIは拡大志向ではなく関係性に根差した十分性（[[enoughness]]）と[[退出可能性]]を持つべきだと示す。

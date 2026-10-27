@@ -6,7 +6,7 @@ title: "OKR(書籍)"
 - [[OKR]] シリコンバレー式で大胆な目標を達成する方法
     - もう、こういうタイトルを見ると「また原典と全然違うタイトルつけてるのでは」って疑いが湧くようになってしまった
     - ![image](https://scrapbox.io/files/6ad18ce96bd7d205ec7eab0c.png)
-    - [[Radical Focus]] - Achieving Your Most Important Goals with Objectives and Key Results
+    - [[Radical Focus]] - Achieving Your Most Important Goals with [[Objectives and Key Results]]
     - "Radical Focus"とは何か？
 - [[クリスティーナ・ウォドキー]]
 - [Amazon](https://amzn.to/2QxVwzZ)
