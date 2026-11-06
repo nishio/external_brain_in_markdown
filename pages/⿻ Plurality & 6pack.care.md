@@ -3,7 +3,7 @@ title: "⿻ Plurality & 6pack.care"
 ---
 
 [[⿻ Plurality]] & [[6pack.care]]
-by [[Audrey Tang]] 2nd Sep 2025
+by [[Audrey Tang]] 2025-09-02
 [⿻ Plurality & 6pack.care — LessWrong](https://www.lesswrong.com/posts/anoK4akwe8PKjtzkL/plurality-and-6pack-care)
 - [[6-Pack of Care]]について先に読んだ方がいいかも
 
