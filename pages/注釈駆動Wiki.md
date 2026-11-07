@@ -28,4 +28,34 @@ title: "注釈駆動Wiki"
 - でも今の仕組みはちょっと不便なので改善の余地がある
     - [[複数AIエージェントに共通のDBを読ませる]]
 
+
+2026-11-07
+- <img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/>
+    - 始まり: 2026-04-10 に llm-wiki で「ローカルの markdown は PC でしか見づらいので、ちょっと確認する手間が高い」と問題を立てました。5/4 には新幹線で GitHub の Markdown を読み、戻ると読んでいた位置が消える、気づいたことをその場で AI に渡せない、と困ったことから「注釈駆動型 Wiki」を構想しました。2026-05-06 に llm-wiki から株分けして独立させています。
+    - 構成: Mac 上で Hono + SQLite + React が動き、llm-wiki/wikis.yaml に載った wiki の wiki/ をまとめて読み込みます。それを tailscale serve で HTTPS にして iPhone Safari から開く形です。ドメインは要らず、tailnet に入っている端末だけが入れます。wiki をまたいで読めて、選択した範囲に注釈を付けると SQLite にたまります。
+    - 経過: 5/11 に iPhone + 4G で 23 wiki の閲覧と注釈の投稿を確かめました。5/25 にダークモード、6/2 に注釈を処理する CLIを足しています。5/20 の Codex Mobile の観察でも「Codex が書き、人間はスマホの viewer で読む」という分担の補完として、必要だと書かれていました。
+    - 今の状態（いま確かめた結果）
+        - :3030 のサーバは止まっています。tailscale serve の設定（pc-100022-4.….ts.net → localhost:3030）だけが残っています。
+        - 最後の作業は 2026-10-07 の lint です。そのコミットは origin に push されていません。
+    - 今の状況とのずれ
+        - annotation-wiki は「Mac 上に全 wiki がある」前提で作られています。
+            - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> 関連: [[デスクトップ期]]
+        - サーバが Mac で動くので、Mac がオフラインになると見られません。
+- <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+    - デスクトップでWiki森のビューワーが動いてMacからでもiPhoneからでも読み書きできるべきだ
+    - <img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/>
+        - すでに動いているもの（galleria ~/forest、2026-10-02 に作成）
+        - 森の 42 repo を WSL に clone してあります。forest-sync.timer が 15 分ごとに全 repo を pull --ff-only し、grasp のストア（forest.sqlite）を作り直します。
+        - 足りないのは スマホから読む画面 だけです。
+    - <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/> デスクトップに環境を作り始めた頃、こんなに使いまくると思ってなかったからQuartzでいいやってやっちゃったんだな、その負債の返済をする
+        - 「ゲーミングPCの管理をするためのLLM Wiki」1個のつもりだったからな
+        - [[片付けWiki]]とか作り始めると現状の仕組みでは不便
+    - [[AIの群れに対する非同期なコミュニケーション手段]]
+    - Wikiの情報とコードとを分離した
+2026-11-08
+- <img src='https://scrapbox.io/api/pages/nishio/Claude/icon' alt='Claude.icon' height="19.5"/> [[不定形プロジェクト]]の棚卸しで、作るのはいったん止めて使って確かめる、と決めた
+    - annotation-wiki-app の ai/integration (A1〜A18) を merge し、散歩中にスマホで読んで注釈するのを1週間試す
+    - 1週間後に「実際に使ったか」を振り返る
+
+
 [[annotation-wiki]]
