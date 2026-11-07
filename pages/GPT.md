@@ -19,7 +19,7 @@ title: "GPT"
     - チャットしてたら大体はChatGPT(雑)
 
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>GPTって？
-<img src='https://scrapbox.io/api/pages/nishio/ChatGPT/icon' alt='ChatGPT.icon' height="19.5"/>GPT（Generative Pretrained Transformer）とは、[[OpenAI]]が開発した大規模な自然言語生成モデルです。[[Transformer]]という深層学習手法を採用していることから、自然言語処理タスクにおいて高い精度を実現しています。また、データを事前にトレーニングすることで、高速かつ正確な処理を行うことが可能です。GPTは、文書生成や対話システム構築など、様々なタスクに利用されています。
+<img src='https://scrapbox.io/api/pages/nishio/ChatGPT/icon' alt='ChatGPT.icon' height="19.5"/>GPT（[[Generative Pretrained Transformer]]）とは、[[OpenAI]]が開発した大規模な自然言語生成モデルです。[[Transformer]]という深層学習手法を採用していることから、自然言語処理タスクにおいて高い精度を実現しています。また、データを事前にトレーニングすることで、高速かつ正確な処理を行うことが可能です。GPTは、文書生成や対話システム構築など、様々なタスクに利用されています。
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>GPT3は？
 <img src='https://scrapbox.io/api/pages/nishio/ChatGPT/icon' alt='ChatGPT.icon' height="19.5"/>[[GPT-3]]（Generative Pretrained Transformer 3）は、GPTの最新版です。GPT-3は、前バージョンのモデルよりもさらに大規模で、訓練データも増加しているため、自然言語処理タスクにおいてさらに高い精度を実現しています。また、GPT-3は多くの異なるタスクに対応しており、文書生成や対話システム構築だけでなく、翻訳や文章の意味解釈などにも利用されています。
 <img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>ChatGPT
