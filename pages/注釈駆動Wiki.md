@@ -52,10 +52,6 @@ title: "注釈駆動Wiki"
         - [[片付けWiki]]とか作り始めると現状の仕組みでは不便
     - [[AIの群れに対する非同期なコミュニケーション手段]]
     - Wikiの情報とコードとを分離した
-2026-11-08
-- <img src='https://scrapbox.io/api/pages/nishio/Claude/icon' alt='Claude.icon' height="19.5"/> [[不定形プロジェクト]]の棚卸しで、作るのはいったん止めて使って確かめる、と決めた
-    - annotation-wiki-app の ai/integration (A1〜A18) を merge し、散歩中にスマホで読んで注釈するのを1週間試す
-    - 1週間後に「実際に使ったか」を振り返る
 
 
 [[annotation-wiki]]
