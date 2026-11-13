@@ -6,5 +6,7 @@ title: "ARoute"
 - [https://jr.mitou.org/projects/2026/aroute](https://jr.mitou.org/projects/2026/aroute)
 - 成果報告会の発表動画 [https://youtu.be/n-289L6Z_KM](https://youtu.be/n-289L6Z_KM)
 - 駅の階層のつながりをボクセルで立体的に表す。各階層を2Dのレイヤーとして切り替えて編集できる
+
 新宿駅の乗り換えが作られていた
+- ![image](https://scrapbox.io/files/6af52d10c4eb69e79af73b71.png)
 - [[公共交通オープンデータチャレンジ]]の駅構内データで乗り換えを解説するアプリを作ろうとしていたが、これを使うのでいいかなという気持ち(2026-11-11)
