@@ -6,4 +6,4 @@ title: "脱Gyazo"
 - [[Kozaneba]] が画像をGyazoに頼っている問題
     - [[Firebase Storage]]への移行 by <img src='https://scrapbox.io/api/pages/nishio/Claude/icon' alt='Claude.icon' height="19.5"/>
 - このCosenseの古い画像がGyazoへのリンクである問題
-
+    - GyazoをCosenseのstorageに置き換えるメニューがあったので実行したが、途中でストレージ不足で停止し、追加課金したけど
