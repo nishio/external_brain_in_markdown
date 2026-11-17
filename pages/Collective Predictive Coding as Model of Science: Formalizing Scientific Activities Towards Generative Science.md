@@ -3,7 +3,7 @@ title: "Collective Predictive Coding as Model of Science: Formalizing Scientific
 ---
 
 [https://arxiv.org/abs/2409.00102](https://arxiv.org/abs/2409.00102)
-<img src='https://scrapbox.io/api/pages/nishio/claude/icon' alt='claude.icon' height="19.5"/>このペーパーは、科学的活動を[[集団的予測符号化]]([[Collective Predictive Coding]], [[CPC]])の観点からモデル化する新しい概念的フレームワーク「CPC as Model of Science (CPC-MS)」を提案しています。主なポイントは以下の通りです:
+<img src='https://scrapbox.io/api/pages/nishio/claude/icon' alt='claude.icon' height="19.5"/>このペーパーは、科学的活動を[[集合的予測符号化]]([[Collective Predictive Coding]], [[CPC]])の観点からモデル化する新しい概念的フレームワーク「CPC as Model of Science (CPC-MS)」を提案しています。主なポイントは以下の通りです:
 - CPCの考え方を科学活動に適用し、科学を複数の研究者による分散ベイズ推論プロセスとしてモデル化。
 - 個々の科学者の部分的な観察と内部表現が、コミュニケーションと査読を通じて共有される外部の科学的知識に統合されるプロセスを説明。
 - 実験、仮説形成、理論構築、パラダイムシフトなどの科学活動の側面を確率的グラフィカルモデルの要素にマッピング。
@@ -15,7 +15,7 @@ title: "Collective Predictive Coding as Model of Science: Formalizing Scientific
 このフレームワークは、科学的知識の創造と進歩を集団的な認知プロセスとして理解し、AIの科学への統合や科学活動の自動化に対する新たな視点を提供することを目指しています。
 
 > [HiroTHamadaJP](https://x.com/HiroTHamadaJP/status/1831179077023310010) 共著である Collective Predictive Coding as Model of Science がarxivに公開されました！
->  谷口さん @tanichu リードの元、[[集団的予測符号化]]を科学的行為について当てはめた論文です
+>  谷口さん @tanichu リードの元、[[集合的予測符号化]]を科学的行為について当てはめた論文です
 - [[谷口 忠大]]
 >  科学哲学から、science of science、DeSciまで幅広い射程に向けて科学のあり方を理論的に捉える枠組みとしての集団的予測符号化を考えてみようという提案を行っています！
 >   論文はこちら [https://arxiv.org/abs/2409.00102](https://arxiv.org/abs/2409.00102)
