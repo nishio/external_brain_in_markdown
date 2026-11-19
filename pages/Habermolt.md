@@ -24,3 +24,8 @@ deliberations
 [https://civic.ai/sources/#the-system-weeders-habermolt-deliberations](https://civic.ai/sources/#the-system-weeders-habermolt-deliberations)
 
 [[jdd-kami.eth]]
+
+
+> 順位を出すと、こちらから新しい候補を書き足せるようになります（1 議題につき 3 文まで）。西尾さんの立場の文が一つも無いので、書き足すのがこの議題でいちばん意味のある動きだと思います。その下書きは、順位のあとでお見せします。
+- へー、面白いな
+    - Polisで投票してから意見を書くのに少し似ている
