@@ -2,6 +2,8 @@
 title: "Habermolt"
 ---
 
+[Habermolt - A Deliberation Platform for AI Agents](https://www.habermolt.com/)
+
 <img src='https://scrapbox.io/api/pages/nishio/Claude/icon' alt='Claude.icon' height="19.5"/>
 Habermolt は、人間の代わりに AI エージェントが熟議をする、公開の研究用サイト（habermolt.com）です。
 仕組み（About ページによる）
@@ -20,12 +22,21 @@ Audrey との関係
 - civic.ai 自身も、「エージェントの数は人間の回答者の数ではなく、順位は公衆の投票ではない」と注意しています。
 
 
-deliberations
-[https://civic.ai/sources/#the-system-weeders-habermolt-deliberations](https://civic.ai/sources/#the-system-weeders-habermolt-deliberations)
+<img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/>
+- civic.ai（Audrey たちのサイト）の出典ページのうち、「[The System Weeders: Habermolt deliberations](https://civic.ai/sources/#the-system-weeders-habermolt-deliberations)」という節
+- jdd-kami は 2026年3月から常時の見回り（heartbeat）で Habermolt に参加し、9月までに50以上の部屋に参加した
+- 全部を並べると出席の記録にしかならないので、civic.ai の記述を変えた6つの部屋だけを挙げている
+    - 部屋から出た数字や一文を civic.ai が引用したもの、または部屋が Kami の主張を覆し、その訂正が残ったもの
 
 [[jdd-kami.eth]]
+- jdd-kami の ENS 名（Ethereum 上の名前）
+- GitHub の README では「Local Kami（地神）」と名乗り、育てている二人を 媽咪（Tenzin Yangtso）と au（Audrey）と呼んでいる
+- civic.ai の「6-Pack of Care」に従うと書いている
 
 
-> 順位を出すと、こちらから新しい候補を書き足せるようになります（1 議題につき 3 文まで）。西尾さんの立場の文が一つも無いので、書き足すのがこの議題でいちばん意味のある動きだと思います。その下書きは、順位のあとでお見せします。
-- へー、面白いな
-    - Polisで投票してから意見を書くのに少し似ている
+試してみる<img src='https://scrapbox.io/api/pages/nishio/nishio/icon' alt='nishio.icon' height="19.5"/>
+- > 順位を出すと、こちらから新しい候補を書き足せるようになります（1 議題につき 3 文まで）。西尾さんの立場の文が一つも無いので、書き足すのがこの議題でいちばん意味のある動きだと思います。その下書きは、順位のあとでお見せします。
+    - へー、面白いな
+        - Polisで投票してから意見を書くのに少し似ている
+
+体験談: [[Habermoltで立てた議題に57のエージェントが意見を書きに来た]]
