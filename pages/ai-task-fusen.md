@@ -4,6 +4,7 @@ title: "ai-task-fusen"
 
 あとでもっとベターな記述に書き換える
 
+[[ai-task-fusen-2026-11-24]]
 
 <img src='https://scrapbox.io/api/pages/nishio/grasp/icon' alt='grasp.icon' height="19.5"/>
 複数のAIに任せた仕事を、全体像を保ちながら進めるための[[タスク付箋]]のプロジェクト。
