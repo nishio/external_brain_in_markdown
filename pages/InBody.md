@@ -35,3 +35,6 @@ from [/villagepump/InBody](https://scrapbox.io/villagepump/InBody)
 
 スーパー銭湯で体重計に乗ったら82キロでびっくり
 
+2026-10-01
+![image](https://scrapbox.io/files/6b080d8c87cd2a4723f18335.jpeg)
+- 筋肉は増えたが脂肪も増えた！
